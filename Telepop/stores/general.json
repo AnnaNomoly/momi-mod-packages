@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "item": "blackberry_jam",
+      "store": "general",
+      "category": "spr_ui_store_category_icon_cooked_dishes"
+    },
+    {
+      "item": "blueberry_jam",
+      "store": "general",
+      "category": "spr_ui_store_category_icon_cooked_dishes"
+    },
+    {
+      "item": "marmalade",
+      "store": "general",
+      "category": "spr_ui_store_category_icon_cooked_dishes"
+    },
+    {
+      "item": "rosehip_jam",
+      "store": "general",
+      "category": "spr_ui_store_category_icon_cooked_dishes"
+    }
+  ],
+  "categories": [
+    {
+      "store": "general",
+      "icon_name": "spr_ui_store_category_icon_cooked_dishes",
+      "sprite": "images/spr_ui_store_category_icon_cooked_dishes_0.png"
+    }
+  ]
+}

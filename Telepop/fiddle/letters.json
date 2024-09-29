@@ -1,0 +1,45 @@
+{
+    "letters": {
+        "telepop_advertisement": {
+            "default": true,
+            "npc": "celine",
+            "subject_line": "letters/telepop_advertisement/subject_line",
+            "local": "letters/telepop_advertisement/local",
+            "appears_on": {
+                "season": "spring",
+                "day": 1,
+                "year": 1
+            },
+            "items": [
+                {
+                    "item_name": "blackberry_jam",
+                    "count": 3
+                },
+                {
+                    "item_name": "blueberry_jam",
+                    "count": 3
+                },
+                {
+                    "item_name": "marmalade",
+                    "count": 3
+                },
+                {
+                    "item_name": "rosehip_jam",
+                    "count": 3
+                },
+                {
+                    "recipe_scroll": "blackberry_jam"
+                },
+                {
+                    "recipe_scroll": "blueberry_jam"
+                },
+                {
+                    "recipe_scroll": "marmalade"
+                },
+                {
+                    "recipe_scroll": "rosehip_jam"
+                }
+            ]
+        }
+    }
+}
