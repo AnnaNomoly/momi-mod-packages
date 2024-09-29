@@ -1,0 +1,20 @@
+{
+  "spr_ui_hud_hunger_bar_icon": {
+    "Location": "images/spr_ui_hud_hunger_bar_icon.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 0,
+    "MarginBottom": 0,
+    "MarginTop": 0
+  },
+  "spr_ui_hud_hunger_bar": {
+    "Location": "images/spr_ui_hud_hunger_bar.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 0,
+    "MarginBottom": 0,
+    "MarginTop": 0
+  }
+}
