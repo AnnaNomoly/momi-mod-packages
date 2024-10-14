@@ -1,0 +1,5 @@
+{
+    "spells/full_restore/description": "Temporarily raises your favorability. Increases all heart points gained by 50% for the day.",
+    "spells/full_restore/name": "Charm",
+    "spells/full_restore/type": "Arcane"
+}

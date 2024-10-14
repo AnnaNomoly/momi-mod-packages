@@ -1,0 +1,11 @@
+{
+  "spr_ui_hud_charm_spell_icon": {
+    "Location": "images/spr_ui_hud_charm_spell_icon.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 0,
+    "MarginBottom": 0,
+    "MarginTop": 0
+  }
+}
