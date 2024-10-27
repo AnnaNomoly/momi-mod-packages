@@ -1,0 +1,5 @@
+{
+    "spells/full_restore/description": "Unleash a fraction of the power that devastated Mistria. Damages everything on the current dungeon floor.",
+    "spells/full_restore/name": "Quake",
+    "spells/full_restore/type": "Destruction"
+}

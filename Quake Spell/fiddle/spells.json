@@ -1,0 +1,13 @@
+{
+  "spells": {
+    "full_restore": {
+      "name": "spells/full_restore/name",
+      "description": "spells/full_restore/description",
+      "type": "spells/full_restore/type",
+      "cost": 2,
+      "icon_key": "spr_ui_journal_magic_restore_spell_icon",
+      "upper_icon": "spr_ui_journal_magic_restore_card_icon",
+      "ribbon": "spr_ui_journal_magic_card_ribbon_restore"
+    }
+  }
+}
