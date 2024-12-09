@@ -1,0 +1,62 @@
+{
+  "spr_animal_capybara_basic_capybara_run_east": {
+    "Location": "images/spr_animal_capybara_basic_capybara_run_east",
+    "IsAnimated": true,
+    "OriginX": 20,
+    "OriginY": 25,
+    "MarginLeft": 11,
+    "MarginRight": 33,
+    "MarginBottom": 26,
+    "MarginTop": 10
+  },
+  "spr_animal_capybara_basic_capybara_run_north": {
+    "Location": "images/spr_animal_capybara_basic_capybara_run_north",
+    "IsAnimated": true,
+    "OriginX": 20,
+    "OriginY": 25,
+    "MarginLeft": 11,
+    "MarginRight": 33,
+    "MarginBottom": 26,
+    "MarginTop": 10
+  },
+  "spr_animal_capybara_basic_capybara_run_south": {
+    "Location": "images/spr_animal_capybara_basic_capybara_run_south",
+    "IsAnimated": true,
+    "OriginX": 20,
+    "OriginY": 25,
+    "MarginLeft": 11,
+    "MarginRight": 33,
+    "MarginBottom": 26,
+    "MarginTop": 10
+  },
+  "spr_animal_capybara_basic_shadow_run_east": {
+    "Location": "images/spr_animal_capybara_basic_shadow_run_east",
+    "IsAnimated": true,
+    "OriginX": 20,
+    "OriginY": 25,
+    "MarginLeft": 11,
+    "MarginRight": 33,
+    "MarginBottom": 26,
+    "MarginTop": 10
+  },
+  "spr_animal_capybara_basic_shadow_run_north": {
+    "Location": "images/spr_animal_capybara_basic_shadow_run_north",
+    "IsAnimated": true,
+    "OriginX": 20,
+    "OriginY": 25,
+    "MarginLeft": 11,
+    "MarginRight": 33,
+    "MarginBottom": 26,
+    "MarginTop": 10
+  },
+  "spr_animal_capybara_basic_shadow_run_south": {
+    "Location": "images/spr_animal_capybara_basic_shadow_run_south",
+    "IsAnimated": true,
+    "OriginX": 20,
+    "OriginY": 25,
+    "MarginLeft": 11,
+    "MarginRight": 33,
+    "MarginBottom": 26,
+    "MarginTop": 10
+  }
+}

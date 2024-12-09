@@ -1,0 +1,401 @@
+{
+    "ranching/animals/capybara/mounting/is_mount": true,
+    "ranching/animals/capybara": {
+        "mounting": {
+            "is_mount": true
+        },
+        "animations": {
+            "walk": {
+                "key_override": "walk",
+                "randomly_selected": false,
+                "duration": [
+                    1,
+                    2
+                ],
+                "player_offsets": {
+                    "south": [
+                        [
+                            0,
+                            -9
+                        ],
+                        [
+                            0,
+                            -10
+                        ],
+                        [
+                            0,
+                            -9
+                        ],
+                        [
+                            0,
+                            -10
+                        ]
+                    ],
+                    "east": [
+                        [
+                            -4,
+                            -4
+                        ],
+                        [
+                            -4,
+                            -5
+                        ],
+                        [
+                            -4,
+                            -4
+                        ],
+                        [
+                            -4,
+                            -5
+                        ]
+                    ],
+                    "north": [
+                        [
+                            0,
+                            -9
+                        ],
+                        [
+                            0,
+                            -10
+                        ],
+                        [
+                            0,
+                            -9
+                        ],
+                        [
+                            0,
+                            -10
+                        ]
+                    ]
+                }
+            },
+            "run": {
+                "randomly_selected": false,
+                "valid_for": [
+                    "male",
+                    "female"
+                ],
+                "player_offsets": {
+                    "south": [
+                        [
+                            0,
+                            -10
+                        ],
+                        [
+                            0,
+                            -11
+                        ],
+                        [
+                            0,
+                            -12
+                        ],
+                        [
+                            0,
+                            -11
+                        ]
+                    ],
+                    "east": [
+                        [
+                            -4,
+                            -5
+                        ],
+                        [
+                            -4,
+                            -5
+                        ],
+                        [
+                            -4,
+                            -6
+                        ],
+                        [
+                            -4,
+                            -6
+                        ]
+                    ],
+                    "north": [
+                        [
+                            0,
+                            -9
+                        ],
+                        [
+                            0,
+                            -10
+                        ],
+                        [
+                            0,
+                            -11
+                        ],
+                        [
+                            0,
+                            -10
+                        ]
+                    ]
+                }
+            },
+            "jump": {
+                "randomly_selected": false,
+                "valid_for": [
+                    "male",
+                    "female"
+                ],
+                "player_offsets": {
+                    "south": [
+                        [
+                            0,
+                            -11
+                        ],
+                        [
+                            0,
+                            -13
+                        ],
+                        [
+                            0,
+                            -10
+                        ],
+                        [
+                            0,
+                            -9
+                        ]
+                    ],
+                    "east": [
+                        [
+                            -2,
+                            -11
+                        ],
+                        [
+                            -2,
+                            -12
+                        ],
+                        [
+                            -2,
+                            -12
+                        ],
+                        [
+                            -2,
+                            -10
+                        ]
+                    ],
+                    "north": [
+                        [
+                            0,
+                            -12
+                        ],
+                        [
+                            0,
+                            -14
+                        ],
+                        [
+                            0,
+                            -13
+                        ],
+                        [
+                            0,
+                            -9
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    "ranching": {
+        "animals": {
+            "capybara": {
+                "mounting": {
+                    "is_mount": true
+                },
+                "animations": {
+                    "walk": {
+                        "key_override": "walk",
+                        "randomly_selected": false,
+                        "duration": [
+                            1,
+                            2
+                        ],
+                        "player_offsets": {
+                            "south": [
+                                [
+                                    0,
+                                    -9
+                                ],
+                                [
+                                    0,
+                                    -10
+                                ],
+                                [
+                                    0,
+                                    -9
+                                ],
+                                [
+                                    0,
+                                    -10
+                                ]
+                            ],
+                            "east": [
+                                [
+                                    -2,
+                                    -9
+                                ],
+                                [
+                                    -2,
+                                    -10
+                                ],
+                                [
+                                    -2,
+                                    -9
+                                ],
+                                [
+                                    -2,
+                                    -10
+                                ]
+                            ],
+                            "north": [
+                                [
+                                    0,
+                                    -9
+                                ],
+                                [
+                                    0,
+                                    -10
+                                ],
+                                [
+                                    0,
+                                    -9
+                                ],
+                                [
+                                    0,
+                                    -10
+                                ]
+                            ]
+                        }
+                    },
+                    "run": {
+                        "randomly_selected": false,
+                        "valid_for": [
+                            "male",
+                            "female"
+                        ],
+                        "player_offsets": {
+                            "south": [
+                                [
+                                    0,
+                                    -10
+                                ],
+                                [
+                                    0,
+                                    -11
+                                ],
+                                [
+                                    0,
+                                    -12
+                                ],
+                                [
+                                    0,
+                                    -11
+                                ]
+                            ],
+                            "east": [
+                                [
+                                    -2,
+                                    -10
+                                ],
+                                [
+                                    -2,
+                                    -10
+                                ],
+                                [
+                                    -2,
+                                    -11
+                                ],
+                                [
+                                    -2,
+                                    -11
+                                ]
+                            ],
+                            "north": [
+                                [
+                                    0,
+                                    -9
+                                ],
+                                [
+                                    0,
+                                    -10
+                                ],
+                                [
+                                    0,
+                                    -11
+                                ],
+                                [
+                                    0,
+                                    -10
+                                ]
+                            ]
+                        }
+                    },
+                    "jump": {
+                        "randomly_selected": false,
+                        "valid_for": [
+                            "male",
+                            "female"
+                        ],
+                        "player_offsets": {
+                            "south": [
+                                [
+                                    0,
+                                    -11
+                                ],
+                                [
+                                    0,
+                                    -13
+                                ],
+                                [
+                                    0,
+                                    -10
+                                ],
+                                [
+                                    0,
+                                    -9
+                                ]
+                            ],
+                            "east": [
+                                [
+                                    -2,
+                                    -11
+                                ],
+                                [
+                                    -2,
+                                    -12
+                                ],
+                                [
+                                    -2,
+                                    -12
+                                ],
+                                [
+                                    -2,
+                                    -10
+                                ]
+                            ],
+                            "north": [
+                                [
+                                    0,
+                                    -12
+                                ],
+                                [
+                                    0,
+                                    -14
+                                ],
+                                [
+                                    0,
+                                    -13
+                                ],
+                                [
+                                    0,
+                                    -9
+                                ]
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
