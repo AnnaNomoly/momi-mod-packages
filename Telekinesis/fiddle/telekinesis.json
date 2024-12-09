@@ -1,0 +1,6 @@
+{
+  "interaction": {
+    "max_radius": 64,
+    "detection_radius": 64
+  }
+}
