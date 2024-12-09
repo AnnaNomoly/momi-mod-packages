@@ -1,0 +1,20 @@
+{
+  "misc": {
+    "xp_values": {
+      "catch_small_fish": 160,
+      "catch_medium_fish": 180,
+      "catch_large_fish": 240,
+      "catch_giant_fish": 280
+    }
+  },
+  "misc/xp_values": {
+    "catch_small_fish": 160,
+    "catch_medium_fish": 180,
+    "catch_large_fish": 240,
+    "catch_giant_fish": 280
+  },
+  "misc/xp_values/catch_small_fish": 160,
+  "misc/xp_values/catch_medium_fish": 180,
+  "misc/xp_values/catch_large_fish": 240,
+  "misc/xp_values/catch_giant_fish": 280
+}

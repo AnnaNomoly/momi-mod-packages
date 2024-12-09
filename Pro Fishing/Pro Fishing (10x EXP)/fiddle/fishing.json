@@ -1,0 +1,48 @@
+{
+  "fishing": {
+    "bite_times": [
+      {
+        "small": 1,
+        "medium": 1,
+        "large": 1,
+        "giant": 1,
+        "legendary": 1
+      },
+      {
+        "small": 1,
+        "medium": 1,
+        "large": 1,
+        "giant": 1,
+        "legendary": 1
+      },
+      {
+        "small": 1,
+        "medium": 1,
+        "large": 1,
+        "giant": 1,
+        "legendary": 1
+      },
+      {
+        "small": 1,
+        "medium": 1,
+        "large": 1,
+        "giant": 1,
+        "legendary": 1
+      },
+      {
+        "small": 1,
+        "medium": 1,
+        "large": 1,
+        "giant": 1,
+        "legendary": 1
+      },
+      {
+        "small": 1,
+        "medium": 1,
+        "large": 1,
+        "giant": 1,
+        "legendary": 1
+      }
+    ]
+  }
+}
