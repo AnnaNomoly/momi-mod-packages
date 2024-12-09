@@ -1,0 +1,46 @@
+{
+  "items": {
+    "other": {
+      "blacksmithing": {
+        "axe_worn": {
+          "damage": 999,
+          "quality": "tier2"
+        },
+        "axe_copper": {
+          "damage": 999
+        },
+        "axe_iron": {
+          "damage": 999
+        },
+        "axe_silver": {
+          "damage": 999
+        },
+        "axe_gold": {
+          "damage": 999
+        },
+        "axe_mistril": {
+          "damage": 999
+        },
+        "pick_axe_worn": {
+          "damage": 999,
+          "quality": "tier2"
+        },
+        "pick_axe_copper": {
+          "damage": 999
+        },
+        "pick_axe_iron": {
+          "damage": 999
+        },
+        "pick_axe_silver": {
+          "damage": 999
+        },
+        "pick_axe_gold": {
+          "damage": 999
+        },
+        "pick_axe_mistril": {
+          "damage": 999
+        }
+      }
+    }
+  }
+}
