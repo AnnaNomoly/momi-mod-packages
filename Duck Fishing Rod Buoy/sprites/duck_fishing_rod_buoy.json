@@ -1,0 +1,29 @@
+{
+  "spr_tool_lure_old_bite_end": {
+    "Location": "images/spr_tool_lure_old_bite_end",
+    "IsAnimated": true
+  },
+
+  "spr_tool_lure_old_bite_start": {
+    "Location": "images/spr_tool_lure_old_bite_start.png"
+  },
+  "spr_tool_lure_old_cast": {
+    "Location": "images/spr_tool_lure_old_cast",
+    "IsAnimated": true
+  },
+  "spr_tool_lure_old_cast_appealing": {
+    "Location": "images/spr_tool_lure_old_cast_appealing",
+    "IsAnimated": true
+  },
+  "spr_tool_lure_old_water_idle": {
+    "Location": "images/spr_tool_lure_old_water_idle.png"
+  },
+  "spr_tool_lure_old_water_nibble_med": {
+    "Location": "images/spr_tool_lure_old_water_nibble_med",
+    "IsAnimated": true
+  },
+  "spr_tool_lure_old_water_land": {
+    "Location": "images/spr_tool_lure_old_water_land",
+    "IsAnimated": true
+  }
+}
