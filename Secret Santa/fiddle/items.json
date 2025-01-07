@@ -1,0 +1,16 @@
+{
+  "items": {
+    "other": {
+      "misc": {
+        "balors_crate": {
+          "name": "items/other/misc/balors_crate/name",
+          "description": "items/other/misc/balors_crate/description",
+          "icon_sprite": "spr_ui_item_ancient_gold_coin",
+          "value": {
+            "bin": 1000
+          }
+        }
+      }
+    }
+  }
+}
