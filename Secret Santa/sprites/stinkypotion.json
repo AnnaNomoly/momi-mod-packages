@@ -1,0 +1,24 @@
+{
+  "spr_ui_item_stinkypotion": {
+    "Location": "images/stinkypotion/spr_ui_item_stinkypotion_0.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_stinkypotion_outline": {
+    "Location": "images/stinkypotion/spr_ui_item_stinkypotion_outline_0.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  }
+}
