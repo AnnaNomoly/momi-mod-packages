@@ -1,0 +1,21 @@
+{
+    "letters": {
+        "dont_starve_introduction": {
+            "default": true,
+            "npc": "valen",
+            "subject_line": "letters/dont_starve_introduction/subject_line",
+            "local": "letters/dont_starve_introduction/local",
+            "appears_on": {
+                "season": "spring",
+                "day": 1,
+                "year": 1
+            },
+            "items": [
+                {
+                    "item_name": "lurid_colored_drink",
+                    "count": 3
+                }
+            ]
+        }
+    }
+}

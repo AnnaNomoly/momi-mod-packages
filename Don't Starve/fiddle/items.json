@@ -1,0 +1,50 @@
+{
+  "items": {
+    "other": {
+      "cooked_dishes": {
+        "confiscated_coffee": {
+          "description": "items/other/cooked_dishes/confiscated_coffee/description",
+          "stars": 1,
+          "restore": 1,
+          "crafting_level_requirement": 1,
+          "kitchen_tier_requirement": 1,
+          "recipe_is_default": true,
+          "icon_sprite": "spr_ui_item_trailmix",
+          "name": "items/other/cooked_dishes/confiscated_coffee/name",
+          "tags": [
+            "food",
+            "snack"
+          ],
+          "recipe": [
+            {
+                "count": 5,
+                "item": "fiber"
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+          ],
+          "value": {
+            "bin": 5
+          }
+        }
+      },
+      "misc": {
+        "lurid_colored_drink": {
+          "name": "items/other/misc/lurid_colored_drink/name",
+          "description": "items/other/misc/lurid_colored_drink/description",
+          "icon_sprite": "spr_ui_item_lurid_colored_drink",
+          "restore": 1,
+          "tags": [
+            "drink_sound"
+          ],
+          "value": {
+            "bin": 1,
+            "store": 20
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,4 +1,13 @@
 {
+    "items/other/misc/lurid_colored_drink/description": "This potion restores 50 sanity when consumed. It has an unnatural glow...",
+    "items/other/misc/lurid_colored_drink/name": "Mistbloom Potion",
+
+    "items/other/cooked_dishes/confiscated_coffee/description": "Eating this will make you less hungry, but it has an awful taste.",
+    "items/other/cooked_dishes/confiscated_coffee/name": "Survival Rations",
+
+    "letters/dont_starve_introduction/subject_line": "Mysterious Happenings",
+    "letters/dont_starve_introduction/local": "[Ari],\n\nWelcome! I'd like briefly introduce myself as the town doctor and fill you in on something concerning our small town. Recently a strange mist began plaguing our otherwise peaceful town at night.\n\nAt first nobody knew what the mist was. However, shortly after it arrived I noticed an increase in patients visiting my clinic all suffering from feelings of madness.\n\nJuniper and I have been hard at work trying to identify the cause. So far we've determined that proximity to monsters or lengthy exposure to the mist at night are the primary causes.\n\nWith Juniper's help I was able to create a potion to help temporarily stave off the onset madness. Unfortunately, it requires expensive ingredients that aren't native to Mistria.\n\nI've included some with this letter. If you need more please stop by my clinic and pick some up. But keep in mind that due to the cost of the ingredients I can't offer them for free.",
+
     "Conversations/Mods/DontStarve/Cthuvian/1": "Ya zhro ehye vulgtm n'gha y-s'uhn ftaghunyth...",
     "Conversations/Mods/DontStarve/Cthuvian/2": "...y-ftaghu, zhro y-grah'n fm'latgh vulgtm!",
     "Conversations/Mods/DontStarve/Cthuvian/3": "...phlegethyar gnaiih shogg y-chtenff shoggyar...",
@@ -23,5 +32,5 @@
     "Conversations/Mods/DontStarve/Cthuvian/22": "Fhtagn orr'e geb ooboshu tharanak!",
     "Conversations/Mods/DontStarve/Cthuvian/23": "...cehye ftaghu gnaiih zhro shagg.",
     "Conversations/Mods/DontStarve/Cthuvian/24": "Uln y'hah phlegeth zhro ah ehyeog! ", 
-    "Conversations/Mods/DontStarve/Cthuvian/25": "Tharanak orr'e ngron chtenff gebor." 
+    "Conversations/Mods/DontStarve/Cthuvian/25": "Tharanak orr'e ngron chtenff gebor."
 }
