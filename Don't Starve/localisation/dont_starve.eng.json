@@ -6,7 +6,19 @@
     "items/other/cooked_dishes/confiscated_coffee/name": "Survival Rations",
 
     "letters/dont_starve_introduction/subject_line": "Mysterious Happenings",
-    "letters/dont_starve_introduction/local": "[Ari],\n\nWelcome! I'd like briefly introduce myself as the town doctor and fill you in on something concerning our small town. Recently a strange mist began plaguing our otherwise peaceful town at night.\n\nAt first nobody knew what the mist was. However, shortly after it arrived I noticed an increase in patients visiting my clinic all suffering from feelings of madness.\n\nJuniper and I have been hard at work trying to identify the cause. So far we've determined that proximity to monsters or lengthy exposure to the mist at night are the primary causes.\n\nWith Juniper's help I was able to create a potion to help temporarily stave off the onset madness. Unfortunately, it requires expensive ingredients that aren't native to Mistria.\n\nI've included some with this letter. If you need more please stop by my clinic and pick some up. But keep in mind that due to the cost of the ingredients I can't offer them for free.",
+    "letters/dont_starve_introduction/local": "[Ari],\n\nWelcome! I'd like briefly introduce myself as the town doctor and fill you in on something concerning our small town.\n\nRecently a strange mist began plaguing our otherwise peaceful town at night. Shortly after it arrived I noticed an increase in patients visiting my clinic, all suffering from feelings of madness.\n\nJuniper and I have been hard at work trying to identify the cause. So far we've determined that proximity to monsters or lengthy exposure to the mist at night are the primary causes.\n\nWith Juniper's help I was able to create a potion to help temporarily stave off the onset madness. Unfortunately, it requires expensive ingredients that aren't native to Mistria.\n\nI've included some with this letter. If you need more please stop by my clinic and pick some up. But keep in mind that due to the cost of the ingredients I can't offer them for free.",
+
+    "perks/guardians_shield/description": "In exchange for 50 maximum HP, the priestess grants you a temporary shield once every hour in the dungeon.",
+    "perks/guardians_shield/name": "Blood Pact",
+
+    "perks/generous_in_defeat/description": "Defeating a monster recovers 5 sanity.",
+    "perks/generous_in_defeat/name": "Adrenaline Rush",
+
+    "perks/refreshing/description": "Wearing a Rain Hat prevents sanity loss in inclement weather (rain and snow). No effect during heavy inclement weather (storms and blizzards).",
+    "perks/refreshing/name": "Rainy Day Outfit",
+
+    "perks/nice_swing/description": "Removes the stamina penalty for working in inclement weather (rain and snow) and reduces the stamina penalty for working in heavy inclement weather (storms and blizzards).",
+    "perks/nice_swing/name": "Well Weathered",
 
     "Conversations/Mods/DontStarve/Cthuvian/1": "Ya zhro ehye vulgtm n'gha y-s'uhn ftaghunyth...",
     "Conversations/Mods/DontStarve/Cthuvian/2": "...y-ftaghu, zhro y-grah'n fm'latgh vulgtm!",
