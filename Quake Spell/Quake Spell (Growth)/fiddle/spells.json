@@ -1,0 +1,13 @@
+{
+  "spells": {
+    "growth": {
+      "name": "spells/growth/name",
+      "description": "spells/growth/description",
+      "type": "spells/growth/type",
+      "cost": 2,
+      "icon_key": "spr_ui_journal_magic_growth_spell_icon",
+      "upper_icon": "spr_ui_journal_magic_growth_card_icon",
+      "ribbon": "spr_ui_journal_magic_card_ribbon_growth"
+    }
+  }
+}

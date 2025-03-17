@@ -1,5 +1,5 @@
 {
-  "spr_ui_journal_magic_restore_card_icon": {
+  "spr_ui_journal_magic_growth_card_icon": {
     "Location": "images/spr_ui_journal_magic_quake_card_icon_0.png",
     "OriginX": 0,
     "OriginY": 0,
@@ -8,7 +8,7 @@
     "MarginBottom": 12,
     "MarginTop": 0
   },
-  "spr_ui_journal_magic_restore_spell_icon_locked": {
+  "spr_ui_journal_magic_growth_spell_icon_locked": {
     "Location": "images/spr_ui_journal_magic_quake_spell_icon_locked_0.png",
     "OriginX": 0,
     "OriginY": 0,
@@ -17,7 +17,7 @@
     "MarginBottom": 17,
     "MarginTop": 0
   },
-  "spr_ui_journal_magic_restore_spell_icon_main": {
+  "spr_ui_journal_magic_growth_spell_icon_main": {
     "Location": "images/spr_ui_journal_magic_quake_spell_icon_main_0.png",
     "OriginX": 0,
     "OriginY": 0,
@@ -26,7 +26,7 @@
     "MarginBottom": 17,
     "MarginTop": 0
   },
-  "spr_ui_journal_magic_card_ribbon_restore": {
+  "spr_ui_journal_magic_card_ribbon_growth": {
     "Location": "images/spr_ui_journal_magic_card_ribbon_quake_0.png",
     "OriginX": 0,
     "OriginY": 0,
