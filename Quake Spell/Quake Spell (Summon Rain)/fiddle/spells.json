@@ -1,0 +1,13 @@
+{
+  "spells": {
+    "summon_rain": {
+      "name": "spells/summon_rain/name",
+      "description": "spells/summon_rain/description",
+      "type": "spells/summon_rain/type",
+      "cost": 2,
+      "icon_key": "spr_ui_journal_magic_rain_spell_icon",
+      "upper_icon": "spr_ui_journal_magic_rain_card_icon",
+      "ribbon": "spr_ui_journal_magic_card_ribbon_rain"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+    "spells/summon_rain/description": "Unleash a fraction of the power that devastated Mistria. Damages everything on the current dungeon floor.",
+    "spells/summon_rain/name": "Quake",
+    "spells/summon_rain/type": "Destruction"
+}
