@@ -1,0 +1,32 @@
+{
+  "object_prototypes": {
+    "building": {
+      "small_coop": {
+        "double_manger": true,
+        "manger_size": 6,
+        "incubators": 4,
+        "max_occupants": 12,
+        "location_id": "large_coop"
+      },
+      "medium_coop": {
+       "double_manger": true,
+        "manger_size": 6,
+        "incubators": 4,
+        "max_occupants": 12,
+        "location_id": "large_coop"
+      },
+      "small_barn": {
+        "double_manger": true,
+        "manger_size": 6,
+        "max_occupants": 12,
+        "location_id": "large_barn"
+      },
+      "medium_barn": {
+        "double_manger": true,
+        "manger_size": 6,
+        "max_occupants": 12,
+        "location_id": "large_barn"
+      }
+    }
+  }
+}
