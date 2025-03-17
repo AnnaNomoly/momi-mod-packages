@@ -1,0 +1,38 @@
+{
+  "spr_ui_journal_magic_fire_card_icon": {
+    "Location": "images/spr_ui_journal_magic_quake_card_icon_0.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 14,
+    "MarginBottom": 12,
+    "MarginTop": 0
+  },
+  "spr_ui_journal_magic_fire_spell_icon_locked": {
+    "Location": "images/spr_ui_journal_magic_quake_spell_icon_locked_0.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 17,
+    "MarginBottom": 17,
+    "MarginTop": 0
+  },
+  "spr_ui_journal_magic_fire_spell_icon_main": {
+    "Location": "images/spr_ui_journal_magic_quake_spell_icon_main_0.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 17,
+    "MarginBottom": 17,
+    "MarginTop": 0
+  },
+  "spr_ui_journal_magic_card_ribbon_fire": {
+    "Location": "images/spr_ui_journal_magic_card_ribbon_quake_0.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 74,
+    "MarginBottom": 100,
+    "MarginTop": 0
+  }
+}
