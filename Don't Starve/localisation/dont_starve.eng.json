@@ -44,5 +44,20 @@
     "Conversations/Mods/DontStarve/Cthuvian/22": "Fhtagn orr'e geb ooboshu tharanak!",
     "Conversations/Mods/DontStarve/Cthuvian/23": "...cehye ftaghu gnaiih zhro shagg.",
     "Conversations/Mods/DontStarve/Cthuvian/24": "Uln y'hah phlegeth zhro ah ehyeog! ", 
-    "Conversations/Mods/DontStarve/Cthuvian/25": "Tharanak orr'e ngron chtenff gebor."
+    "Conversations/Mods/DontStarve/Cthuvian/25": "Tharanak orr'e ngron chtenff gebor.",
+
+    "Cutscenes/Story Events/full_restore/full_restore/init": "Let us speak, [Ari]. It is time we discussed the recent catastrophe that sundered this land.",
+    "Cutscenes/Story Events/full_restore/full_restore/init/prompts/0": "You mean the earthquake?",
+    "Cutscenes/Story Events/full_restore/full_restore/1": "Indeed. I believe the root cause may have been $Magic$. An old, powerful spell... $Quake$.",
+    "Cutscenes/Story Events/full_restore/full_restore/init/prompts/1": "What do you know, Caldarus?",
+    "Cutscenes/Story Events/full_restore/full_restore/2": "I will reveal knowledge to you that your history books will not.",
+    "Cutscenes/Story Events/full_restore/full_restore/3": "In ancient times the $dragons$ shared $magic$ with mortals to aid them.",
+    "Cutscenes/Story Events/full_restore/full_restore/4": "Most spells were shared freely. However, $dangerous spells$ were forbidden.",
+    "Cutscenes/Story Events/full_restore/full_restore/5": "There was a $Dragon Priestess$ who shared the secrets of such forbidden magic with mortals.",
+    "Cutscenes/Story Events/full_restore/full_restore/6": "From what I recall, she was ultimately $sealed away$ deep within the mines.",
+    "Cutscenes/Story Events/full_restore/full_restore/7": "I fear the seal is failing. You must find her her before it does, [Ari]. To reach her you must learn $Quake$.",
+    "Cutscenes/Story Events/full_restore/full_restore/7/prompts/0": "Can I truly be trusted with this spell?",
+    "Cutscenes/Story Events/full_restore/full_restore/8": "You are the only mortal I can trust. Use this magic with great care to further traverse the mines. We will speak again soon.",
+    "Cutscenes/Story Events/full_restore/full_restore/7/prompts/1": "Why would I need such a dangerous spell?",
+    "Cutscenes/Story Events/full_restore/full_restore/9": "Terrifying $monsters$ dwell deep within the mines. It is only with $powerful magic$ that you may defeat them."
 }
