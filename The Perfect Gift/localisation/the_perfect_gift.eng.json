@@ -1,4 +1,4 @@
 {
-    "mods/ThePerfectGift/gift_preference_detected": "Detected the gift preference [ITEM] for [NPC].",
-    "mods/ThePerfectGift/gift_preference_unlocked": "You unlocked the gift preference [ITEM] for [NPC]."
+    "mods/ThePerfectGift/gift_preference_detected": "Detected the gift preference <ITEM> for <NPC>.",
+    "mods/ThePerfectGift/gift_preference_unlocked": "You learned the gift preference <ITEM> for <NPC>."
 }
