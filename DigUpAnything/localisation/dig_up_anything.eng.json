@@ -1,0 +1,5 @@
+{
+    "mods/DigUpAnything/valid_item": "The item name specified was valid. Modifying the next dig spot!",
+    "mods/DigUpAnything/disabled_item": "The item name specified was a disabled item!",
+    "mods/DigUpAnything/unrecognized_item": "The item name specified wasn't recognized!"
+}
