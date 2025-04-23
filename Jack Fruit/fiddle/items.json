@@ -1,0 +1,89 @@
+{
+  "extras/objects": [
+    {
+      "name": "jack_fruit",
+      "category": "crop",
+      "data": {
+        "harvest": "jack_fruit",
+        "day_to_stage": [
+          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          3
+        ],
+        "sprites": [
+          "spr_crop_jack_fruit_seed",
+          "spr_crop_jack_fruit_stage1",
+          "spr_crop_jack_fruit_stage2",
+          "spr_crop_jack_fruit_stage3"
+        ],
+        "seasons": [
+          "spring",
+          "summer",
+          "fall",
+          "winter"
+        ],
+        "currency": 10
+      }
+    }
+  ],
+  "extras/items": [
+    {
+      "name": "seed_jack_fruit",
+      "data": {
+        "name": "Jack Fruit Seed",
+        "description": "Wait, where'd you get this?",
+        "crop_object": "jack_fruit",
+        "mini_sprite": "spr_ui_tool_tip_icon_jack_fruit",
+        "icon_sprite": "spr_ui_item_bagseed_jack_fruit_icon",
+        "sow_sprite": "spr_ui_item_bagseed_jack_fruit_mini",
+        "tags": [
+          "seed"
+        ],
+        "value": {
+          "store": 1000
+        }
+      }
+    },
+    {
+      "name": "jack_fruit",
+      "data": {
+        "name": "Jack Fruit",
+        "description": "Is this thing really edible?",
+        "icon_sprite": "spr_ui_item_jack_fruit",
+        "edible": true,
+        "health_modifier": 999,
+        "stamina_modifier": 999,
+        "mana_modifier": 12,
+        "default_infusion": "loveable",
+        "tags": [
+          "crop"
+        ],
+        "value": {
+          "bin": 3000
+        }
+      }
+    }
+  ]
+}

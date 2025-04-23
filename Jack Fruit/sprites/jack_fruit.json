@@ -1,0 +1,126 @@
+{
+  "spr_crop_jack_fruit_seed": {
+    "Location": "images/jack_fruit/spr_crop_jack_fruit_seed_0.png",
+    "OriginX": 32,
+    "OriginY": 48,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 40,
+    "MarginTop": 16
+  },
+  "spr_crop_jack_fruit_stage1": {
+    "Location": "images/jack_fruit/spr_crop_jack_fruit_stage1_0.png",
+    "OriginX": 32,
+    "OriginY": 48,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 40,
+    "MarginTop": 16
+  },
+  "spr_crop_jack_fruit_stage1_shadow": {
+    "Location": "images/jack_fruit/spr_crop_jack_fruit_stage1_shadow_0.png",
+    "OriginX": 32,
+    "OriginY": 48,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 40,
+    "MarginTop": 16
+  },
+  "spr_crop_jack_fruit_stage2": {
+    "Location": "images/jack_fruit/spr_crop_jack_fruit_stage2_0.png",
+    "OriginX": 32,
+    "OriginY": 48,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 40,
+    "MarginTop": 16
+  },
+  "spr_crop_jack_fruit_stage2_shadow": {
+    "Location": "images/jack_fruit/spr_crop_jack_fruit_stage2_shadow_0.png",
+    "OriginX": 32,
+    "OriginY": 48,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 40,
+    "MarginTop": 16
+  },
+  "spr_crop_jack_fruit_stage3": {
+    "Location": "images/jack_fruit/spr_crop_jack_fruit_stage3_0.png",
+    "OriginX": 32,
+    "OriginY": 48,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 40,
+    "MarginTop": 16
+  },
+  "spr_crop_jack_fruit_stage3_shadow": {
+    "Location": "images/jack_fruit/spr_crop_jack_fruit_stage3_shadow_0.png",
+    "OriginX": 32,
+    "OriginY": 48,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 40,
+    "MarginTop": 16
+  },
+  "spr_ui_item_bagseed_jack_fruit_icon": {
+    "Location": "images/jack_fruit/spr_ui_item_bagseed_jack_fruit_icon_0.png",
+    "OriginX": 18,
+    "OriginY": 18,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsUiSprite": true
+  },
+  "spr_ui_item_bagseed_jack_fruit_icon_outline": {
+    "Location": "images/jack_fruit/spr_ui_item_bagseed_jack_fruit_icon_outline_0.png",
+    "OriginX": 18,
+    "OriginY": 18,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsUiSprite": true
+  },
+  "spr_ui_item_bagseed_jack_fruit_mini": {
+    "Location": "images/jack_fruit/spr_ui_item_bagseed_jack_fruit_mini_0.png",
+    "OriginX": 18,
+    "OriginY": 18,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsUiSprite": true
+  },
+  "spr_ui_item_jack_fruit": {
+    "Location": "images/jack_fruit/spr_ui_item_jack_fruit_0.png",
+    "OriginX": 18,
+    "OriginY": 18,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsUiSprite": true
+  },
+  "spr_ui_item_jack_fruit_outline": {
+    "Location": "images/jack_fruit/spr_ui_item_jack_fruit_outline_0.png",
+    "OriginX": 18,
+    "OriginY": 18,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsUiSprite": true
+  },
+  "spr_ui_tool_tip_icon_jack_fruit": {
+    "Location": "images/jack_fruit/spr_ui_tool_tip_icon_jack_fruit_0.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 9,
+    "MarginBottom": 9,
+    "MarginTop": 0,
+    "IsUiSprite": true
+  }
+}
+
