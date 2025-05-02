@@ -1,0 +1,25 @@
+{
+  "spr_ui_item_balor_crystal_ball": {
+    "Location": "images/balor_crystal_ball/spr_ui_item_balor_crystal_ball_0.png",
+    "OutlineLocation": "images/balor_crystal_ball/spr_ui_item_balor_crystal_ball_outline_0.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_obj_balor_crystal_ball": {
+    "Location": "images/balor_crystal_ball/spr_obj_balor_crystal_ball_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 9,
+    "MarginRight": 23,
+    "MarginBottom": 22,
+    "MarginTop": 5,
+    "IsAnimated": false,
+    "IsUiItem": true
+  }
+}

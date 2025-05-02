@@ -1,0 +1,13 @@
+{
+    "balor_crystal_ball": {
+        "overwrites_other_mod": false,
+        "icon_sprite": "spr_ui_item_balor_crystal_ball",
+        "description": "A strange device that enables telepathy...",
+        "name": "Whispersphere: Balor ",
+        "object": "balor_crystal_ball",
+        "value": {
+            "bin": 20,
+            "store": 500
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Conversations/Mods/Sell Items/sell_shipping_bin_items/init": "Hey there, [Ari]! I know that look... want me to collect your shipments?",
+    "Conversations/Mods/Sell Items/sell_shipping_bin_items/init/prompts/0": "I sure do!",
+    "Conversations/Mods/Sell Items/sell_shipping_bin_items/init/prompts/1": "Nope, not this time.",
+    "Conversations/Mods/Sell Items/sell_shipping_bin_items/1": "Haha, I could tell from a mile away! I'll get to it shortly.",
+    "Conversations/Mods/Sell Items/sell_shipping_bin_items/2": "Really? Remind me not to play cards against you...",
+    "Notifications/Mods/Sell Items/items_sold": "You earned <VALUE>t!"
+}

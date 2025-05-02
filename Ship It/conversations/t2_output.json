@@ -1,0 +1,163 @@
+{
+    "Conversations/Mods/Sell Items/sell_shipping_bin_items": {
+        "kind": "Normal",
+        "requires": [
+            {
+                "WorldFactCheck": {
+                    "name": [
+                        {
+                            "Resolved": {
+                                "type": "string",
+                                "content": "Conversations/Mods/Sell Items/sell_shipping_bin_items"
+                            }
+                        }
+                    ],
+                    "value": [
+                        {
+                            "Resolved": {
+                                "type": "undefined"
+                            }
+                        }
+                    ],
+                    "comparator": "Equal",
+                    "parser": null,
+                    "subtract_from": null,
+                    "subtract": null,
+                    "priority_value": 0,
+                    "numeric_must_be_positive": false
+                }
+            },
+            {
+                "WorldFactCheck": {
+                    "name": [
+                        {
+                            "Resolved": {
+                                "type": "string",
+                                "content": "npc"
+                            }
+                        }
+                    ],
+                    "value": [
+                        {
+                            "Resolved": {
+                                "type": "string",
+                                "content": "balor"
+                            }
+                        }
+                    ],
+                    "comparator": "Equal",
+                    "parser": null,
+                    "subtract_from": null,
+                    "subtract": null,
+                    "priority_value": 1,
+                    "numeric_must_be_positive": false
+                }
+            }
+        ],
+        "writes": [
+            {
+                "name": [
+                    {
+                        "Resolved": {
+                            "type": "string",
+                            "content": "Conversations/Mods/Sell Items/sell_shipping_bin_items"
+                        }
+                    }
+                ],
+                "value": {
+                    "type": "float",
+                    "content": 1.0
+                },
+                "expires": 3600
+            }
+        ],
+        "actions": [],
+        "lines": {
+            "1": {
+                "local": "Conversations/Mods/Sell Items/sell_shipping_bin_items/1",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "speaker",
+                        "content": "balor"
+                    },
+                    {
+                        "type": "portrait",
+                        "content": "happy"
+                    },
+                    {
+                        "type": "effect",
+                        "content": "sparkles"
+                    }    
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "2": {
+                "local": "Conversations/Mods/Sell Items/sell_shipping_bin_items/2",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "speaker",
+                        "content": "balor"
+                    },
+                    {
+                        "type": "portrait",
+                        "content": "ugh"
+                    },
+                    {
+                        "type": "effect",
+                        "content": "sweat"
+                    }   
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "init": {
+                "local": "Conversations/Mods/Sell Items/sell_shipping_bin_items/init",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "speaker",
+                        "content": "balor"
+                    },
+                    {
+                        "type": "portrait",
+                        "content": "sly"
+                    }            
+                ],
+                "next_line_behavior": {
+                    "type": "prompts",
+                    "content": [
+                        {
+                            "local": "Conversations/Mods/Sell Items/sell_shipping_bin_items/init/prompts/0",
+                            "next_lines": [
+                                {
+                                    "line_id": "1",
+                                    "requirements": []
+                                }
+                            ]
+                        },
+                        {
+                            "local": "Conversations/Mods/Sell Items/sell_shipping_bin_items/init/prompts/1",
+                            "next_lines": [
+                                {
+                                    "line_id": "2",
+                                    "requirements": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        "multiple_speakers_in_conversation": false,
+        "speakers_in_conversation": [
+            "balor"
+        ],
+        "can_talk_after": true,
+        "priority": "Max"
+    }
+}

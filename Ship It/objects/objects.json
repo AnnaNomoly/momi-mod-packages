@@ -1,0 +1,41 @@
+{
+  "balor_crystal_ball": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "forecaster": {
+        "spring": {
+          "calm": "spr_obj_balor_crystal_ball",
+          "inclement": "spr_obj_balor_crystal_ball",
+          "heavy_inclement": "spr_obj_balor_crystal_ball",
+          "special": "spr_obj_balor_crystal_ball"
+        },
+        "summer": {
+          "calm": "spr_obj_balor_crystal_ball",
+          "inclement": "spr_obj_balor_crystal_ball",
+          "heavy_inclement": "spr_obj_balor_crystal_ball",
+          "special": "spr_obj_balor_crystal_ball"
+        },
+        "fall": {
+          "calm": "spr_obj_balor_crystal_ball",
+          "inclement": "spr_obj_balor_crystal_ball",
+          "heavy_inclement": "spr_obj_balor_crystal_ball",
+          "special": "spr_obj_balor_crystal_ball"
+        },
+        "winter": {
+          "calm": "spr_obj_balor_crystal_ball",
+          "inclement": "spr_obj_balor_crystal_ball",
+          "heavy_inclement": "spr_obj_balor_crystal_ball",
+          "special": "spr_obj_balor_crystal_ball"
+        }
+      },
+      "south": {
+        "sprite": "spr_obj_balor_crystal_ball",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  }
+}
