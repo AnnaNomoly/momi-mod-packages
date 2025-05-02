@@ -1,0 +1,23 @@
+{
+    "large_gold_coin": {
+        "overwrites_other_mod": false,
+        "description": "A large gold coin with the royal seal. This coin alone is worth 1000t!",
+        "name": "Large Gold Coin",
+        "icon_sprite": "spr_ui_item_ancient_gold_coin",
+        "value": {
+          "bin": 1000
+        }
+    },
+    "magical_snowflake": {
+        "overwrites_other_mod": false,
+        "description": "This snowflake seems to magically glow... (Restores 1 mana orb when consumed.)",
+        "name": "Magical Snowflake",
+        "icon_sprite": "spr_ui_item_magical_snowflake",
+        "edible": true,
+        "mana_modifier": 4,
+        "restore": 0,
+        "tags": [
+            "drink_sound"
+        ]
+    }
+}

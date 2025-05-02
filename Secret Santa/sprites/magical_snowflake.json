@@ -1,0 +1,14 @@
+{
+  "spr_ui_item_magical_snowflake": {
+    "Location": "images/magical_snowflake/spr_ui_item_magical_snowflake_0.png",
+    "OutlineLocation": "images/magical_snowflake/spr_ui_item_magical_snowflake_outline_0.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  }
+}
