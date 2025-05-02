@@ -1,5 +1,7 @@
 {
     "mods/DigUpAnything/valid_item": "The item name specified was valid. Modifying the next dig spot!",
     "mods/DigUpAnything/disabled_item": "The item name specified was a disabled item!",
-    "mods/DigUpAnything/unrecognized_item": "The item name specified wasn't recognized!"
+    "mods/DigUpAnything/unrecognized_item": "The item name specified wasn't recognized!",
+    "mods/DigUpAnything/item_not_acquired": "You haven't acquired the item name specified before. Only 1 can be spawned.",
+    "mods/DigUpAnything/unacquired_item_already_spawned": "You haven't acquired the item name specified before. One has already been spawned. Use it!"
 }
