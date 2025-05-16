@@ -1,10 +1,10 @@
 {
     "letters": {
-        "dont_starve_introduction": {
+        "mistbloom_introduction": {
             "default": true,
             "npc": "valen",
-            "subject_line": "letters/dont_starve_introduction/subject_line",
-            "local": "letters/dont_starve_introduction/local",
+            "subject_line": "letters/mistbloom_introduction/subject_line",
+            "local": "letters/mistbloom_introduction/local",
             "appears_on": {
                 "season": "spring",
                 "day": 1,
@@ -12,7 +12,7 @@
             },
             "items": [
                 {
-                    "item_name": "lurid_colored_drink",
+                    "item_name": "mistbloom_potion",
                     "count": 3
                 }
             ]

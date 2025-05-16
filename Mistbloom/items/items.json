@@ -1,0 +1,45 @@
+{
+    "survival_rations": {
+        "overwrites_other_mod": false,
+        "description": "Eating this will make you less hungry, but it has an awful taste.",
+        "name": "Survival Rations",
+        "icon_sprite": "spr_ui_item_trailmix",
+        "edible": true,
+        "restore": 1,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "tags": [
+            "food",
+            "snack"
+        ],
+        "recipe": [
+            {
+                "count": 5,
+                "item": "fiber"
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "value": {
+            "bin": 5
+        }
+    },
+    "mistbloom_potion": {
+        "overwrites_other_mod": false,
+        "description": "This potion restores 50 sanity when consumed. It has an unnatural glow...",
+        "name": "Mistbloom Potion",
+        "icon_sprite": "spr_ui_item_lurid_colored_drink",
+        "edible": true,
+        "restore": 1,
+        "tags": [
+            "drink_sound"
+        ],
+        "value": {
+            "bin": 1,
+            "store": 20
+        }
+    }
+}
