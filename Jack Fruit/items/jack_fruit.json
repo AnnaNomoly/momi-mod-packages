@@ -1,0 +1,34 @@
+{
+    "seed_jack_fruit": {
+        "overwrites_other_mod": false,
+        "name": "Jack Fruit Seed",
+        "description": "Wait, where'd you get this?",
+        "crop_object": "jack_fruit",
+        "mini_sprite": "spr_ui_tool_tip_icon_jack_fruit",
+        "icon_sprite": "spr_ui_item_bagseed_jack_fruit_icon",
+        "sow_sprite": "spr_ui_item_bagseed_jack_fruit_mini",
+        "tags": [
+          "seed"
+        ],
+        "value": {
+          "store": 1000
+        }
+    },
+    "jack_fruit": {
+        "overwrites_other_mod": false,
+        "name": "Jack Fruit",
+        "description": "Is this thing really edible?",
+        "icon_sprite": "spr_ui_item_jack_fruit",
+        "edible": true,
+        "health_modifier": 999,
+        "stamina_modifier": 999,
+        "mana_modifier": 12,
+        "default_infusion": "loveable",
+        "tags": [
+          "crop"
+        ],
+        "value": {
+          "bin": 3000
+        }
+    }
+}

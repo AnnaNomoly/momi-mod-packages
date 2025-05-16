@@ -1,0 +1,17 @@
+{
+  "spr_crop_jack_fruit_stage1_shadow": {
+    "regular_sprite_name": "spr_crop_jack_fruit_stage1",
+    "sprite": "images/jack_fruit/spr_crop_jack_fruit_stage1_shadow_0.png",
+    "is_animated": false
+  },
+  "spr_crop_jack_fruit_stage2_shadow": {
+    "regular_sprite_name": "spr_crop_jack_fruit_stage2",
+    "sprite": "images/jack_fruit/spr_crop_jack_fruit_stage2_shadow_0.png",
+    "is_animated": false
+  },
+  "spr_crop_jack_fruit_stage3_shadow": {
+    "regular_sprite_name": "spr_crop_jack_fruit_stage3",
+    "sprite": "images/jack_fruit/spr_crop_jack_fruit_stage3_shadow_0.png",
+    "is_animated": false
+  }
+}

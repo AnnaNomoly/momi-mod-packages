@@ -1,0 +1,49 @@
+{
+    "jack_fruit": {
+        "overwrites_other_mod": false,
+        "category": "crop",
+        "data": {
+            "harvest": "jack_fruit",
+            "day_to_stage": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                3
+            ],
+            "sprites": [
+                "spr_crop_jack_fruit_seed",
+                "spr_crop_jack_fruit_stage1",
+                "spr_crop_jack_fruit_stage2",
+                "spr_crop_jack_fruit_stage3"
+            ],
+            "seasons": [
+                "spring",
+                "summer",
+                "fall",
+                "winter"
+            ],
+            "currency": 10
+        }
+    }
+}
