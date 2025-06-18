@@ -1,0 +1,878 @@
+{
+    "ui": {
+        "menus": {
+            "museum": {
+                "archaeology_order": [
+                    "common_finds",
+                    "prehistoric",
+                    "ancient",
+                    "alda",
+                    "caldosian",
+                    "aldarian",
+                    "oopart",
+                    "aquatic",
+                    "sunken",
+                    "deep_woods",
+                    "mine",
+                    "upper_mines_artifacts",
+                    "tide_caverns",
+                    "deep_earth",
+                    "lava_caves",
+                    "ritual",
+                    "vintage_farm_tools",
+                    "metals_of_mistria",
+                    "gems_of_mistria",
+                    "journal_scraps"
+                ]
+            }
+        }
+    },
+    "museum_wings": {
+        "archaeology": {
+            "name": "museum_wings/archaeology/name",
+            "rewards": [
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_1",
+                    "entries": [
+                        {
+                            "item": "treasure_box_wood"
+                        },
+                        {
+                            "cosmetic": "head_explorer_hat"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_2",
+                    "entries": [
+                        {
+                            "item": "treasure_box_copper"
+                        },
+                        {
+                            "cosmetic": "top_explorer"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_3",
+                    "entries": [
+                        {
+                            "item": "treasure_box_copper"
+                        },
+                        {
+                            "cosmetic": "pants_explorer"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_4",
+                    "entries": [
+                        {
+                            "item": "treasure_box_copper"
+                        },
+                        {
+                            "cosmetic": "shoes_boots_explorer"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_5",
+                    "entries": [
+                        {
+                            "item": "treasure_box_silver"
+                        },
+                        {
+                            "item": "explorer_bed_beige"
+                        },
+                        {
+                            "item": "explorer_double_bed_beige"
+                        },
+                        {
+                            "crafting_scroll": "explorer_bed_beige"
+                        },
+                        {
+                            "crafting_scroll": "explorer_double_bed_beige"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_6",
+                    "entries": [
+                        {
+                            "item": "treasure_box_silver"
+                        },
+                        {
+                            "item": "explorer_trunk_table_beige"
+                        },
+                        {
+                            "crafting_scroll": "explorer_trunk_table_beige"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_7",
+                    "entries": [
+                        {
+                            "item": "treasure_box_silver"
+                        },
+                        {
+                            "item": "explorer_rug_beige"
+                        },
+                        {
+                            "crafting_scroll": "explorer_rug_beige"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_8",
+                    "entries": [
+                        {
+                            "item": "treasure_box_silver"
+                        },
+                        {
+                            "item": "explorer_chair_beige"
+                        },
+                        {
+                            "crafting_scroll": "explorer_chair_beige"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_9",
+                    "entries": [
+                        {
+                            "item": "treasure_box_silver"
+                        },
+                        {
+                            "item": "explorer_lamp_beige"
+                        },
+                        {
+                            "crafting_scroll": "explorer_lamp_beige"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_10",
+                    "entries": [
+                        {
+                            "item": "treasure_box_silver"
+                        },
+                        {
+                            "item": "explorer_wallpaper_beige"
+                        },
+                        {
+                            "crafting_scroll": "explorer_wallpaper_beige"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_11",
+                    "entries": [
+                        {
+                            "item": "treasure_box_silver"
+                        },
+                        {
+                            "item": "explorer_flooring_beige"
+                        },
+                        {
+                            "crafting_scroll": "explorer_flooring_beige"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_12",
+                    "entries": [
+                        {
+                            "item": "treasure_box_gold"
+                        },
+                        {
+                            "item": "explorer_globe_beige"
+                        },
+                        {
+                            "crafting_scroll": "explorer_globe_beige"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_13",
+                    "entries": [
+                        {
+                            "item": "treasure_box_gold"
+                        },
+                        {
+                            "item": "alda_pot_replica_blue"
+                        },
+                        {
+                            "crafting_scroll": "alda_pot_replica_blue"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_14",
+                    "entries": [
+                        {
+                            "item": "treasure_box_gold"
+                        },
+                        {
+                            "item": "dragon_altar_water"
+                        },
+                        {
+                            "crafting_scroll": "dragon_altar_water"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_15",
+                    "entries": [
+                        {
+                            "item": "treasure_box_gold"
+                        },
+                        {
+                            "item": "color_paving_stone_v20"
+                        },
+                        {
+                            "crafting_scroll": "color_paving_stone_v20"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_17",
+                    "entries": [
+                        {
+                            "item": "treasure_box_gold"
+                        },
+                        {
+                            "item": "gryphon_statue_replica_v1"
+                        },
+                        {
+                            "crafting_scroll": "gryphon_statue_replica_v1"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_18",
+                    "entries": [
+                        {
+                            "item": "treasure_box_gold"
+                        },
+                        {
+                            "item": "crystal_string_lights_purple"
+                        },
+                        {
+                            "crafting_scroll": "crystal_string_lights_purple"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_16",
+                    "entries": [
+                        {
+                            "item": "treasure_box_gold"
+                        },
+                        {
+                            "item": "dragon_statue_replica_v1"
+                        },
+                        {
+                            "crafting_scroll": "dragon_statue_replica_v1"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_19",
+                    "entries": [
+                        {
+                            "item": "treasure_box_gold"
+                        }
+                    ]
+                },
+                {
+                    "preview_sprite": "spr_ui_museum_reward_archaeology_19",
+                    "entries": [
+                        {
+                            "item": "treasure_box_gold"
+                        }
+                    ]
+                }
+            ],
+            "sets": {
+                "journal_scraps": {
+                    "name": "museum_wings/archaeology/sets/journal_scraps/name",
+                    "description": "museum_wings/archaeology/sets/journal_scraps/description",
+                    "items": [
+                        "anna_journal_scrap_1",
+                        "anna_journal_scrap_2",
+                        "anna_journal_scrap_3",
+                        "anna_journal_scrap_4",
+                        "anna_journal_scrap_5"
+                    ]
+                }
+            }
+        }
+    },
+    "museum_wings/archaeology": {
+        "name": "museum_wings/archaeology/name",
+        "rewards": [
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_1",
+                "entries": [
+                    {
+                        "item": "treasure_box_wood"
+                    },
+                    {
+                        "cosmetic": "head_explorer_hat"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_2",
+                "entries": [
+                    {
+                        "item": "treasure_box_copper"
+                    },
+                    {
+                        "cosmetic": "top_explorer"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_3",
+                "entries": [
+                    {
+                        "item": "treasure_box_copper"
+                    },
+                    {
+                        "cosmetic": "pants_explorer"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_4",
+                "entries": [
+                    {
+                        "item": "treasure_box_copper"
+                    },
+                    {
+                        "cosmetic": "shoes_boots_explorer"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_5",
+                "entries": [
+                    {
+                        "item": "treasure_box_silver"
+                    },
+                    {
+                        "item": "explorer_bed_beige"
+                    },
+                    {
+                        "item": "explorer_double_bed_beige"
+                    },
+                    {
+                        "crafting_scroll": "explorer_bed_beige"
+                    },
+                    {
+                        "crafting_scroll": "explorer_double_bed_beige"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_6",
+                "entries": [
+                    {
+                        "item": "treasure_box_silver"
+                    },
+                    {
+                        "item": "explorer_trunk_table_beige"
+                    },
+                    {
+                        "crafting_scroll": "explorer_trunk_table_beige"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_7",
+                "entries": [
+                    {
+                        "item": "treasure_box_silver"
+                    },
+                    {
+                        "item": "explorer_rug_beige"
+                    },
+                    {
+                        "crafting_scroll": "explorer_rug_beige"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_8",
+                "entries": [
+                    {
+                        "item": "treasure_box_silver"
+                    },
+                    {
+                        "item": "explorer_chair_beige"
+                    },
+                    {
+                        "crafting_scroll": "explorer_chair_beige"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_9",
+                "entries": [
+                    {
+                        "item": "treasure_box_silver"
+                    },
+                    {
+                        "item": "explorer_lamp_beige"
+                    },
+                    {
+                        "crafting_scroll": "explorer_lamp_beige"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_10",
+                "entries": [
+                    {
+                        "item": "treasure_box_silver"
+                    },
+                    {
+                        "item": "explorer_wallpaper_beige"
+                    },
+                    {
+                        "crafting_scroll": "explorer_wallpaper_beige"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_11",
+                "entries": [
+                    {
+                        "item": "treasure_box_silver"
+                    },
+                    {
+                        "item": "explorer_flooring_beige"
+                    },
+                    {
+                        "crafting_scroll": "explorer_flooring_beige"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_12",
+                "entries": [
+                    {
+                        "item": "treasure_box_gold"
+                    },
+                    {
+                        "item": "explorer_globe_beige"
+                    },
+                    {
+                        "crafting_scroll": "explorer_globe_beige"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_13",
+                "entries": [
+                    {
+                        "item": "treasure_box_gold"
+                    },
+                    {
+                        "item": "alda_pot_replica_blue"
+                    },
+                    {
+                        "crafting_scroll": "alda_pot_replica_blue"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_14",
+                "entries": [
+                    {
+                        "item": "treasure_box_gold"
+                    },
+                    {
+                        "item": "dragon_altar_water"
+                    },
+                    {
+                        "crafting_scroll": "dragon_altar_water"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_15",
+                "entries": [
+                    {
+                        "item": "treasure_box_gold"
+                    },
+                    {
+                        "item": "color_paving_stone_v20"
+                    },
+                    {
+                        "crafting_scroll": "color_paving_stone_v20"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_17",
+                "entries": [
+                    {
+                        "item": "treasure_box_gold"
+                    },
+                    {
+                        "item": "gryphon_statue_replica_v1"
+                    },
+                    {
+                        "crafting_scroll": "gryphon_statue_replica_v1"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_18",
+                "entries": [
+                    {
+                        "item": "treasure_box_gold"
+                    },
+                    {
+                        "item": "crystal_string_lights_purple"
+                    },
+                    {
+                        "crafting_scroll": "crystal_string_lights_purple"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_16",
+                "entries": [
+                    {
+                        "item": "treasure_box_gold"
+                    },
+                    {
+                        "item": "dragon_statue_replica_v1"
+                    },
+                    {
+                        "crafting_scroll": "dragon_statue_replica_v1"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_19",
+                "entries": [
+                    {
+                        "item": "treasure_box_gold"
+                    }
+                ]
+            },
+            {
+                "preview_sprite": "spr_ui_museum_reward_archaeology_19",
+                "entries": [
+                    {
+                        "item": "treasure_box_gold"
+                    }
+                ]
+            }
+        ],
+        "sets": {
+            "journal_scraps": {
+                "name": "museum_wings/archaeology/sets/journal_scraps/name",
+                "description": "museum_wings/archaeology/sets/journal_scraps/description",
+                "items": [
+                    "anna_journal_scrap_1",
+                    "anna_journal_scrap_2",
+                    "anna_journal_scrap_3",
+                    "anna_journal_scrap_4",
+                    "anna_journal_scrap_5"
+                ]
+            }
+        }
+    },
+    "museum_wings/archaeology/rewards": [
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_1",
+            "entries": [
+                {
+                    "item": "treasure_box_wood"
+                },
+                {
+                    "cosmetic": "head_explorer_hat"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_2",
+            "entries": [
+                {
+                    "item": "treasure_box_copper"
+                },
+                {
+                    "cosmetic": "top_explorer"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_3",
+            "entries": [
+                {
+                    "item": "treasure_box_copper"
+                },
+                {
+                    "cosmetic": "pants_explorer"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_4",
+            "entries": [
+                {
+                    "item": "treasure_box_copper"
+                },
+                {
+                    "cosmetic": "shoes_boots_explorer"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_5",
+            "entries": [
+                {
+                    "item": "treasure_box_silver"
+                },
+                {
+                    "item": "explorer_bed_beige"
+                },
+                {
+                    "item": "explorer_double_bed_beige"
+                },
+                {
+                    "crafting_scroll": "explorer_bed_beige"
+                },
+                {
+                    "crafting_scroll": "explorer_double_bed_beige"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_6",
+            "entries": [
+                {
+                    "item": "treasure_box_silver"
+                },
+                {
+                    "item": "explorer_trunk_table_beige"
+                },
+                {
+                    "crafting_scroll": "explorer_trunk_table_beige"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_7",
+            "entries": [
+                {
+                    "item": "treasure_box_silver"
+                },
+                {
+                    "item": "explorer_rug_beige"
+                },
+                {
+                    "crafting_scroll": "explorer_rug_beige"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_8",
+            "entries": [
+                {
+                    "item": "treasure_box_silver"
+                },
+                {
+                    "item": "explorer_chair_beige"
+                },
+                {
+                    "crafting_scroll": "explorer_chair_beige"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_9",
+            "entries": [
+                {
+                    "item": "treasure_box_silver"
+                },
+                {
+                    "item": "explorer_lamp_beige"
+                },
+                {
+                    "crafting_scroll": "explorer_lamp_beige"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_10",
+            "entries": [
+                {
+                    "item": "treasure_box_silver"
+                },
+                {
+                    "item": "explorer_wallpaper_beige"
+                },
+                {
+                    "crafting_scroll": "explorer_wallpaper_beige"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_11",
+            "entries": [
+                {
+                    "item": "treasure_box_silver"
+                },
+                {
+                    "item": "explorer_flooring_beige"
+                },
+                {
+                    "crafting_scroll": "explorer_flooring_beige"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_12",
+            "entries": [
+                {
+                    "item": "treasure_box_gold"
+                },
+                {
+                    "item": "explorer_globe_beige"
+                },
+                {
+                    "crafting_scroll": "explorer_globe_beige"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_13",
+            "entries": [
+                {
+                    "item": "treasure_box_gold"
+                },
+                {
+                    "item": "alda_pot_replica_blue"
+                },
+                {
+                    "crafting_scroll": "alda_pot_replica_blue"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_14",
+            "entries": [
+                {
+                    "item": "treasure_box_gold"
+                },
+                {
+                    "item": "dragon_altar_water"
+                },
+                {
+                    "crafting_scroll": "dragon_altar_water"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_15",
+            "entries": [
+                {
+                    "item": "treasure_box_gold"
+                },
+                {
+                    "item": "color_paving_stone_v20"
+                },
+                {
+                    "crafting_scroll": "color_paving_stone_v20"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_17",
+            "entries": [
+                {
+                    "item": "treasure_box_gold"
+                },
+                {
+                    "item": "gryphon_statue_replica_v1"
+                },
+                {
+                    "crafting_scroll": "gryphon_statue_replica_v1"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_18",
+            "entries": [
+                {
+                    "item": "treasure_box_gold"
+                },
+                {
+                    "item": "crystal_string_lights_purple"
+                },
+                {
+                    "crafting_scroll": "crystal_string_lights_purple"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_16",
+            "entries": [
+                {
+                    "item": "treasure_box_gold"
+                },
+                {
+                    "item": "dragon_statue_replica_v1"
+                },
+                {
+                    "crafting_scroll": "dragon_statue_replica_v1"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_19",
+            "entries": [
+                {
+                    "item": "treasure_box_gold"
+                }
+            ]
+        },
+        {
+            "preview_sprite": "spr_ui_museum_reward_archaeology_19",
+            "entries": [
+                {
+                    "item": "treasure_box_gold"
+                }
+            ]
+        }
+    ],
+    "museum_wings/archaeology/sets": {
+        "journal_scraps": {
+            "name": "museum_wings/archaeology/sets/journal_scraps/name",
+            "description": "museum_wings/archaeology/sets/journal_scraps/description",
+            "items": [
+                "anna_journal_scrap_1",
+                "anna_journal_scrap_2",
+                "anna_journal_scrap_3",
+                "anna_journal_scrap_4",
+                "anna_journal_scrap_5"
+            ]
+        }
+    },
+    "artifacts": {
+        "loot": {
+            "anna_journal_scrap_1": "common",
+            "anna_journal_scrap_2": "common",
+            "anna_journal_scrap_3": "uncommon",
+            "anna_journal_scrap_4": "rare",
+            "anna_journal_scrap_5": "legendary"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "anna_journal_scrap_1": {
+        "overwrites_other_mod": false,
+        "name": "items/other/artifacts/anna_journal_scrap_1/name",
+        "description": "items/other/artifacts/anna_journal_scrap_1/description",
+        "icon_sprite": "spr_ui_item_paper",
+        "tags": [
+            "archaeology"
+        ],
+        "value": {
+            "bin": 10,
+            "renown": 5
+        }
+    },
+    "anna_journal_scrap_2": {
+        "overwrites_other_mod": false,
+        "name": "items/other/artifacts/anna_journal_scrap_2/name",
+        "description": "items/other/artifacts/anna_journal_scrap_2/description",
+        "icon_sprite": "spr_ui_item_paper",
+        "tags": [
+            "archaeology"
+        ],
+        "value": {
+            "bin": 20,
+            "renown": 5
+        }
+    },
+    "anna_journal_scrap_3": {
+        "overwrites_other_mod": false,
+        "name": "items/other/artifacts/anna_journal_scrap_3/name",
+        "description": "items/other/artifacts/anna_journal_scrap_3/description",
+        "icon_sprite": "spr_ui_item_paper",
+        "tags": [
+            "archaeology"
+        ],
+        "value": {
+            "bin": 30,
+            "renown": 10
+        }
+    },
+    "anna_journal_scrap_4": {
+        "overwrites_other_mod": false,
+        "name": "items/other/artifacts/anna_journal_scrap_4/name",
+        "description": "items/other/artifacts/anna_journal_scrap_4/description",
+        "icon_sprite": "spr_ui_item_paper",
+        "tags": [
+            "archaeology"
+        ],
+        "value": {
+            "bin": 40,
+            "renown": 10
+        }
+    },
+    "anna_journal_scrap_5": {
+        "overwrites_other_mod": false,
+        "name": "items/other/artifacts/anna_journal_scrap_5/name",
+        "description": "items/other/artifacts/anna_journal_scrap_5/description",
+        "icon_sprite": "spr_ui_item_paper",
+        "tags": [
+            "archaeology"
+        ],
+        "value": {
+            "bin": 50,
+            "renown": 10
+        }
+    }
+}
