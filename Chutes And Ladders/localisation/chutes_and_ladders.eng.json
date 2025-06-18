@@ -1,0 +1,5 @@
+{
+    "mods/ChutesAndLadders/ladder_spawned": "A ladder was successfully spawned!",
+    "mods/ChutesAndLadders/ladder_not_spawned": "Failed to find a suitable location for a ladder.",
+    "mods/ChutesAndLadders/invalid_location": "Ladders may only be spawned in the dungeon."
+}
