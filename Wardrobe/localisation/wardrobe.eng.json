@@ -1,0 +1,5 @@
+{
+    "mods/Wardrobe/cosmetic_acquired": "The specified cosmetic was successfully unlocked!",
+    "mods/Wardrobe/unrecognized_cosmetic": "The specified cosmetic wasn't recognized.",
+    "mods/Wardrobe/cosmetic_not_acquired": "The specified cosmetic was already obtained."
+}
