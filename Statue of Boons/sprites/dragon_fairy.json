@@ -1,0 +1,53 @@
+{
+    "spr_insect_dragonfairy_entity_idle": {
+        "Location": "images/spr_insect_dragon_fairy_entity_idle",
+        "IsAnimated": true,
+        "OriginX": 12,
+        "OriginY": 14,
+        "MarginLeft": 0,
+        "MarginRight": 24,
+        "MarginBottom": 24,
+        "MarginTop": 0
+    },
+    "spr_insect_dragonfairy_entity_move": {
+        "Location": "images/spr_insect_dragon_fairy_entity_move",
+        "IsAnimated": true,
+        "OriginX": 12,
+        "OriginY": 14,
+        "MarginLeft": 0,
+        "MarginRight": 24,
+        "MarginBottom": 24,
+        "MarginTop": 0
+    },
+    "spr_insect_dragonfairy_shadow_idle": {
+        "Location": "images/spr_insect_dragon_fairy_shadow_idle",
+        "IsAnimated": true,
+        "OriginX": 12,
+        "OriginY": 14,
+        "MarginLeft": 0,
+        "MarginRight": 24,
+        "MarginBottom": 24,
+        "MarginTop": 0
+    },
+    "spr_insect_dragonfairy_shadow_move": {
+        "Location": "images/spr_insect_dragon_fairy_shadow_move",
+        "IsAnimated": true,
+        "OriginX": 12,
+        "OriginY": 14,
+        "MarginLeft": 0,
+        "MarginRight": 24,
+        "MarginBottom": 24,
+        "MarginTop": 0
+    },
+    "spr_ui_item_insect_dragon_fairy": {
+        "Location": "images/spr_ui_item_insect_dragon_fairy.png",
+        "OutlineLocation": "images/spr_ui_item_insect_dragon_fairy_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsUiSprite": true
+    }
+}

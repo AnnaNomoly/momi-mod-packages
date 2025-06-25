@@ -1,0 +1,37 @@
+{
+    "bugs": {
+        "dragon_fairy": {
+            "seasons": [
+                "spring",
+                "summer",
+                "fall",
+                "winter"
+            ],
+            "type": "fly",
+            "move_range": [
+                0.5,
+                3.0
+            ],
+            "speed_range": [
+                0.1,
+                0.5
+            ],
+            "has_light": true,
+            "rarity": "very_rare",
+            "hours": [
+                6,
+                26
+            ],
+            "weather": [
+                "calm",
+                "special",
+                "inclement",
+                "heavy_inclement"
+            ],
+            "liked_object_categories": [
+                "grass",
+                "crop"
+            ]
+        }
+    }
+}

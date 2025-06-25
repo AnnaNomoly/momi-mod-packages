@@ -1,0 +1,41 @@
+{
+  "statue_of_boons": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "forecaster": {
+        "spring": {
+          "calm": "spr_object_ocarina_statue_spring_normal",
+          "inclement": "spr_object_ocarina_statue_spring_normal",
+          "heavy_inclement": "spr_object_ocarina_statue_spring_normal",
+          "special": "spr_object_ocarina_statue_spring_normal"
+        },
+        "summer": {
+          "calm": "spr_object_ocarina_statue_spring_normal",
+          "inclement": "spr_object_ocarina_statue_spring_normal",
+          "heavy_inclement": "spr_object_ocarina_statue_spring_normal",
+          "special": "spr_object_ocarina_statue_spring_normal"
+        },
+        "fall": {
+          "calm": "spr_object_ocarina_statue_spring_normal",
+          "inclement": "spr_object_ocarina_statue_spring_normal",
+          "heavy_inclement": "spr_object_ocarina_statue_spring_normal",
+          "special": "spr_object_ocarina_statue_spring_normal"
+        },
+        "winter": {
+          "calm": "spr_object_ocarina_statue_spring_normal",
+          "inclement": "spr_object_ocarina_statue_spring_normal",
+          "heavy_inclement": "spr_object_ocarina_statue_spring_normal",
+          "special": "spr_object_ocarina_statue_spring_normal"
+        }
+      },
+      "south": {
+        "sprite": "spr_object_ocarina_statue_spring_normal",
+        "offset": [
+          8,
+          8
+        ]
+      }
+    }
+  }
+}

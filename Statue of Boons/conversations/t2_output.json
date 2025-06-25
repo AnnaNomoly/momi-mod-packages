@@ -1,0 +1,26 @@
+{
+    "Conversations/Mods/Statue of Boons/statue_of_boons": {
+        "kind": "Normal",
+        "requires": [],
+        "writes": [],
+        "actions": [],
+        "lines": {
+            "init": {
+                "local": "Conversations/Mods/Statue of Boons/placeholder",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            }
+        },
+        "multiple_speakers_in_conversation": false,
+        "speakers_in_conversation": [],
+        "can_talk_after": true,
+        "priority": "Normal"
+    }
+}

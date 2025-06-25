@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "item": "statue_of_boons",
+      "store": "balor",
+      "category": "spr_ui_store_category_icon_misc"
+    }
+  ],
+  "categories": [
+    {
+      "store": "balor",
+      "icon_name": "spr_ui_store_category_icon_misc",
+      "sprite": "images/spr_ui_store_category_icon_misc_0.png"
+    }
+  ]
+}
