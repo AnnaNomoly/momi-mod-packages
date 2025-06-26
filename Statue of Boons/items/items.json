@@ -19,8 +19,8 @@
             "bugs"
         ],
         "value": {
-            "bin": 10000,
-            "renown": 40
+            "bin": 1000,
+            "renown": 10
         }
     }
 }
