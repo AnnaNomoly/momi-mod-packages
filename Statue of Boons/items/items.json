@@ -15,6 +15,7 @@
         "description": "Long believed to be extinct, these legendary fairies only appear in the presence of dragons.",
         "icon_sprite": "spr_ui_item_insect_dragon_fairy",
         "name": "Dragon Fairy",
+        "default_infusion": "likeable",
         "tags": [
             "bugs"
         ],

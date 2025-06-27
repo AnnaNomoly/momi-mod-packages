@@ -14,5 +14,7 @@
     "Conversations/Mods/Statue of Boons/boon_of_butterfly/active": "You have already been granted the =Boon of the Dragons= for today!",
     "Conversations/Mods/Statue of Boons/boon_of_friendship/active": "You have already been granted the =Boon of the Stars= for today!",
     "Conversations/Mods/Statue of Boons/boon_of_stamina/active": "You have already been granted the =Boon of the Sun= for today!",
-    "Notifications/Mods/Statue of Boons/boon_of_butterfly/detected": "The dragon fairy is somewhere in the area!"
+    "Notifications/Mods/Statue of Boons/boon_of_butterfly/detected": "The dragon fairy is somewhere in the area!",
+    "Conversations/Mods/Statue of Boons/Caldarus/gift_lines/dragon_fairy/init": "[Ari]... is that what I think it is? A =dragon fairy=. I never thought I'd see one again.",
+    "Conversations/Mods/Statue of Boons/Caldarus/gift_lines/dragon_fairy/1": "It seems $dragons$ are not the only ones returning to Mistria. I welcome our fleeting companions."
 }
