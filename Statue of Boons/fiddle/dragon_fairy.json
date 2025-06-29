@@ -1,7 +1,14 @@
 {
     "bugs": {
         "dragon_fairy": {
+            "seasons": [
+                "spring",
+                "summer"
+            ],
             "type": "fly",
+            "locations": [
+                "deep_woods"
+            ],
             "move_range": [
                 0.5,
                 3.0
@@ -11,6 +18,14 @@
                 0.5
             ],
             "has_light": true,
+            "hours": [
+                24,
+                26
+            ],
+            "weather": [
+                "calm",
+                "special"
+            ],
             "rarity": "very_rare"
         }
     }

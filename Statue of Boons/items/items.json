@@ -2,12 +2,13 @@
     "statue_of_boons": {
         "overwrites_other_mod": false,
         "icon_sprite": "spr_ui_item_object_ocarina_statue",
-        "description": "A statue imported from a faraway valley.",
+        "description": "A statue imported from a faraway valley. Grants a unique boon every day when activated.",
         "name": "Statue of Boons",
         "object": "statue_of_boons",
+        "purchased_once_per_year": true,
         "value": {
-            "bin": 1000,
-            "store": 10000
+            "bin": 20000,
+            "store": 20000
         }
     },
     "dragon_fairy": {
