@@ -5,11 +5,12 @@
             "npc": "valen",
             "subject_line": "letters/mistbloom_introduction/subject_line",
             "local": "letters/mistbloom_introduction/local",
-            "appears_on": {
-                "season": "spring",
-                "day": 1,
-                "year": 1
-            },
+            "requirements": {
+                "reached_date": {
+                    "season": "spring",
+                    "day": 1
+                }
+            },            
             "items": [
                 {
                     "item_name": "mistbloom_potion",
