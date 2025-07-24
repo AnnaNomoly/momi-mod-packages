@@ -25,5 +25,14 @@
     "MarginRight": 0,
     "MarginBottom": 0,
     "MarginTop": 0
+  },
+  "spr_ui_hud_thermometer_cold": {
+    "Location": "images/spr_ui_hud_thermometer_cold.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 0,
+    "MarginBottom": 0,
+    "MarginTop": 0
   }
 }
