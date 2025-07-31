@@ -1,34 +1,7 @@
 {
     "Conversations/Mods/Statue of Boons/statue_of_boons": {
         "kind": "Normal",
-        "requires": [
-            {
-                "WorldFactCheck": {
-                    "name": [
-                        {
-                            "Resolved": {
-                                "type": "string",
-                                "content": "statue_of_boons"
-                            }
-                        }
-                    ],
-                    "value": [
-                        {
-                            "Resolved": {
-                                "type": "float",
-                                "content": 1.0
-                            }
-                        }
-                    ],
-                    "comparator": "Equal",
-                    "parser": null,
-                    "subtract_from": null,
-                    "subtract": null,
-                    "priority_value": 0,
-                    "numeric_must_be_positive": false
-                }
-            }
-        ],
+        "requires": [],
         "writes": [],
         "actions": [],
         "lines": {
