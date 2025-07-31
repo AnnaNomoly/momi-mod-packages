@@ -1,7 +1,34 @@
 {
     "Conversations/Mods/Statue of Boons/statue_of_boons": {
         "kind": "Normal",
-        "requires": [],
+        "requires": [
+            {
+                "WorldFactCheck": {
+                    "name": [
+                        {
+                            "Resolved": {
+                                "type": "string",
+                                "content": "statue_of_boons"
+                            }
+                        }
+                    ],
+                    "value": [
+                        {
+                            "Resolved": {
+                                "type": "float",
+                                "content": 1.0
+                            }
+                        }
+                    ],
+                    "comparator": "Equal",
+                    "parser": null,
+                    "subtract_from": null,
+                    "subtract": null,
+                    "priority_value": 0,
+                    "numeric_must_be_positive": false
+                }
+            }
+        ],
         "writes": [],
         "actions": [],
         "lines": {
@@ -21,7 +48,7 @@
         "multiple_speakers_in_conversation": false,
         "speakers_in_conversation": [],
         "can_talk_after": true,
-        "priority": "Normal"
+        "priority": "Basement"
     },
     "Conversations/Mods/Statue of Boons/Caldarus/gift_lines/dragon_fairy": {
         "kind": "Gift",
