@@ -14,32 +14,46 @@
             "local": "letters/telepop_advertisement/local",
             "items": [
                 {
-                    "item_name": "blackberry_jam",
+                    "item_name": "telepop_purple",
                     "count": 3
                 },
                 {
-                    "item_name": "blueberry_jam",
+                    "item_name": "telepop_blue",
                     "count": 3
                 },
                 {
-                    "item_name": "marmalade",
+                    "item_name": "telepop_orange",
                     "count": 3
                 },
                 {
-                    "item_name": "rosehip_jam",
+                    "item_name": "telepop_pink",
                     "count": 3
                 },
                 {
-                    "recipe_scroll": "blackberry_jam"
+                    "item_name": "telepop_green",
+                    "count": 3
                 },
                 {
-                    "recipe_scroll": "blueberry_jam"
+                    "item_name": "telepop_yellow",
+                    "count": 3
                 },
                 {
-                    "recipe_scroll": "marmalade"
+                    "recipe_scroll": "telepop_purple"
                 },
                 {
-                    "recipe_scroll": "rosehip_jam"
+                    "recipe_scroll": "telepop_blue"
+                },
+                {
+                    "recipe_scroll": "telepop_orange"
+                },
+                {
+                    "recipe_scroll": "telepop_pink"
+                },
+                {
+                    "recipe_scroll": "telepop_green"
+                },
+                {
+                    "recipe_scroll": "telepop_yellow"
                 }
             ]
         }

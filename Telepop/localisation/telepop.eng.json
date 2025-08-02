@@ -1,16 +1,8 @@
 {
-    "items/other/cooked_dishes/blackberry_jam/name": "Telepop (Purple)",
-    "items/other/cooked_dishes/blackberry_jam/description": "A magical piece of candy said to warp the fabric of reality. Instantly teleports you to the mines. Has a nostalgic taste...",
-
-    "items/other/cooked_dishes/blueberry_jam/name": "Telepop (Blue)",
-    "items/other/cooked_dishes/blueberry_jam/description": "A magical piece of candy said to warp the fabric of reality. Instantly teleports you to the beach. Has a nostalgic taste...",
-
-    "items/other/cooked_dishes/marmalade/name": "Telepop (Orange)",
-    "items/other/cooked_dishes/marmalade/description": "A magical piece of candy said to warp the fabric of reality. Instantly teleports you to town. Has a nostalgic taste...",
-
-    "items/other/cooked_dishes/rosehip_jam/name": "Telepop (Pink)",
-    "items/other/cooked_dishes/rosehip_jam/description": "A magical piece of candy said to warp the fabric of reality. Instantly teleports you home. Has a nostalgic taste...",
-    
+    "Notifications/Mods/Telepop/echo_mint/location_reminder": "You recall that an echo in your image is minted at the <PLACEHOLDER>.",
+    "Notifications/Mods/Telepop/echo_mint/location_saved": "You minted an echo of yourself at this location.",
+    "Notifications/Mods/Telepop/echo_mint/location_invalid": "You are unable to mint an echo of yourself at this location!",
+    "Notifications/Mods/Telepop/telepop_mystery/no_location_set": "You must use an Echo Mint to record a location first!",
     "letters/telepop_advertisement/subject_line": "Telepops Now In Stock!",
     "letters/telepop_advertisement/local": "[Ari],\n\nI wanted to let you know that the General Store has some special new items in stock. They're called Telepops and they come in different flavors!\n\nMy Dad asked me to send you some free samples. I also snuck in the recipe for them too. :)\n\nP.S. Juniper says they have magical properties! Now I kind of want to try one..."
 }

@@ -1,0 +1,98 @@
+{
+  "spr_ui_item_telepop_purple": {
+    "Location": "images/telepop_purple/spr_ui_item_telepop_purple_0.png",
+    "OutlineLocation": "images/telepop_purple/spr_ui_item_telepop_purple_outline_0.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_telepop_blue": {
+    "Location": "images/telepop_blue/spr_ui_item_telepop_blue_0.png",
+    "OutlineLocation": "images/telepop_blue/spr_ui_item_telepop_blue_outline_0.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_telepop_orange": {
+    "Location": "images/telepop_orange/spr_ui_item_telepop_orange_0.png",
+    "OutlineLocation": "images/telepop_orange/spr_ui_item_telepop_orange_outline_0.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_telepop_pink": {
+    "Location": "images/telepop_pink/spr_ui_item_telepop_pink_0.png",
+    "OutlineLocation": "images/telepop_pink/spr_ui_item_telepop_pink_outline_0.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_telepop_green": {
+    "Location": "images/telepop_green/spr_ui_item_telepop_green_0.png",
+    "OutlineLocation": "images/telepop_green/spr_ui_item_telepop_green_outline_0.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_telepop_yellow": {
+    "Location": "images/telepop_yellow/spr_ui_item_telepop_yellow_0.png",
+    "OutlineLocation": "images/telepop_yellow/spr_ui_item_telepop_yellow_outline_0.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_telepop_mystery": {
+    "Location": "images/telepop_mystery/spr_ui_item_telepop_mystery_0.png",
+    "OutlineLocation": "images/telepop_mystery/spr_ui_item_telepop_mystery_outline_0.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_echo_mint": {
+    "Location": "images/echo_mint/spr_ui_item_echo_mint_0.png",
+    "OutlineLocation": "images/echo_mint/spr_ui_item_echo_mint_outline_0.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  }
+}

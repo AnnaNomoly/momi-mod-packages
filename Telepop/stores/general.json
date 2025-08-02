@@ -1,22 +1,98 @@
 {
   "items": [
     {
-      "item": "blackberry_jam",
+      "item": "telepop_purple",
       "store": "general",
       "category": "spr_ui_store_category_icon_cooked_dishes"
     },
     {
-      "item": "blueberry_jam",
+      "item": "telepop_blue",
       "store": "general",
       "category": "spr_ui_store_category_icon_cooked_dishes"
     },
     {
-      "item": "marmalade",
+      "item": "telepop_orange",
       "store": "general",
       "category": "spr_ui_store_category_icon_cooked_dishes"
     },
     {
-      "item": "rosehip_jam",
+      "item": "telepop_pink",
+      "store": "general",
+      "category": "spr_ui_store_category_icon_cooked_dishes"
+    },
+    {
+      "item": "telepop_green",
+      "store": "general",
+      "category": "spr_ui_store_category_icon_cooked_dishes"
+    },
+    {
+      "item": "telepop_yellow",
+      "store": "general",
+      "category": "spr_ui_store_category_icon_cooked_dishes"
+    },
+    {
+      "item": "telepop_mystery",
+      "store": "general",
+      "category": "spr_ui_store_category_icon_cooked_dishes"
+    },
+    {
+      "item": "echo_mint",
+      "store": "general",
+      "category": "spr_ui_store_category_icon_cooked_dishes"
+    },
+    {
+      "item": {
+        "recipe_scroll": "telepop_purple"
+      },
+      "store": "general",
+      "category": "spr_ui_store_category_icon_cooked_dishes"
+    },
+    {
+      "item": {
+        "recipe_scroll": "telepop_blue"
+      },
+      "store": "general",
+      "category": "spr_ui_store_category_icon_cooked_dishes"
+    },
+    {
+      "item": {
+        "recipe_scroll": "telepop_orange"
+      },
+      "store": "general",
+      "category": "spr_ui_store_category_icon_cooked_dishes"
+    },
+    {
+      "item": {
+        "recipe_scroll": "telepop_pink"
+      },
+      "store": "general",
+      "category": "spr_ui_store_category_icon_cooked_dishes"
+    },
+    {
+      "item": {
+        "recipe_scroll": "telepop_green"
+      },
+      "store": "general",
+      "category": "spr_ui_store_category_icon_cooked_dishes"
+    },
+    {
+      "item": {
+        "recipe_scroll": "telepop_yellow"
+      },
+      "store": "general",
+      "category": "spr_ui_store_category_icon_cooked_dishes"
+    },
+    {
+      "item": {
+        "recipe_scroll": "telepop_mystery"
+      },
+      "store": "general",
+      "category": "spr_ui_store_category_icon_cooked_dishes"
+    },
+    {
+      "item": {
+        "recipe_scroll": "echo_mint"
+      },
       "store": "general",
       "category": "spr_ui_store_category_icon_cooked_dishes"
     }
