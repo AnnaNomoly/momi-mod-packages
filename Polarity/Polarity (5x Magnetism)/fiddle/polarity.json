@@ -1,0 +1,6 @@
+{
+  "player": {
+    "item_detection_radius": 250
+  },
+  "player/item_detection_radius": 250
+}
