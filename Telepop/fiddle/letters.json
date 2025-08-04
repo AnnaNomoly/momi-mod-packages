@@ -38,23 +38,13 @@
                     "count": 3
                 },
                 {
-                    "recipe_scroll": "telepop_purple"
+                    "item_name": "telepop_mystery",
+                    "count": 3
                 },
                 {
-                    "recipe_scroll": "telepop_blue"
-                },
-                {
-                    "recipe_scroll": "telepop_orange"
-                },
-                {
-                    "recipe_scroll": "telepop_pink"
-                },
-                {
-                    "recipe_scroll": "telepop_green"
-                },
-                {
-                    "recipe_scroll": "telepop_yellow"
-                }
+                    "item_name": "echo_mint",
+                    "count": 3
+                } 
             ]
         }
     }

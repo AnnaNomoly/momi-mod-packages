@@ -4,7 +4,7 @@
         "name": "Telepop (Purple)",
         "description": "A magical piece of candy said to warp the fabric of reality. Instantly teleports you to the mines!",
         "icon_sprite": "spr_ui_item_telepop_purple",
-        "restore": "dish",
+        "restore": 1,
         "stars": 1,
         "crafting_level_requirement": 1,
         "kitchen_tier_requirement": 1,
@@ -17,6 +17,10 @@
             {
                 "count": 1,
                 "item": "sugar"
+            },
+            {
+              "hours": 0,
+              "minutes": 10
             }
         ],
         "value": {
@@ -29,7 +33,7 @@
         "name": "Telepop (Blue)",
         "description": "A magical piece of candy said to warp the fabric of reality. Instantly teleports you to the beach!",
         "icon_sprite": "spr_ui_item_telepop_blue",
-        "restore": "dish",
+        "restore": 1,
         "stars": 1,
         "crafting_level_requirement": 1,
         "kitchen_tier_requirement": 1,
@@ -42,6 +46,10 @@
             {
                 "count": 1,
                 "item": "sugar"
+            },
+            {
+              "hours": 0,
+              "minutes": 10
             }
         ],
         "value": {
@@ -54,7 +62,7 @@
         "name": "Telepop (Orange)",
         "description": "A magical piece of candy said to warp the fabric of reality. Instantly teleports you to town!",
         "icon_sprite": "spr_ui_item_telepop_orange",
-        "restore": "dish",
+        "restore": 1,
         "stars": 1,
         "crafting_level_requirement": 1,
         "kitchen_tier_requirement": 1,
@@ -67,6 +75,10 @@
             {
                 "count": 1,
                 "item": "sugar"
+            },
+            {
+              "hours": 0,
+              "minutes": 10
             }
         ],
         "value": {
@@ -79,7 +91,7 @@
         "name": "Telepop (Pink)",
         "description": "A magical piece of candy said to warp the fabric of reality. Instantly teleports you home!",
         "icon_sprite": "spr_ui_item_telepop_pink",
-        "restore": "dish",
+        "restore": 1,
         "stars": 1,
         "crafting_level_requirement": 1,
         "kitchen_tier_requirement": 1,
@@ -92,6 +104,10 @@
             {
                 "count": 1,
                 "item": "sugar"
+            },
+            {
+              "hours": 0,
+              "minutes": 10
             }
         ],
         "value": {
@@ -104,7 +120,7 @@
         "name": "Telepop (Green)",
         "description": "A magical piece of candy said to warp the fabric of reality. Instantly teleports you to the eastern road!",
         "icon_sprite": "spr_ui_item_telepop_green",
-        "restore": "dish",
+        "restore": 1,
         "stars": 1,
         "crafting_level_requirement": 1,
         "kitchen_tier_requirement": 1,
@@ -117,6 +133,10 @@
             {
                 "count": 1,
                 "item": "sugar"
+            },
+            {
+              "hours": 0,
+              "minutes": 10
             }
         ],
         "value": {
@@ -129,7 +149,7 @@
         "name": "Telepop (Yellow)",
         "description": "A magical piece of candy said to warp the fabric of reality. Instantly teleports you to the western ruins!",
         "icon_sprite": "spr_ui_item_telepop_yellow",
-        "restore": "dish",
+        "restore": 1,
         "stars": 1,
         "crafting_level_requirement": 1,
         "kitchen_tier_requirement": 1,
@@ -142,6 +162,10 @@
             {
                 "count": 1,
                 "item": "sugar"
+            },
+            {
+              "hours": 0,
+              "minutes": 10
             }
         ],
         "value": {
@@ -152,9 +176,9 @@
     "telepop_mystery": {
         "overwrites_other_mod": false,
         "name": "Telepop (Mystery)",
-        "description": "A magical piece of candy said to warp the fabric of reality. <TELEPOP_MYSTERY_PLACEHOLDER>",
+        "description": "A magical piece of candy said to warp the fabric of reality. Instantly teleports you to your echo!",
         "icon_sprite": "spr_ui_item_telepop_mystery",
-        "restore": "dish",
+        "restore": 1,
         "stars": 1,
         "crafting_level_requirement": 1,
         "kitchen_tier_requirement": 1,
@@ -167,6 +191,10 @@
             {
                 "count": 1,
                 "item": "sugar"
+            },
+            {
+              "hours": 0,
+              "minutes": 10
             }
         ],
         "value": {
@@ -177,9 +205,9 @@
     "echo_mint": {
         "overwrites_other_mod": false,
         "name": "Echo Mint",
-        "description": "This cool, tingling mint leaves behind a faint echo of your presence. Perfect for when you need to pop back in a hurry!",
+        "description": "This cool, tingling mint leaves behind a faint echo of your presence. Perfect for when you need to pop back in a snap!",
         "icon_sprite": "spr_ui_item_echo_mint",
-        "restore": "dish",
+        "restore": 1,
         "stars": 1,
         "crafting_level_requirement": 1,
         "kitchen_tier_requirement": 1,
@@ -192,6 +220,10 @@
             {
                 "count": 1,
                 "item": "sugar"
+            },
+            {
+              "hours": 0,
+              "minutes": 10
             }
         ],
         "value": {
