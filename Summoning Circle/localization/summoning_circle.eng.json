@@ -1,0 +1,10 @@
+{
+    "misc_local/Mods/Summoning Circle/teleport_interact": "Teleport",
+    "Notifications/Mods/Summoning Circle/two_required": "Two summoning circles are required to use it!",
+    "Notifications/Mods/Summoning Circle/two_already_present": "You already have two summoning circles on your farm!",
+    "Conversations/Mods/Summoning Circle/activation_confirmation/init": "^The summoning circle glows as you approach...^",
+    "Conversations/Mods/Summoning Circle/activation_confirmation/init/prompts/0": "Use it!",
+    "Conversations/Mods/Summoning Circle/activation_confirmation/init/prompts/1": "Nope, not this time.",
+    "Conversations/Mods/Summoning Circle/activation_confirmation/1": "Placeholder. If you see this text report a bug for the Summoning Circle mod!",
+    "Conversations/Mods/Summoning Circle/activation_confirmation/2": "Placeholder. If you see this text report a bug for the Summoning Circle! mod"
+}

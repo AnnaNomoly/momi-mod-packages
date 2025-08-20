@@ -1,0 +1,70 @@
+{
+  "Conversations/Mods/Summoning Circle/activation_confirmation": {
+    "kind": "GameplayTriggered",
+    "requires": [],
+    "writes": [],
+    "actions": [],
+    "lines": {
+      "1": {
+        "local": "Conversations/Mods/Summoning Circle/activation_confirmation/1",
+        "writes": [],
+        "actions": [
+          {
+            "type": "no_speaker"
+          }
+        ],
+        "next_line_behavior": {
+          "type": "finish"
+        }
+      },
+      "2": {
+        "local": "Conversations/Mods/Summoning Circle/activation_confirmation/2",
+        "writes": [],
+        "actions": [
+          {
+            "type": "no_speaker"
+          }
+        ],
+        "next_line_behavior": {
+          "type": "finish"
+        }
+      },
+      "init": {
+        "local": "Conversations/Mods/Summoning Circle/activation_confirmation/init",
+        "writes": [],
+        "actions": [
+          {
+            "type": "no_speaker"
+          }
+        ],
+        "next_line_behavior": {
+          "type": "prompts",
+          "content": [
+            {
+              "local": "Conversations/Mods/Summoning Circle/activation_confirmation/init/prompts/0",
+              "next_lines": [
+                {
+                  "line_id": "1",
+                  "requirements": []
+                }
+              ]
+            },
+            {
+              "local": "Conversations/Mods/Summoning Circle/activation_confirmation/init/prompts/1",
+              "next_lines": [
+                {
+                  "line_id": "2",
+                  "requirements": []
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "multiple_speakers_in_conversation": false,
+    "speakers_in_conversation": [],
+    "can_talk_after": true,
+    "priority": "Normal"
+  }
+}

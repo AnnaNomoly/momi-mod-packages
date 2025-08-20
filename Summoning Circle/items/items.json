@@ -1,0 +1,16 @@
+{
+    "summoning_circle": {
+        "overwrites_other_mod": false,
+        "icon_sprite": "spr_ui_item_object_teleportation_pad",
+        "name": "Summoning Circle",
+        "description": "Place two of these circles and they will link together. Step in one and pop out the other!",
+        "object": "summoning_circle",
+        "tags": [
+            "furniture"
+        ],
+        "value": {
+            "bin": 5000,
+            "store": 5000
+        }
+    }
+}

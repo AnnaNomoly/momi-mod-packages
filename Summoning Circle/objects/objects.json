@@ -1,0 +1,32 @@
+{
+  "summoning_circle": {
+    "category": "furniture",
+    "overwrites_other_mod": false,
+    "data": {
+      "size": [
+        3,
+        3
+      ],
+      "collision_grid": "0",
+      "depth_to_floor": true,
+      "placeable_locations": [
+        "farm"
+      ],
+      "interaction_turn_on": {
+        "light": "xs",
+        "light_offset": [
+          0,
+          0
+        ]
+      },
+      "south": {
+        "sprite": "spr_object_teleportation_pad_appear",
+        "on_sprite": "spr_object_teleportation_pad_appear",
+        "offset": [
+          0,
+          0
+        ]
+      }
+    }
+  }
+}
