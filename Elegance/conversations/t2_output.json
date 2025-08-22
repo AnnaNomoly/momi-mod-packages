@@ -1,0 +1,37 @@
+{
+    "Conversations/Mods/Elegance/wont_gossip": {
+      "kind": "GameplayTriggered",
+      "requires": [],
+      "writes": [],
+      "actions": [],
+      "lines": {
+        "init": {
+          "local": "Conversations/Mods/Elegance/wont_gossip/init",
+          "writes": [],
+          "actions": [
+            {
+              "type": "speaker",
+              "content": "elsie"
+            },
+            {
+              "type": "portrait",
+              "content": "ugh"
+            },
+            {
+              "type": "effect",
+              "content": "drop"
+            }
+          ],
+          "next_line_behavior": {
+            "type": "finish"
+          }
+        }
+      },
+      "multiple_speakers_in_conversation": false,
+      "speakers_in_conversation": [
+        "elsie"
+      ],
+      "can_talk_after": true,
+      "priority": "Basement"
+    }    
+}
