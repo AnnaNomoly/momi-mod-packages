@@ -1,6 +1,6 @@
 {
     "Conversations/Mods/Statue of Boons/statue_of_boons": {
-        "kind": "Normal",
+        "kind": "GameplayTriggered",
         "requires": [],
         "writes": [],
         "actions": [],
@@ -21,7 +21,7 @@
         "multiple_speakers_in_conversation": false,
         "speakers_in_conversation": [],
         "can_talk_after": true,
-        "priority": "Basement"
+        "priority": "Normal"
     },
     "Conversations/Mods/Statue of Boons/Caldarus/gift_lines/dragon_fairy": {
         "kind": "Gift",
