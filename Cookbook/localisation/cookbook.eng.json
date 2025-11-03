@@ -1,0 +1,4 @@
+{
+    "mods/Cookbook/unrecognized_recipe": "The specified recipe wasn't recognized.",
+    "mods/Cookbook/recipe_not_acquired": "The specified recipe was already obtained."
+}
