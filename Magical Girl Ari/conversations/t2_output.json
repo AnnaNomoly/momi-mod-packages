@@ -1,0 +1,64 @@
+{
+  "Conversations/Mods/MagicalGirlAri/juniper_contract": {
+    "kind": "GameplayTriggered",
+    "requires": [],
+    "writes": [],
+    "actions": [],
+    "lines": {
+      "1": {
+        "local": "Conversations/Mods/MagicalGirlAri/juniper_contract/1",
+        "writes": [],
+        "actions": [
+          {
+            "type": "speaker",
+            "content": "juniper"
+          },
+          {
+            "type": "portrait",
+            "content": "laugh"
+          },
+          {
+            "type": "effect",
+            "content": "sparkles"
+          }
+        ],
+        "next_line_behavior": {
+          "type": "finish"
+        }
+      },
+      "init": {
+        "local": "Conversations/Mods/MagicalGirlAri/juniper_contract/init",
+        "writes": [],
+        "actions": [
+          {
+            "type": "speaker",
+            "content": "juniper"
+          },
+          {
+            "type": "portrait",
+            "content": "shocked"
+          },
+          {
+            "type": "effect",
+            "content": "shock"
+          }
+        ],
+        "next_line_behavior": {
+          "type": "next_lines",
+          "content": [
+            {
+              "line_id": "1",
+              "requirements": []
+            }
+          ]
+        }
+      }
+    },
+    "multiple_speakers_in_conversation": false,
+    "speakers_in_conversation": [
+      "juniper"
+    ],
+    "can_talk_after": true,
+    "priority": "Basement"
+  }
+}
