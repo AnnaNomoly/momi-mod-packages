@@ -1,4 +1,5 @@
 {
+    "misc_local/Mods/Statue of Boons/interact": "Statue of Boons",
     "Conversations/Mods/Statue of Boons/placeholder": "This is placeholder text. If you see this please report a bug for the mod!",
     "Conversations/Mods/Statue of Boons/insufficient_mana": "You ^do not have enough mana^ to activate the statue...",
     "Conversations/Mods/Statue of Boons/insufficient_essence": "You ^do not have enough essence^ to activate the statue...",
@@ -8,12 +9,14 @@
     "Conversations/Mods/Statue of Boons/boon_of_butterfly/granted": "Magic from the statue suffuses throughout you...\n=Boon of the Dragons= has been bestowed upon you!\n(You $sense a dragon fairy$ somewhere in Mistria today.)",
     "Conversations/Mods/Statue of Boons/boon_of_friendship/granted": "Magic from the statue suffuses throughout you...\n=Boon of the Stars= has been bestowed upon you!\n(Your $friendship with villagers will increase faster$ today.)",
     "Conversations/Mods/Statue of Boons/boon_of_stamina/granted": "Magic from the statue suffuses throughout you...\n=Boon of the Sun= has been bestowed upon you!\n(Your $stamina is endless$ today.)",
+    "Conversations/Mods/Statue of Boons/boon_of_mana/granted": "Magic from the statue suffuses throughout you...\n=Boon of the Moon= has been bestowed upon you!\n(Your $spells require no mana$ today.)",
     "Conversations/Mods/Statue of Boons/boon_of_speed/active": "You have already been granted the =Boon of the Wind= for today!",
     "Conversations/Mods/Statue of Boons/boon_of_forage/active": "You have already been granted the =Boon of the Land= for today!",
     "Conversations/Mods/Statue of Boons/boon_of_fishing/active": "You have already been granted the =Boon of the Sea= for today!",
     "Conversations/Mods/Statue of Boons/boon_of_butterfly/active": "You have already been granted the =Boon of the Dragons= for today!",
     "Conversations/Mods/Statue of Boons/boon_of_friendship/active": "You have already been granted the =Boon of the Stars= for today!",
     "Conversations/Mods/Statue of Boons/boon_of_stamina/active": "You have already been granted the =Boon of the Sun= for today!",
+    "Conversations/Mods/Statue of Boons/boon_of_mana/active": "You have already been granted the =Boon of the Moon= for today!",
     "Notifications/Mods/Statue of Boons/boon_of_butterfly/detected": "The dragon fairy is somewhere in the area!",
     "Conversations/Mods/Statue of Boons/Caldarus/gift_lines/dragon_fairy/init": "[Ari]... is that what I think it is? A =dragon fairy=. I never thought I'd see one again.",
     "Conversations/Mods/Statue of Boons/Caldarus/gift_lines/dragon_fairy/1": "It seems $dragons$ are not the only ones returning to Mistria. I welcome our fleeting companions."
