@@ -1,0 +1,44 @@
+{
+    "Conversations/Mods/Deep Dungeon/Special/dread": "Be careful, hero... A powerful ^dread beast^ haunts this floor...",
+
+    "Conversations/Mods/Deep Dungeon/Floor Enchantments/Negative/gloom": "=Gloom=: A purple haze has =flooded the dungeon floor=.",
+    "Conversations/Mods/Deep Dungeon/Floor Enchantments/Negative/hp_penalty": "=HP Penalty=: An ancient magic =siphons some of your life=.",
+    "Conversations/Mods/Deep Dungeon/Floor Enchantments/Negative/exhaustion": "=Exhaustion=: An ancient magic =saps some of your energy=.",
+    "Conversations/Mods/Deep Dungeon/Floor Enchantments/Negative/amnesia": "=Amnesia=: Your knowledge of magic =eludes you=.",
+    "Conversations/Mods/Deep Dungeon/Floor Enchantments/Negative/item_penalty": "=Item Penalty=: Your items have turned to =worthless stone=.",
+    "Conversations/Mods/Deep Dungeon/Floor Enchantments/Negative/blind": "=Blind=: An unnatural darkness =clouds your vision=.",
+    "Conversations/Mods/Deep Dungeon/Floor Enchantments/Negative/damage_down": "=Damage Down=: Fear grips you =reducing your strength=.",
+    "Conversations/Mods/Deep Dungeon/Floor Enchantments/Negative/gravity": "=Gravity=: You feel extraordinarily =heavy=.",
+
+    "Conversations/Mods/Deep Dungeon/Floor Enchantments/Positive/fey": "$Fey$: The $blessings of the fey$ empower you.",
+    "Conversations/Mods/Deep Dungeon/Floor Enchantments/Positive/restoration": "$Restoration$: A warm light $heals your wounds$.",
+    "Conversations/Mods/Deep Dungeon/Floor Enchantments/Positive/second_wind": "$Second Wind$: A gentle breeze $invigorates you$.",
+    "Conversations/Mods/Deep Dungeon/Floor Enchantments/Positive/haste": "$Haste$: You feel $lighter than air$.",
+    "Conversations/Mods/Deep Dungeon/Floor Enchantments/Positive/hp_stamina_boost": "$HP/ST Boost$: You feel an extraodinarily strong $sense of resolve$.",
+    
+    "Items/Mods/Deep Dungeon/Sigils/rage": "Unleash your fury, causing all attacks to do guaranteed critical lethal damage.",
+    "Items/Mods/Deep Dungeon/Sigils/strength": "Empower yourself, increasing damage dealt by 30%.",
+    "Items/Mods/Deep Dungeon/Sigils/fortification": "Steel yourself, reducing damage received by 40%.",
+    "Items/Mods/Deep Dungeon/Sigils/protection": "The priestess protects you, providing a magical barrier that absorbs the next 2 hits.",
+    "Items/Mods/Deep Dungeon/Sigils/serenity": "Meditate, warding off all unnatural afflictions. All floor enchantments are dispelled.",
+    "Items/Mods/Deep Dungeon/Sigils/safety": "Focus, observing your surroundings. All floor traps are disabled.",
+    "Items/Mods/Deep Dungeon/Sigils/silence": "You hear nothing but silence. The next dungeon floor will have less monsters.",
+    "Items/Mods/Deep Dungeon/Sigils/fortune": "Fortune favors the bold. Traverse the ladder to the next dungeon floor.",
+    "Items/Mods/Deep Dungeon/Sigils/redemption": "The priestess blesses you, providing you with a second chance at life.",
+    "Items/Mods/Deep Dungeon/Sigils/alteration": "The future is unpredictable. Some monsters may be altered on the next dungeon floor.",
+    "Items/Mods/Deep Dungeon/Sigils/concealment": "You move stealthfully, avoiding detection by monsters.",
+
+    "Notifications/Mods/Deep Dungeon/Traps/explosive": "The hidden floor trap explodes, damaging you and all nearby monsters!",
+    "Notifications/Mods/Deep Dungeon/Traps/luring": "The hidden floor rune activates, summoning monsters nearby!",
+    "Notifications/Mods/Deep Dungeon/Traps/freezing": "The hidden floor rune activates, freezing you in place!",
+
+    "Conversations/Mods/Deep Dungeon/Shrines/Negative/dread": "=Dread=: Feelings of =dread= begin to overwhelm you.",
+    "Conversations/Mods/Deep Dungeon/Shrines/Negative/peril": "=Peril=: A =perilous situation= awaits you.",
+    "Conversations/Mods/Deep Dungeon/Shrines/Negative/confusion": "=Confusion=: Your perception of reality begins to =distort=.",
+
+    "Conversations/Mods/Deep Dungeon/Shrines/Positive/leech": "$Leech$: Your attacks $heal you$ for a portion of the damage dealt.",
+    "Conversations/Mods/Deep Dungeon/Shrines/Positive/inner_fire": "$Inner Fire$: Channel you inner fire and $breathe flames$ of destruction.",
+    "Conversations/Mods/Deep Dungeon/Shrines/Positive/grit": "$Grit$: Your unending $courage and resolve$ lead you forward.",
+
+    "Tutorials/Mods/Deep Dungeon/dungeon_curse": "All buffs are removed at the start of a floor. Items not specific to the Deep Dungeon are prohibited."
+}
