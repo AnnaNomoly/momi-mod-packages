@@ -1,0 +1,66 @@
+{
+    "sustaining_potion": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Salves/sustaining_potion/description",
+        "name": "Items/Mods/Deep Dungeon/Salves/sustaining_potion/name",
+        "icon_sprite": "spr_ui_item_syrup_restore",
+        "edible": true,
+        "default_infusion": "restorative",
+        "recipe_is_default": false,
+        "tags": [
+            "drink_sound"
+        ],
+        "value": {
+            "store": 50,
+            "bin": 0
+        }
+    },
+    "health_salve": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Salves/health_salve/description",
+        "name": "Items/Mods/Deep Dungeon/Salves/health_salve/name",
+        "icon_sprite": "spr_ui_item_syrup_health",
+        "edible": true,
+        "health_modifier": 30,
+        "recipe_is_default": false,
+        "tags": [
+            "drink_sound"
+        ],
+        "value": {
+            "store": 50,
+            "bin": 0
+        }
+    },
+    "stamina_salve": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Salves/stamina_salve/description",
+        "name": "Items/Mods/Deep Dungeon/Salves/stamina_salve/name",
+        "icon_sprite": "spr_ui_item_syrup_stamina",
+        "edible": true,
+        "stamina_modifier": 30,
+        "recipe_is_default": false,
+        "tags": [
+            "drink_sound"
+        ],
+        "value": {
+            "store": 50,
+            "bin": 0
+        }
+    },
+    "mana_salve": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Salves/mana_salve/description",
+        "name": "Items/Mods/Deep Dungeon/Salves/mana_salve/name",
+        "icon_sprite": "spr_ui_item_mana_potion",
+        "edible": true,
+        "mana_modifier": 1,
+        "recipe_is_default": false,
+        "tags": [
+            "drink_sound"
+        ],
+        "value": {
+            "store": 50,
+            "bin": 0
+        }
+    }
+}

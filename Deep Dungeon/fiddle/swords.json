@@ -1,0 +1,23 @@
+{
+  "items": {
+    "other": {
+      "blacksmithing": {
+        "sword_scrap_metal": {
+          "description": "Items/Mods/Deep Dungeon/Swords/mistpool/description",
+          "damage": 1,
+          "icon_sprite": "spr_ui_item_tool_scrap_metal_sword",
+          "name": "Items/Mods/Deep Dungeon/Swords/mistpool/name",
+          "quality": "tier1",
+          "tags": [
+            "sword",
+            "weapon"
+          ],
+          "value": {
+            "bin": 0,
+            "store": 500
+          }
+        }
+      }
+    }
+  }
+}

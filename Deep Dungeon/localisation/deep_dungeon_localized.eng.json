@@ -42,6 +42,19 @@
     "Items/Mods/Deep Dungeon/Sigils/concealment/description": "Your body becomes ethereal, allowing you to remain undetected by monsters.",
     "Items/Mods/Deep Dungeon/Sigils/temptation/description": "Give in, and listen to the faint whispers that call out to you.",
 
+    "Items/Mods/Deep Dungeon/Salves/sustaining_potion/name": "Sustaining Potion",
+    "Items/Mods/Deep Dungeon/Salves/health_salve/name": "Health Salve",
+    "Items/Mods/Deep Dungeon/Salves/stamina_salve/name": "Stamina Salve",
+    "Items/Mods/Deep Dungeon/Salves/mana_salve/name": "Mana Salve",
+
+    "Items/Mods/Deep Dungeon/Salves/sustaining_potion/description": "Restores health and stamina slowly over time for 1 hour.",
+    "Items/Mods/Deep Dungeon/Salves/health_salve/description": "Restores 30 health.",
+    "Items/Mods/Deep Dungeon/Salves/stamina_salve/description": "Restores 30 stamina.",
+    "Items/Mods/Deep Dungeon/Salves/mana_salve/description": "Restores 1 mana.",
+
+    "Items/Mods/Deep Dungeon/Swords/mistpool/name": "Mistpool Sword",
+    "Items/Mods/Deep Dungeon/Swords/mistpool/description": "A sword that seems to glow brighter the deeper you traverse inside the dungeon.",
+
     "Notifications/Mods/Deep Dungeon/Traps/explosive": "The hidden floor trap explodes, damaging you and all nearby monsters!",
     "Notifications/Mods/Deep Dungeon/Traps/luring": "The hidden floor rune activates, summoning monsters nearby!",
     "Notifications/Mods/Deep Dungeon/Traps/freezing": "The hidden floor rune activates, freezing you in place!",
