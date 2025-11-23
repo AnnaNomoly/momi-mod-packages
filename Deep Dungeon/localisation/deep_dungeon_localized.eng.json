@@ -30,8 +30,8 @@
     "Items/Mods/Deep Dungeon/Sigils/temptation/name": "Sigil of Temptation",
     
     "Items/Mods/Deep Dungeon/Sigils/rage/description": "Unleash your fury, causing all attacks to do guaranteed critical lethal damage.",
-    "Items/Mods/Deep Dungeon/Sigils/strength/description": "Empower yourself, increasing damage dealt by 30%.",
-    "Items/Mods/Deep Dungeon/Sigils/fortification/description": "Steel yourself, reducing damage received by 40%.",
+    "Items/Mods/Deep Dungeon/Sigils/strength/description": "Empower yourself, increasing damage dealt.",
+    "Items/Mods/Deep Dungeon/Sigils/fortification/description": "Steel yourself, reducing damage received.",
     "Items/Mods/Deep Dungeon/Sigils/protection/description": "The priestess protects you, providing a magical barrier that absorbs the next 2 hits.",
     "Items/Mods/Deep Dungeon/Sigils/serenity/description": "Meditate, warding off all unnatural afflictions. All floor enchantments are dispelled.",
     "Items/Mods/Deep Dungeon/Sigils/safety/description": "Focus, observing your surroundings. All floor traps are disabled.",

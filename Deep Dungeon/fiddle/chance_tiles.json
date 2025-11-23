@@ -1,0 +1,39 @@
+{
+    "dungeons/misc/chance_tiles/4": 100,
+    "dungeons/misc/chance_tiles": [
+        0,
+        100,
+        75,
+        50,
+        100,
+        10,
+        5,
+        1
+    ],
+    "dungeons/misc": {
+        "chance_tiles": [
+            0,
+            100,
+            75,
+            50,
+            100,
+            10,
+            5,
+            1
+        ]
+    },
+    "dungeons": {
+        "misc": {
+            "chance_tiles": [
+                0,
+                100,
+                75,
+                50,
+                100,
+                10,
+                5,
+                1
+            ]
+        }
+    }
+}
