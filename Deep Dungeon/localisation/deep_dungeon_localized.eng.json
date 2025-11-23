@@ -1,7 +1,7 @@
 {
     "Conversations/Mods/Deep Dungeon/Special/dread": "Be careful, hero... A powerful ^dread beast^ haunts this floor...",
 
-    "Conversations/Mods/Deep Dungeon/Floor Enchantments/Negative/gloom": "=Gloom=: A purple haze has =flooded the dungeon floor=.",
+    "Conversations/Mods/Deep Dungeon/Floor Enchantments/Negative/gloom": "=Gloom=: A mysterious purple haze is =empowering the monsters=.",
     "Conversations/Mods/Deep Dungeon/Floor Enchantments/Negative/hp_penalty": "=HP Penalty=: An ancient magic =siphons some of your life=.",
     "Conversations/Mods/Deep Dungeon/Floor Enchantments/Negative/exhaustion": "=Exhaustion=: An ancient magic =saps some of your energy=.",
     "Conversations/Mods/Deep Dungeon/Floor Enchantments/Negative/amnesia": "=Amnesia=: Your knowledge of magic =eludes you=.",
@@ -16,17 +16,31 @@
     "Conversations/Mods/Deep Dungeon/Floor Enchantments/Positive/haste": "$Haste$: You feel $lighter than air$.",
     "Conversations/Mods/Deep Dungeon/Floor Enchantments/Positive/hp_stamina_boost": "$HP/ST Boost$: You feel an extraodinarily strong $sense of resolve$.",
     
-    "Items/Mods/Deep Dungeon/Sigils/rage": "Unleash your fury, causing all attacks to do guaranteed critical lethal damage.",
-    "Items/Mods/Deep Dungeon/Sigils/strength": "Empower yourself, increasing damage dealt by 30%.",
-    "Items/Mods/Deep Dungeon/Sigils/fortification": "Steel yourself, reducing damage received by 40%.",
-    "Items/Mods/Deep Dungeon/Sigils/protection": "The priestess protects you, providing a magical barrier that absorbs the next 2 hits.",
-    "Items/Mods/Deep Dungeon/Sigils/serenity": "Meditate, warding off all unnatural afflictions. All floor enchantments are dispelled.",
-    "Items/Mods/Deep Dungeon/Sigils/safety": "Focus, observing your surroundings. All floor traps are disabled.",
-    "Items/Mods/Deep Dungeon/Sigils/silence": "You hear nothing but silence. The next dungeon floor will have less monsters.",
-    "Items/Mods/Deep Dungeon/Sigils/fortune": "Fortune favors the bold. Traverse the ladder to the next dungeon floor.",
-    "Items/Mods/Deep Dungeon/Sigils/redemption": "The priestess blesses you, providing you with a second chance at life.",
-    "Items/Mods/Deep Dungeon/Sigils/alteration": "The future is unpredictable. Some monsters may be altered on the next dungeon floor.",
-    "Items/Mods/Deep Dungeon/Sigils/concealment": "You move stealthfully, avoiding detection by monsters.",
+    "Items/Mods/Deep Dungeon/Sigils/rage/name": "Sigil of Rage",
+    "Items/Mods/Deep Dungeon/Sigils/strength/name": "Sigil of Strength",
+    "Items/Mods/Deep Dungeon/Sigils/fortification/name": "Sigil of Fortification",
+    "Items/Mods/Deep Dungeon/Sigils/protection/name": "Sigil of Protection",
+    "Items/Mods/Deep Dungeon/Sigils/serenity/name": "Sigil of Serenity",
+    "Items/Mods/Deep Dungeon/Sigils/safety/name": "Sigil of Safety",
+    "Items/Mods/Deep Dungeon/Sigils/silence/name": "Sigil of Silence",
+    "Items/Mods/Deep Dungeon/Sigils/fortune/name": "Sigil of Fortune",
+    "Items/Mods/Deep Dungeon/Sigils/redemption/name": "Sigil of Redemption",
+    "Items/Mods/Deep Dungeon/Sigils/alteration/name": "Sigil of Alteration",
+    "Items/Mods/Deep Dungeon/Sigils/concealment/name": "Sigil of Concealment",
+    "Items/Mods/Deep Dungeon/Sigils/temptation/name": "Sigil of Temptation",
+    
+    "Items/Mods/Deep Dungeon/Sigils/rage/description": "Unleash your fury, causing all attacks to do guaranteed critical lethal damage.",
+    "Items/Mods/Deep Dungeon/Sigils/strength/description": "Empower yourself, increasing damage dealt by 30%.",
+    "Items/Mods/Deep Dungeon/Sigils/fortification/description": "Steel yourself, reducing damage received by 40%.",
+    "Items/Mods/Deep Dungeon/Sigils/protection/description": "The priestess protects you, providing a magical barrier that absorbs the next 2 hits.",
+    "Items/Mods/Deep Dungeon/Sigils/serenity/description": "Meditate, warding off all unnatural afflictions. All floor enchantments are dispelled.",
+    "Items/Mods/Deep Dungeon/Sigils/safety/description": "Focus, observing your surroundings. All floor traps are disabled.",
+    "Items/Mods/Deep Dungeon/Sigils/silence/description": "You hear nothing but silence. The next dungeon floor will have less monsters.",
+    "Items/Mods/Deep Dungeon/Sigils/fortune/description": "Fortune favors the bold. Traverse the ladder to the next dungeon floor.",
+    "Items/Mods/Deep Dungeon/Sigils/redemption/description": "The priestess blesses you, providing you with a second chance at life.",
+    "Items/Mods/Deep Dungeon/Sigils/alteration/description": "The future is unpredictable. Some monsters may be altered on the next dungeon floor.",
+    "Items/Mods/Deep Dungeon/Sigils/concealment/description": "Your body becomes ethereal, allowing you to remain undetected by monsters.",
+    "Items/Mods/Deep Dungeon/Sigils/temptation/description": "Give in, and listen to the faint whispers that call out to you.",
 
     "Notifications/Mods/Deep Dungeon/Traps/explosive": "The hidden floor trap explodes, damaging you and all nearby monsters!",
     "Notifications/Mods/Deep Dungeon/Traps/luring": "The hidden floor rune activates, summoning monsters nearby!",
@@ -40,5 +54,10 @@
     "Conversations/Mods/Deep Dungeon/Shrines/Positive/inner_fire": "$Inner Fire$: Channel you inner fire and $breathe flames$ of destruction.",
     "Conversations/Mods/Deep Dungeon/Shrines/Positive/grit": "$Grit$: Your unending $courage and resolve$ lead you forward.",
 
-    "Tutorials/Mods/Deep Dungeon/dungeon_curse": "All buffs are removed at the start of a floor. Items not specific to the Deep Dungeon are prohibited."
+    "Tutorials/Mods/Deep Dungeon/dungeon_curse": "All buffs are removed at the start of a floor. Items not specific to the Deep Dungeon are prohibited.",
+
+    "Notifications/Mods/Deep Dungeon/Sigils/concealment/deactivated": "Your concealment fades! Monsters will now detect you.",
+    "Notifications/Mods/Deep Dungeon/item_penalty": "You are unable to use any healing items due to the Item Penalty floor enchantment!",
+    "Notifications/Mods/Deep Dungeon/item_prohibited": "You may only use healing items specific to the Deep Dungeon!",
+    "Notifications/Mods/Deep Dungeon/item_restricted": "You may only use Deep Dungeon specific items inside the dungeon!"
 }
