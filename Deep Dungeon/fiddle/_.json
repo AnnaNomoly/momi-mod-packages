@@ -3,6 +3,13 @@
     "other": {
       "blacksmithing": {
         "sword_scrap_metal": null
+      },
+      "armor": {
+        "scrap_metal_helmet": null,
+        "scrap_metal_chestpiece": null,
+        "scrap_metal_pants": null,
+        "scrap_metal_boots": null,
+        "scrap_metal_ring": null
       }
     }
   }

@@ -24,7 +24,32 @@
       "item": "sword_scrap_metal",
       "store": "blacksmith",
       "category": "spr_ui_store_category_icon_sword"
-    }
+    },
+    {
+      "item": "scrap_metal_helmet",
+      "store": "blacksmith",
+      "category": "spr_ui_store_category_icon_sword"
+    },
+    {
+      "item": "scrap_metal_chestpiece",
+      "store": "blacksmith",
+      "category": "spr_ui_store_category_icon_sword"
+    },
+    {
+      "item": "scrap_metal_pants",
+      "store": "blacksmith",
+      "category": "spr_ui_store_category_icon_sword"
+    },
+    {
+      "item": "scrap_metal_boots",
+      "store": "blacksmith",
+      "category": "spr_ui_store_category_icon_sword"
+    },
+    {
+      "item": "scrap_metal_ring",
+      "store": "blacksmith",
+      "category": "spr_ui_store_category_icon_sword"
+    }   
   ],
   "categories": [
     {

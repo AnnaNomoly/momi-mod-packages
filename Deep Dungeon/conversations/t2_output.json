@@ -53,5 +53,338 @@
         ],
         "can_talk_after": true,
         "priority": "Basement"
+    },
+    "Conversations/Mods/Deep Dungeon/offering/health": {
+        "kind": "GameplayTriggered",
+        "requires": [],
+        "writes": [],
+        "actions": [],
+        "lines": {
+            "1": {
+                "local": "Conversations/Mods/Deep Dungeon/offering/1/health",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "prompts",
+                    "content": [
+                        {
+                            "local": "Conversations/Mods/Deep Dungeon/offering/prompts/0",
+                            "next_lines": [
+                                {
+                                    "line_id": "2a",
+                                    "requirements": []
+                                }
+                            ]
+                        },
+                        {
+                            "local": "Conversations/Mods/Deep Dungeon/offering/prompts/1",
+                            "next_lines": [
+                                {
+                                    "line_id": "3",
+                                    "requirements": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "2a": {
+                "local": "Conversations/Mods/Deep Dungeon/offering/2/health",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "next_lines",
+                    "content": [
+                        {
+                            "line_id": "2b",
+                            "requirements": []
+                        }
+                    ]
+                }
+            },
+            "2b": {
+                "local": "Conversations/Mods/Deep Dungeon/placeholders/offerings/result",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "3": {
+                "local": "Conversations/Mods/Deep Dungeon/offering/3",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "speaker",
+                        "content": "seridia"
+                    },
+                    {
+                        "type": "portrait",
+                        "content": "eyes_shine"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "init": {
+                "local": "Conversations/Mods/Deep Dungeon/offering/init",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "next_lines",
+                    "content": [
+                        {
+                            "line_id": "1",
+                            "requirements": []
+                        }
+                    ]
+                }
+            }
+        },
+        "multiple_speakers_in_conversation": false,
+        "speakers_in_conversation": [
+            "seridia"
+        ],
+        "can_talk_after": true,
+        "priority": "Basement"
+    },
+    "Conversations/Mods/Deep Dungeon/offering/stamina": {
+        "kind": "GameplayTriggered",
+        "requires": [],
+        "writes": [],
+        "actions": [],
+        "lines": {
+            "1": {
+                "local": "Conversations/Mods/Deep Dungeon/offering/1/stamina",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "prompts",
+                    "content": [
+                        {
+                            "local": "Conversations/Mods/Deep Dungeon/offering/prompts/0",
+                            "next_lines": [
+                                {
+                                    "line_id": "2a",
+                                    "requirements": []
+                                }
+                            ]
+                        },
+                        {
+                            "local": "Conversations/Mods/Deep Dungeon/offering/prompts/1",
+                            "next_lines": [
+                                {
+                                    "line_id": "3",
+                                    "requirements": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "2a": {
+                "local": "Conversations/Mods/Deep Dungeon/offering/2/stamina",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "next_lines",
+                    "content": [
+                        {
+                            "line_id": "2b",
+                            "requirements": []
+                        }
+                    ]
+                }
+            },
+            "2b": {
+                "local": "Conversations/Mods/Deep Dungeon/placeholders/offerings/result",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "3": {
+                "local": "Conversations/Mods/Deep Dungeon/offering/3",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "speaker",
+                        "content": "seridia"
+                    },
+                    {
+                        "type": "portrait",
+                        "content": "eyes_shine"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "init": {
+                "local": "Conversations/Mods/Deep Dungeon/offering/init",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "next_lines",
+                    "content": [
+                        {
+                            "line_id": "1",
+                            "requirements": []
+                        }
+                    ]
+                }
+            }
+        },
+        "multiple_speakers_in_conversation": false,
+        "speakers_in_conversation": [
+            "seridia"
+        ],
+        "can_talk_after": true,
+        "priority": "Basement"
+    },
+    "Conversations/Mods/Deep Dungeon/offering/mana": {
+        "kind": "GameplayTriggered",
+        "requires": [],
+        "writes": [],
+        "actions": [],
+        "lines": {
+            "1": {
+                "local": "Conversations/Mods/Deep Dungeon/offering/1/mana",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "prompts",
+                    "content": [
+                        {
+                            "local": "Conversations/Mods/Deep Dungeon/offering/prompts/0",
+                            "next_lines": [
+                                {
+                                    "line_id": "2a",
+                                    "requirements": []
+                                }
+                            ]
+                        },
+                        {
+                            "local": "Conversations/Mods/Deep Dungeon/offering/prompts/1",
+                            "next_lines": [
+                                {
+                                    "line_id": "3",
+                                    "requirements": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "2a": {
+                "local": "Conversations/Mods/Deep Dungeon/offering/2/mana",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "next_lines",
+                    "content": [
+                        {
+                            "line_id": "2b",
+                            "requirements": []
+                        }
+                    ]
+                }
+            },
+            "2b": {
+                "local": "Conversations/Mods/Deep Dungeon/placeholders/offerings/result",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "3": {
+                "local": "Conversations/Mods/Deep Dungeon/offering/3",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "speaker",
+                        "content": "seridia"
+                    },
+                    {
+                        "type": "portrait",
+                        "content": "eyes_shine"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "init": {
+                "local": "Conversations/Mods/Deep Dungeon/offering/init",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "next_lines",
+                    "content": [
+                        {
+                            "line_id": "1",
+                            "requirements": []
+                        }
+                    ]
+                }
+            }
+        },
+        "multiple_speakers_in_conversation": false,
+        "speakers_in_conversation": [
+            "seridia"
+        ],
+        "can_talk_after": true,
+        "priority": "Basement"
     }
 }

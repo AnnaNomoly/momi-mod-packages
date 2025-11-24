@@ -1,0 +1,99 @@
+{
+  "items": {
+    "other": {
+      "blacksmithing": {
+        "sword_scrap_metal": {
+          "description": "Items/Mods/Deep Dungeon/Swords/mistpool/description",
+          "damage": 1,
+          "icon_sprite": "spr_ui_item_tool_scrap_metal_sword",
+          "name": "Items/Mods/Deep Dungeon/Swords/mistpool/name",
+          "quality": "tier1",
+          "tags": [
+            "sword",
+            "weapon"
+          ],
+          "value": {
+            "bin": 0,
+            "store": 500
+          }
+        }
+      },
+      "armor": {
+        "scrap_metal_helmet": {
+          "description": "Items/Mods/Deep Dungeon/Armor/mistpool_helmet/description",
+          "icon_sprite": "spr_ui_item_equipment_scrap_metal_helmet",
+          "defense": 0,
+          "name": "Items/Mods/Deep Dungeon/Armor/mistpool_helmet/name",
+          "tags": [
+            "head",
+            "armor"
+          ],
+          "cosmetic_to_unlock": "head_scrap_metal_helmet",
+          "value": {
+            "bin": 0,
+            "store": 500
+          }
+        },
+        "scrap_metal_chestpiece": {
+          "description": "Items/Mods/Deep Dungeon/Armor/mistpool_chestpiece/description",
+          "icon_sprite": "spr_ui_item_equipment_scrap_metal_chestpiece",
+          "defense": 0,
+          "name": "Items/Mods/Deep Dungeon/Armor/mistpool_chestpiece/name",
+          "tags": [
+            "chest",
+            "armor"
+          ],
+          "cosmetic_to_unlock": "top_scrap_metal",
+          "value": {
+            "bin": 0,
+            "store": 500
+          }
+        },
+        "scrap_metal_pants": {
+          "description": "Items/Mods/Deep Dungeon/Armor/mistpool_pants/description",
+          "icon_sprite": "spr_ui_item_equipment_scrap_metal_pants",
+          "defense": 0,
+          "name": "Items/Mods/Deep Dungeon/Armor/mistpool_pants/name",
+          "tags": [
+            "legs",
+            "armor"
+          ],
+          "cosmetic_to_unlock": "pants_scrap_metal",
+          "value": {
+            "bin": 0,
+            "store": 500
+          }
+        },
+        "scrap_metal_boots": {
+          "description": "Items/Mods/Deep Dungeon/Armor/mistpool_boots/description",
+          "defense": 0,
+          "icon_sprite": "spr_ui_item_equipment_scrap_metal_boots",
+          "name": "Items/Mods/Deep Dungeon/Armor/mistpool_boots/name",
+          "tags": [
+            "boots",
+            "armor"
+          ],
+          "cosmetic_to_unlock": "shoes_boots_scrap_metal",
+          "value": {
+            "bin": 0,
+            "store": 500
+          }
+        },
+        "scrap_metal_ring": {
+          "description": "Items/Mods/Deep Dungeon/Armor/mistpool_ring/description",
+          "defense": 0,
+          "icon_sprite": "spr_ui_item_equipment_scrap_metal_ring",
+          "name": "Items/Mods/Deep Dungeon/Armor/mistpool_ring/name",
+          "tags": [
+            "armor",
+            "accessory"
+          ],
+          "value": {
+            "bin": 0,
+            "store": 500
+          }
+        }
+      }
+    }
+  }
+}
