@@ -1,5 +1,5 @@
 {
-    "Conversations/Mods/Deep Dungeon/Special/dread": "Be careful, hero... A powerful ^dread beast^ haunts this floor...",
+    "Conversations/Mods/Deep Dungeon/Special/dread": "Be careful, hero...\n     A powerful ^dread beast^ haunts this floor...",
 
     "Conversations/Mods/Deep Dungeon/Floor Enchantments/Negative/gloom": "=Gloom=: A mysterious purple haze is =empowering the monsters=.",
     "Conversations/Mods/Deep Dungeon/Floor Enchantments/Negative/hp_penalty": "=HP Penalty=: An ancient magic =siphons some of your life=.",
@@ -21,9 +21,9 @@
     "Conversations/Mods/Deep Dungeon/offering/1/mana": "Make an ^Offering^ of =MANA= to complete the $Ritual$?",
     "Conversations/Mods/Deep Dungeon/offering/prompts/0": "I accept.",
     "Conversations/Mods/Deep Dungeon/offering/prompts/1": "Absolutely not!",
-    "Conversations/Mods/Deep Dungeon/offering/2/health": "It is done, mortal...\n     #Your HEALTH feeds my flesh...#",
-    "Conversations/Mods/Deep Dungeon/offering/2/stamina": "It is done, mortal...\n     #Your STAMINA feeds my spirit...#",
-    "Conversations/Mods/Deep Dungeon/offering/2/mana": "It is done, mortal...\n     #Your MANA feeds my mind...#",
+    "Conversations/Mods/Deep Dungeon/offering/2/health": "The $Ritual$ is complete, mortal...\n     #Your HEALTH feeds my flesh...#",
+    "Conversations/Mods/Deep Dungeon/offering/2/stamina": "The $Ritual$ is complete, mortal...\n     #Your STAMINA feeds my spirit...#",
+    "Conversations/Mods/Deep Dungeon/offering/2/mana": "The $Ritual$ is complete, mortal...\n     #Your MANA feeds my mind...#",
     "Conversations/Mods/Deep Dungeon/offering/3": "Hero...\n     do not succumb...\n          to the ^temptation^...",
 
     "Items/Mods/Deep Dungeon/Sigils/rage/name": "Sigil of Rage",

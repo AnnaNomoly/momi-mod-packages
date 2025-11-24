@@ -30,7 +30,7 @@
         "actions": [],
         "lines": {
             "init": {
-                "local": "Conversations/Mods/Deep Dungeon/placeholders/dread_beast_warning/init",
+                "local": "Conversations/Mods/Deep Dungeon/Special/dread",
                 "writes": [],
                 "actions": [
                     {
@@ -44,6 +44,55 @@
                 ],
                 "next_line_behavior": {
                     "type": "finish"
+                }
+            }
+        },
+        "multiple_speakers_in_conversation": false,
+        "speakers_in_conversation": [
+            "seridia"
+        ],
+        "can_talk_after": true,
+        "priority": "Basement"
+    },
+    "Conversations/Mods/Deep Dungeon/dread_beast_warning_and_floor_enchantments": {
+        "kind": "GameplayTriggered",
+        "requires": [],
+        "writes": [],
+        "actions": [],
+        "lines": {
+            "1": {
+                "local": "Conversations/Mods/Deep Dungeon/placeholders/floor_enchantments/init",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "init": {
+                "local": "Conversations/Mods/Deep Dungeon/Special/dread",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "speaker",
+                        "content": "seridia"
+                    },
+                    {
+                        "type": "portrait",
+                        "content": "neutral"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "next_lines",
+                    "content": [
+                        {
+                            "line_id": "1",
+                            "requirements": []
+                        }
+                    ]
                 }
             }
         },
