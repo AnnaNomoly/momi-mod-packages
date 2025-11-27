@@ -12,5 +12,15 @@
         "scrap_metal_ring": null
       }
     }
+  },
+  "ui/tutorials/mines/steps": null,
+  "ui/tutorials/mines": null,
+  "ui/tutorials": {
+    "mines": null
+  },
+  "ui": {
+    "tutorials": {
+      "mines": null
+    }
   }
 }

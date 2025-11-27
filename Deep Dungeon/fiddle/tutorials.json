@@ -1,0 +1,48 @@
+{
+    "ui/tutorials/mines/title": "Tutorials/Mods/Deep Dungeon/welcome/title",
+    "ui/tutorials/mines/steps/0/sprite": "spr_ui_tutorial_deep_dungeon_welcome",
+    "ui/tutorials/mines/steps/0/text": "Tutorials/Mods/Deep Dungeon/welcome/steps/0/text",
+    "ui/tutorials/mines/steps/0": {
+        "sprite": "spr_ui_tutorial_deep_dungeon_welcome",
+        "text": "Tutorials/Mods/Deep Dungeon/welcome/steps/0/text"
+    },
+    "ui/tutorials/mines/steps": [
+        {
+            "sprite": "spr_ui_tutorial_deep_dungeon_welcome",
+            "text": "Tutorials/Mods/Deep Dungeon/welcome/steps/0/text"
+        }
+    ],
+    "ui/tutorials/mines": {
+        "title": "Tutorials/Mods/Deep Dungeon/welcome/title",
+        "steps": [
+            {
+                "sprite": "spr_ui_tutorial_deep_dungeon_welcome",
+                "text": "Tutorials/Mods/Deep Dungeon/welcome/steps/0/text"
+            }
+        ]
+    },
+    "ui/tutorials": {
+        "mines": {
+            "title": "Tutorials/Mods/Deep Dungeon/welcome/title",
+            "steps": [
+                {
+                    "sprite": "spr_ui_tutorial_deep_dungeon_welcome",
+                    "text": "Tutorials/Mods/Deep Dungeon/welcome/steps/0/text"
+                }
+            ]
+        }
+    },
+    "ui": {
+        "tutorials": {
+            "mines": {
+                "title": "Tutorials/Mods/Deep Dungeon/welcome/title",
+                "steps": [
+                    {
+                        "sprite": "spr_ui_tutorial_deep_dungeon_welcome",
+                        "text": "Tutorials/Mods/Deep Dungeon/welcome/steps/0/text"
+                    }
+                ]
+            }
+        }
+    }
+}

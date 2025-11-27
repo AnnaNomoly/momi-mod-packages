@@ -121,6 +121,28 @@
         "IsAnimated": false,
         "IsUiItem": true
     },
+    "spr_ui_item_tool_mistpool_sword": {
+        "Location": "images/sword/spr_ui_item_tool_mistpool_sword.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_tool_mistpool_sword_disabled": {
+        "Location": "images/sword/spr_ui_item_tool_mistpool_sword_disabled.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
     "spr_ui_item_equipment_scrap_metal_helmet": {
         "Location": "images/armor/helmet/spr_ui_item_equipment_mistpool_helmet.png",
         "OutlineLocation": "images/armor/helmet/spr_ui_item_equipment_mistpool_helmet_outline.png",
