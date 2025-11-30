@@ -1,33 +1,141 @@
 {
     "ui/tutorials/mines/title": "Tutorials/Mods/Deep Dungeon/welcome/title",
     "ui/tutorials/mines/steps/0/sprite": "spr_ui_tutorial_deep_dungeon_welcome",
-    "ui/tutorials/mines/steps/0/text": "Tutorials/Mods/Deep Dungeon/welcome/steps/0/text",
+    "ui/tutorials/mines/steps/0/text": "Tutorials/Mods/Deep Dungeon/steps/0/text",
     "ui/tutorials/mines/steps/0": {
         "sprite": "spr_ui_tutorial_deep_dungeon_welcome",
-        "text": "Tutorials/Mods/Deep Dungeon/welcome/steps/0/text"
+        "text": "Tutorials/Mods/Deep Dungeon/steps/0/text"
+    },
+    "ui/tutorials/mines/steps/1/sprite": "spr_ui_tutorial_deep_dungeon_dungeons_curse",
+    "ui/tutorials/mines/steps/1/text": "Tutorials/Mods/Deep Dungeon/steps/1/text",
+    "ui/tutorials/mines/steps/1": {
+        "sprite": "spr_ui_tutorial_deep_dungeon_dungeons_curse",
+        "text": "Tutorials/Mods/Deep Dungeon/steps/1/text"
+    },
+    "ui/tutorials/mines/steps/2/sprite": "spr_ui_tutorial_deep_dungeon_floor_enchantments",
+    "ui/tutorials/mines/steps/2/text": "Tutorials/Mods/Deep Dungeon/steps/2/text",
+    "ui/tutorials/mines/steps/2": {
+        "sprite": "spr_ui_tutorial_deep_dungeon_floor_enchantments",
+        "text": "Tutorials/Mods/Deep Dungeon/steps/2/text"
+    },
+    "ui/tutorials/mines/steps/3/sprite": "spr_ui_tutorial_deep_dungeon_sigils",
+    "ui/tutorials/mines/steps/3/text": "Tutorials/Mods/Deep Dungeon/steps/3/text",
+    "ui/tutorials/mines/steps/3": {
+        "sprite": "spr_ui_tutorial_deep_dungeon_sigils",
+        "text": "Tutorials/Mods/Deep Dungeon/steps/3/text"
+    },
+    "ui/tutorials/mines/steps/4/sprite": "spr_ui_tutorial_deep_dungeon_salves",
+    "ui/tutorials/mines/steps/4/text": "Tutorials/Mods/Deep Dungeon/steps/4/text",
+    "ui/tutorials/mines/steps/4": {
+        "sprite": "spr_ui_tutorial_deep_dungeon_salves",
+        "text": "Tutorials/Mods/Deep Dungeon/steps/4/text"
+    },
+    "ui/tutorials/mines/steps/5/sprite": "spr_ui_tutorial_deep_dungeon_floor_traps",
+    "ui/tutorials/mines/steps/5/text": "Tutorials/Mods/Deep Dungeon/steps/5/text",
+    "ui/tutorials/mines/steps/5": {
+        "sprite": "spr_ui_tutorial_deep_dungeon_floor_traps",
+        "text": "Tutorials/Mods/Deep Dungeon/steps/5/text"
+    },
+    "ui/tutorials/mines/steps/6/sprite": "spr_ui_tutorial_deep_dungeon_offerings",
+    "ui/tutorials/mines/steps/6/text": "Tutorials/Mods/Deep Dungeon/steps/6/text",
+    "ui/tutorials/mines/steps/6": {
+        "sprite": "spr_ui_tutorial_deep_dungeon_offerings",
+        "text": "Tutorials/Mods/Deep Dungeon/steps/6/text"
     },
     "ui/tutorials/mines/steps": [
         {
             "sprite": "spr_ui_tutorial_deep_dungeon_welcome",
-            "text": "Tutorials/Mods/Deep Dungeon/welcome/steps/0/text"
+            "text": "Tutorials/Mods/Deep Dungeon/steps/0/text"
+        },
+        {
+            "sprite": "spr_ui_tutorial_deep_dungeon_dungeons_curse",
+            "text": "Tutorials/Mods/Deep Dungeon/steps/1/text"
+        },
+        {
+            "sprite": "spr_ui_tutorial_deep_dungeon_floor_enchantments",
+            "text": "Tutorials/Mods/Deep Dungeon/steps/2/text"
+        },
+        {
+            "sprite": "spr_ui_tutorial_deep_dungeon_sigils",
+            "text": "Tutorials/Mods/Deep Dungeon/steps/3/text"
+        },
+        {
+            "sprite": "spr_ui_tutorial_deep_dungeon_salves",
+            "text": "Tutorials/Mods/Deep Dungeon/steps/4/text"
+        },
+        {
+            "sprite": "spr_ui_tutorial_deep_dungeon_floor_traps",
+            "text": "Tutorials/Mods/Deep Dungeon/steps/5/text"
+        },
+        {
+            "sprite": "spr_ui_tutorial_deep_dungeon_offerings",
+            "text": "Tutorials/Mods/Deep Dungeon/steps/6/text"
         }
     ],
     "ui/tutorials/mines": {
-        "title": "Tutorials/Mods/Deep Dungeon/welcome/title",
+        "title": "Tutorials/Mods/Deep Dungeon/title",
         "steps": [
             {
                 "sprite": "spr_ui_tutorial_deep_dungeon_welcome",
-                "text": "Tutorials/Mods/Deep Dungeon/welcome/steps/0/text"
+                "text": "Tutorials/Mods/Deep Dungeon/steps/0/text"
+            },
+            {
+                "sprite": "spr_ui_tutorial_deep_dungeon_dungeons_curse",
+                "text": "Tutorials/Mods/Deep Dungeon/steps/1/text"
+            },
+            {
+                "sprite": "spr_ui_tutorial_deep_dungeon_floor_enchantments",
+                "text": "Tutorials/Mods/Deep Dungeon/steps/2/text"
+            },
+            {
+                "sprite": "spr_ui_tutorial_deep_dungeon_sigils",
+                "text": "Tutorials/Mods/Deep Dungeon/steps/3/text"
+            },
+            {
+                "sprite": "spr_ui_tutorial_deep_dungeon_salves",
+                "text": "Tutorials/Mods/Deep Dungeon/steps/4/text"
+            },
+            {
+                "sprite": "spr_ui_tutorial_deep_dungeon_floor_traps",
+                "text": "Tutorials/Mods/Deep Dungeon/steps/5/text"
+            },
+            {
+                "sprite": "spr_ui_tutorial_deep_dungeon_offerings",
+                "text": "Tutorials/Mods/Deep Dungeon/steps/6/text"
             }
         ]
     },
     "ui/tutorials": {
         "mines": {
-            "title": "Tutorials/Mods/Deep Dungeon/welcome/title",
+            "title": "Tutorials/Mods/Deep Dungeon/title",
             "steps": [
                 {
                     "sprite": "spr_ui_tutorial_deep_dungeon_welcome",
-                    "text": "Tutorials/Mods/Deep Dungeon/welcome/steps/0/text"
+                    "text": "Tutorials/Mods/Deep Dungeon/steps/0/text"
+                },
+                {
+                    "sprite": "spr_ui_tutorial_deep_dungeon_dungeons_curse",
+                    "text": "Tutorials/Mods/Deep Dungeon/steps/1/text"
+                },
+                {
+                    "sprite": "spr_ui_tutorial_deep_dungeon_floor_enchantments",
+                    "text": "Tutorials/Mods/Deep Dungeon/steps/2/text"
+                },
+                {
+                    "sprite": "spr_ui_tutorial_deep_dungeon_sigils",
+                    "text": "Tutorials/Mods/Deep Dungeon/steps/3/text"
+                },
+                {
+                    "sprite": "spr_ui_tutorial_deep_dungeon_salves",
+                    "text": "Tutorials/Mods/Deep Dungeon/steps/4/text"
+                },
+                {
+                    "sprite": "spr_ui_tutorial_deep_dungeon_floor_traps",
+                    "text": "Tutorials/Mods/Deep Dungeon/steps/5/text"
+                },
+                {
+                    "sprite": "spr_ui_tutorial_deep_dungeon_offerings",
+                    "text": "Tutorials/Mods/Deep Dungeon/steps/6/text"
                 }
             ]
         }
@@ -35,11 +143,35 @@
     "ui": {
         "tutorials": {
             "mines": {
-                "title": "Tutorials/Mods/Deep Dungeon/welcome/title",
+                "title": "Tutorials/Mods/Deep Dungeon/title",
                 "steps": [
                     {
                         "sprite": "spr_ui_tutorial_deep_dungeon_welcome",
-                        "text": "Tutorials/Mods/Deep Dungeon/welcome/steps/0/text"
+                        "text": "Tutorials/Mods/Deep Dungeon/steps/0/text"
+                    },
+                    {
+                        "sprite": "spr_ui_tutorial_deep_dungeon_dungeons_curse",
+                        "text": "Tutorials/Mods/Deep Dungeon/steps/1/text"
+                    },
+                    {
+                        "sprite": "spr_ui_tutorial_deep_dungeon_floor_enchantments",
+                        "text": "Tutorials/Mods/Deep Dungeon/steps/2/text"
+                    },
+                    {
+                        "sprite": "spr_ui_tutorial_deep_dungeon_sigils",
+                        "text": "Tutorials/Mods/Deep Dungeon/steps/3/text"
+                    },
+                    {
+                        "sprite": "spr_ui_tutorial_deep_dungeon_salves",
+                        "text": "Tutorials/Mods/Deep Dungeon/steps/4/text"
+                    },
+                    {
+                        "sprite": "spr_ui_tutorial_deep_dungeon_floor_traps",
+                        "text": "Tutorials/Mods/Deep Dungeon/steps/5/text"
+                    },
+                    {
+                        "sprite": "spr_ui_tutorial_deep_dungeon_offerings",
+                        "text": "Tutorials/Mods/Deep Dungeon/steps/6/text"
                     }
                 ]
             }

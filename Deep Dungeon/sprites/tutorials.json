@@ -1,5 +1,23 @@
 {
   "spr_ui_tutorial_deep_dungeon_welcome": {
-    "Location": "images/tutorials/deep_dungeon_welcome.png"
+    "Location": "images/tutorials/deep_dungeon_tutorial_welcome.png"
+  },
+  "spr_ui_tutorial_deep_dungeon_dungeons_curse": {
+    "Location": "images/tutorials/deep_dungeon_tutorial_dungeons_curse.png"
+  },
+  "spr_ui_tutorial_deep_dungeon_floor_enchantments": {
+    "Location": "images/tutorials/deep_dungeon_tutorial_floor_enchantments.png"
+  },
+  "spr_ui_tutorial_deep_dungeon_sigils": {
+    "Location": "images/tutorials/deep_dungeon_tutorial_sigils.png"
+  },
+  "spr_ui_tutorial_deep_dungeon_salves": {
+    "Location": "images/tutorials/deep_dungeon_tutorial_salves.png"
+  },
+  "spr_ui_tutorial_deep_dungeon_floor_traps": {
+    "Location": "images/tutorials/deep_dungeon_tutorial_traps.png"
+  },
+  "spr_ui_tutorial_deep_dungeon_offerings": {
+    "Location": "images/tutorials/deep_dungeon_tutorial_offerings.png"
   }
 }

@@ -1,0 +1,94 @@
+{
+  "spr_ui_item_potion_sustain": {
+    "Location": "images/salves/sustain/spr_ui_item_potion_sustain.png",
+    "OutlineLocation": "images/salves/sustain/spr_ui_item_potion_sustain_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_potion_sustain_disabled": {
+    "Location": "images/salves/sustain/spr_ui_item_potion_sustain_disabled.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_salve_health": {
+    "Location": "images/salves/health/spr_ui_item_salve_health.png",
+    "OutlineLocation": "images/salves/spr_ui_item_salve_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_salve_health_disabled": {
+    "Location": "images/salves/health/spr_ui_item_salve_health_disabled.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_salve_stamina": {
+    "Location": "images/salves/stamina/spr_ui_item_salve_stamina.png",
+    "OutlineLocation": "images/salves/spr_ui_item_salve_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_salve_stamina_disabled": {
+    "Location": "images/salves/stamina/spr_ui_item_salve_stamina_disabled.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_salve_mana": {
+    "Location": "images/salves/mana/spr_ui_item_salve_mana.png",
+    "OutlineLocation": "images/salves/spr_ui_item_salve_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_salve_mana_disabled": {
+    "Location": "images/salves/mana/spr_ui_item_salve_mana_disabled.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  }
+}

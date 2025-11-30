@@ -123,6 +123,7 @@
     },
     "spr_ui_item_tool_mistpool_sword": {
         "Location": "images/sword/spr_ui_item_tool_mistpool_sword.png",
+        "OutlineLocation": "images/sword/spr_ui_item_tool_mistpool_sword_outline.png",
         "OriginX": 9,
         "OriginY": 9,
         "MarginLeft": 0,
