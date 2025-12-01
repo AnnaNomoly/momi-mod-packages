@@ -1,0 +1,18 @@
+{
+  "spr_fx_attack_sword_ground_pound_back": {
+    "IsAnimated": true,
+    "OriginX": "53",
+    "OriginY": "53",
+    "Location": "images/spr_fx_attack_sword_ground_pound_back"
+  },
+  "spr_fx_attack_sword_ground_pound_front": {
+    "IsAnimated": true,
+    "OriginX": "53",
+    "OriginY": "53",
+    "Location": "images/spr_fx_attack_sword_ground_pound_front"
+  },
+  "spr_fx_attack_sword_ground_pound_shine": {
+    "IsAnimated": true,
+    "Location": "images/spr_fx_attack_sword_ground_pound_shine"
+  }
+}

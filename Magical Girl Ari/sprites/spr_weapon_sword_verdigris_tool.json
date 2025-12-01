@@ -1,0 +1,42 @@
+{
+  "spr_weapon_sword_verdigris_tool_combo1_e": {
+    "IsAnimated": true,
+    "Location": "images/spr_weapon_sword_verdigris_tool_combo1_e"
+  },
+  "spr_weapon_sword_verdigris_tool_combo1_n": {
+    "IsAnimated": true,
+    "Location": "images/spr_weapon_sword_verdigris_tool_combo1_n"
+  },
+  "spr_weapon_sword_verdigris_tool_combo1_s": {
+    "IsAnimated": true,
+    "Location": "images/spr_weapon_sword_verdigris_tool_combo1_s"
+  },
+  "spr_weapon_sword_verdigris_tool_combo2_e": {
+    "IsAnimated": true,
+    "Location": "images/spr_weapon_sword_verdigris_tool_combo2_e"
+  },
+  "spr_weapon_sword_verdigris_tool_combo2_n": {
+    "IsAnimated": true,
+    "Location": "images/spr_weapon_sword_verdigris_tool_combo2_n"
+  },
+  "spr_weapon_sword_verdigris_tool_combo2_s": {
+    "IsAnimated": true,
+    "Location": "images/spr_weapon_sword_verdigris_tool_combo2_s"
+  },
+  "spr_weapon_sword_verdigris_tool_combo3_e": {
+    "IsAnimated": true,
+    "Location": "images/spr_weapon_sword_verdigris_tool_combo3_e"
+  },
+  "spr_weapon_sword_verdigris_tool_combo3_n": {
+    "IsAnimated": true,
+    "Location": "images/spr_weapon_sword_verdigris_tool_combo3_n"
+  },
+  "spr_weapon_sword_verdigris_tool_combo3_s": {
+    "IsAnimated": true,
+    "Location": "images/spr_weapon_sword_verdigris_tool_combo3_s"
+  },
+  "spr_weapon_sword_verdigris_tool_down_attack_e": {
+    "IsAnimated": true,
+    "Location": "images/spr_weapon_sword_verdigris_tool_down_attack_e"
+  }
+}

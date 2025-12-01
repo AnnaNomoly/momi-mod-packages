@@ -1,12 +1,12 @@
 {
-  "Conversations/Mods/MagicalGirlAri/juniper_contract": {
+  "Conversations/Mods/Magical Girl Ari/juniper_contract": {
     "kind": "GameplayTriggered",
     "requires": [],
     "writes": [],
     "actions": [],
     "lines": {
       "1": {
-        "local": "Conversations/Mods/MagicalGirlAri/juniper_contract/1",
+        "local": "Conversations/Mods/Magical Girl Ari/juniper_contract/1",
         "writes": [],
         "actions": [
           {
@@ -27,7 +27,7 @@
         }
       },
       "init": {
-        "local": "Conversations/Mods/MagicalGirlAri/juniper_contract/init",
+        "local": "Conversations/Mods/Magical Girl Ari/juniper_contract/init",
         "writes": [],
         "actions": [
           {

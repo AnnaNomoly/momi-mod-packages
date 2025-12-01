@@ -1,0 +1,14 @@
+{
+    "spr_ui_item_tool_verdigris_sword": {
+        "Location": "images/spr_ui_item_tool_verdigris_sword.png",
+        "OutlineLocation": "images/spr_ui_item_tool_verdigris_sword_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    }
+}
