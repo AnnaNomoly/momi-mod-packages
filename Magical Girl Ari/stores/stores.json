@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "item": "sword_verdigris",
+      "store": "blacksmith",
+      "category": "spr_ui_store_category_icon_sword"
+    }   
+  ],
+  "categories": [
+    {
+      "store": "blacksmith",
+      "icon_name": "spr_ui_store_category_icon_sword",
+      "sprite": "images/categories/spr_ui_store_category_icon_sword.png"
+    }
+  ]
+}
