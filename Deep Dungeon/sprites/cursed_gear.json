@@ -1,0 +1,74 @@
+{
+    "spr_ui_item_equipment_cursed_helmet": {
+        "Location": "images/armor/cursed/helmet/spr_ui_item_equipment_cursed_helmet.png",
+        "OutlineLocation": "images/armor/cursed/helmet/spr_ui_item_equipment_cursed_helmet_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_cursed_chestpiece": {
+        "Location": "images/armor/cursed/chestpiece/spr_ui_item_equipment_cursed_chestpiece.png",
+        "OutlineLocation": "images/armor/cursed/chestpiece/spr_ui_item_equipment_cursed_chestpiece_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_cursed_pants": {
+        "Location": "images/armor/cursed/pants/spr_ui_item_equipment_cursed_pants.png",
+        "OutlineLocation": "images/armor/cursed/pants/spr_ui_item_equipment_cursed_pants_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_cursed_boots": {
+        "Location": "images/armor/cursed/boots/spr_ui_item_equipment_cursed_boots.png",
+        "OutlineLocation": "images/armor/cursed/boots/spr_ui_item_equipment_cursed_boots_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_cursed_gloves": {
+        "Location": "images/armor/cursed/gloves/spr_ui_item_equipment_cursed_gloves.png",
+        "OutlineLocation": "images/armor/cursed/gloves/spr_ui_item_equipment_cursed_gloves_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_cursed_bracelet": {
+        "Location": "images/armor/cursed/bracelet/spr_ui_item_equipment_cursed_bracelet.png",
+        "OutlineLocation": "images/armor/cursed/bracelet/spr_ui_item_equipment_cursed_bracelet_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    }
+}

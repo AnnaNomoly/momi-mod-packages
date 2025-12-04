@@ -1,0 +1,74 @@
+{
+    "cursed_helmet": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/cursed_helmet/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/cursed_helmet/name",
+        "icon_sprite": "spr_ui_item_equipment_cursed_helmet",
+        "tags": [
+            "material"
+        ],
+        "value": {
+            "bin": 0
+        }
+    },
+    "cursed_chestpiece": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/cursed_chestpiece/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/cursed_chestpiece/name",
+        "icon_sprite": "spr_ui_item_equipment_cursed_chestpiece",
+        "tags": [
+            "material"
+        ],
+        "value": {
+            "bin": 0
+        }
+    },
+    "cursed_pants": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/cursed_pants/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/cursed_pants/name",
+        "icon_sprite": "spr_ui_item_equipment_cursed_pants",
+        "tags": [
+            "material"
+        ],
+        "value": {
+            "bin": 0
+        }
+    },
+    "cursed_boots": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/cursed_boots/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/cursed_boots/name",
+        "icon_sprite": "spr_ui_item_equipment_cursed_boots",
+        "tags": [
+            "material"
+        ],
+        "value": {
+            "bin": 0
+        }
+    },
+    "cursed_gloves": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/cursed_gloves/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/cursed_gloves/name",
+        "icon_sprite": "spr_ui_item_equipment_cursed_gloves",
+        "tags": [
+            "material"
+        ],
+        "value": {
+            "bin": 0
+        }
+    },
+    "cursed_bracelet": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/cursed_bracelet/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/cursed_bracelet/name",
+        "icon_sprite": "spr_ui_item_equipment_cursed_bracelet",
+        "tags": [
+            "material"
+        ],
+        "value": {
+            "bin": 0
+        }
+    }
+}

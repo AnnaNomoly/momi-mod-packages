@@ -1,0 +1,170 @@
+{
+    "cleric_helmet": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/cleric_helmet/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/cleric_helmet/name",
+        "icon_sprite": "spr_ui_item_equipment_cleric_helmet",
+        "defense": 6,
+        "default_infusion": "hasty",
+        "recipe_is_default": true,
+        "tags": [
+            "head",
+            "armor",
+            "blacksmithing"
+        ],
+        "crafting_level_requirement": 1,
+        "recipe": [
+            {
+                "hours": 0,
+                "minutes": 10
+            },
+            {
+                "count": 4,
+                "item": "gold_ingot"
+            }
+        ],
+        "value": {
+            "bin": 0
+        }
+    },
+    "cleric_chestpiece": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/cleric_chestpiece/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/cleric_chestpiece/name",
+        "icon_sprite": "spr_ui_item_equipment_cleric_chestpiece",
+        "defense": 6,
+        "default_infusion": "hasty",
+        "recipe_is_default": true,
+        "tags": [
+            "chest",
+            "armor",
+            "blacksmithing"
+        ],
+        "crafting_level_requirement": 1,
+        "recipe": [
+            {
+                "hours": 0,
+                "minutes": 10
+            },
+            {
+                "count": 4,
+                "item": "gold_ingot"
+            }
+        ],
+        "value": {
+            "bin": 0
+        }
+    },
+    "cleric_pants": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/cleric_pants/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/cleric_pants/name",
+        "icon_sprite": "spr_ui_item_equipment_cleric_pants",
+        "defense": 6,
+        "default_infusion": "hasty",
+        "recipe_is_default": true,
+        "tags": [
+            "legs",
+            "armor",
+            "blacksmithing"
+        ],
+        "crafting_level_requirement": 1,
+        "recipe": [
+            {
+                "hours": 0,
+                "minutes": 10
+            },
+            {
+                "count": 4,
+                "item": "gold_ingot"
+            }
+        ],
+        "value": {
+            "bin": 0
+        }
+    },
+    "cleric_boots": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/cleric_boots/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/cleric_boots/name",
+        "icon_sprite": "spr_ui_item_equipment_cleric_boots",
+        "defense": 6,
+        "default_infusion": "hasty",
+        "recipe_is_default": true,
+        "tags": [
+            "boots",
+            "armor",
+            "blacksmithing"
+        ],
+        "crafting_level_requirement": 1,
+        "recipe": [
+            {
+                "hours": 0,
+                "minutes": 10
+            },
+            {
+                "count": 4,
+                "item": "gold_ingot"
+            }
+        ],
+        "value": {
+            "bin": 0
+        }
+    },
+    "cleric_gloves": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/cleric_gloves/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/cleric_gloves/name",
+        "icon_sprite": "spr_ui_item_equipment_cleric_gloves",
+        "defense": 6,
+        "default_infusion": "hasty",
+        "recipe_is_default": true,
+        "tags": [
+            "armor",
+            "accessory",
+            "blacksmithing"
+        ],
+        "crafting_level_requirement": 1,
+        "recipe": [
+            {
+                "hours": 0,
+                "minutes": 10
+            },
+            {
+                "count": 4,
+                "item": "gold_ingot"
+            }
+        ],
+        "value": {
+            "bin": 0
+        }
+    },
+    "cleric_bracelet": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/cleric_bracelet/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/cleric_bracelet/name",
+        "icon_sprite": "spr_ui_item_equipment_cleric_bracelet",
+        "defense": 6,
+        "default_infusion": "hasty",
+        "recipe_is_default": true,
+        "tags": [
+            "armor",
+            "accessory",
+            "blacksmithing"
+        ],
+        "crafting_level_requirement": 1,
+        "recipe": [
+            {
+                "hours": 0,
+                "minutes": 10
+            },
+            {
+                "count": 4,
+                "item": "gold_ingot"
+            }
+        ],
+        "value": {
+            "bin": 0
+        }
+    }
+}

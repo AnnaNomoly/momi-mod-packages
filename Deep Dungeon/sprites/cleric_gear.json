@@ -1,0 +1,74 @@
+{
+    "spr_ui_item_equipment_cleric_helmet": {
+        "Location": "images/armor/cleric/helmet/spr_ui_item_equipment_cleric_helmet.png",
+        "OutlineLocation": "images/armor/cleric/helmet/spr_ui_item_equipment_cleric_helmet_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_cleric_chestpiece": {
+        "Location": "images/armor/cleric/chestpiece/spr_ui_item_equipment_cleric_chestpiece.png",
+        "OutlineLocation": "images/armor/cleric/chestpiece/spr_ui_item_equipment_cleric_chestpiece_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_cleric_pants": {
+        "Location": "images/armor/cleric/pants/spr_ui_item_equipment_cleric_pants.png",
+        "OutlineLocation": "images/armor/cleric/pants/spr_ui_item_equipment_cleric_pants_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_cleric_boots": {
+        "Location": "images/armor/cleric/boots/spr_ui_item_equipment_cleric_boots.png",
+        "OutlineLocation": "images/armor/cleric/boots/spr_ui_item_equipment_cleric_boots_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_cleric_gloves": {
+        "Location": "images/armor/cleric/gloves/spr_ui_item_equipment_cleric_gloves.png",
+        "OutlineLocation": "images/armor/cleric/gloves/spr_ui_item_equipment_cleric_gloves_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_cleric_bracelet": {
+        "Location": "images/armor/cleric/bracelet/spr_ui_item_equipment_cleric_bracelet.png",
+        "OutlineLocation": "images/armor/cleric/bracelet/spr_ui_item_equipment_cleric_bracelet_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    }
+}
