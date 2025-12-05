@@ -1,0 +1,14 @@
+{
+  "spr_ui_item_soul_stone_cleric": {
+    "Location": "images/materials/soul_stone/cleric/spr_ui_item_soul_stone_cleric.png",
+    "OutlineLocation": "images/materials/soul_stone/cleric/spr_ui_item_soul_stone_cleric_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  }
+}

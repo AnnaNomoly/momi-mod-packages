@@ -1,0 +1,14 @@
+{
+    "soul_stone_cleric": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Soul Stones/cleric/description",
+        "name": "Items/Mods/Deep Dungeon/Soul Stones/cleric/name",
+        "icon_sprite": "spr_ui_item_soul_stone_cleric",
+        "tags": [
+            "material"
+        ],
+        "value": {
+            "bin": 0
+        }
+    }
+}

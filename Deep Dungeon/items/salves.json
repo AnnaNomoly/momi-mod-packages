@@ -6,7 +6,6 @@
         "icon_sprite": "spr_ui_item_potion_sustain",
         "edible": true,
         "default_infusion": "restorative",
-        "recipe_is_default": false,
         "tags": [
             "drink_sound"
         ],
@@ -22,7 +21,6 @@
         "icon_sprite": "spr_ui_item_salve_health",
         "edible": true,
         "health_modifier": 30,
-        "recipe_is_default": false,
         "tags": [
             "drink_sound"
         ],
@@ -38,7 +36,6 @@
         "icon_sprite": "spr_ui_item_salve_stamina",
         "edible": true,
         "stamina_modifier": 30,
-        "recipe_is_default": false,
         "tags": [
             "drink_sound"
         ],
@@ -54,7 +51,6 @@
         "icon_sprite": "spr_ui_item_salve_mana",
         "edible": true,
         "mana_modifier": 1,
-        "recipe_is_default": false,
         "tags": [
             "drink_sound"
         ],

@@ -1,0 +1,62 @@
+{
+  "spr_ui_item_glow_stone_giant": {
+    "Location": "images/materials/glow_stone/giant/spr_ui_item_glow_stone_giant.png",
+    "OutlineLocation": "images/materials/glow_stone/giant/spr_ui_item_glow_stone_giant_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_glow_stone_large": {
+    "Location": "images/materials/glow_stone/large/spr_ui_item_glow_stone_large.png",
+    "OutlineLocation": "images/materials/glow_stone/large/spr_ui_item_glow_stone_large_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_glow_stone_medium": {
+    "Location": "images/materials/glow_stone/medium/spr_ui_item_glow_stone_medium.png",
+    "OutlineLocation": "images/materials/glow_stone/medium/spr_ui_item_glow_stone_medium_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_glow_stone_small": {
+    "Location": "images/materials/glow_stone/small/spr_ui_item_glow_stone_small.png",
+    "OutlineLocation": "images/materials/glow_stone/small/spr_ui_item_glow_stone_small_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_glow_stone_tiny": {
+    "Location": "images/materials/glow_stone/tiny/spr_ui_item_glow_stone_tiny.png",
+    "OutlineLocation": "images/materials/glow_stone/tiny/spr_ui_item_glow_stone_tiny_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  }
+}

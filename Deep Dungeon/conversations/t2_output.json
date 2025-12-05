@@ -1,4 +1,28 @@
 {
+    "Conversations/Mods/Deep Dungeon/Progression Mode/elevator_locked": {
+        "kind": "GameplayTriggered",
+        "requires": [],
+        "writes": [],
+        "actions": [],
+        "lines": {
+            "init": {
+                "local": "Conversations/Mods/Deep Dungeon/Progression Mode/elevator_locked/init",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            }
+        },
+        "multiple_speakers_in_conversation": false,
+        "speakers_in_conversation": [],
+        "can_talk_after": true,
+        "priority": "Basement"
+    },
     "Conversations/Mods/Deep Dungeon/floor_enchantments": {
         "kind": "GameplayTriggered",
         "requires": [],

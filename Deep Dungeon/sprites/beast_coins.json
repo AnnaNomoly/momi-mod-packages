@@ -1,0 +1,62 @@
+{
+  "spr_ui_item_beast_coin_giant": {
+    "Location": "images/materials/beast_coin/giant/spr_ui_item_beast_coin_giant.png",
+    "OutlineLocation": "images/materials/beast_coin/giant/spr_ui_item_beast_coin_giant_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_beast_coin_large": {
+    "Location": "images/materials/beast_coin/large/spr_ui_item_beast_coin_large.png",
+    "OutlineLocation": "images/materials/beast_coin/large/spr_ui_item_beast_coin_large_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_beast_coin_medium": {
+    "Location": "images/materials/beast_coin/medium/spr_ui_item_beast_coin_medium.png",
+    "OutlineLocation": "images/materials/beast_coin/medium/spr_ui_item_beast_coin_medium_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_beast_coin_small": {
+    "Location": "images/materials/beast_coin/small/spr_ui_item_beast_coin_small.png",
+    "OutlineLocation": "images/materials/beast_coin/small/spr_ui_item_beast_coin_small_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_beast_coin_tiny": {
+    "Location": "images/materials/beast_coin/tiny/spr_ui_item_beast_coin_tiny.png",
+    "OutlineLocation": "images/materials/beast_coin/tiny/spr_ui_item_beast_coin_tiny_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  }
+}

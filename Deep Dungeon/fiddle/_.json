@@ -18,9 +18,31 @@
   "ui/tutorials": {
     "mines": null
   },
+  "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order": null,
+  "ui/crafting/blacksmithing/categories/9/sub_categories/0": {
+    "manual_order": null
+  },
+  "ui/crafting/blacksmithing/categories/9/sub_categories": null,
+  "ui/crafting/blacksmithing/categories/9": {
+    "sub_categories": null
+  },
+  "ui/crafting/blacksmithing/categories": null,
+  "ui/crafting/blacksmithing": {
+    "categories": null
+  },
+  "ui/crafting": {
+    "blacksmithing": {
+      "categories": null
+    }
+  },
   "ui": {
     "tutorials": {
       "mines": null
+    },
+    "crafting": {
+      "blacksmithing": {
+        "categories": null
+      }
     }
   }
 }

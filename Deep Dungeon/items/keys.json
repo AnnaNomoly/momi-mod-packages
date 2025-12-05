@@ -1,0 +1,38 @@
+{
+    "lift_key_floor_twenty": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/lift_key_floor_twenty/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/lift_key_floor_twenty/name",
+        "icon_sprite": "spr_ui_item_lift_key_floor_twenty",
+        "value": {
+            "bin": 0
+        }
+    },
+    "lift_key_floor_forty": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/lift_key_floor_forty/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/lift_key_floor_forty/name",
+        "icon_sprite": "spr_ui_item_lift_key_floor_forty",
+        "value": {
+            "bin": 0
+        }
+    },
+    "lift_key_floor_sixty": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/lift_key_floor_sixty/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/lift_key_floor_sixty/name",
+        "icon_sprite": "spr_ui_item_lift_key_floor_sixty",
+        "value": {
+            "bin": 0
+        }
+    },
+    "lift_key_floor_eighty": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/lift_key_floor_eighty/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/lift_key_floor_eighty/name",
+        "icon_sprite": "spr_ui_item_lift_key_floor_eighty",
+        "value": {
+            "bin": 0
+        }
+    }
+}

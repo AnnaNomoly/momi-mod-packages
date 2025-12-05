@@ -1,0 +1,50 @@
+{
+  "spr_ui_item_lift_key_floor_twenty": {
+    "Location": "images/keys/lift_key_floor_twenty/spr_ui_item_lift_key_floor_twenty.png",
+    "OutlineLocation": "images/keys/spr_ui_item_lift_key_floor_twenty_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_lift_key_floor_forty": {
+    "Location": "images/keys/lift_key_floor_forty/spr_ui_item_lift_key_floor_forty.png",
+    "OutlineLocation": "images/keys/spr_ui_item_lift_key_floor_forty_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_lift_key_floor_sixty": {
+    "Location": "images/keys/lift_key_floor_sixty/spr_ui_item_lift_key_floor_sixty.png",
+    "OutlineLocation": "images/keys/spr_ui_item_lift_key_floor_sixty_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_lift_key_floor_eighty": {
+    "Location": "images/keys/lift_key_floor_eighty/spr_ui_item_lift_key_floor_eighty.png",
+    "OutlineLocation": "images/keys/spr_ui_item_lift_key_floor_eighty_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  }
+}

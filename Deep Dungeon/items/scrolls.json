@@ -1,0 +1,17 @@
+{
+  "class_armor_scroll": {
+    "overwrites_other_mod": false,
+    "description": "Use this scroll to unlock the crafting recipes for various class armor!",
+    "name": "Class Armor Scroll",
+    "icon_sprite": "spr_ui_item_craftingscroll",
+    "soulbound": true,
+    "set_unlock": "class_armor",
+    "tags": [
+      "scroll",
+      "blacklist_popup"
+    ],
+    "value": {
+      "store": 1
+    }
+  }
+}

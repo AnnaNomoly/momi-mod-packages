@@ -49,7 +49,12 @@
       "item": "scrap_metal_ring",
       "store": "blacksmith",
       "category": "spr_ui_store_category_icon_sword"
-    }   
+    },
+    {
+      "item": "class_armor_scroll",
+      "store": "blacksmith",
+      "category": "spr_ui_store_category_icon_sword"
+    }    
   ],
   "categories": [
     {

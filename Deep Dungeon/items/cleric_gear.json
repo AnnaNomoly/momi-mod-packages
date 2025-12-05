@@ -10,7 +10,8 @@
         "tags": [
             "head",
             "armor",
-            "blacksmithing"
+            "blacksmithing",
+            "class_armor"
         ],
         "crafting_level_requirement": 1,
         "recipe": [
@@ -38,17 +39,30 @@
         "tags": [
             "chest",
             "armor",
-            "blacksmithing"
+            "blacksmithing",
+            "class_armor"
         ],
         "crafting_level_requirement": 1,
         "recipe": [
             {
-                "hours": 0,
-                "minutes": 10
+                "hours": 6,
+                "minutes": 0
             },
             {
-                "count": 4,
-                "item": "gold_ingot"
+                "count": 250,
+                "item": "glow_stone_tiny"
+            },
+            {
+                "count": 50,
+                "item": "beast_coin_tiny"
+            },
+            {
+                "count": 1,
+                "item": "cursed_chestpiece"
+            },
+            {
+                "count": 1,
+                "item": "soul_stone_cleric"
             }
         ],
         "value": {
@@ -66,7 +80,8 @@
         "tags": [
             "legs",
             "armor",
-            "blacksmithing"
+            "blacksmithing",
+            "class_armor"
         ],
         "crafting_level_requirement": 1,
         "recipe": [
@@ -94,7 +109,8 @@
         "tags": [
             "boots",
             "armor",
-            "blacksmithing"
+            "blacksmithing",
+            "class_armor"
         ],
         "crafting_level_requirement": 1,
         "recipe": [
@@ -122,7 +138,8 @@
         "tags": [
             "armor",
             "accessory",
-            "blacksmithing"
+            "blacksmithing",
+            "class_armor"
         ],
         "crafting_level_requirement": 1,
         "recipe": [
@@ -150,7 +167,8 @@
         "tags": [
             "armor",
             "accessory",
-            "blacksmithing"
+            "blacksmithing",
+            "class_armor"
         ],
         "crafting_level_requirement": 1,
         "recipe": [
