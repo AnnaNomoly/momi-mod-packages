@@ -1,36 +1,40 @@
 {
-    "lift_key_floor_twenty": {
+    "tide_caverns_key": {
         "overwrites_other_mod": false,
-        "description": "Items/Mods/Deep Dungeon/Keys/lift_key_floor_twenty/description",
-        "name": "Items/Mods/Deep Dungeon/Keys/lift_key_floor_twenty/name",
-        "icon_sprite": "spr_ui_item_lift_key_floor_twenty",
+        "description": "Items/Mods/Deep Dungeon/Keys/tide_caverns_key/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/tide_caverns_key/name",
+        "icon_sprite": "spr_ui_item_tide_caverns_key",
+        "edible": true,
         "value": {
             "bin": 0
         }
     },
-    "lift_key_floor_forty": {
+    "deep_earth_key": {
         "overwrites_other_mod": false,
-        "description": "Items/Mods/Deep Dungeon/Keys/lift_key_floor_forty/description",
-        "name": "Items/Mods/Deep Dungeon/Keys/lift_key_floor_forty/name",
-        "icon_sprite": "spr_ui_item_lift_key_floor_forty",
+        "description": "Items/Mods/Deep Dungeon/Keys/deep_earth_key/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/deep_earth_key/name",
+        "icon_sprite": "spr_ui_item_deep_earth_key",
+        "edible": true,
         "value": {
             "bin": 0
         }
     },
-    "lift_key_floor_sixty": {
+    "lava_caves_key": {
         "overwrites_other_mod": false,
-        "description": "Items/Mods/Deep Dungeon/Keys/lift_key_floor_sixty/description",
-        "name": "Items/Mods/Deep Dungeon/Keys/lift_key_floor_sixty/name",
-        "icon_sprite": "spr_ui_item_lift_key_floor_sixty",
+        "description": "Items/Mods/Deep Dungeon/Keys/lava_caves_key/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/lava_caves_key/name",
+        "icon_sprite": "spr_ui_item_lava_caves_key",
+        "edible": true,
         "value": {
             "bin": 0
         }
     },
-    "lift_key_floor_eighty": {
+    "ruins_key": {
         "overwrites_other_mod": false,
-        "description": "Items/Mods/Deep Dungeon/Keys/lift_key_floor_eighty/description",
-        "name": "Items/Mods/Deep Dungeon/Keys/lift_key_floor_eighty/name",
-        "icon_sprite": "spr_ui_item_lift_key_floor_eighty",
+        "description": "Items/Mods/Deep Dungeon/Keys/ruins_key/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/ruins_key/name",
+        "icon_sprite": "spr_ui_item_ruins_key",
+        "edible": true,
         "value": {
             "bin": 0
         }

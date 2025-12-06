@@ -60,14 +60,14 @@
     "Items/Mods/Deep Dungeon/Salves/mana_salve/name": "Mana Salve",
     "Items/Mods/Deep Dungeon/Salves/mana_salve/description": "Restores 1 mana.",
 
-    "Items/Mods/Deep Dungeon/Keys/lift_key_floor_twenty/name": "Lift Key: Floor 20",
-    "Items/Mods/Deep Dungeon/Keys/lift_key_floor_twenty/description": "A single use key that unlocks Floor 20 on the lift in the Mines Entrance.",
-    "Items/Mods/Deep Dungeon/Keys/lift_key_floor_forty/name": "Lift Key: Floor 40",
-    "Items/Mods/Deep Dungeon/Keys/lift_key_floor_forty/description": "A single use key that unlocks Floor 40 on the lift in the Mines Entrance.",
-    "Items/Mods/Deep Dungeon/Keys/lift_key_floor_sixty/name": "Lift Key: Floor 60",
-    "Items/Mods/Deep Dungeon/Keys/lift_key_floor_sixty/description": "A single use key that unlocks Floor 60 on the lift in the Mines Entrance.",
-    "Items/Mods/Deep Dungeon/Keys/lift_key_floor_eighty/name": "Lift Key: Floor 80",
-    "Items/Mods/Deep Dungeon/Keys/lift_key_floor_eighty/description": "A single use key that unlocks Floor 80 on the lift in the Mines Entrance.",
+    "Items/Mods/Deep Dungeon/Keys/tide_caverns_key/name": "Tide Caverns Key",
+    "Items/Mods/Deep Dungeon/Keys/tide_caverns_key/description": "A single use key that temporarily unlocks Floor 20 on the lift in the mines entrance.",
+    "Items/Mods/Deep Dungeon/Keys/deep_earth_key/name": "Deep Earth Key",
+    "Items/Mods/Deep Dungeon/Keys/deep_earth_key/description": "A single use key that temporarily unlocks Floor 40 on the lift in the mines entrance.",
+    "Items/Mods/Deep Dungeon/Keys/lava_caves_key/name": "Lava Caves Key",
+    "Items/Mods/Deep Dungeon/Keys/lava_caves_key/description": "A single use key that temporarily unlocks Floor 60 on the lift in the mines entrance.",
+    "Items/Mods/Deep Dungeon/Keys/ruins_key/name": "Ruins Key",
+    "Items/Mods/Deep Dungeon/Keys/ruins_key/description": "A single use key that temporarily unlocks Floor 80 on the lift in the mines entrance.",
 
     "Items/Mods/Deep Dungeon/Beast Coins/giant/name": "Beast Coin: Ruins",
     "Items/Mods/Deep Dungeon/Beast Coins/giant/description": "A beast coin found in the ruins biome of the dungeon.",
@@ -159,5 +159,6 @@
     "Notifications/Mods/Deep Dungeon/item_prohibited": "That item is prohibited in the Deep Dungeon!",
     "Notifications/Mods/Deep Dungeon/item_restricted": "You may only use Deep Dungeon specific items inside the dungeon!",
     "Notifications/Mods/Deep Dungeon/inhibited_penalty": "You are unable to use the Mistpool Sword due to the Inhibiting Trap's effect!",
-    "Notifications/Mods/Deep Dungeon/Sigils/concealment/deactivated": "Your concealment fades! Monsters will now detect you."
+    "Notifications/Mods/Deep Dungeon/Sigils/concealment/deactivated": "Your concealment fades! Monsters will now detect you.",
+    "Notifications/Mods/Deep Dungeon/lift_key_restricted": "You are only allowed to use a lift key at the mines entrance!"
 }

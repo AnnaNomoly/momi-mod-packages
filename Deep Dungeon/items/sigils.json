@@ -5,7 +5,6 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/alteration/description",
         "icon_sprite": "spr_ui_item_sigil_of_alteration",
         "edible": true,
-        "restore": 1,
         "recipe_is_default": false,
         "tags": [],
         "value": {
@@ -18,7 +17,6 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/concealment/description",
         "icon_sprite": "spr_ui_item_sigil_of_concealment",
         "edible": true,
-        "restore": 1,
         "recipe_is_default": false,
         "tags": [],
         "value": {
@@ -31,7 +29,6 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/fortification/description",
         "icon_sprite": "spr_ui_item_sigil_of_fortification",
         "edible": true,
-        "restore": 1,
         "recipe_is_default": false,
         "tags": [],
         "value": {
@@ -44,7 +41,6 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/fortune/description",
         "icon_sprite": "spr_ui_item_sigil_of_fortune",
         "edible": true,
-        "restore": 1,
         "recipe_is_default": false,
         "tags": [],
         "value": {
@@ -57,7 +53,6 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/protection/description",
         "icon_sprite": "spr_ui_item_sigil_of_protection",
         "edible": true,
-        "restore": 1,
         "recipe_is_default": false,
         "tags": [],
         "value": {
@@ -70,7 +65,6 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/rage/description",
         "icon_sprite": "spr_ui_item_sigil_of_rage",
         "edible": true,
-        "restore": 1,
         "recipe_is_default": false,
         "tags": [],
         "value": {
@@ -83,7 +77,6 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/redemption/description",
         "icon_sprite": "spr_ui_item_sigil_of_redemption",
         "edible": true,
-        "restore": 1,
         "recipe_is_default": false,
         "tags": [],
         "value": {
@@ -96,7 +89,6 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/safety/description",
         "icon_sprite": "spr_ui_item_sigil_of_safety",
         "edible": true,
-        "restore": 1,
         "recipe_is_default": false,
         "tags": [],
         "value": {
@@ -109,7 +101,6 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/serenity/description",
         "icon_sprite": "spr_ui_item_sigil_of_serenity",
         "edible": true,
-        "restore": 1,
         "recipe_is_default": false,
         "tags": [],
         "value": {
@@ -122,7 +113,6 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/silence/description",
         "icon_sprite": "spr_ui_item_sigil_of_silence",
         "edible": true,
-        "restore": 1,
         "recipe_is_default": false,
         "tags": [],
         "value": {
@@ -135,7 +125,6 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/strength/description",
         "icon_sprite": "spr_ui_item_sigil_of_strength",
         "edible": true,
-        "restore": 1,
         "recipe_is_default": false,
         "tags": [],
         "value": {
@@ -148,7 +137,6 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/temptation/description",
         "icon_sprite": "spr_ui_item_sigil_of_temptation",
         "edible": true,
-        "restore": 1,
         "recipe_is_default": false,
         "tags": [],
         "value": {
