@@ -1,6 +1,6 @@
 {
-    "spr_ui_item_equipment_scrap_metal_helmet": {
-        "Location": "images/armor/mistpool/helmet/spr_ui_item_equipment_mistpool_helmet.png",
+    "spr_ui_item_equipment_mistpool_helmet_tier_1": {
+        "Location": "images/armor/mistpool/helmet/spr_ui_item_equipment_mistpool_helmet_tier_1.png",
         "OutlineLocation": "images/armor/mistpool/helmet/spr_ui_item_equipment_mistpool_helmet_outline.png",
         "OriginX": 9,
         "OriginY": 9,
@@ -11,8 +11,44 @@
         "IsAnimated": false,
         "IsUiItem": true
     },
-    "spr_ui_item_equipment_scrap_metal_chestpiece": {
-        "Location": "images/armor/mistpool/chestpiece/spr_ui_item_equipment_mistpool_chestpiece.png",
+    "spr_ui_item_equipment_mistpool_helmet_tier_2": {
+        "Location": "images/armor/mistpool/helmet/spr_ui_item_equipment_mistpool_helmet_tier_2.png",
+        "OutlineLocation": "images/armor/mistpool/helmet/spr_ui_item_equipment_mistpool_helmet_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mistpool_helmet_tier_3": {
+        "Location": "images/armor/mistpool/helmet/spr_ui_item_equipment_mistpool_helmet_tier_3.png",
+        "OutlineLocation": "images/armor/mistpool/helmet/spr_ui_item_equipment_mistpool_helmet_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mistpool_helmet_tier_4": {
+        "Location": "images/armor/mistpool/helmet/spr_ui_item_equipment_mistpool_helmet_tier_4.png",
+        "OutlineLocation": "images/armor/mistpool/helmet/spr_ui_item_equipment_mistpool_helmet_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mistpool_chestpiece_tier_1": {
+        "Location": "images/armor/mistpool/chestpiece/spr_ui_item_equipment_mistpool_chestpiece_tier_1.png",
         "OutlineLocation": "images/armor/mistpool/chestpiece/spr_ui_item_equipment_mistpool_chestpiece_outline.png",
         "OriginX": 9,
         "OriginY": 9,
@@ -23,8 +59,92 @@
         "IsAnimated": false,
         "IsUiItem": true
     },
-    "spr_ui_item_equipment_scrap_metal_pants": {
-        "Location": "images/armor/mistpool/pants/spr_ui_item_equipment_mistpool_pants.png",
+    "spr_ui_item_equipment_mistpool_chestpiece_tier_2": {
+        "Location": "images/armor/mistpool/chestpiece/spr_ui_item_equipment_mistpool_chestpiece_tier_2.png",
+        "OutlineLocation": "images/armor/mistpool/chestpiece/spr_ui_item_equipment_mistpool_chestpiece_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mistpool_chestpiece_tier_3": {
+        "Location": "images/armor/mistpool/chestpiece/spr_ui_item_equipment_mistpool_chestpiece_tier_3.png",
+        "OutlineLocation": "images/armor/mistpool/chestpiece/spr_ui_item_equipment_mistpool_chestpiece_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mistpool_chestpiece_tier_4": {
+        "Location": "images/armor/mistpool/chestpiece/spr_ui_item_equipment_mistpool_chestpiece_tier_4.png",
+        "OutlineLocation": "images/armor/mistpool/chestpiece/spr_ui_item_equipment_mistpool_chestpiece_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mistpool_gloves_tier_1": {
+        "Location": "images/armor/mistpool/gloves/spr_ui_item_equipment_mistpool_gloves_tier_1.png",
+        "OutlineLocation": "images/armor/mistpool/gloves/spr_ui_item_equipment_mistpool_gloves_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mistpool_gloves_tier_2": {
+        "Location": "images/armor/mistpool/gloves/spr_ui_item_equipment_mistpool_gloves_tier_2.png",
+        "OutlineLocation": "images/armor/mistpool/gloves/spr_ui_item_equipment_mistpool_gloves_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mistpool_gloves_tier_3": {
+        "Location": "images/armor/mistpool/gloves/spr_ui_item_equipment_mistpool_gloves_tier_3.png",
+        "OutlineLocation": "images/armor/mistpool/gloves/spr_ui_item_equipment_mistpool_gloves_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mistpool_gloves_tier_4": {
+        "Location": "images/armor/mistpool/gloves/spr_ui_item_equipment_mistpool_gloves_tier_4.png",
+        "OutlineLocation": "images/armor/mistpool/gloves/spr_ui_item_equipment_mistpool_gloves_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mistpool_pants_tier_1": {
+        "Location": "images/armor/mistpool/pants/spr_ui_item_equipment_mistpool_pants_tier_1.png",
         "OutlineLocation": "images/armor/mistpool/pants/spr_ui_item_equipment_mistpool_pants_outline.png",
         "OriginX": 9,
         "OriginY": 9,
@@ -35,8 +155,44 @@
         "IsAnimated": false,
         "IsUiItem": true
     },
-    "spr_ui_item_equipment_scrap_metal_boots": {
-        "Location": "images/armor/mistpool/boots/spr_ui_item_equipment_mistpool_boots.png",
+    "spr_ui_item_equipment_mistpool_pants_tier_2": {
+        "Location": "images/armor/mistpool/pants/spr_ui_item_equipment_mistpool_pants_tier_2.png",
+        "OutlineLocation": "images/armor/mistpool/pants/spr_ui_item_equipment_mistpool_pants_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mistpool_pants_tier_3": {
+        "Location": "images/armor/mistpool/pants/spr_ui_item_equipment_mistpool_pants_tier_3.png",
+        "OutlineLocation": "images/armor/mistpool/pants/spr_ui_item_equipment_mistpool_pants_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mistpool_pants_tier_4": {
+        "Location": "images/armor/mistpool/pants/spr_ui_item_equipment_mistpool_pants_tier_4.png",
+        "OutlineLocation": "images/armor/mistpool/pants/spr_ui_item_equipment_mistpool_pants_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mistpool_boots_tier_1": {
+        "Location": "images/armor/mistpool/boots/spr_ui_item_equipment_mistpool_boots_tier_1.png",
         "OutlineLocation": "images/armor/mistpool/boots/spr_ui_item_equipment_mistpool_boots_outline.png",
         "OriginX": 9,
         "OriginY": 9,
@@ -47,9 +203,33 @@
         "IsAnimated": false,
         "IsUiItem": true
     },
-    "spr_ui_item_equipment_scrap_metal_ring": {
-        "Location": "images/armor/mistpool/ring/spr_ui_item_equipment_mistpool_ring.png",
-        "OutlineLocation": "images/armor/mistpool/ring/spr_ui_item_equipment_mistpool_ring_outline.png",
+    "spr_ui_item_equipment_mistpool_boots_tier_2": {
+        "Location": "images/armor/mistpool/boots/spr_ui_item_equipment_mistpool_boots_tier_2.png",
+        "OutlineLocation": "images/armor/mistpool/boots/spr_ui_item_equipment_mistpool_boots_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mistpool_boots_tier_3": {
+        "Location": "images/armor/mistpool/boots/spr_ui_item_equipment_mistpool_boots_tier_3.png",
+        "OutlineLocation": "images/armor/mistpool/boots/spr_ui_item_equipment_mistpool_boots_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mistpool_boots_tier_4": {
+        "Location": "images/armor/mistpool/boots/spr_ui_item_equipment_mistpool_boots_tier_4.png",
+        "OutlineLocation": "images/armor/mistpool/boots/spr_ui_item_equipment_mistpool_boots_outline.png",
         "OriginX": 9,
         "OriginY": 9,
         "MarginLeft": 0,

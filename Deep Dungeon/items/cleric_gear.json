@@ -5,7 +5,7 @@
         "name": "Items/Mods/Deep Dungeon/Armor/cleric_helmet/name",
         "icon_sprite": "spr_ui_item_equipment_cleric_helmet",
         "defense": 6,
-        "default_infusion": "hasty",
+        "default_infusion": "fortified",
         "recipe_is_default": true,
         "tags": [
             "head",
@@ -16,16 +16,29 @@
         "crafting_level_requirement": 1,
         "recipe": [
             {
-                "hours": 0,
-                "minutes": 10
+                "hours": 6,
+                "minutes": 0
             },
             {
-                "count": 4,
-                "item": "gold_ingot"
+                "count": 250,
+                "item": "glow_stone_small"
+            },
+            {
+                "count": 50,
+                "item": "beast_coin_small"
+            },
+            {
+                "count": 1,
+                "item": "cursed_helmet"
+            },
+            {
+                "count": 1,
+                "item": "soul_stone_cleric"
             }
         ],
         "value": {
-            "bin": 0
+            "bin": 0,
+            "store": 1
         }
     },
     "cleric_chestpiece": {
@@ -34,7 +47,7 @@
         "name": "Items/Mods/Deep Dungeon/Armor/cleric_chestpiece/name",
         "icon_sprite": "spr_ui_item_equipment_cleric_chestpiece",
         "defense": 6,
-        "default_infusion": "hasty",
+        "default_infusion": "fortified",
         "recipe_is_default": true,
         "tags": [
             "chest",
@@ -66,7 +79,8 @@
             }
         ],
         "value": {
-            "bin": 0
+            "bin": 0,
+            "store": 1
         }
     },
     "cleric_pants": {
@@ -75,7 +89,7 @@
         "name": "Items/Mods/Deep Dungeon/Armor/cleric_pants/name",
         "icon_sprite": "spr_ui_item_equipment_cleric_pants",
         "defense": 6,
-        "default_infusion": "hasty",
+        "default_infusion": "fortified",
         "recipe_is_default": true,
         "tags": [
             "legs",
@@ -86,16 +100,29 @@
         "crafting_level_requirement": 1,
         "recipe": [
             {
-                "hours": 0,
-                "minutes": 10
+                "hours": 6,
+                "minutes": 0
             },
             {
-                "count": 4,
-                "item": "gold_ingot"
+                "count": 250,
+                "item": "glow_stone_large"
+            },
+            {
+                "count": 50,
+                "item": "beast_coin_large"
+            },
+            {
+                "count": 1,
+                "item": "cursed_pants"
+            },
+            {
+                "count": 1,
+                "item": "soul_stone_cleric"
             }
         ],
         "value": {
-            "bin": 0
+            "bin": 0,
+            "store": 1
         }
     },
     "cleric_boots": {
@@ -104,7 +131,7 @@
         "name": "Items/Mods/Deep Dungeon/Armor/cleric_boots/name",
         "icon_sprite": "spr_ui_item_equipment_cleric_boots",
         "defense": 6,
-        "default_infusion": "hasty",
+        "default_infusion": "fortified",
         "recipe_is_default": true,
         "tags": [
             "boots",
@@ -115,16 +142,29 @@
         "crafting_level_requirement": 1,
         "recipe": [
             {
-                "hours": 0,
-                "minutes": 10
+                "hours": 6,
+                "minutes": 0
             },
             {
-                "count": 4,
-                "item": "gold_ingot"
+                "count": 250,
+                "item": "glow_stone_giant"
+            },
+            {
+                "count": 50,
+                "item": "beast_coin_giant"
+            },
+            {
+                "count": 1,
+                "item": "cursed_boots"
+            },
+            {
+                "count": 1,
+                "item": "soul_stone_cleric"
             }
         ],
         "value": {
-            "bin": 0
+            "bin": 0,
+            "store": 1
         }
     },
     "cleric_gloves": {
@@ -133,7 +173,7 @@
         "name": "Items/Mods/Deep Dungeon/Armor/cleric_gloves/name",
         "icon_sprite": "spr_ui_item_equipment_cleric_gloves",
         "defense": 6,
-        "default_infusion": "hasty",
+        "default_infusion": "fortified",
         "recipe_is_default": true,
         "tags": [
             "armor",
@@ -144,45 +184,30 @@
         "crafting_level_requirement": 1,
         "recipe": [
             {
-                "hours": 0,
-                "minutes": 10
+                "hours": 6,
+                "minutes": 0
             },
             {
-                "count": 4,
-                "item": "gold_ingot"
+                "count": 250,
+                "item": "glow_stone_medium"
+            },
+            {
+                "count": 50,
+                "item": "beast_coin_medium"
+            },
+            {
+                "count": 1,
+                "item": "cursed_gloves"
+            },
+            {
+                "count": 1,
+                "item": "soul_stone_cleric"
             }
         ],
         "value": {
-            "bin": 0
-        }
-    },
-    "cleric_bracelet": {
-        "overwrites_other_mod": false,
-        "description": "Items/Mods/Deep Dungeon/Armor/cleric_bracelet/description",
-        "name": "Items/Mods/Deep Dungeon/Armor/cleric_bracelet/name",
-        "icon_sprite": "spr_ui_item_equipment_cleric_bracelet",
-        "defense": 6,
-        "default_infusion": "hasty",
-        "recipe_is_default": true,
-        "tags": [
-            "armor",
-            "accessory",
-            "blacksmithing",
-            "class_armor"
-        ],
-        "crafting_level_requirement": 1,
-        "recipe": [
-            {
-                "hours": 0,
-                "minutes": 10
-            },
-            {
-                "count": 4,
-                "item": "gold_ingot"
-            }
-        ],
-        "value": {
-            "bin": 0
+
+            "bin": 0,
+            "store": 1
         }
     }
 }

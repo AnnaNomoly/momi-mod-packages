@@ -1,0 +1,14 @@
+{
+  "spr_ui_item_water_orb": {
+    "Location": "images/orbs/spr_ui_item_water_orb.png",
+    "OutlineLocation": "images/orbs/spr_ui_item_orb_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  }
+}

@@ -69,6 +69,9 @@
     "Items/Mods/Deep Dungeon/Keys/ruins_key/name": "Ruins Key",
     "Items/Mods/Deep Dungeon/Keys/ruins_key/description": "A single use key that temporarily unlocks Floor 80 on the lift in the mines entrance.",
 
+    "Items/Mods/Deep Dungeon/Orbs/water_orb/name": "Tide Caverns Orb",
+    "Items/Mods/Deep Dungeon/Orbs/water_orb/description": "A strange orb filled with water from the Tide Caverns.\n\nUse it in the mines entrance to initiate the boss battle \"Those Who Throw Stones\".",
+
     "Items/Mods/Deep Dungeon/Beast Coins/giant/name": "Beast Coin: Ruins",
     "Items/Mods/Deep Dungeon/Beast Coins/giant/description": "A beast coin found in the ruins biome of the dungeon.",
     "Items/Mods/Deep Dungeon/Beast Coins/large/name": "Beast Coin: Lava Caves",
@@ -104,8 +107,8 @@
     "Items/Mods/Deep Dungeon/Armor/mistpool_pants/description": "Legplates that seem to glow brighter the deeper you traverse inside the dungeon.",
     "Items/Mods/Deep Dungeon/Armor/mistpool_boots/name": "Mistpool Greaves",
     "Items/Mods/Deep Dungeon/Armor/mistpool_boots/description": "Greaves that seem to glow brighter the deeper you traverse inside the dungeon.",
-    "Items/Mods/Deep Dungeon/Armor/mistpool_ring/name": "Mistpool Ring",
-    "Items/Mods/Deep Dungeon/Armor/mistpool_ring/description": "A ring that seem to glow brighter the deeper you traverse inside the dungeon.",
+    "Items/Mods/Deep Dungeon/Armor/mistpool_ring/name": "Mistpool Gloves",
+    "Items/Mods/Deep Dungeon/Armor/mistpool_ring/description": "Gloves that seem to glow brighter the deeper you traverse inside the dungeon.",
     "Items/Mods/Deep Dungeon/Armor/cursed_helmet/name": "Cursed Helmet",
     "Items/Mods/Deep Dungeon/Armor/cursed_helmet/description": "A helmet radiating dark energy. Definitely cursed and unsafe to wear!",
     "Items/Mods/Deep Dungeon/Armor/cursed_chestpiece/name": "Cursed Armor",

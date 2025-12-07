@@ -1,0 +1,12 @@
+{
+    "water_orb": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Orbs/water_orb/description",
+        "name": "Items/Mods/Deep Dungeon/Orbs/water_orb/name",
+        "icon_sprite": "spr_ui_item_water_orb",
+        "edible": true,
+        "value": {
+            "bin": 0
+        }
+    }
+}

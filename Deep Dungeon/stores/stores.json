@@ -54,7 +54,37 @@
       "item": "class_armor_scroll",
       "store": "blacksmith",
       "category": "spr_ui_store_category_icon_sword"
-    }    
+    },
+    {
+      "item": "soul_stone_cleric",
+      "store": "blacksmith",
+      "category": "spr_ui_store_category_icon_sword"
+    },
+    {
+      "item": "cleric_helmet",
+      "store": "blacksmith",
+      "category": "spr_ui_store_category_icon_sword"
+    },
+    {
+      "item": "cleric_chestpiece",
+      "store": "blacksmith",
+      "category": "spr_ui_store_category_icon_sword"
+    },
+    {
+      "item": "cleric_pants",
+      "store": "blacksmith",
+      "category": "spr_ui_store_category_icon_sword"
+    },
+    {
+      "item": "cleric_boots",
+      "store": "blacksmith",
+      "category": "spr_ui_store_category_icon_sword"
+    },
+    {
+      "item": "cleric_gloves",
+      "store": "blacksmith",
+      "category": "spr_ui_store_category_icon_sword"
+    }
   ],
   "categories": [
     {
