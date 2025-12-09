@@ -1,0 +1,44 @@
+{
+    "monsters/mite/stalagmite": {
+        "sprites": {
+            "misc": {
+                "secondary_ground_windup": "spr_monster_stalagmite_green_secondary_ground_windup",
+                "secondary_spike_windup": "spr_monster_stalagmite_green_secondary_main_windup",
+                "secondary_ground_attack": "spr_monster_stalagmite_green_secondary_ground_attack",
+                "secondary_spike_attack": "spr_monster_stalagmite_green_secondary_main_attack",
+                "secondary_ground_tired": "spr_monster_stalagmite_green_secondary_ground_tired",
+                "secondary_spike_tired": "spr_monster_stalagmite_green_secondary_main_tired"
+            }
+        }
+    },
+    "monsters/mite": {
+        "stalagmite": {
+            "sprites": {
+                "misc": {
+                    "secondary_ground_windup": "spr_monster_stalagmite_green_secondary_ground_windup",
+                    "secondary_spike_windup": "spr_monster_stalagmite_green_secondary_main_windup",
+                    "secondary_ground_attack": "spr_monster_stalagmite_green_secondary_ground_attack",
+                    "secondary_spike_attack": "spr_monster_stalagmite_green_secondary_main_attack",
+                    "secondary_ground_tired": "spr_monster_stalagmite_green_secondary_ground_tired",
+                    "secondary_spike_tired": "spr_monster_stalagmite_green_secondary_main_tired"
+                }
+            }
+        }
+    },
+    "monsters": {
+        "mite": {
+            "stalagmite": {
+                "sprites": {
+                    "misc": {
+                        "secondary_ground_windup": "spr_monster_stalagmite_green_secondary_ground_windup",
+                        "secondary_spike_windup": "spr_monster_stalagmite_green_secondary_main_windup",
+                        "secondary_ground_attack": "spr_monster_stalagmite_green_secondary_ground_attack",
+                        "secondary_spike_attack": "spr_monster_stalagmite_green_secondary_main_attack",
+                        "secondary_ground_tired": "spr_monster_stalagmite_green_secondary_ground_tired",
+                        "secondary_spike_tired": "spr_monster_stalagmite_green_secondary_main_tired"
+                    }
+                }
+            }
+        }
+    }
+}
