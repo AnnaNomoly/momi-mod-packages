@@ -5,6 +5,23 @@
         "name": "Items/Mods/Deep Dungeon/Orbs/water_orb/name",
         "icon_sprite": "spr_ui_item_water_orb",
         "edible": true,
+        "recipe_is_default": true,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+          "recipe": [
+            {
+              "count": 125,
+              "item": "glow_stone_tiny"
+            },
+            {
+              "count": 25,
+              "item": "beast_coin_tiny"
+            },
+            {
+              "hours": 2,
+              "minutes": 0
+            }
+          ],
         "value": {
             "bin": 0
         }
