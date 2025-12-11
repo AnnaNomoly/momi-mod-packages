@@ -156,7 +156,10 @@
     "Notifications/Mods/Deep Dungeon/inhibited_penalty": "You are unable to use the Mistpool Sword due to the Inhibiting Trap's effect!",
     "Notifications/Mods/Deep Dungeon/Sigils/concealment/deactivated": "Your concealment fades! Monsters will now detect you.",
     "Notifications/Mods/Deep Dungeon/lift_key_restricted": "You are only allowed to use a lift key at the mines entrance!",
+    "Notifications/Mods/Deep Dungeon/orb_restricted": "You are only allowed to use boss battle orbs at the mines entrance!",
     "Notifications/Mods/Deep Dungeon/sigil_restricted": "You are unable to use sigils during a boss battle!",
+    "Notifications/Mods/Deep Dungeon/amnesia": "You are unable to cast spells due to the Amnesia floor enchantment!",
+    "Notifications/Mods/Deep Dungeon/boss_spell_restriction": "You are unable to cast spells during boss battles!",
 
     "Tutorials/Mods/Deep Dungeon/title": "Tutorial: Deep Dungeon",
     "Tutorials/Mods/Deep Dungeon/steps/0/text": "This mod makes significant changes to the dungeon and overall gameplay experience inside of it.",
