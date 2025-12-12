@@ -1,7 +1,7 @@
 {
     "cleric_helmet": {
         "overwrites_other_mod": false,
-        "description": "Items/Mods/Deep Dungeon/Armor/cleric_helmet/description",
+        "description": "Items/Mods/Deep Dungeon/Armor/cleric/description",
         "name": "Items/Mods/Deep Dungeon/Armor/cleric_helmet/name",
         "icon_sprite": "spr_ui_item_equipment_cleric_helmet",
         "defense": 6,
@@ -43,7 +43,7 @@
     },
     "cleric_chestpiece": {
         "overwrites_other_mod": false,
-        "description": "Items/Mods/Deep Dungeon/Armor/cleric_chestpiece/description",
+        "description": "Items/Mods/Deep Dungeon/Armor/cleric/description",
         "name": "Items/Mods/Deep Dungeon/Armor/cleric_chestpiece/name",
         "icon_sprite": "spr_ui_item_equipment_cleric_chestpiece",
         "defense": 6,
@@ -85,7 +85,7 @@
     },
     "cleric_pants": {
         "overwrites_other_mod": false,
-        "description": "Items/Mods/Deep Dungeon/Armor/cleric_pants/description",
+        "description": "Items/Mods/Deep Dungeon/Armor/cleric/description",
         "name": "Items/Mods/Deep Dungeon/Armor/cleric_pants/name",
         "icon_sprite": "spr_ui_item_equipment_cleric_pants",
         "defense": 6,
@@ -127,7 +127,7 @@
     },
     "cleric_boots": {
         "overwrites_other_mod": false,
-        "description": "Items/Mods/Deep Dungeon/Armor/cleric_boots/description",
+        "description": "Items/Mods/Deep Dungeon/Armor/cleric/description",
         "name": "Items/Mods/Deep Dungeon/Armor/cleric_boots/name",
         "icon_sprite": "spr_ui_item_equipment_cleric_boots",
         "defense": 6,
@@ -169,7 +169,7 @@
     },
     "cleric_gloves": {
         "overwrites_other_mod": false,
-        "description": "Items/Mods/Deep Dungeon/Armor/cleric_gloves/description",
+        "description": "Items/Mods/Deep Dungeon/Armor/cleric/description",
         "name": "Items/Mods/Deep Dungeon/Armor/cleric_gloves/name",
         "icon_sprite": "spr_ui_item_equipment_cleric_gloves",
         "defense": 6,
