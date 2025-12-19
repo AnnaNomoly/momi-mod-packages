@@ -1,9 +1,9 @@
 {
-    "water_orb": {
+    "tide_caverns_orb": {
         "overwrites_other_mod": false,
-        "description": "Items/Mods/Deep Dungeon/Orbs/water_orb/description",
-        "name": "Items/Mods/Deep Dungeon/Orbs/water_orb/name",
-        "icon_sprite": "spr_ui_item_water_orb",
+        "description": "Items/Mods/Deep Dungeon/Orbs/tide_caverns_orb/description",
+        "name": "Items/Mods/Deep Dungeon/Orbs/tide_caverns_orb/name",
+        "icon_sprite": "spr_ui_item_tide_caverns_orb",
         "edible": true,
         "recipe_is_default": true,
         "crafting_level_requirement": 1,

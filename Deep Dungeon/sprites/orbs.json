@@ -1,7 +1,43 @@
 {
-  "spr_ui_item_water_orb": {
-    "Location": "images/orbs/spr_ui_item_water_orb.png",
-    "OutlineLocation": "images/orbs/spr_ui_item_orb_outline.png",
+  "spr_ui_item_tide_caverns_orb": {
+    "Location": "images/orbs/tide_caverns/spr_ui_item_tide_caverns_orb.png",
+    "OutlineLocation": "images/orbs/tide_caverns/spr_ui_item_tide_caverns_orb_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_deep_earth_orb": {
+    "Location": "images/orbs/deep_earth/spr_ui_item_deep_earth_orb.png",
+    "OutlineLocation": "images/orbs/deep_earth/spr_ui_item_deep_earth_orb_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_lava_caves_orb": {
+    "Location": "images/orbs/lava_caves/spr_ui_item_lava_caves_orb.png",
+    "OutlineLocation": "images/orbs/lava_caves/spr_ui_item_lava_caves_orb_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_ruins_orb": {
+    "Location": "images/orbs/ruins/spr_ui_item_ruins_orb.png",
+    "OutlineLocation": "images/orbs/ruins/spr_ui_item_ruins_orb_outline.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,

@@ -1,7 +1,7 @@
 {
   "spr_ui_item_tide_caverns_key": {
-    "Location": "images/keys/spr_ui_item_tide_caverns_key.png",
-    "OutlineLocation": "images/keys/spr_ui_item_lift_key_outline.png",
+    "Location": "images/keys/tide_caverns/spr_ui_item_tide_caverns_key.png",
+    "OutlineLocation": "images/keys/tide_caverns/spr_ui_item_tide_caverns_key_outline.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -12,8 +12,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_deep_earth_key": {
-    "Location": "images/keys/spr_ui_item_deep_earth_key.png",
-    "OutlineLocation": "images/keys/spr_ui_item_lift_key_outline.png",
+    "Location": "images/keys/deep_earth/spr_ui_item_deep_earth_key.png",
+    "OutlineLocation": "images/keys/deep_earth/spr_ui_item_deep_earth_key_outline.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -24,8 +24,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_lava_caves_key": {
-    "Location": "images/keys/spr_ui_item_lava_caves_key.png",
-    "OutlineLocation": "images/keys/spr_ui_item_lift_key_outline.png",
+    "Location": "images/keys/lava_caves/spr_ui_item_lava_caves_key.png",
+    "OutlineLocation": "images/keys/lava_caves/spr_ui_item_lava_caves_key_outline.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -36,8 +36,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_ruins_key": {
-    "Location": "images/keys/spr_ui_item_ruins_key.png",
-    "OutlineLocation": "images/keys/spr_ui_item_lift_key_outline.png",
+    "Location": "images/keys/ruins/spr_ui_item_ruins_key.png",
+    "OutlineLocation": "images/keys/ruins/spr_ui_item_ruins_key_outline.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,

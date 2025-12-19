@@ -32,7 +32,7 @@
     "Conversations/Mods/Deep Dungeon/Offerings/Positive/leech": "$Leech$: Your attacks will $heal you$ a tiny amount on the next floor.",
     "Conversations/Mods/Deep Dungeon/Offerings/Positive/inner_fire": "$Inner Fire$: Summon $flames of destruction$ on the next floor.",
 
-    "Conversations/Mods/Deep Dungeon/Boss Battles/water_orb/init": "^Boss Battle^: #Those Who Throw Stones#\n$Victory Condition$: Defeat all enemies. Sigils are disabled.\n=Defeat Condition=: Death or fleeing the seal room.",
+    "Conversations/Mods/Deep Dungeon/Boss Battles/tide_caverns_orb/init": "^Boss Battle^: #Those Who Throw Stones#\n$Victory Condition$: Defeat all enemies. Sigils are disabled.\n=Defeat Condition=: Death or fleeing the seal room.",
 
     "Items/Mods/Deep Dungeon/Sigils/rage/name": "Sigil of Rage",
     "Items/Mods/Deep Dungeon/Sigils/rage/description": "Unleash your fury, causing all attacks to do guaranteed critical lethal damage.",
@@ -77,8 +77,8 @@
     "Items/Mods/Deep Dungeon/Keys/ruins_key/name": "Ruins Key",
     "Items/Mods/Deep Dungeon/Keys/ruins_key/description": "A single use key that temporarily unlocks Floor 80 on the lift in the mines entrance.",
 
-    "Items/Mods/Deep Dungeon/Orbs/water_orb/name": "Tide Caverns Orb",
-    "Items/Mods/Deep Dungeon/Orbs/water_orb/description": "A strange orb filled with water from the Tide Caverns.\n\nUse it in the mines entrance to initiate the boss battle \"Those Who Throw Stones\".",
+    "Items/Mods/Deep Dungeon/Orbs/tide_caverns_orb/name": "Tide Caverns Orb",
+    "Items/Mods/Deep Dungeon/Orbs/tide_caverns_orb/description": "A strange orb filled with water from the Tide Caverns.\n\nUse it in the mines entrance to initiate the boss battle \"Those Who Throw Stones\".",
 
     "Items/Mods/Deep Dungeon/Beast Coins/giant/name": "Beast Coin: Ruins",
     "Items/Mods/Deep Dungeon/Beast Coins/giant/description": "A beast coin found in the ruins biome of the dungeon.",

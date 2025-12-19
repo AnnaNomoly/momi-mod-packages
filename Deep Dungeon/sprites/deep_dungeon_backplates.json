@@ -1,0 +1,1892 @@
+{
+    "backplate_empty": {
+        "Location": "images/ui/backplates/empty.png"
+    },
+    "backplate_amnesia": {
+        "Location": "images/ui/backplates/amnesia.png"
+    },
+    "backplate_amnesia_dread": {
+        "Location": "images/ui/backplates/amnesia_dread.png"
+    },
+    "backplate_amnesia_fey": {
+        "Location": "images/ui/backplates/amnesia_fey.png"
+    },
+    "backplate_amnesia_fey_dread": {
+        "Location": "images/ui/backplates/amnesia_fey_dread.png"
+    },
+    "backplate_amnesia_fey_inner_fire": {
+        "Location": "images/ui/backplates/amnesia_fey_inner_fire.png"
+    },
+    "backplate_amnesia_fey_leech": {
+        "Location": "images/ui/backplates/amnesia_fey_leech.png"
+    },
+    "backplate_amnesia_fey_peril": {
+        "Location": "images/ui/backplates/amnesia_fey_peril.png"
+    },
+    "backplate_amnesia_fey_reckoning": {
+        "Location": "images/ui/backplates/amnesia_fey_reckoning.png"
+    },
+    "backplate_amnesia_gloom": {
+        "Location": "images/ui/backplates/amnesia_gloom.png"
+    },
+    "backplate_amnesia_gloom_dread": {
+        "Location": "images/ui/backplates/amnesia_gloom_dread.png"
+    },
+    "backplate_amnesia_gloom_inner_fire": {
+        "Location": "images/ui/backplates/amnesia_gloom_inner_fire.png"
+    },
+    "backplate_amnesia_gloom_leech": {
+        "Location": "images/ui/backplates/amnesia_gloom_leech.png"
+    },
+    "backplate_amnesia_gloom_peril": {
+        "Location": "images/ui/backplates/amnesia_gloom_peril.png"
+    },
+    "backplate_amnesia_gloom_reckoning": {
+        "Location": "images/ui/backplates/amnesia_gloom_reckoning.png"
+    },
+    "backplate_amnesia_inner_fire": {
+        "Location": "images/ui/backplates/amnesia_inner_fire.png"
+    },
+    "backplate_amnesia_leech": {
+        "Location": "images/ui/backplates/amnesia_leech.png"
+    },
+    "backplate_amnesia_peril": {
+        "Location": "images/ui/backplates/amnesia_peril.png"
+    },
+    "backplate_amnesia_reckoning": {
+        "Location": "images/ui/backplates/amnesia_reckoning.png"
+    },
+    "backplate_damage_down": {
+        "Location": "images/ui/backplates/damage_down.png"
+    },
+    "backplate_damage_down_dread": {
+        "Location": "images/ui/backplates/damage_down_dread.png"
+    },
+    "backplate_damage_down_fey": {
+        "Location": "images/ui/backplates/damage_down_fey.png"
+    },
+    "backplate_damage_down_fey_dread": {
+        "Location": "images/ui/backplates/damage_down_fey_dread.png"
+    },
+    "backplate_damage_down_fey_inner_fire": {
+        "Location": "images/ui/backplates/damage_down_fey_inner_fire.png"
+    },
+    "backplate_damage_down_fey_leech": {
+        "Location": "images/ui/backplates/damage_down_fey_leech.png"
+    },
+    "backplate_damage_down_fey_peril": {
+        "Location": "images/ui/backplates/damage_down_fey_peril.png"
+    },
+    "backplate_damage_down_fey_reckoning": {
+        "Location": "images/ui/backplates/damage_down_fey_reckoning.png"
+    },
+    "backplate_damage_down_gloom": {
+        "Location": "images/ui/backplates/damage_down_gloom.png"
+    },
+    "backplate_damage_down_gloom_dread": {
+        "Location": "images/ui/backplates/damage_down_gloom_dread.png"
+    },
+    "backplate_damage_down_gloom_inner_fire": {
+        "Location": "images/ui/backplates/damage_down_gloom_inner_fire.png"
+    },
+    "backplate_damage_down_gloom_leech": {
+        "Location": "images/ui/backplates/damage_down_gloom_leech.png"
+    },
+    "backplate_damage_down_gloom_peril": {
+        "Location": "images/ui/backplates/damage_down_gloom_peril.png"
+    },
+    "backplate_damage_down_gloom_reckoning": {
+        "Location": "images/ui/backplates/damage_down_gloom_reckoning.png"
+    },
+    "backplate_damage_down_inner_fire": {
+        "Location": "images/ui/backplates/damage_down_inner_fire.png"
+    },
+    "backplate_damage_down_leech": {
+        "Location": "images/ui/backplates/damage_down_leech.png"
+    },
+    "backplate_damage_down_peril": {
+        "Location": "images/ui/backplates/damage_down_peril.png"
+    },
+    "backplate_damage_down_reckoning": {
+        "Location": "images/ui/backplates/damage_down_reckoning.png"
+    },
+    "backplate_distortion": {
+        "Location": "images/ui/backplates/distortion.png"
+    },
+    "backplate_distortion_dread": {
+        "Location": "images/ui/backplates/distortion_dread.png"
+    },
+    "backplate_distortion_fey": {
+        "Location": "images/ui/backplates/distortion_fey.png"
+    },
+    "backplate_distortion_fey_dread": {
+        "Location": "images/ui/backplates/distortion_fey_dread.png"
+    },
+    "backplate_distortion_fey_inner_fire": {
+        "Location": "images/ui/backplates/distortion_fey_inner_fire.png"
+    },
+    "backplate_distortion_fey_leech": {
+        "Location": "images/ui/backplates/distortion_fey_leech.png"
+    },
+    "backplate_distortion_fey_peril": {
+        "Location": "images/ui/backplates/distortion_fey_peril.png"
+    },
+    "backplate_distortion_fey_reckoning": {
+        "Location": "images/ui/backplates/distortion_fey_reckoning.png"
+    },
+    "backplate_distortion_gloom": {
+        "Location": "images/ui/backplates/distortion_gloom.png"
+    },
+    "backplate_distortion_gloom_dread": {
+        "Location": "images/ui/backplates/distortion_gloom_dread.png"
+    },
+    "backplate_distortion_gloom_inner_fire": {
+        "Location": "images/ui/backplates/distortion_gloom_inner_fire.png"
+    },
+    "backplate_distortion_gloom_leech": {
+        "Location": "images/ui/backplates/distortion_gloom_leech.png"
+    },
+    "backplate_distortion_gloom_peril": {
+        "Location": "images/ui/backplates/distortion_gloom_peril.png"
+    },
+    "backplate_distortion_gloom_reckoning": {
+        "Location": "images/ui/backplates/distortion_gloom_reckoning.png"
+    },
+    "backplate_distortion_inner_fire": {
+        "Location": "images/ui/backplates/distortion_inner_fire.png"
+    },
+    "backplate_distortion_leech": {
+        "Location": "images/ui/backplates/distortion_leech.png"
+    },
+    "backplate_distortion_peril": {
+        "Location": "images/ui/backplates/distortion_peril.png"
+    },
+    "backplate_distortion_reckoning": {
+        "Location": "images/ui/backplates/distortion_reckoning.png"
+    },
+    "backplate_dread": {
+        "Location": "images/ui/backplates/dread.png"
+    },
+    "backplate_exhaustion": {
+        "Location": "images/ui/backplates/exhaustion.png"
+    },
+    "backplate_exhaustion_amnesia": {
+        "Location": "images/ui/backplates/exhaustion_amnesia.png"
+    },
+    "backplate_exhaustion_amnesia_dread": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_dread.png"
+    },
+    "backplate_exhaustion_amnesia_fey": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_fey.png"
+    },
+    "backplate_exhaustion_amnesia_fey_dread": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_fey_dread.png"
+    },
+    "backplate_exhaustion_amnesia_fey_inner_fire": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_fey_inner_fire.png"
+    },
+    "backplate_exhaustion_amnesia_fey_leech": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_fey_leech.png"
+    },
+    "backplate_exhaustion_amnesia_fey_peril": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_fey_peril.png"
+    },
+    "backplate_exhaustion_amnesia_fey_reckoning": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_fey_reckoning.png"
+    },
+    "backplate_exhaustion_amnesia_gloom": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_gloom.png"
+    },
+    "backplate_exhaustion_amnesia_gloom_dread": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_gloom_dread.png"
+    },
+    "backplate_exhaustion_amnesia_gloom_inner_fire": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_gloom_inner_fire.png"
+    },
+    "backplate_exhaustion_amnesia_gloom_leech": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_gloom_leech.png"
+    },
+    "backplate_exhaustion_amnesia_gloom_peril": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_gloom_peril.png"
+    },
+    "backplate_exhaustion_amnesia_gloom_reckoning": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_gloom_reckoning.png"
+    },
+    "backplate_exhaustion_amnesia_inner_fire": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_inner_fire.png"
+    },
+    "backplate_exhaustion_amnesia_leech": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_leech.png"
+    },
+    "backplate_exhaustion_amnesia_peril": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_peril.png"
+    },
+    "backplate_exhaustion_amnesia_reckoning": {
+        "Location": "images/ui/backplates/exhaustion_amnesia_reckoning.png"
+    },
+    "backplate_exhaustion_damage_down": {
+        "Location": "images/ui/backplates/exhaustion_damage_down.png"
+    },
+    "backplate_exhaustion_damage_down_dread": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_dread.png"
+    },
+    "backplate_exhaustion_damage_down_fey": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_fey.png"
+    },
+    "backplate_exhaustion_damage_down_fey_dread": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_fey_dread.png"
+    },
+    "backplate_exhaustion_damage_down_fey_inner_fire": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_fey_inner_fire.png"
+    },
+    "backplate_exhaustion_damage_down_fey_leech": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_fey_leech.png"
+    },
+    "backplate_exhaustion_damage_down_fey_peril": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_fey_peril.png"
+    },
+    "backplate_exhaustion_damage_down_fey_reckoning": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_fey_reckoning.png"
+    },
+    "backplate_exhaustion_damage_down_gloom": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_gloom.png"
+    },
+    "backplate_exhaustion_damage_down_gloom_dread": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_gloom_dread.png"
+    },
+    "backplate_exhaustion_damage_down_gloom_inner_fire": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_gloom_inner_fire.png"
+    },
+    "backplate_exhaustion_damage_down_gloom_leech": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_gloom_leech.png"
+    },
+    "backplate_exhaustion_damage_down_gloom_peril": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_gloom_peril.png"
+    },
+    "backplate_exhaustion_damage_down_gloom_reckoning": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_gloom_reckoning.png"
+    },
+    "backplate_exhaustion_damage_down_inner_fire": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_inner_fire.png"
+    },
+    "backplate_exhaustion_damage_down_leech": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_leech.png"
+    },
+    "backplate_exhaustion_damage_down_peril": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_peril.png"
+    },
+    "backplate_exhaustion_damage_down_reckoning": {
+        "Location": "images/ui/backplates/exhaustion_damage_down_reckoning.png"
+    },
+    "backplate_exhaustion_distortion": {
+        "Location": "images/ui/backplates/exhaustion_distortion.png"
+    },
+    "backplate_exhaustion_distortion_dread": {
+        "Location": "images/ui/backplates/exhaustion_distortion_dread.png"
+    },
+    "backplate_exhaustion_distortion_fey": {
+        "Location": "images/ui/backplates/exhaustion_distortion_fey.png"
+    },
+    "backplate_exhaustion_distortion_fey_dread": {
+        "Location": "images/ui/backplates/exhaustion_distortion_fey_dread.png"
+    },
+    "backplate_exhaustion_distortion_fey_inner_fire": {
+        "Location": "images/ui/backplates/exhaustion_distortion_fey_inner_fire.png"
+    },
+    "backplate_exhaustion_distortion_fey_leech": {
+        "Location": "images/ui/backplates/exhaustion_distortion_fey_leech.png"
+    },
+    "backplate_exhaustion_distortion_fey_peril": {
+        "Location": "images/ui/backplates/exhaustion_distortion_fey_peril.png"
+    },
+    "backplate_exhaustion_distortion_fey_reckoning": {
+        "Location": "images/ui/backplates/exhaustion_distortion_fey_reckoning.png"
+    },
+    "backplate_exhaustion_distortion_gloom": {
+        "Location": "images/ui/backplates/exhaustion_distortion_gloom.png"
+    },
+    "backplate_exhaustion_distortion_gloom_dread": {
+        "Location": "images/ui/backplates/exhaustion_distortion_gloom_dread.png"
+    },
+    "backplate_exhaustion_distortion_gloom_inner_fire": {
+        "Location": "images/ui/backplates/exhaustion_distortion_gloom_inner_fire.png"
+    },
+    "backplate_exhaustion_distortion_gloom_leech": {
+        "Location": "images/ui/backplates/exhaustion_distortion_gloom_leech.png"
+    },
+    "backplate_exhaustion_distortion_gloom_peril": {
+        "Location": "images/ui/backplates/exhaustion_distortion_gloom_peril.png"
+    },
+    "backplate_exhaustion_distortion_gloom_reckoning": {
+        "Location": "images/ui/backplates/exhaustion_distortion_gloom_reckoning.png"
+    },
+    "backplate_exhaustion_distortion_inner_fire": {
+        "Location": "images/ui/backplates/exhaustion_distortion_inner_fire.png"
+    },
+    "backplate_exhaustion_distortion_leech": {
+        "Location": "images/ui/backplates/exhaustion_distortion_leech.png"
+    },
+    "backplate_exhaustion_distortion_peril": {
+        "Location": "images/ui/backplates/exhaustion_distortion_peril.png"
+    },
+    "backplate_exhaustion_distortion_reckoning": {
+        "Location": "images/ui/backplates/exhaustion_distortion_reckoning.png"
+    },
+    "backplate_exhaustion_dread": {
+        "Location": "images/ui/backplates/exhaustion_dread.png"
+    },
+    "backplate_exhaustion_fey": {
+        "Location": "images/ui/backplates/exhaustion_fey.png"
+    },
+    "backplate_exhaustion_fey_dread": {
+        "Location": "images/ui/backplates/exhaustion_fey_dread.png"
+    },
+    "backplate_exhaustion_fey_inner_fire": {
+        "Location": "images/ui/backplates/exhaustion_fey_inner_fire.png"
+    },
+    "backplate_exhaustion_fey_leech": {
+        "Location": "images/ui/backplates/exhaustion_fey_leech.png"
+    },
+    "backplate_exhaustion_fey_peril": {
+        "Location": "images/ui/backplates/exhaustion_fey_peril.png"
+    },
+    "backplate_exhaustion_fey_reckoning": {
+        "Location": "images/ui/backplates/exhaustion_fey_reckoning.png"
+    },
+    "backplate_exhaustion_gloom": {
+        "Location": "images/ui/backplates/exhaustion_gloom.png"
+    },
+    "backplate_exhaustion_gloom_dread": {
+        "Location": "images/ui/backplates/exhaustion_gloom_dread.png"
+    },
+    "backplate_exhaustion_gloom_inner_fire": {
+        "Location": "images/ui/backplates/exhaustion_gloom_inner_fire.png"
+    },
+    "backplate_exhaustion_gloom_leech": {
+        "Location": "images/ui/backplates/exhaustion_gloom_leech.png"
+    },
+    "backplate_exhaustion_gloom_peril": {
+        "Location": "images/ui/backplates/exhaustion_gloom_peril.png"
+    },
+    "backplate_exhaustion_gloom_reckoning": {
+        "Location": "images/ui/backplates/exhaustion_gloom_reckoning.png"
+    },
+    "backplate_exhaustion_inner_fire": {
+        "Location": "images/ui/backplates/exhaustion_inner_fire.png"
+    },
+    "backplate_exhaustion_item_penalty": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty.png"
+    },
+    "backplate_exhaustion_item_penalty_dread": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_dread.png"
+    },
+    "backplate_exhaustion_item_penalty_fey": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_fey.png"
+    },
+    "backplate_exhaustion_item_penalty_fey_dread": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_fey_dread.png"
+    },
+    "backplate_exhaustion_item_penalty_fey_inner_fire": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_fey_inner_fire.png"
+    },
+    "backplate_exhaustion_item_penalty_fey_leech": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_fey_leech.png"
+    },
+    "backplate_exhaustion_item_penalty_fey_peril": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_fey_peril.png"
+    },
+    "backplate_exhaustion_item_penalty_fey_reckoning": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_fey_reckoning.png"
+    },
+    "backplate_exhaustion_item_penalty_gloom": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_gloom.png"
+    },
+    "backplate_exhaustion_item_penalty_gloom_dread": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_gloom_dread.png"
+    },
+    "backplate_exhaustion_item_penalty_gloom_inner_fire": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_gloom_inner_fire.png"
+    },
+    "backplate_exhaustion_item_penalty_gloom_leech": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_gloom_leech.png"
+    },
+    "backplate_exhaustion_item_penalty_gloom_peril": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_gloom_peril.png"
+    },
+    "backplate_exhaustion_item_penalty_gloom_reckoning": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_gloom_reckoning.png"
+    },
+    "backplate_exhaustion_item_penalty_inner_fire": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_inner_fire.png"
+    },
+    "backplate_exhaustion_item_penalty_leech": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_leech.png"
+    },
+    "backplate_exhaustion_item_penalty_peril": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_peril.png"
+    },
+    "backplate_exhaustion_item_penalty_reckoning": {
+        "Location": "images/ui/backplates/exhaustion_item_penalty_reckoning.png"
+    },
+    "backplate_exhaustion_leech": {
+        "Location": "images/ui/backplates/exhaustion_leech.png"
+    },
+    "backplate_exhaustion_peril": {
+        "Location": "images/ui/backplates/exhaustion_peril.png"
+    },
+    "backplate_exhaustion_reckoning": {
+        "Location": "images/ui/backplates/exhaustion_reckoning.png"
+    },
+    "backplate_fey": {
+        "Location": "images/ui/backplates/fey.png"
+    },
+    "backplate_fey_dread": {
+        "Location": "images/ui/backplates/fey_dread.png"
+    },
+    "backplate_fey_inner_fire": {
+        "Location": "images/ui/backplates/fey_inner_fire.png"
+    },
+    "backplate_fey_leech": {
+        "Location": "images/ui/backplates/fey_leech.png"
+    },
+    "backplate_fey_peril": {
+        "Location": "images/ui/backplates/fey_peril.png"
+    },
+    "backplate_fey_reckoning": {
+        "Location": "images/ui/backplates/fey_reckoning.png"
+    },
+    "backplate_gloom": {
+        "Location": "images/ui/backplates/gloom.png"
+    },
+    "backplate_gloom_dread": {
+        "Location": "images/ui/backplates/gloom_dread.png"
+    },
+    "backplate_gloom_inner_fire": {
+        "Location": "images/ui/backplates/gloom_inner_fire.png"
+    },
+    "backplate_gloom_leech": {
+        "Location": "images/ui/backplates/gloom_leech.png"
+    },
+    "backplate_gloom_peril": {
+        "Location": "images/ui/backplates/gloom_peril.png"
+    },
+    "backplate_gloom_reckoning": {
+        "Location": "images/ui/backplates/gloom_reckoning.png"
+    },
+    "backplate_gravity": {
+        "Location": "images/ui/backplates/gravity.png"
+    },
+    "backplate_gravity_amnesia": {
+        "Location": "images/ui/backplates/gravity_amnesia.png"
+    },
+    "backplate_gravity_amnesia_dread": {
+        "Location": "images/ui/backplates/gravity_amnesia_dread.png"
+    },
+    "backplate_gravity_amnesia_fey": {
+        "Location": "images/ui/backplates/gravity_amnesia_fey.png"
+    },
+    "backplate_gravity_amnesia_fey_dread": {
+        "Location": "images/ui/backplates/gravity_amnesia_fey_dread.png"
+    },
+    "backplate_gravity_amnesia_fey_inner_fire": {
+        "Location": "images/ui/backplates/gravity_amnesia_fey_inner_fire.png"
+    },
+    "backplate_gravity_amnesia_fey_leech": {
+        "Location": "images/ui/backplates/gravity_amnesia_fey_leech.png"
+    },
+    "backplate_gravity_amnesia_fey_peril": {
+        "Location": "images/ui/backplates/gravity_amnesia_fey_peril.png"
+    },
+    "backplate_gravity_amnesia_fey_reckoning": {
+        "Location": "images/ui/backplates/gravity_amnesia_fey_reckoning.png"
+    },
+    "backplate_gravity_amnesia_gloom": {
+        "Location": "images/ui/backplates/gravity_amnesia_gloom.png"
+    },
+    "backplate_gravity_amnesia_gloom_dread": {
+        "Location": "images/ui/backplates/gravity_amnesia_gloom_dread.png"
+    },
+    "backplate_gravity_amnesia_gloom_inner_fire": {
+        "Location": "images/ui/backplates/gravity_amnesia_gloom_inner_fire.png"
+    },
+    "backplate_gravity_amnesia_gloom_leech": {
+        "Location": "images/ui/backplates/gravity_amnesia_gloom_leech.png"
+    },
+    "backplate_gravity_amnesia_gloom_peril": {
+        "Location": "images/ui/backplates/gravity_amnesia_gloom_peril.png"
+    },
+    "backplate_gravity_amnesia_gloom_reckoning": {
+        "Location": "images/ui/backplates/gravity_amnesia_gloom_reckoning.png"
+    },
+    "backplate_gravity_amnesia_inner_fire": {
+        "Location": "images/ui/backplates/gravity_amnesia_inner_fire.png"
+    },
+    "backplate_gravity_amnesia_leech": {
+        "Location": "images/ui/backplates/gravity_amnesia_leech.png"
+    },
+    "backplate_gravity_amnesia_peril": {
+        "Location": "images/ui/backplates/gravity_amnesia_peril.png"
+    },
+    "backplate_gravity_amnesia_reckoning": {
+        "Location": "images/ui/backplates/gravity_amnesia_reckoning.png"
+    },
+    "backplate_gravity_damage_down": {
+        "Location": "images/ui/backplates/gravity_damage_down.png"
+    },
+    "backplate_gravity_damage_down_dread": {
+        "Location": "images/ui/backplates/gravity_damage_down_dread.png"
+    },
+    "backplate_gravity_damage_down_fey": {
+        "Location": "images/ui/backplates/gravity_damage_down_fey.png"
+    },
+    "backplate_gravity_damage_down_fey_dread": {
+        "Location": "images/ui/backplates/gravity_damage_down_fey_dread.png"
+    },
+    "backplate_gravity_damage_down_fey_inner_fire": {
+        "Location": "images/ui/backplates/gravity_damage_down_fey_inner_fire.png"
+    },
+    "backplate_gravity_damage_down_fey_leech": {
+        "Location": "images/ui/backplates/gravity_damage_down_fey_leech.png"
+    },
+    "backplate_gravity_damage_down_fey_peril": {
+        "Location": "images/ui/backplates/gravity_damage_down_fey_peril.png"
+    },
+    "backplate_gravity_damage_down_fey_reckoning": {
+        "Location": "images/ui/backplates/gravity_damage_down_fey_reckoning.png"
+    },
+    "backplate_gravity_damage_down_gloom": {
+        "Location": "images/ui/backplates/gravity_damage_down_gloom.png"
+    },
+    "backplate_gravity_damage_down_gloom_dread": {
+        "Location": "images/ui/backplates/gravity_damage_down_gloom_dread.png"
+    },
+    "backplate_gravity_damage_down_gloom_inner_fire": {
+        "Location": "images/ui/backplates/gravity_damage_down_gloom_inner_fire.png"
+    },
+    "backplate_gravity_damage_down_gloom_leech": {
+        "Location": "images/ui/backplates/gravity_damage_down_gloom_leech.png"
+    },
+    "backplate_gravity_damage_down_gloom_peril": {
+        "Location": "images/ui/backplates/gravity_damage_down_gloom_peril.png"
+    },
+    "backplate_gravity_damage_down_gloom_reckoning": {
+        "Location": "images/ui/backplates/gravity_damage_down_gloom_reckoning.png"
+    },
+    "backplate_gravity_damage_down_inner_fire": {
+        "Location": "images/ui/backplates/gravity_damage_down_inner_fire.png"
+    },
+    "backplate_gravity_damage_down_leech": {
+        "Location": "images/ui/backplates/gravity_damage_down_leech.png"
+    },
+    "backplate_gravity_damage_down_peril": {
+        "Location": "images/ui/backplates/gravity_damage_down_peril.png"
+    },
+    "backplate_gravity_damage_down_reckoning": {
+        "Location": "images/ui/backplates/gravity_damage_down_reckoning.png"
+    },
+    "backplate_gravity_distortion": {
+        "Location": "images/ui/backplates/gravity_distortion.png"
+    },
+    "backplate_gravity_distortion_dread": {
+        "Location": "images/ui/backplates/gravity_distortion_dread.png"
+    },
+    "backplate_gravity_distortion_fey": {
+        "Location": "images/ui/backplates/gravity_distortion_fey.png"
+    },
+    "backplate_gravity_distortion_fey_dread": {
+        "Location": "images/ui/backplates/gravity_distortion_fey_dread.png"
+    },
+    "backplate_gravity_distortion_fey_inner_fire": {
+        "Location": "images/ui/backplates/gravity_distortion_fey_inner_fire.png"
+    },
+    "backplate_gravity_distortion_fey_leech": {
+        "Location": "images/ui/backplates/gravity_distortion_fey_leech.png"
+    },
+    "backplate_gravity_distortion_fey_peril": {
+        "Location": "images/ui/backplates/gravity_distortion_fey_peril.png"
+    },
+    "backplate_gravity_distortion_fey_reckoning": {
+        "Location": "images/ui/backplates/gravity_distortion_fey_reckoning.png"
+    },
+    "backplate_gravity_distortion_gloom": {
+        "Location": "images/ui/backplates/gravity_distortion_gloom.png"
+    },
+    "backplate_gravity_distortion_gloom_dread": {
+        "Location": "images/ui/backplates/gravity_distortion_gloom_dread.png"
+    },
+    "backplate_gravity_distortion_gloom_inner_fire": {
+        "Location": "images/ui/backplates/gravity_distortion_gloom_inner_fire.png"
+    },
+    "backplate_gravity_distortion_gloom_leech": {
+        "Location": "images/ui/backplates/gravity_distortion_gloom_leech.png"
+    },
+    "backplate_gravity_distortion_gloom_peril": {
+        "Location": "images/ui/backplates/gravity_distortion_gloom_peril.png"
+    },
+    "backplate_gravity_distortion_gloom_reckoning": {
+        "Location": "images/ui/backplates/gravity_distortion_gloom_reckoning.png"
+    },
+    "backplate_gravity_distortion_inner_fire": {
+        "Location": "images/ui/backplates/gravity_distortion_inner_fire.png"
+    },
+    "backplate_gravity_distortion_leech": {
+        "Location": "images/ui/backplates/gravity_distortion_leech.png"
+    },
+    "backplate_gravity_distortion_peril": {
+        "Location": "images/ui/backplates/gravity_distortion_peril.png"
+    },
+    "backplate_gravity_distortion_reckoning": {
+        "Location": "images/ui/backplates/gravity_distortion_reckoning.png"
+    },
+    "backplate_gravity_dread": {
+        "Location": "images/ui/backplates/gravity_dread.png"
+    },
+    "backplate_gravity_fey": {
+        "Location": "images/ui/backplates/gravity_fey.png"
+    },
+    "backplate_gravity_fey_dread": {
+        "Location": "images/ui/backplates/gravity_fey_dread.png"
+    },
+    "backplate_gravity_fey_inner_fire": {
+        "Location": "images/ui/backplates/gravity_fey_inner_fire.png"
+    },
+    "backplate_gravity_fey_leech": {
+        "Location": "images/ui/backplates/gravity_fey_leech.png"
+    },
+    "backplate_gravity_fey_peril": {
+        "Location": "images/ui/backplates/gravity_fey_peril.png"
+    },
+    "backplate_gravity_fey_reckoning": {
+        "Location": "images/ui/backplates/gravity_fey_reckoning.png"
+    },
+    "backplate_gravity_gloom": {
+        "Location": "images/ui/backplates/gravity_gloom.png"
+    },
+    "backplate_gravity_gloom_dread": {
+        "Location": "images/ui/backplates/gravity_gloom_dread.png"
+    },
+    "backplate_gravity_gloom_inner_fire": {
+        "Location": "images/ui/backplates/gravity_gloom_inner_fire.png"
+    },
+    "backplate_gravity_gloom_leech": {
+        "Location": "images/ui/backplates/gravity_gloom_leech.png"
+    },
+    "backplate_gravity_gloom_peril": {
+        "Location": "images/ui/backplates/gravity_gloom_peril.png"
+    },
+    "backplate_gravity_gloom_reckoning": {
+        "Location": "images/ui/backplates/gravity_gloom_reckoning.png"
+    },
+    "backplate_gravity_inner_fire": {
+        "Location": "images/ui/backplates/gravity_inner_fire.png"
+    },
+    "backplate_gravity_item_penalty": {
+        "Location": "images/ui/backplates/gravity_item_penalty.png"
+    },
+    "backplate_gravity_item_penalty_dread": {
+        "Location": "images/ui/backplates/gravity_item_penalty_dread.png"
+    },
+    "backplate_gravity_item_penalty_fey": {
+        "Location": "images/ui/backplates/gravity_item_penalty_fey.png"
+    },
+    "backplate_gravity_item_penalty_fey_dread": {
+        "Location": "images/ui/backplates/gravity_item_penalty_fey_dread.png"
+    },
+    "backplate_gravity_item_penalty_fey_inner_fire": {
+        "Location": "images/ui/backplates/gravity_item_penalty_fey_inner_fire.png"
+    },
+    "backplate_gravity_item_penalty_fey_leech": {
+        "Location": "images/ui/backplates/gravity_item_penalty_fey_leech.png"
+    },
+    "backplate_gravity_item_penalty_fey_peril": {
+        "Location": "images/ui/backplates/gravity_item_penalty_fey_peril.png"
+    },
+    "backplate_gravity_item_penalty_fey_reckoning": {
+        "Location": "images/ui/backplates/gravity_item_penalty_fey_reckoning.png"
+    },
+    "backplate_gravity_item_penalty_gloom": {
+        "Location": "images/ui/backplates/gravity_item_penalty_gloom.png"
+    },
+    "backplate_gravity_item_penalty_gloom_dread": {
+        "Location": "images/ui/backplates/gravity_item_penalty_gloom_dread.png"
+    },
+    "backplate_gravity_item_penalty_gloom_inner_fire": {
+        "Location": "images/ui/backplates/gravity_item_penalty_gloom_inner_fire.png"
+    },
+    "backplate_gravity_item_penalty_gloom_leech": {
+        "Location": "images/ui/backplates/gravity_item_penalty_gloom_leech.png"
+    },
+    "backplate_gravity_item_penalty_gloom_peril": {
+        "Location": "images/ui/backplates/gravity_item_penalty_gloom_peril.png"
+    },
+    "backplate_gravity_item_penalty_gloom_reckoning": {
+        "Location": "images/ui/backplates/gravity_item_penalty_gloom_reckoning.png"
+    },
+    "backplate_gravity_item_penalty_inner_fire": {
+        "Location": "images/ui/backplates/gravity_item_penalty_inner_fire.png"
+    },
+    "backplate_gravity_item_penalty_leech": {
+        "Location": "images/ui/backplates/gravity_item_penalty_leech.png"
+    },
+    "backplate_gravity_item_penalty_peril": {
+        "Location": "images/ui/backplates/gravity_item_penalty_peril.png"
+    },
+    "backplate_gravity_item_penalty_reckoning": {
+        "Location": "images/ui/backplates/gravity_item_penalty_reckoning.png"
+    },
+    "backplate_gravity_leech": {
+        "Location": "images/ui/backplates/gravity_leech.png"
+    },
+    "backplate_gravity_peril": {
+        "Location": "images/ui/backplates/gravity_peril.png"
+    },
+    "backplate_gravity_reckoning": {
+        "Location": "images/ui/backplates/gravity_reckoning.png"
+    },
+    "backplate_haste": {
+        "Location": "images/ui/backplates/haste.png"
+    },
+    "backplate_haste_amnesia": {
+        "Location": "images/ui/backplates/haste_amnesia.png"
+    },
+    "backplate_haste_amnesia_dread": {
+        "Location": "images/ui/backplates/haste_amnesia_dread.png"
+    },
+    "backplate_haste_amnesia_fey": {
+        "Location": "images/ui/backplates/haste_amnesia_fey.png"
+    },
+    "backplate_haste_amnesia_fey_dread": {
+        "Location": "images/ui/backplates/haste_amnesia_fey_dread.png"
+    },
+    "backplate_haste_amnesia_fey_inner_fire": {
+        "Location": "images/ui/backplates/haste_amnesia_fey_inner_fire.png"
+    },
+    "backplate_haste_amnesia_fey_leech": {
+        "Location": "images/ui/backplates/haste_amnesia_fey_leech.png"
+    },
+    "backplate_haste_amnesia_fey_peril": {
+        "Location": "images/ui/backplates/haste_amnesia_fey_peril.png"
+    },
+    "backplate_haste_amnesia_fey_reckoning": {
+        "Location": "images/ui/backplates/haste_amnesia_fey_reckoning.png"
+    },
+    "backplate_haste_amnesia_gloom": {
+        "Location": "images/ui/backplates/haste_amnesia_gloom.png"
+    },
+    "backplate_haste_amnesia_gloom_dread": {
+        "Location": "images/ui/backplates/haste_amnesia_gloom_dread.png"
+    },
+    "backplate_haste_amnesia_gloom_inner_fire": {
+        "Location": "images/ui/backplates/haste_amnesia_gloom_inner_fire.png"
+    },
+    "backplate_haste_amnesia_gloom_leech": {
+        "Location": "images/ui/backplates/haste_amnesia_gloom_leech.png"
+    },
+    "backplate_haste_amnesia_gloom_peril": {
+        "Location": "images/ui/backplates/haste_amnesia_gloom_peril.png"
+    },
+    "backplate_haste_amnesia_gloom_reckoning": {
+        "Location": "images/ui/backplates/haste_amnesia_gloom_reckoning.png"
+    },
+    "backplate_haste_amnesia_inner_fire": {
+        "Location": "images/ui/backplates/haste_amnesia_inner_fire.png"
+    },
+    "backplate_haste_amnesia_leech": {
+        "Location": "images/ui/backplates/haste_amnesia_leech.png"
+    },
+    "backplate_haste_amnesia_peril": {
+        "Location": "images/ui/backplates/haste_amnesia_peril.png"
+    },
+    "backplate_haste_amnesia_reckoning": {
+        "Location": "images/ui/backplates/haste_amnesia_reckoning.png"
+    },
+    "backplate_haste_damage_down": {
+        "Location": "images/ui/backplates/haste_damage_down.png"
+    },
+    "backplate_haste_damage_down_dread": {
+        "Location": "images/ui/backplates/haste_damage_down_dread.png"
+    },
+    "backplate_haste_damage_down_fey": {
+        "Location": "images/ui/backplates/haste_damage_down_fey.png"
+    },
+    "backplate_haste_damage_down_fey_dread": {
+        "Location": "images/ui/backplates/haste_damage_down_fey_dread.png"
+    },
+    "backplate_haste_damage_down_fey_inner_fire": {
+        "Location": "images/ui/backplates/haste_damage_down_fey_inner_fire.png"
+    },
+    "backplate_haste_damage_down_fey_leech": {
+        "Location": "images/ui/backplates/haste_damage_down_fey_leech.png"
+    },
+    "backplate_haste_damage_down_fey_peril": {
+        "Location": "images/ui/backplates/haste_damage_down_fey_peril.png"
+    },
+    "backplate_haste_damage_down_fey_reckoning": {
+        "Location": "images/ui/backplates/haste_damage_down_fey_reckoning.png"
+    },
+    "backplate_haste_damage_down_gloom": {
+        "Location": "images/ui/backplates/haste_damage_down_gloom.png"
+    },
+    "backplate_haste_damage_down_gloom_dread": {
+        "Location": "images/ui/backplates/haste_damage_down_gloom_dread.png"
+    },
+    "backplate_haste_damage_down_gloom_inner_fire": {
+        "Location": "images/ui/backplates/haste_damage_down_gloom_inner_fire.png"
+    },
+    "backplate_haste_damage_down_gloom_leech": {
+        "Location": "images/ui/backplates/haste_damage_down_gloom_leech.png"
+    },
+    "backplate_haste_damage_down_gloom_peril": {
+        "Location": "images/ui/backplates/haste_damage_down_gloom_peril.png"
+    },
+    "backplate_haste_damage_down_gloom_reckoning": {
+        "Location": "images/ui/backplates/haste_damage_down_gloom_reckoning.png"
+    },
+    "backplate_haste_damage_down_inner_fire": {
+        "Location": "images/ui/backplates/haste_damage_down_inner_fire.png"
+    },
+    "backplate_haste_damage_down_leech": {
+        "Location": "images/ui/backplates/haste_damage_down_leech.png"
+    },
+    "backplate_haste_damage_down_peril": {
+        "Location": "images/ui/backplates/haste_damage_down_peril.png"
+    },
+    "backplate_haste_damage_down_reckoning": {
+        "Location": "images/ui/backplates/haste_damage_down_reckoning.png"
+    },
+    "backplate_haste_distortion": {
+        "Location": "images/ui/backplates/haste_distortion.png"
+    },
+    "backplate_haste_distortion_dread": {
+        "Location": "images/ui/backplates/haste_distortion_dread.png"
+    },
+    "backplate_haste_distortion_fey": {
+        "Location": "images/ui/backplates/haste_distortion_fey.png"
+    },
+    "backplate_haste_distortion_fey_dread": {
+        "Location": "images/ui/backplates/haste_distortion_fey_dread.png"
+    },
+    "backplate_haste_distortion_fey_inner_fire": {
+        "Location": "images/ui/backplates/haste_distortion_fey_inner_fire.png"
+    },
+    "backplate_haste_distortion_fey_leech": {
+        "Location": "images/ui/backplates/haste_distortion_fey_leech.png"
+    },
+    "backplate_haste_distortion_fey_peril": {
+        "Location": "images/ui/backplates/haste_distortion_fey_peril.png"
+    },
+    "backplate_haste_distortion_fey_reckoning": {
+        "Location": "images/ui/backplates/haste_distortion_fey_reckoning.png"
+    },
+    "backplate_haste_distortion_gloom": {
+        "Location": "images/ui/backplates/haste_distortion_gloom.png"
+    },
+    "backplate_haste_distortion_gloom_dread": {
+        "Location": "images/ui/backplates/haste_distortion_gloom_dread.png"
+    },
+    "backplate_haste_distortion_gloom_inner_fire": {
+        "Location": "images/ui/backplates/haste_distortion_gloom_inner_fire.png"
+    },
+    "backplate_haste_distortion_gloom_leech": {
+        "Location": "images/ui/backplates/haste_distortion_gloom_leech.png"
+    },
+    "backplate_haste_distortion_gloom_peril": {
+        "Location": "images/ui/backplates/haste_distortion_gloom_peril.png"
+    },
+    "backplate_haste_distortion_gloom_reckoning": {
+        "Location": "images/ui/backplates/haste_distortion_gloom_reckoning.png"
+    },
+    "backplate_haste_distortion_inner_fire": {
+        "Location": "images/ui/backplates/haste_distortion_inner_fire.png"
+    },
+    "backplate_haste_distortion_leech": {
+        "Location": "images/ui/backplates/haste_distortion_leech.png"
+    },
+    "backplate_haste_distortion_peril": {
+        "Location": "images/ui/backplates/haste_distortion_peril.png"
+    },
+    "backplate_haste_distortion_reckoning": {
+        "Location": "images/ui/backplates/haste_distortion_reckoning.png"
+    },
+    "backplate_haste_dread": {
+        "Location": "images/ui/backplates/haste_dread.png"
+    },
+    "backplate_haste_fey": {
+        "Location": "images/ui/backplates/haste_fey.png"
+    },
+    "backplate_haste_fey_dread": {
+        "Location": "images/ui/backplates/haste_fey_dread.png"
+    },
+    "backplate_haste_fey_inner_fire": {
+        "Location": "images/ui/backplates/haste_fey_inner_fire.png"
+    },
+    "backplate_haste_fey_leech": {
+        "Location": "images/ui/backplates/haste_fey_leech.png"
+    },
+    "backplate_haste_fey_peril": {
+        "Location": "images/ui/backplates/haste_fey_peril.png"
+    },
+    "backplate_haste_fey_reckoning": {
+        "Location": "images/ui/backplates/haste_fey_reckoning.png"
+    },
+    "backplate_haste_gloom": {
+        "Location": "images/ui/backplates/haste_gloom.png"
+    },
+    "backplate_haste_gloom_dread": {
+        "Location": "images/ui/backplates/haste_gloom_dread.png"
+    },
+    "backplate_haste_gloom_inner_fire": {
+        "Location": "images/ui/backplates/haste_gloom_inner_fire.png"
+    },
+    "backplate_haste_gloom_leech": {
+        "Location": "images/ui/backplates/haste_gloom_leech.png"
+    },
+    "backplate_haste_gloom_peril": {
+        "Location": "images/ui/backplates/haste_gloom_peril.png"
+    },
+    "backplate_haste_gloom_reckoning": {
+        "Location": "images/ui/backplates/haste_gloom_reckoning.png"
+    },
+    "backplate_haste_inner_fire": {
+        "Location": "images/ui/backplates/haste_inner_fire.png"
+    },
+    "backplate_haste_item_penalty": {
+        "Location": "images/ui/backplates/haste_item_penalty.png"
+    },
+    "backplate_haste_item_penalty_dread": {
+        "Location": "images/ui/backplates/haste_item_penalty_dread.png"
+    },
+    "backplate_haste_item_penalty_fey": {
+        "Location": "images/ui/backplates/haste_item_penalty_fey.png"
+    },
+    "backplate_haste_item_penalty_fey_dread": {
+        "Location": "images/ui/backplates/haste_item_penalty_fey_dread.png"
+    },
+    "backplate_haste_item_penalty_fey_inner_fire": {
+        "Location": "images/ui/backplates/haste_item_penalty_fey_inner_fire.png"
+    },
+    "backplate_haste_item_penalty_fey_leech": {
+        "Location": "images/ui/backplates/haste_item_penalty_fey_leech.png"
+    },
+    "backplate_haste_item_penalty_fey_peril": {
+        "Location": "images/ui/backplates/haste_item_penalty_fey_peril.png"
+    },
+    "backplate_haste_item_penalty_fey_reckoning": {
+        "Location": "images/ui/backplates/haste_item_penalty_fey_reckoning.png"
+    },
+    "backplate_haste_item_penalty_gloom": {
+        "Location": "images/ui/backplates/haste_item_penalty_gloom.png"
+    },
+    "backplate_haste_item_penalty_gloom_dread": {
+        "Location": "images/ui/backplates/haste_item_penalty_gloom_dread.png"
+    },
+    "backplate_haste_item_penalty_gloom_inner_fire": {
+        "Location": "images/ui/backplates/haste_item_penalty_gloom_inner_fire.png"
+    },
+    "backplate_haste_item_penalty_gloom_leech": {
+        "Location": "images/ui/backplates/haste_item_penalty_gloom_leech.png"
+    },
+    "backplate_haste_item_penalty_gloom_peril": {
+        "Location": "images/ui/backplates/haste_item_penalty_gloom_peril.png"
+    },
+    "backplate_haste_item_penalty_gloom_reckoning": {
+        "Location": "images/ui/backplates/haste_item_penalty_gloom_reckoning.png"
+    },
+    "backplate_haste_item_penalty_inner_fire": {
+        "Location": "images/ui/backplates/haste_item_penalty_inner_fire.png"
+    },
+    "backplate_haste_item_penalty_leech": {
+        "Location": "images/ui/backplates/haste_item_penalty_leech.png"
+    },
+    "backplate_haste_item_penalty_peril": {
+        "Location": "images/ui/backplates/haste_item_penalty_peril.png"
+    },
+    "backplate_haste_item_penalty_reckoning": {
+        "Location": "images/ui/backplates/haste_item_penalty_reckoning.png"
+    },
+    "backplate_haste_leech": {
+        "Location": "images/ui/backplates/haste_leech.png"
+    },
+    "backplate_haste_peril": {
+        "Location": "images/ui/backplates/haste_peril.png"
+    },
+    "backplate_haste_reckoning": {
+        "Location": "images/ui/backplates/haste_reckoning.png"
+    },
+    "backplate_hp_penalty": {
+        "Location": "images/ui/backplates/hp_penalty.png"
+    },
+    "backplate_hp_penalty_amnesia": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia.png"
+    },
+    "backplate_hp_penalty_amnesia_dread": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_dread.png"
+    },
+    "backplate_hp_penalty_amnesia_fey": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_fey.png"
+    },
+    "backplate_hp_penalty_amnesia_fey_dread": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_fey_dread.png"
+    },
+    "backplate_hp_penalty_amnesia_fey_inner_fire": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_fey_inner_fire.png"
+    },
+    "backplate_hp_penalty_amnesia_fey_leech": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_fey_leech.png"
+    },
+    "backplate_hp_penalty_amnesia_fey_peril": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_fey_peril.png"
+    },
+    "backplate_hp_penalty_amnesia_fey_reckoning": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_fey_reckoning.png"
+    },
+    "backplate_hp_penalty_amnesia_gloom": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_gloom.png"
+    },
+    "backplate_hp_penalty_amnesia_gloom_dread": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_gloom_dread.png"
+    },
+    "backplate_hp_penalty_amnesia_gloom_inner_fire": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_gloom_inner_fire.png"
+    },
+    "backplate_hp_penalty_amnesia_gloom_leech": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_gloom_leech.png"
+    },
+    "backplate_hp_penalty_amnesia_gloom_peril": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_gloom_peril.png"
+    },
+    "backplate_hp_penalty_amnesia_gloom_reckoning": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_gloom_reckoning.png"
+    },
+    "backplate_hp_penalty_amnesia_inner_fire": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_inner_fire.png"
+    },
+    "backplate_hp_penalty_amnesia_leech": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_leech.png"
+    },
+    "backplate_hp_penalty_amnesia_peril": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_peril.png"
+    },
+    "backplate_hp_penalty_amnesia_reckoning": {
+        "Location": "images/ui/backplates/hp_penalty_amnesia_reckoning.png"
+    },
+    "backplate_hp_penalty_damage_down": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down.png"
+    },
+    "backplate_hp_penalty_damage_down_dread": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_dread.png"
+    },
+    "backplate_hp_penalty_damage_down_fey": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_fey.png"
+    },
+    "backplate_hp_penalty_damage_down_fey_dread": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_fey_dread.png"
+    },
+    "backplate_hp_penalty_damage_down_fey_inner_fire": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_fey_inner_fire.png"
+    },
+    "backplate_hp_penalty_damage_down_fey_leech": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_fey_leech.png"
+    },
+    "backplate_hp_penalty_damage_down_fey_peril": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_fey_peril.png"
+    },
+    "backplate_hp_penalty_damage_down_fey_reckoning": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_fey_reckoning.png"
+    },
+    "backplate_hp_penalty_damage_down_gloom": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_gloom.png"
+    },
+    "backplate_hp_penalty_damage_down_gloom_dread": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_gloom_dread.png"
+    },
+    "backplate_hp_penalty_damage_down_gloom_inner_fire": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_gloom_inner_fire.png"
+    },
+    "backplate_hp_penalty_damage_down_gloom_leech": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_gloom_leech.png"
+    },
+    "backplate_hp_penalty_damage_down_gloom_peril": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_gloom_peril.png"
+    },
+    "backplate_hp_penalty_damage_down_gloom_reckoning": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_gloom_reckoning.png"
+    },
+    "backplate_hp_penalty_damage_down_inner_fire": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_inner_fire.png"
+    },
+    "backplate_hp_penalty_damage_down_leech": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_leech.png"
+    },
+    "backplate_hp_penalty_damage_down_peril": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_peril.png"
+    },
+    "backplate_hp_penalty_damage_down_reckoning": {
+        "Location": "images/ui/backplates/hp_penalty_damage_down_reckoning.png"
+    },
+    "backplate_hp_penalty_distortion": {
+        "Location": "images/ui/backplates/hp_penalty_distortion.png"
+    },
+    "backplate_hp_penalty_distortion_dread": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_dread.png"
+    },
+    "backplate_hp_penalty_distortion_fey": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_fey.png"
+    },
+    "backplate_hp_penalty_distortion_fey_dread": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_fey_dread.png"
+    },
+    "backplate_hp_penalty_distortion_fey_inner_fire": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_fey_inner_fire.png"
+    },
+    "backplate_hp_penalty_distortion_fey_leech": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_fey_leech.png"
+    },
+    "backplate_hp_penalty_distortion_fey_peril": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_fey_peril.png"
+    },
+    "backplate_hp_penalty_distortion_fey_reckoning": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_fey_reckoning.png"
+    },
+    "backplate_hp_penalty_distortion_gloom": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_gloom.png"
+    },
+    "backplate_hp_penalty_distortion_gloom_dread": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_gloom_dread.png"
+    },
+    "backplate_hp_penalty_distortion_gloom_inner_fire": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_gloom_inner_fire.png"
+    },
+    "backplate_hp_penalty_distortion_gloom_leech": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_gloom_leech.png"
+    },
+    "backplate_hp_penalty_distortion_gloom_peril": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_gloom_peril.png"
+    },
+    "backplate_hp_penalty_distortion_gloom_reckoning": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_gloom_reckoning.png"
+    },
+    "backplate_hp_penalty_distortion_inner_fire": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_inner_fire.png"
+    },
+    "backplate_hp_penalty_distortion_leech": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_leech.png"
+    },
+    "backplate_hp_penalty_distortion_peril": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_peril.png"
+    },
+    "backplate_hp_penalty_distortion_reckoning": {
+        "Location": "images/ui/backplates/hp_penalty_distortion_reckoning.png"
+    },
+    "backplate_hp_penalty_dread": {
+        "Location": "images/ui/backplates/hp_penalty_dread.png"
+    },
+    "backplate_hp_penalty_fey": {
+        "Location": "images/ui/backplates/hp_penalty_fey.png"
+    },
+    "backplate_hp_penalty_fey_dread": {
+        "Location": "images/ui/backplates/hp_penalty_fey_dread.png"
+    },
+    "backplate_hp_penalty_fey_inner_fire": {
+        "Location": "images/ui/backplates/hp_penalty_fey_inner_fire.png"
+    },
+    "backplate_hp_penalty_fey_leech": {
+        "Location": "images/ui/backplates/hp_penalty_fey_leech.png"
+    },
+    "backplate_hp_penalty_fey_peril": {
+        "Location": "images/ui/backplates/hp_penalty_fey_peril.png"
+    },
+    "backplate_hp_penalty_fey_reckoning": {
+        "Location": "images/ui/backplates/hp_penalty_fey_reckoning.png"
+    },
+    "backplate_hp_penalty_gloom": {
+        "Location": "images/ui/backplates/hp_penalty_gloom.png"
+    },
+    "backplate_hp_penalty_gloom_dread": {
+        "Location": "images/ui/backplates/hp_penalty_gloom_dread.png"
+    },
+    "backplate_hp_penalty_gloom_inner_fire": {
+        "Location": "images/ui/backplates/hp_penalty_gloom_inner_fire.png"
+    },
+    "backplate_hp_penalty_gloom_leech": {
+        "Location": "images/ui/backplates/hp_penalty_gloom_leech.png"
+    },
+    "backplate_hp_penalty_gloom_peril": {
+        "Location": "images/ui/backplates/hp_penalty_gloom_peril.png"
+    },
+    "backplate_hp_penalty_gloom_reckoning": {
+        "Location": "images/ui/backplates/hp_penalty_gloom_reckoning.png"
+    },
+    "backplate_hp_penalty_inner_fire": {
+        "Location": "images/ui/backplates/hp_penalty_inner_fire.png"
+    },
+    "backplate_hp_penalty_item_penalty": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty.png"
+    },
+    "backplate_hp_penalty_item_penalty_dread": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_dread.png"
+    },
+    "backplate_hp_penalty_item_penalty_fey": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_fey.png"
+    },
+    "backplate_hp_penalty_item_penalty_fey_dread": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_fey_dread.png"
+    },
+    "backplate_hp_penalty_item_penalty_fey_inner_fire": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_fey_inner_fire.png"
+    },
+    "backplate_hp_penalty_item_penalty_fey_leech": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_fey_leech.png"
+    },
+    "backplate_hp_penalty_item_penalty_fey_peril": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_fey_peril.png"
+    },
+    "backplate_hp_penalty_item_penalty_fey_reckoning": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_fey_reckoning.png"
+    },
+    "backplate_hp_penalty_item_penalty_gloom": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_gloom.png"
+    },
+    "backplate_hp_penalty_item_penalty_gloom_dread": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_gloom_dread.png"
+    },
+    "backplate_hp_penalty_item_penalty_gloom_inner_fire": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_gloom_inner_fire.png"
+    },
+    "backplate_hp_penalty_item_penalty_gloom_leech": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_gloom_leech.png"
+    },
+    "backplate_hp_penalty_item_penalty_gloom_peril": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_gloom_peril.png"
+    },
+    "backplate_hp_penalty_item_penalty_gloom_reckoning": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_gloom_reckoning.png"
+    },
+    "backplate_hp_penalty_item_penalty_inner_fire": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_inner_fire.png"
+    },
+    "backplate_hp_penalty_item_penalty_leech": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_leech.png"
+    },
+    "backplate_hp_penalty_item_penalty_peril": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_peril.png"
+    },
+    "backplate_hp_penalty_item_penalty_reckoning": {
+        "Location": "images/ui/backplates/hp_penalty_item_penalty_reckoning.png"
+    },
+    "backplate_hp_penalty_leech": {
+        "Location": "images/ui/backplates/hp_penalty_leech.png"
+    },
+    "backplate_hp_penalty_peril": {
+        "Location": "images/ui/backplates/hp_penalty_peril.png"
+    },
+    "backplate_hp_penalty_reckoning": {
+        "Location": "images/ui/backplates/hp_penalty_reckoning.png"
+    },
+    "backplate_inner_fire": {
+        "Location": "images/ui/backplates/inner_fire.png"
+    },
+    "backplate_item_penalty": {
+        "Location": "images/ui/backplates/item_penalty.png"
+    },
+    "backplate_item_penalty_dread": {
+        "Location": "images/ui/backplates/item_penalty_dread.png"
+    },
+    "backplate_item_penalty_fey": {
+        "Location": "images/ui/backplates/item_penalty_fey.png"
+    },
+    "backplate_item_penalty_fey_dread": {
+        "Location": "images/ui/backplates/item_penalty_fey_dread.png"
+    },
+    "backplate_item_penalty_fey_inner_fire": {
+        "Location": "images/ui/backplates/item_penalty_fey_inner_fire.png"
+    },
+    "backplate_item_penalty_fey_leech": {
+        "Location": "images/ui/backplates/item_penalty_fey_leech.png"
+    },
+    "backplate_item_penalty_fey_peril": {
+        "Location": "images/ui/backplates/item_penalty_fey_peril.png"
+    },
+    "backplate_item_penalty_fey_reckoning": {
+        "Location": "images/ui/backplates/item_penalty_fey_reckoning.png"
+    },
+    "backplate_item_penalty_gloom": {
+        "Location": "images/ui/backplates/item_penalty_gloom.png"
+    },
+    "backplate_item_penalty_gloom_dread": {
+        "Location": "images/ui/backplates/item_penalty_gloom_dread.png"
+    },
+    "backplate_item_penalty_gloom_inner_fire": {
+        "Location": "images/ui/backplates/item_penalty_gloom_inner_fire.png"
+    },
+    "backplate_item_penalty_gloom_leech": {
+        "Location": "images/ui/backplates/item_penalty_gloom_leech.png"
+    },
+    "backplate_item_penalty_gloom_peril": {
+        "Location": "images/ui/backplates/item_penalty_gloom_peril.png"
+    },
+    "backplate_item_penalty_gloom_reckoning": {
+        "Location": "images/ui/backplates/item_penalty_gloom_reckoning.png"
+    },
+    "backplate_item_penalty_inner_fire": {
+        "Location": "images/ui/backplates/item_penalty_inner_fire.png"
+    },
+    "backplate_item_penalty_leech": {
+        "Location": "images/ui/backplates/item_penalty_leech.png"
+    },
+    "backplate_item_penalty_peril": {
+        "Location": "images/ui/backplates/item_penalty_peril.png"
+    },
+    "backplate_item_penalty_reckoning": {
+        "Location": "images/ui/backplates/item_penalty_reckoning.png"
+    },
+    "backplate_leech": {
+        "Location": "images/ui/backplates/leech.png"
+    },
+    "backplate_peril": {
+        "Location": "images/ui/backplates/peril.png"
+    },
+    "backplate_reckoning": {
+        "Location": "images/ui/backplates/reckoning.png"
+    },
+    "backplate_restoration": {
+        "Location": "images/ui/backplates/restoration.png"
+    },
+    "backplate_restoration_amnesia": {
+        "Location": "images/ui/backplates/restoration_amnesia.png"
+    },
+    "backplate_restoration_amnesia_dread": {
+        "Location": "images/ui/backplates/restoration_amnesia_dread.png"
+    },
+    "backplate_restoration_amnesia_fey": {
+        "Location": "images/ui/backplates/restoration_amnesia_fey.png"
+    },
+    "backplate_restoration_amnesia_fey_dread": {
+        "Location": "images/ui/backplates/restoration_amnesia_fey_dread.png"
+    },
+    "backplate_restoration_amnesia_fey_inner_fire": {
+        "Location": "images/ui/backplates/restoration_amnesia_fey_inner_fire.png"
+    },
+    "backplate_restoration_amnesia_fey_leech": {
+        "Location": "images/ui/backplates/restoration_amnesia_fey_leech.png"
+    },
+    "backplate_restoration_amnesia_fey_peril": {
+        "Location": "images/ui/backplates/restoration_amnesia_fey_peril.png"
+    },
+    "backplate_restoration_amnesia_fey_reckoning": {
+        "Location": "images/ui/backplates/restoration_amnesia_fey_reckoning.png"
+    },
+    "backplate_restoration_amnesia_gloom": {
+        "Location": "images/ui/backplates/restoration_amnesia_gloom.png"
+    },
+    "backplate_restoration_amnesia_gloom_dread": {
+        "Location": "images/ui/backplates/restoration_amnesia_gloom_dread.png"
+    },
+    "backplate_restoration_amnesia_gloom_inner_fire": {
+        "Location": "images/ui/backplates/restoration_amnesia_gloom_inner_fire.png"
+    },
+    "backplate_restoration_amnesia_gloom_leech": {
+        "Location": "images/ui/backplates/restoration_amnesia_gloom_leech.png"
+    },
+    "backplate_restoration_amnesia_gloom_peril": {
+        "Location": "images/ui/backplates/restoration_amnesia_gloom_peril.png"
+    },
+    "backplate_restoration_amnesia_gloom_reckoning": {
+        "Location": "images/ui/backplates/restoration_amnesia_gloom_reckoning.png"
+    },
+    "backplate_restoration_amnesia_inner_fire": {
+        "Location": "images/ui/backplates/restoration_amnesia_inner_fire.png"
+    },
+    "backplate_restoration_amnesia_leech": {
+        "Location": "images/ui/backplates/restoration_amnesia_leech.png"
+    },
+    "backplate_restoration_amnesia_peril": {
+        "Location": "images/ui/backplates/restoration_amnesia_peril.png"
+    },
+    "backplate_restoration_amnesia_reckoning": {
+        "Location": "images/ui/backplates/restoration_amnesia_reckoning.png"
+    },
+    "backplate_restoration_damage_down": {
+        "Location": "images/ui/backplates/restoration_damage_down.png"
+    },
+    "backplate_restoration_damage_down_dread": {
+        "Location": "images/ui/backplates/restoration_damage_down_dread.png"
+    },
+    "backplate_restoration_damage_down_fey": {
+        "Location": "images/ui/backplates/restoration_damage_down_fey.png"
+    },
+    "backplate_restoration_damage_down_fey_dread": {
+        "Location": "images/ui/backplates/restoration_damage_down_fey_dread.png"
+    },
+    "backplate_restoration_damage_down_fey_inner_fire": {
+        "Location": "images/ui/backplates/restoration_damage_down_fey_inner_fire.png"
+    },
+    "backplate_restoration_damage_down_fey_leech": {
+        "Location": "images/ui/backplates/restoration_damage_down_fey_leech.png"
+    },
+    "backplate_restoration_damage_down_fey_peril": {
+        "Location": "images/ui/backplates/restoration_damage_down_fey_peril.png"
+    },
+    "backplate_restoration_damage_down_fey_reckoning": {
+        "Location": "images/ui/backplates/restoration_damage_down_fey_reckoning.png"
+    },
+    "backplate_restoration_damage_down_gloom": {
+        "Location": "images/ui/backplates/restoration_damage_down_gloom.png"
+    },
+    "backplate_restoration_damage_down_gloom_dread": {
+        "Location": "images/ui/backplates/restoration_damage_down_gloom_dread.png"
+    },
+    "backplate_restoration_damage_down_gloom_inner_fire": {
+        "Location": "images/ui/backplates/restoration_damage_down_gloom_inner_fire.png"
+    },
+    "backplate_restoration_damage_down_gloom_leech": {
+        "Location": "images/ui/backplates/restoration_damage_down_gloom_leech.png"
+    },
+    "backplate_restoration_damage_down_gloom_peril": {
+        "Location": "images/ui/backplates/restoration_damage_down_gloom_peril.png"
+    },
+    "backplate_restoration_damage_down_gloom_reckoning": {
+        "Location": "images/ui/backplates/restoration_damage_down_gloom_reckoning.png"
+    },
+    "backplate_restoration_damage_down_inner_fire": {
+        "Location": "images/ui/backplates/restoration_damage_down_inner_fire.png"
+    },
+    "backplate_restoration_damage_down_leech": {
+        "Location": "images/ui/backplates/restoration_damage_down_leech.png"
+    },
+    "backplate_restoration_damage_down_peril": {
+        "Location": "images/ui/backplates/restoration_damage_down_peril.png"
+    },
+    "backplate_restoration_damage_down_reckoning": {
+        "Location": "images/ui/backplates/restoration_damage_down_reckoning.png"
+    },
+    "backplate_restoration_distortion": {
+        "Location": "images/ui/backplates/restoration_distortion.png"
+    },
+    "backplate_restoration_distortion_dread": {
+        "Location": "images/ui/backplates/restoration_distortion_dread.png"
+    },
+    "backplate_restoration_distortion_fey": {
+        "Location": "images/ui/backplates/restoration_distortion_fey.png"
+    },
+    "backplate_restoration_distortion_fey_dread": {
+        "Location": "images/ui/backplates/restoration_distortion_fey_dread.png"
+    },
+    "backplate_restoration_distortion_fey_inner_fire": {
+        "Location": "images/ui/backplates/restoration_distortion_fey_inner_fire.png"
+    },
+    "backplate_restoration_distortion_fey_leech": {
+        "Location": "images/ui/backplates/restoration_distortion_fey_leech.png"
+    },
+    "backplate_restoration_distortion_fey_peril": {
+        "Location": "images/ui/backplates/restoration_distortion_fey_peril.png"
+    },
+    "backplate_restoration_distortion_fey_reckoning": {
+        "Location": "images/ui/backplates/restoration_distortion_fey_reckoning.png"
+    },
+    "backplate_restoration_distortion_gloom": {
+        "Location": "images/ui/backplates/restoration_distortion_gloom.png"
+    },
+    "backplate_restoration_distortion_gloom_dread": {
+        "Location": "images/ui/backplates/restoration_distortion_gloom_dread.png"
+    },
+    "backplate_restoration_distortion_gloom_inner_fire": {
+        "Location": "images/ui/backplates/restoration_distortion_gloom_inner_fire.png"
+    },
+    "backplate_restoration_distortion_gloom_leech": {
+        "Location": "images/ui/backplates/restoration_distortion_gloom_leech.png"
+    },
+    "backplate_restoration_distortion_gloom_peril": {
+        "Location": "images/ui/backplates/restoration_distortion_gloom_peril.png"
+    },
+    "backplate_restoration_distortion_gloom_reckoning": {
+        "Location": "images/ui/backplates/restoration_distortion_gloom_reckoning.png"
+    },
+    "backplate_restoration_distortion_inner_fire": {
+        "Location": "images/ui/backplates/restoration_distortion_inner_fire.png"
+    },
+    "backplate_restoration_distortion_leech": {
+        "Location": "images/ui/backplates/restoration_distortion_leech.png"
+    },
+    "backplate_restoration_distortion_peril": {
+        "Location": "images/ui/backplates/restoration_distortion_peril.png"
+    },
+    "backplate_restoration_distortion_reckoning": {
+        "Location": "images/ui/backplates/restoration_distortion_reckoning.png"
+    },
+    "backplate_restoration_dread": {
+        "Location": "images/ui/backplates/restoration_dread.png"
+    },
+    "backplate_restoration_fey": {
+        "Location": "images/ui/backplates/restoration_fey.png"
+    },
+    "backplate_restoration_fey_dread": {
+        "Location": "images/ui/backplates/restoration_fey_dread.png"
+    },
+    "backplate_restoration_fey_inner_fire": {
+        "Location": "images/ui/backplates/restoration_fey_inner_fire.png"
+    },
+    "backplate_restoration_fey_leech": {
+        "Location": "images/ui/backplates/restoration_fey_leech.png"
+    },
+    "backplate_restoration_fey_peril": {
+        "Location": "images/ui/backplates/restoration_fey_peril.png"
+    },
+    "backplate_restoration_fey_reckoning": {
+        "Location": "images/ui/backplates/restoration_fey_reckoning.png"
+    },
+    "backplate_restoration_gloom": {
+        "Location": "images/ui/backplates/restoration_gloom.png"
+    },
+    "backplate_restoration_gloom_dread": {
+        "Location": "images/ui/backplates/restoration_gloom_dread.png"
+    },
+    "backplate_restoration_gloom_inner_fire": {
+        "Location": "images/ui/backplates/restoration_gloom_inner_fire.png"
+    },
+    "backplate_restoration_gloom_leech": {
+        "Location": "images/ui/backplates/restoration_gloom_leech.png"
+    },
+    "backplate_restoration_gloom_peril": {
+        "Location": "images/ui/backplates/restoration_gloom_peril.png"
+    },
+    "backplate_restoration_gloom_reckoning": {
+        "Location": "images/ui/backplates/restoration_gloom_reckoning.png"
+    },
+    "backplate_restoration_inner_fire": {
+        "Location": "images/ui/backplates/restoration_inner_fire.png"
+    },
+    "backplate_restoration_item_penalty": {
+        "Location": "images/ui/backplates/restoration_item_penalty.png"
+    },
+    "backplate_restoration_item_penalty_dread": {
+        "Location": "images/ui/backplates/restoration_item_penalty_dread.png"
+    },
+    "backplate_restoration_item_penalty_fey": {
+        "Location": "images/ui/backplates/restoration_item_penalty_fey.png"
+    },
+    "backplate_restoration_item_penalty_fey_dread": {
+        "Location": "images/ui/backplates/restoration_item_penalty_fey_dread.png"
+    },
+    "backplate_restoration_item_penalty_fey_inner_fire": {
+        "Location": "images/ui/backplates/restoration_item_penalty_fey_inner_fire.png"
+    },
+    "backplate_restoration_item_penalty_fey_leech": {
+        "Location": "images/ui/backplates/restoration_item_penalty_fey_leech.png"
+    },
+    "backplate_restoration_item_penalty_fey_peril": {
+        "Location": "images/ui/backplates/restoration_item_penalty_fey_peril.png"
+    },
+    "backplate_restoration_item_penalty_fey_reckoning": {
+        "Location": "images/ui/backplates/restoration_item_penalty_fey_reckoning.png"
+    },
+    "backplate_restoration_item_penalty_gloom": {
+        "Location": "images/ui/backplates/restoration_item_penalty_gloom.png"
+    },
+    "backplate_restoration_item_penalty_gloom_dread": {
+        "Location": "images/ui/backplates/restoration_item_penalty_gloom_dread.png"
+    },
+    "backplate_restoration_item_penalty_gloom_inner_fire": {
+        "Location": "images/ui/backplates/restoration_item_penalty_gloom_inner_fire.png"
+    },
+    "backplate_restoration_item_penalty_gloom_leech": {
+        "Location": "images/ui/backplates/restoration_item_penalty_gloom_leech.png"
+    },
+    "backplate_restoration_item_penalty_gloom_peril": {
+        "Location": "images/ui/backplates/restoration_item_penalty_gloom_peril.png"
+    },
+    "backplate_restoration_item_penalty_gloom_reckoning": {
+        "Location": "images/ui/backplates/restoration_item_penalty_gloom_reckoning.png"
+    },
+    "backplate_restoration_item_penalty_inner_fire": {
+        "Location": "images/ui/backplates/restoration_item_penalty_inner_fire.png"
+    },
+    "backplate_restoration_item_penalty_leech": {
+        "Location": "images/ui/backplates/restoration_item_penalty_leech.png"
+    },
+    "backplate_restoration_item_penalty_peril": {
+        "Location": "images/ui/backplates/restoration_item_penalty_peril.png"
+    },
+    "backplate_restoration_item_penalty_reckoning": {
+        "Location": "images/ui/backplates/restoration_item_penalty_reckoning.png"
+    },
+    "backplate_restoration_leech": {
+        "Location": "images/ui/backplates/restoration_leech.png"
+    },
+    "backplate_restoration_peril": {
+        "Location": "images/ui/backplates/restoration_peril.png"
+    },
+    "backplate_restoration_reckoning": {
+        "Location": "images/ui/backplates/restoration_reckoning.png"
+    },
+    "backplate_second_wind": {
+        "Location": "images/ui/backplates/second_wind.png"
+    },
+    "backplate_second_wind_amnesia": {
+        "Location": "images/ui/backplates/second_wind_amnesia.png"
+    },
+    "backplate_second_wind_amnesia_dread": {
+        "Location": "images/ui/backplates/second_wind_amnesia_dread.png"
+    },
+    "backplate_second_wind_amnesia_fey": {
+        "Location": "images/ui/backplates/second_wind_amnesia_fey.png"
+    },
+    "backplate_second_wind_amnesia_fey_dread": {
+        "Location": "images/ui/backplates/second_wind_amnesia_fey_dread.png"
+    },
+    "backplate_second_wind_amnesia_fey_inner_fire": {
+        "Location": "images/ui/backplates/second_wind_amnesia_fey_inner_fire.png"
+    },
+    "backplate_second_wind_amnesia_fey_leech": {
+        "Location": "images/ui/backplates/second_wind_amnesia_fey_leech.png"
+    },
+    "backplate_second_wind_amnesia_fey_peril": {
+        "Location": "images/ui/backplates/second_wind_amnesia_fey_peril.png"
+    },
+    "backplate_second_wind_amnesia_fey_reckoning": {
+        "Location": "images/ui/backplates/second_wind_amnesia_fey_reckoning.png"
+    },
+    "backplate_second_wind_amnesia_gloom": {
+        "Location": "images/ui/backplates/second_wind_amnesia_gloom.png"
+    },
+    "backplate_second_wind_amnesia_gloom_dread": {
+        "Location": "images/ui/backplates/second_wind_amnesia_gloom_dread.png"
+    },
+    "backplate_second_wind_amnesia_gloom_inner_fire": {
+        "Location": "images/ui/backplates/second_wind_amnesia_gloom_inner_fire.png"
+    },
+    "backplate_second_wind_amnesia_gloom_leech": {
+        "Location": "images/ui/backplates/second_wind_amnesia_gloom_leech.png"
+    },
+    "backplate_second_wind_amnesia_gloom_peril": {
+        "Location": "images/ui/backplates/second_wind_amnesia_gloom_peril.png"
+    },
+    "backplate_second_wind_amnesia_gloom_reckoning": {
+        "Location": "images/ui/backplates/second_wind_amnesia_gloom_reckoning.png"
+    },
+    "backplate_second_wind_amnesia_inner_fire": {
+        "Location": "images/ui/backplates/second_wind_amnesia_inner_fire.png"
+    },
+    "backplate_second_wind_amnesia_leech": {
+        "Location": "images/ui/backplates/second_wind_amnesia_leech.png"
+    },
+    "backplate_second_wind_amnesia_peril": {
+        "Location": "images/ui/backplates/second_wind_amnesia_peril.png"
+    },
+    "backplate_second_wind_amnesia_reckoning": {
+        "Location": "images/ui/backplates/second_wind_amnesia_reckoning.png"
+    },
+    "backplate_second_wind_damage_down": {
+        "Location": "images/ui/backplates/second_wind_damage_down.png"
+    },
+    "backplate_second_wind_damage_down_dread": {
+        "Location": "images/ui/backplates/second_wind_damage_down_dread.png"
+    },
+    "backplate_second_wind_damage_down_fey": {
+        "Location": "images/ui/backplates/second_wind_damage_down_fey.png"
+    },
+    "backplate_second_wind_damage_down_fey_dread": {
+        "Location": "images/ui/backplates/second_wind_damage_down_fey_dread.png"
+    },
+    "backplate_second_wind_damage_down_fey_inner_fire": {
+        "Location": "images/ui/backplates/second_wind_damage_down_fey_inner_fire.png"
+    },
+    "backplate_second_wind_damage_down_fey_leech": {
+        "Location": "images/ui/backplates/second_wind_damage_down_fey_leech.png"
+    },
+    "backplate_second_wind_damage_down_fey_peril": {
+        "Location": "images/ui/backplates/second_wind_damage_down_fey_peril.png"
+    },
+    "backplate_second_wind_damage_down_fey_reckoning": {
+        "Location": "images/ui/backplates/second_wind_damage_down_fey_reckoning.png"
+    },
+    "backplate_second_wind_damage_down_gloom": {
+        "Location": "images/ui/backplates/second_wind_damage_down_gloom.png"
+    },
+    "backplate_second_wind_damage_down_gloom_dread": {
+        "Location": "images/ui/backplates/second_wind_damage_down_gloom_dread.png"
+    },
+    "backplate_second_wind_damage_down_gloom_inner_fire": {
+        "Location": "images/ui/backplates/second_wind_damage_down_gloom_inner_fire.png"
+    },
+    "backplate_second_wind_damage_down_gloom_leech": {
+        "Location": "images/ui/backplates/second_wind_damage_down_gloom_leech.png"
+    },
+    "backplate_second_wind_damage_down_gloom_peril": {
+        "Location": "images/ui/backplates/second_wind_damage_down_gloom_peril.png"
+    },
+    "backplate_second_wind_damage_down_gloom_reckoning": {
+        "Location": "images/ui/backplates/second_wind_damage_down_gloom_reckoning.png"
+    },
+    "backplate_second_wind_damage_down_inner_fire": {
+        "Location": "images/ui/backplates/second_wind_damage_down_inner_fire.png"
+    },
+    "backplate_second_wind_damage_down_leech": {
+        "Location": "images/ui/backplates/second_wind_damage_down_leech.png"
+    },
+    "backplate_second_wind_damage_down_peril": {
+        "Location": "images/ui/backplates/second_wind_damage_down_peril.png"
+    },
+    "backplate_second_wind_damage_down_reckoning": {
+        "Location": "images/ui/backplates/second_wind_damage_down_reckoning.png"
+    },
+    "backplate_second_wind_distortion": {
+        "Location": "images/ui/backplates/second_wind_distortion.png"
+    },
+    "backplate_second_wind_distortion_dread": {
+        "Location": "images/ui/backplates/second_wind_distortion_dread.png"
+    },
+    "backplate_second_wind_distortion_fey": {
+        "Location": "images/ui/backplates/second_wind_distortion_fey.png"
+    },
+    "backplate_second_wind_distortion_fey_dread": {
+        "Location": "images/ui/backplates/second_wind_distortion_fey_dread.png"
+    },
+    "backplate_second_wind_distortion_fey_inner_fire": {
+        "Location": "images/ui/backplates/second_wind_distortion_fey_inner_fire.png"
+    },
+    "backplate_second_wind_distortion_fey_leech": {
+        "Location": "images/ui/backplates/second_wind_distortion_fey_leech.png"
+    },
+    "backplate_second_wind_distortion_fey_peril": {
+        "Location": "images/ui/backplates/second_wind_distortion_fey_peril.png"
+    },
+    "backplate_second_wind_distortion_fey_reckoning": {
+        "Location": "images/ui/backplates/second_wind_distortion_fey_reckoning.png"
+    },
+    "backplate_second_wind_distortion_gloom": {
+        "Location": "images/ui/backplates/second_wind_distortion_gloom.png"
+    },
+    "backplate_second_wind_distortion_gloom_dread": {
+        "Location": "images/ui/backplates/second_wind_distortion_gloom_dread.png"
+    },
+    "backplate_second_wind_distortion_gloom_inner_fire": {
+        "Location": "images/ui/backplates/second_wind_distortion_gloom_inner_fire.png"
+    },
+    "backplate_second_wind_distortion_gloom_leech": {
+        "Location": "images/ui/backplates/second_wind_distortion_gloom_leech.png"
+    },
+    "backplate_second_wind_distortion_gloom_peril": {
+        "Location": "images/ui/backplates/second_wind_distortion_gloom_peril.png"
+    },
+    "backplate_second_wind_distortion_gloom_reckoning": {
+        "Location": "images/ui/backplates/second_wind_distortion_gloom_reckoning.png"
+    },
+    "backplate_second_wind_distortion_inner_fire": {
+        "Location": "images/ui/backplates/second_wind_distortion_inner_fire.png"
+    },
+    "backplate_second_wind_distortion_leech": {
+        "Location": "images/ui/backplates/second_wind_distortion_leech.png"
+    },
+    "backplate_second_wind_distortion_peril": {
+        "Location": "images/ui/backplates/second_wind_distortion_peril.png"
+    },
+    "backplate_second_wind_distortion_reckoning": {
+        "Location": "images/ui/backplates/second_wind_distortion_reckoning.png"
+    },
+    "backplate_second_wind_dread": {
+        "Location": "images/ui/backplates/second_wind_dread.png"
+    },
+    "backplate_second_wind_fey": {
+        "Location": "images/ui/backplates/second_wind_fey.png"
+    },
+    "backplate_second_wind_fey_dread": {
+        "Location": "images/ui/backplates/second_wind_fey_dread.png"
+    },
+    "backplate_second_wind_fey_inner_fire": {
+        "Location": "images/ui/backplates/second_wind_fey_inner_fire.png"
+    },
+    "backplate_second_wind_fey_leech": {
+        "Location": "images/ui/backplates/second_wind_fey_leech.png"
+    },
+    "backplate_second_wind_fey_peril": {
+        "Location": "images/ui/backplates/second_wind_fey_peril.png"
+    },
+    "backplate_second_wind_fey_reckoning": {
+        "Location": "images/ui/backplates/second_wind_fey_reckoning.png"
+    },
+    "backplate_second_wind_gloom": {
+        "Location": "images/ui/backplates/second_wind_gloom.png"
+    },
+    "backplate_second_wind_gloom_dread": {
+        "Location": "images/ui/backplates/second_wind_gloom_dread.png"
+    },
+    "backplate_second_wind_gloom_inner_fire": {
+        "Location": "images/ui/backplates/second_wind_gloom_inner_fire.png"
+    },
+    "backplate_second_wind_gloom_leech": {
+        "Location": "images/ui/backplates/second_wind_gloom_leech.png"
+    },
+    "backplate_second_wind_gloom_peril": {
+        "Location": "images/ui/backplates/second_wind_gloom_peril.png"
+    },
+    "backplate_second_wind_gloom_reckoning": {
+        "Location": "images/ui/backplates/second_wind_gloom_reckoning.png"
+    },
+    "backplate_second_wind_inner_fire": {
+        "Location": "images/ui/backplates/second_wind_inner_fire.png"
+    },
+    "backplate_second_wind_item_penalty": {
+        "Location": "images/ui/backplates/second_wind_item_penalty.png"
+    },
+    "backplate_second_wind_item_penalty_dread": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_dread.png"
+    },
+    "backplate_second_wind_item_penalty_fey": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_fey.png"
+    },
+    "backplate_second_wind_item_penalty_fey_dread": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_fey_dread.png"
+    },
+    "backplate_second_wind_item_penalty_fey_inner_fire": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_fey_inner_fire.png"
+    },
+    "backplate_second_wind_item_penalty_fey_leech": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_fey_leech.png"
+    },
+    "backplate_second_wind_item_penalty_fey_peril": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_fey_peril.png"
+    },
+    "backplate_second_wind_item_penalty_fey_reckoning": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_fey_reckoning.png"
+    },
+    "backplate_second_wind_item_penalty_gloom": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_gloom.png"
+    },
+    "backplate_second_wind_item_penalty_gloom_dread": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_gloom_dread.png"
+    },
+    "backplate_second_wind_item_penalty_gloom_inner_fire": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_gloom_inner_fire.png"
+    },
+    "backplate_second_wind_item_penalty_gloom_leech": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_gloom_leech.png"
+    },
+    "backplate_second_wind_item_penalty_gloom_peril": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_gloom_peril.png"
+    },
+    "backplate_second_wind_item_penalty_gloom_reckoning": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_gloom_reckoning.png"
+    },
+    "backplate_second_wind_item_penalty_inner_fire": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_inner_fire.png"
+    },
+    "backplate_second_wind_item_penalty_leech": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_leech.png"
+    },
+    "backplate_second_wind_item_penalty_peril": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_peril.png"
+    },
+    "backplate_second_wind_item_penalty_reckoning": {
+        "Location": "images/ui/backplates/second_wind_item_penalty_reckoning.png"
+    },
+    "backplate_second_wind_leech": {
+        "Location": "images/ui/backplates/second_wind_leech.png"
+    },
+    "backplate_second_wind_peril": {
+        "Location": "images/ui/backplates/second_wind_peril.png"
+    },
+    "backplate_second_wind_reckoning": {
+        "Location": "images/ui/backplates/second_wind_reckoning.png"
+    }
+}

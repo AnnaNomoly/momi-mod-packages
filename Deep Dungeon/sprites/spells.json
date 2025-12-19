@@ -1,0 +1,46 @@
+{
+  "spr_ui_journal_magic_restore_spell_icon_disabled": {
+    "Location": "images/spells/spr_ui_journal_magic_restore_spell_icon_disabled.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 17,
+    "MarginBottom": 17,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_journal_magic_rain_spell_icon_disabled": {
+    "Location": "images/spells/spr_ui_journal_magic_rain_spell_icon_disabled.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 17,
+    "MarginBottom": 17,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_journal_magic_growth_spell_icon_disabled": {
+    "Location": "images/spells/spr_ui_journal_magic_growth_spell_icon_disabled.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 17,
+    "MarginBottom": 17,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_journal_magic_fire_spell_icon_disabled": {
+    "Location": "images/spells/spr_ui_journal_magic_fire_spell_icon_disabled.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 17,
+    "MarginBottom": 17,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  }
+}
