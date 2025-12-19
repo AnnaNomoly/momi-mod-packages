@@ -56,11 +56,6 @@
       "category": "spr_ui_store_category_icon_sword"
     },
     {
-      "item": "soul_stone_cleric",
-      "store": "blacksmith",
-      "category": "spr_ui_store_category_icon_sword"
-    },
-    {
       "item": "cleric_helmet",
       "store": "blacksmith",
       "category": "spr_ui_store_category_icon_sword"

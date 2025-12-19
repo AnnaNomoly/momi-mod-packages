@@ -5,7 +5,6 @@
         "name": "Items/Mods/Deep Dungeon/Armor/cleric_helmet/name",
         "icon_sprite": "spr_ui_item_equipment_cleric_helmet",
         "defense": 6,
-        "default_infusion": "fortified",
         "recipe_is_default": true,
         "tags": [
             "head",
@@ -47,7 +46,6 @@
         "name": "Items/Mods/Deep Dungeon/Armor/cleric_chestpiece/name",
         "icon_sprite": "spr_ui_item_equipment_cleric_chestpiece",
         "defense": 6,
-        "default_infusion": "fortified",
         "recipe_is_default": true,
         "tags": [
             "chest",
@@ -89,7 +87,6 @@
         "name": "Items/Mods/Deep Dungeon/Armor/cleric_pants/name",
         "icon_sprite": "spr_ui_item_equipment_cleric_pants",
         "defense": 6,
-        "default_infusion": "fortified",
         "recipe_is_default": true,
         "tags": [
             "legs",
@@ -131,7 +128,6 @@
         "name": "Items/Mods/Deep Dungeon/Armor/cleric_boots/name",
         "icon_sprite": "spr_ui_item_equipment_cleric_boots",
         "defense": 6,
-        "default_infusion": "fortified",
         "recipe_is_default": true,
         "tags": [
             "boots",
@@ -173,7 +169,6 @@
         "name": "Items/Mods/Deep Dungeon/Armor/cleric_gloves/name",
         "icon_sprite": "spr_ui_item_equipment_cleric_gloves",
         "defense": 6,
-        "default_infusion": "fortified",
         "recipe_is_default": true,
         "tags": [
             "armor",
