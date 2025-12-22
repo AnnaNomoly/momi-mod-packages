@@ -229,7 +229,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-    "spr_ui_item_sigil_of_strength": {
+  "spr_ui_item_sigil_of_strength": {
     "Location": "images/sigils/strength/spr_ui_item_sigil_of_strength.png",
     "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
     "OriginX": 9,
@@ -241,7 +241,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-    "spr_ui_item_sigil_of_strength_disabled": {
+  "spr_ui_item_sigil_of_strength_disabled": {
     "Location": "images/sigils/strength/spr_ui_item_sigil_of_strength_disabled.png",
     "OriginX": 9,
     "OriginY": 9,
@@ -252,7 +252,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-    "spr_ui_item_sigil_of_temptation": {
+  "spr_ui_item_sigil_of_temptation": {
     "Location": "images/sigils/temptation/spr_ui_item_sigil_of_temptation.png",
     "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
     "OriginX": 9,
@@ -264,7 +264,18 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-    "spr_ui_item_sigil_parchment": {
+  "spr_ui_item_sigil_of_temptation_disabled": {
+    "Location": "images/sigils/strength/spr_ui_item_sigil_of_temptation_disabled.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_sigil_parchment": {
     "Location": "images/sigils/spr_ui_item_sigil_parchment.png",
     "OriginX": 9,
     "OriginY": 9,
