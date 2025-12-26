@@ -1,29 +1,56 @@
 {
-    "tide_caverns_orb": {
-        "overwrites_other_mod": false,
-        "description": "Items/Mods/Deep Dungeon/Orbs/tide_caverns_orb/description",
-        "name": "Items/Mods/Deep Dungeon/Orbs/tide_caverns_orb/name",
-        "icon_sprite": "spr_ui_item_tide_caverns_orb",
-        "edible": true,
-        "recipe_is_default": true,
-        "crafting_level_requirement": 1,
-        "kitchen_tier_requirement": 1,
-          "recipe": [
-            {
-              "count": 125,
-              "item": "glow_stone_tiny"
-            },
-            {
-              "count": 25,
-              "item": "beast_coin_tiny"
-            },
-            {
-              "hours": 2,
-              "minutes": 0
-            }
-          ],
-        "value": {
-            "bin": 0
-        }
+  "tide_caverns_orb": {
+    "overwrites_other_mod": false,
+    "description": "Items/Mods/Deep Dungeon/Orbs/tide_caverns_orb/description",
+    "name": "Items/Mods/Deep Dungeon/Orbs/tide_caverns_orb/name",
+    "icon_sprite": "spr_ui_item_tide_caverns_orb",
+    "edible": true,
+    "recipe_is_default": true,
+    "crafting_level_requirement": 1,
+    "kitchen_tier_requirement": 1,
+    "recipe": [
+      {
+        "count": 125,
+        "item": "glow_stone_tiny"
+      },
+      {
+        "count": 25,
+        "item": "beast_coin_tiny"
+      },
+      {
+        "hours": 2,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": 0
     }
+  },
+  "deep_earth_orb": {
+    "overwrites_other_mod": false,
+    "description": "Items/Mods/Deep Dungeon/Orbs/deep_earth_orb/description",
+    "name": "Items/Mods/Deep Dungeon/Orbs/deep_earth_orb/name",
+    "icon_sprite": "spr_ui_item_deep_earth_orb",
+    "edible": true,
+    "recipe_is_default": true,
+    "crafting_level_requirement": 1,
+    "kitchen_tier_requirement": 1,
+    "recipe": [
+      {
+        "count": 125,
+        "item": "glow_stone_small"
+      },
+      {
+        "count": 25,
+        "item": "beast_coin_small"
+      },
+      {
+        "hours": 2,
+        "minutes": 0
+      }
+    ],
+    "value": {
+      "bin": 0
+    }
+  }
 }
