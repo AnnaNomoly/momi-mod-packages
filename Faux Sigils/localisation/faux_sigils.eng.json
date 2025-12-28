@@ -1,0 +1,22 @@
+{
+    "Items/Mods/Faux Sigils/Sigils/rage/name": "Faux Sigil of Rage",
+    "Items/Mods/Faux Sigils/Sigils/rage/description": "Unleash your fury, causing all attacks to do guaranteed critical lethal damage.",
+    "Items/Mods/Faux Sigils/Sigils/strength/name": "Faux Sigil of Strength",
+    "Items/Mods/Faux Sigils/Sigils/strength/description": "Empower yourself, increasing damage dealt.",
+    "Items/Mods/Faux Sigils/Sigils/fortification/name": "Faux Sigil of Fortification",
+    "Items/Mods/Faux Sigils/Sigils/fortification/description": "Steel yourself, reducing damage received.",
+    "Items/Mods/Faux Sigils/Sigils/protection/name": "Faux Sigil of Protection",
+    "Items/Mods/Faux Sigils/Sigils/protection/description": "The priestess protects you, providing a magical barrier that absorbs the next 2 hits.",
+    "Items/Mods/Faux Sigils/Sigils/silence/name": "Faux Sigil of Silence",
+    "Items/Mods/Faux Sigils/Sigils/silence/description": "You hear nothing but silence. The next dungeon floor will have no monsters.",
+    "Items/Mods/Faux Sigils/Sigils/fortune/name": "Faux Sigil of Fortune",
+    "Items/Mods/Faux Sigils/Sigils/fortune/description": "Fortune favors the bold. Traverse the ladder to the next dungeon floor.",
+    "Items/Mods/Faux Sigils/Sigils/redemption/name": "Faux Sigil of Redemption",
+    "Items/Mods/Faux Sigils/Sigils/redemption/description": "The priestess blesses you, providing you with a second chance at life.",
+    "Items/Mods/Faux Sigils/Sigils/concealment/name": "Faux Sigil of Concealment",
+    "Items/Mods/Faux Sigils/Sigils/concealment/description": "Your body becomes ethereal, allowing you to remain undetected by monsters.",
+
+    "Notifications/Mods/Faux Sigils/sigil_restricted": "Faux Sigils may only be used in the dungeon!",
+    "Notifications/Mods/Faux Sigils/sigil_limit": "That sigil is already active!",
+    "Notifications/Mods/Faux Sigils/Sigils/concealment/deactivated": "Your concealment fades! Monsters will now detect you."
+}
