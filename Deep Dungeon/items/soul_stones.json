@@ -8,8 +8,19 @@
             "material"
         ],
         "value": {
-            "bin": 0,
-            "store": 1
+            "bin": 0
+        }
+    },
+    "soul_stone_dark_knight": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Soul Stones/dark_knight/description",
+        "name": "Items/Mods/Deep Dungeon/Soul Stones/dark_knight/name",
+        "icon_sprite": "spr_ui_item_soul_stone_dark_knight",
+        "tags": [
+            "material"
+        ],
+        "value": {
+            "bin": 0
         }
     }
 }

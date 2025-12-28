@@ -107,7 +107,11 @@
 
     "Items/Mods/Deep Dungeon/Soul Stones/cleric/name": "Soul Stone: Cleric",
     "Items/Mods/Deep Dungeon/Soul Stones/cleric/description": "A strange egg shaped stone with an engraving on it that glows faintly.",
+    "Items/Mods/Deep Dungeon/Soul Stones/dark_knight/name": "Soul Stone: Dark Knight",
+    "Items/Mods/Deep Dungeon/Soul Stones/dark_knight/description": "A strange crest shaped stone with an engraving on it that glows faintly.",
 
+    "items/other/blacksmithing/pick_axe_worn/name": "Mistpool Pickaxe",
+    "items/other/blacksmithing/pick_axe_worn/description": "A pickaxe that seems to glow brighter the deeper you traverse inside the dungeon.",
     "Items/Mods/Deep Dungeon/Swords/mistpool/name": "Mistpool Sword",
     "Items/Mods/Deep Dungeon/Swords/mistpool/description": "A sword that seems to glow brighter the deeper you traverse inside the dungeon.",
     "Items/Mods/Deep Dungeon/Armor/mistpool_helmet/name": "Mistpool Helmet",
@@ -136,6 +140,12 @@
     "Items/Mods/Deep Dungeon/Armor/cleric_boots/name": "Healer's Boots",
     "Items/Mods/Deep Dungeon/Armor/cleric_gloves/name": "Healer's Gloves",
     "Items/Mods/Deep Dungeon/Armor/cleric/description": "A legendary piece of equipment that once belonged to a Cleric.",
+    "Items/Mods/Deep Dungeon/Armor/dark_knight_helmet/name": "Chaos Burgeonet",
+    "Items/Mods/Deep Dungeon/Armor/dark_knight_chestpiece/name": "Chaos Cuirass",
+    "Items/Mods/Deep Dungeon/Armor/dark_knight_pants/name": "Chaos Flanchard",
+    "Items/Mods/Deep Dungeon/Armor/dark_knight_boots/name": "Chaos Sollerets",
+    "Items/Mods/Deep Dungeon/Armor/dark_knight_gloves/name": "Chaos Gauntlets",
+    "Items/Mods/Deep Dungeon/Armor/dark_knight/description": "A legendary piece of equipment that once belonged to a Dark Knight.",
 
     "Items/Mods/Deep Dungeon/set_bonuses/equipped": "Equipped: ",
     "Items/Mods/Deep Dungeon/Classes/Cleric/set_bonuses/auto_regen/1": "Auto Regen I: Recover 1 HP every minute in the dungeon.",
