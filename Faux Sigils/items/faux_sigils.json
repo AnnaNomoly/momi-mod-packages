@@ -1,0 +1,250 @@
+{
+    "faux_sigil_of_concealment": {
+        "overwrites_other_mod": false,
+        "name": "Items/Mods/Faux Sigils/Sigils/concealment/name",
+        "description": "Items/Mods/Faux Sigils/Sigils/concealment/description",
+        "icon_sprite": "spr_ui_item_faux_sigil_of_concealment",
+        "edible": true,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "paper"
+            },
+            {
+                "essence": 5
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "store": 1,
+            "bin": 0
+        }
+    },
+    "faux_sigil_of_fortification": {
+        "overwrites_other_mod": false,
+        "name": "Items/Mods/Faux Sigils/Sigils/fortification/name",
+        "description": "Items/Mods/Faux Sigils/Sigils/fortification/description",
+        "icon_sprite": "spr_ui_item_faux_sigil_of_fortification",
+        "edible": true,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "paper"
+            },
+            {
+                "essence": 5
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "store": 1,
+            "bin": 0
+        }
+    },
+    "faux_sigil_of_fortune": {
+        "overwrites_other_mod": false,
+        "name": "Items/Mods/Faux Sigils/Sigils/fortune/name",
+        "description": "Items/Mods/Faux Sigils/Sigils/fortune/description",
+        "icon_sprite": "spr_ui_item_faux_sigil_of_fortune",
+        "edible": true,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "paper"
+            },
+            {
+                "essence": 5
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "store": 1,
+            "bin": 0
+        }
+    },
+    "faux_sigil_of_protection": {
+        "overwrites_other_mod": false,
+        "name": "Items/Mods/Faux Sigils/Sigils/protection/name",
+        "description": "Items/Mods/Faux Sigils/Sigils/protection/description",
+        "icon_sprite": "spr_ui_item_faux_sigil_of_protection",
+        "edible": true,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "paper"
+            },
+            {
+                "essence": 5
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "store": 1,
+            "bin": 0
+        }
+    },
+    "faux_sigil_of_rage": {
+        "overwrites_other_mod": false,
+        "name": "Items/Mods/Faux Sigils/Sigils/rage/name",
+        "description": "Items/Mods/Faux Sigils/Sigils/rage/description",
+        "icon_sprite": "spr_ui_item_faux_sigil_of_rage",
+        "edible": true,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "paper"
+            },
+            {
+                "essence": 5
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "store": 1,
+            "bin": 0
+        }
+    },
+    "faux_sigil_of_redemption": {
+        "overwrites_other_mod": false,
+        "name": "Items/Mods/Faux Sigils/Sigils/redemption/name",
+        "description": "Items/Mods/Faux Sigils/Sigils/redemption/description",
+        "icon_sprite": "spr_ui_item_faux_sigil_of_redemption",
+        "edible": true,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "paper"
+            },
+            {
+                "essence": 5
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "store": 1,
+            "bin": 0
+        }
+    },
+    "faux_sigil_of_silence": {
+        "overwrites_other_mod": false,
+        "name": "Items/Mods/Faux Sigils/Sigils/silence/name",
+        "description": "Items/Mods/Faux Sigils/Sigils/silence/description",
+        "icon_sprite": "spr_ui_item_faux_sigil_of_silence",
+        "edible": true,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "paper"
+            },
+            {
+                "essence": 5
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "store": 1,
+            "bin": 0
+        }
+    },
+    "faux_sigil_of_strength": {
+        "overwrites_other_mod": false,
+        "name": "Items/Mods/Faux Sigils/Sigils/strength/name",
+        "description": "Items/Mods/Faux Sigils/Sigils/strength/description",
+        "icon_sprite": "spr_ui_item_faux_sigil_of_strength",
+        "edible": true,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "paper"
+            },
+            {
+                "essence": 5
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "store": 1,
+            "bin": 0
+        }
+    }
+}

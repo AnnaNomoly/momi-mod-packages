@@ -1,28 +1,5 @@
 {
-  "spr_ui_item_sigil_of_alteration": {
-    "Location": "images/sigils/alteration/spr_ui_item_sigil_of_alteration.png",
-    "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
-    "OriginX": 9,
-    "OriginY": 9,
-    "MarginLeft": 0,
-    "MarginRight": 18,
-    "MarginBottom": 18,
-    "MarginTop": 0,
-    "IsAnimated": false,
-    "IsUiItem": true
-  },
-  "spr_ui_item_sigil_of_alteration_disabled": {
-    "Location": "images/sigils/alteration/spr_ui_item_sigil_of_alteration_disabled.png",
-    "OriginX": 9,
-    "OriginY": 9,
-    "MarginLeft": 0,
-    "MarginRight": 18,
-    "MarginBottom": 18,
-    "MarginTop": 0,
-    "IsAnimated": false,
-    "IsUiItem": true
-  },
-  "spr_ui_item_sigil_of_concealment": {
+  "spr_ui_item_faux_sigil_of_concealment": {
     "Location": "images/sigils/concealment/spr_ui_item_sigil_of_concealment.png",
     "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
     "OriginX": 9,
@@ -34,7 +11,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-  "spr_ui_item_sigil_of_concealment_disabled": {
+  "spr_ui_item_faux_sigil_of_concealment_disabled": {
     "Location": "images/sigils/concealment/spr_ui_item_sigil_of_concealment_disabled.png",
     "OriginX": 9,
     "OriginY": 9,
@@ -45,7 +22,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-  "spr_ui_item_sigil_of_fortification": {
+  "spr_ui_item_faux_sigil_of_fortification": {
     "Location": "images/sigils/fortification/spr_ui_item_sigil_of_fortification.png",
     "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
     "OriginX": 9,
@@ -57,7 +34,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-  "spr_ui_item_sigil_of_fortification_disabled": {
+  "spr_ui_item_faux_sigil_of_fortification_disabled": {
     "Location": "images/sigils/fortification/spr_ui_item_sigil_of_fortification_disabled.png",
     "OriginX": 9,
     "OriginY": 9,
@@ -68,7 +45,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-  "spr_ui_item_sigil_of_fortune": {
+  "spr_ui_item_faux_sigil_of_fortune": {
     "Location": "images/sigils/fortune/spr_ui_item_sigil_of_fortune.png",
     "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
     "OriginX": 9,
@@ -80,7 +57,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-  "spr_ui_item_sigil_of_fortune_disabled": {
+  "spr_ui_item_faux_sigil_of_fortune_disabled": {
     "Location": "images/sigils/fortune/spr_ui_item_sigil_of_fortune_disabled.png",
     "OriginX": 9,
     "OriginY": 9,
@@ -91,7 +68,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-  "spr_ui_item_sigil_of_protection": {
+  "spr_ui_item_faux_sigil_of_protection": {
     "Location": "images/sigils/protection/spr_ui_item_sigil_of_protection.png",
     "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
     "OriginX": 9,
@@ -103,7 +80,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-  "spr_ui_item_sigil_of_protection_disabled": {
+  "spr_ui_item_faux_sigil_of_protection_disabled": {
     "Location": "images/sigils/protection/spr_ui_item_sigil_of_protection_disabled.png",
     "OriginX": 9,
     "OriginY": 9,
@@ -114,7 +91,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-  "spr_ui_item_sigil_of_rage": {
+  "spr_ui_item_faux_sigil_of_rage": {
     "Location": "images/sigils/rage/spr_ui_item_sigil_of_rage.png",
     "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
     "OriginX": 9,
@@ -126,7 +103,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-  "spr_ui_item_sigil_of_rage_disabled": {
+  "spr_ui_item_faux_sigil_of_rage_disabled": {
     "Location": "images/sigils/rage/spr_ui_item_sigil_of_rage_disabled.png",
     "OriginX": 9,
     "OriginY": 9,
@@ -137,7 +114,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-  "spr_ui_item_sigil_of_redemption": {
+  "spr_ui_item_faux_sigil_of_redemption": {
     "Location": "images/sigils/redemption/spr_ui_item_sigil_of_redemption.png",
     "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
     "OriginX": 9,
@@ -149,7 +126,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-  "spr_ui_item_sigil_of_redemption_disabled": {
+  "spr_ui_item_faux_sigil_of_redemption_disabled": {
     "Location": "images/sigils/redemption/spr_ui_item_sigil_of_redemption_disabled.png",
     "OriginX": 9,
     "OriginY": 9,
@@ -160,53 +137,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-  "spr_ui_item_sigil_of_safety": {
-    "Location": "images/sigils/safety/spr_ui_item_sigil_of_safety.png",
-    "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
-    "OriginX": 9,
-    "OriginY": 9,
-    "MarginLeft": 0,
-    "MarginRight": 18,
-    "MarginBottom": 18,
-    "MarginTop": 0,
-    "IsAnimated": false,
-    "IsUiItem": true
-  },
-  "spr_ui_item_sigil_of_safety_disabled": {
-    "Location": "images/sigils/safety/spr_ui_item_sigil_of_safety_disabled.png",
-    "OriginX": 9,
-    "OriginY": 9,
-    "MarginLeft": 0,
-    "MarginRight": 18,
-    "MarginBottom": 18,
-    "MarginTop": 0,
-    "IsAnimated": false,
-    "IsUiItem": true
-  },
-  "spr_ui_item_sigil_of_serenity": {
-    "Location": "images/sigils/serenity/spr_ui_item_sigil_of_serenity.png",
-    "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
-    "OriginX": 9,
-    "OriginY": 9,
-    "MarginLeft": 0,
-    "MarginRight": 18,
-    "MarginBottom": 18,
-    "MarginTop": 0,
-    "IsAnimated": false,
-    "IsUiItem": true
-  },
-  "spr_ui_item_sigil_of_serenity_disabled": {
-    "Location": "images/sigils/serenity/spr_ui_item_sigil_of_serenity_disabled.png",
-    "OriginX": 9,
-    "OriginY": 9,
-    "MarginLeft": 0,
-    "MarginRight": 18,
-    "MarginBottom": 18,
-    "MarginTop": 0,
-    "IsAnimated": false,
-    "IsUiItem": true
-  },
-  "spr_ui_item_sigil_of_silence": {
+  "spr_ui_item_faux_sigil_of_silence": {
     "Location": "images/sigils/silence/spr_ui_item_sigil_of_silence.png",
     "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
     "OriginX": 9,
@@ -218,7 +149,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-  "spr_ui_item_sigil_of_silence_disabled": {
+  "spr_ui_item_faux_sigil_of_silence_disabled": {
     "Location": "images/sigils/silence/spr_ui_item_sigil_of_silence_disabled.png",
     "OriginX": 9,
     "OriginY": 9,
@@ -229,7 +160,7 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-  "spr_ui_item_sigil_of_strength": {
+  "spr_ui_item_faux_sigil_of_strength": {
     "Location": "images/sigils/strength/spr_ui_item_sigil_of_strength.png",
     "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
     "OriginX": 9,
@@ -241,42 +172,8 @@
     "IsAnimated": false,
     "IsUiItem": true
   },
-  "spr_ui_item_sigil_of_strength_disabled": {
+  "spr_ui_item_faux_sigil_of_strength_disabled": {
     "Location": "images/sigils/strength/spr_ui_item_sigil_of_strength_disabled.png",
-    "OriginX": 9,
-    "OriginY": 9,
-    "MarginLeft": 0,
-    "MarginRight": 18,
-    "MarginBottom": 18,
-    "MarginTop": 0,
-    "IsAnimated": false,
-    "IsUiItem": true
-  },
-  "spr_ui_item_sigil_of_temptation": {
-    "Location": "images/sigils/temptation/spr_ui_item_sigil_of_temptation.png",
-    "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
-    "OriginX": 9,
-    "OriginY": 9,
-    "MarginLeft": 0,
-    "MarginRight": 18,
-    "MarginBottom": 18,
-    "MarginTop": 0,
-    "IsAnimated": false,
-    "IsUiItem": true
-  },
-  "spr_ui_item_sigil_of_temptation_disabled": {
-    "Location": "images/sigils/temptation/spr_ui_item_sigil_of_temptation_disabled.png",
-    "OriginX": 9,
-    "OriginY": 9,
-    "MarginLeft": 0,
-    "MarginRight": 18,
-    "MarginBottom": 18,
-    "MarginTop": 0,
-    "IsAnimated": false,
-    "IsUiItem": true
-  },
-  "spr_ui_item_sigil_parchment": {
-    "Location": "images/sigils/spr_ui_item_sigil_parchment.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,

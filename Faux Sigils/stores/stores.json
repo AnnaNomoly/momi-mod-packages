@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "item": "faux_sigil_of_concealment",
+      "store": "balor",
+      "category": "spr_ui_store_category_icon_faux_sigils"
+    },
+    {
+      "item": "faux_sigil_of_fortification",
+      "store": "balor",
+      "category": "spr_ui_store_category_icon_faux_sigils"
+    },
+    {
+      "item": "faux_sigil_of_fortune",
+      "store": "balor",
+      "category": "spr_ui_store_category_icon_faux_sigils"
+    },
+    {
+      "item": "faux_sigil_of_protection",
+      "store": "balor",
+      "category": "spr_ui_store_category_icon_faux_sigils"
+    },
+    {
+      "item": "faux_sigil_of_rage",
+      "store": "balor",
+      "category": "spr_ui_store_category_icon_faux_sigils"
+    },
+    {
+      "item": "faux_sigil_of_redemption",
+      "store": "balor",
+      "category": "spr_ui_store_category_icon_faux_sigils"
+    },
+    {
+      "item": "faux_sigil_of_silence",
+      "store": "balor",
+      "category": "spr_ui_store_category_icon_faux_sigils"
+    },
+    {
+      "item": "faux_sigil_of_strength",
+      "store": "balor",
+      "category": "spr_ui_store_category_icon_faux_sigils"
+    }
+  ],
+  "categories": [
+    {
+      "store": "balor",
+      "icon_name": "spr_ui_store_category_icon_faux_sigils",
+      "sprite": "images/sigils/spr_ui_store_category_icon_faux_sigils.png"
+    }
+  ]
+}
