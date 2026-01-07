@@ -22,6 +22,10 @@
         "minutes": 0
       }
     ],
+    "tags": [
+        "food",
+        "misc_pantry"
+    ],
     "value": {
       "bin": 0
     }
@@ -48,6 +52,10 @@
         "hours": 2,
         "minutes": 0
       }
+    ],
+    "tags": [
+        "food",
+        "misc_pantry"
     ],
     "value": {
       "bin": 0

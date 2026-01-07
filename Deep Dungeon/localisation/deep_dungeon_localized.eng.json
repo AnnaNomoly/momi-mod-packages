@@ -153,9 +153,14 @@
     "Items/Mods/Deep Dungeon/Classes/Cleric/set_bonuses/auto_regen/3": "Auto Regen III: Recover 3 HP every minute in the dungeon.",
     "Items/Mods/Deep Dungeon/Classes/Cleric/set_bonuses/divine_seal": "Divine Seal: Restoration grants the Fairy status and removes all Floor Enchantments.",
     "Items/Mods/Deep Dungeon/Classes/Cleric/set_bonuses/afflatus_misery": "Afflatus Misery: Damage you take pools. Your attacks have a chance to consume the pooled amount as bonus damage.",
+    "Items/Mods/Deep Dungeon/Classes/Dark Knight/set_bonuses/drain/1": "Drain I: Your attacks have a chance to heal you for 3% of your max HP.",
+    "Items/Mods/Deep Dungeon/Classes/Dark Knight/set_bonuses/drain/2": "Drain II: Your attacks have a chance to heal you for 5% of your max HP.",
+    "Items/Mods/Deep Dungeon/Classes/Dark Knight/set_bonuses/drain/3": "Drain III: Your attacks have a chance to heal you for 8% of your max HP.",
+    "Items/Mods/Deep Dungeon/Classes/Dark Knight/set_bonuses/dark_seal": "Dark Seal: Changes the Restoration spell to Siphon Life.",
+    "Items/Mods/Deep Dungeon/Classes/Dark Knight/set_bonuses/soul_eater": "Soul Eater: Your attacks have a chance to consume up to 25% of your current HP as bonus damage.",
 
     "Spells/Mods/Deep Dungeon/Siphon Life/name": "Siphon Life",
-    "Spells/Mods/Deep Dungeon/Siphon Life/description": "Drains health from all monsters on the current dungeon floor.",
+    "Spells/Mods/Deep Dungeon/Siphon Life/description": "Drains health from all monsters on the current dungeon floor and temporarily increases your max HP. ",
     "Spells/Mods/Deep Dungeon/Siphon Life/type": "Dark",
 
     "Notifications/Mods/Deep Dungeon/Traps/confusing": "The hidden floor rune activates, confusing your movement!",
