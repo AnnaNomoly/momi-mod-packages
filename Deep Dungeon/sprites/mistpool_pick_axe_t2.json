@@ -1,0 +1,47 @@
+{
+    "spr_tool_pick_axe_mistpool_t2_tool_axe_e": {
+        "Location": "images/tools/pick_axe/iron/spr_tool_pick_axe_iron_tool_axe_e",
+        "OriginX": 0,
+        "OriginY": 0,
+        "MarginLeft": 0,
+        "MarginRight": 80,
+        "MarginBottom": 80,
+        "MarginTop": 0,
+        "IsAnimated": true,
+        "IsUiItem": false
+    },
+    "spr_tool_pick_axe_mistpool_t2_tool_axe_n": {
+        "Location": "images/tools/pick_axe/iron/spr_tool_pick_axe_iron_tool_axe_n",
+        "OriginX": 0,
+        "OriginY": 0,
+        "MarginLeft": 0,
+        "MarginRight": 80,
+        "MarginBottom": 80,
+        "MarginTop": 0,
+        "IsAnimated": true,
+        "IsUiItem": false
+    },
+    "spr_tool_pick_axe_mistpool_t2_tool_axe_s": {
+        "Location": "images/tools/pick_axe/iron/spr_tool_pick_axe_iron_tool_axe_s",
+        "OriginX": 0,
+        "OriginY": 0,
+        "MarginLeft": 0,
+        "MarginRight": 80,
+        "MarginBottom": 80,
+        "MarginTop": 0,
+        "IsAnimated": true,
+        "IsUiItem": false
+    },
+    "spr_ui_item_tool_mistpool_t2_pickaxe": {
+        "Location": "images/tools/pick_axe/iron/spr_ui_item_tool_iron_pickaxe.png",
+        "OutlineLocation": "images/tools/pick_axe/iron/spr_ui_item_tool_iron_pickaxe_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    }
+}
