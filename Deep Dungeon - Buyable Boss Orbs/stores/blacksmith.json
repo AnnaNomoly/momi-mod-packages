@@ -1,0 +1,21 @@
+{
+    "items": [
+        {
+            "item": "tide_caverns_orb",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_orb"
+        },
+        {
+            "item": "deep_earth_orb",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_orb"
+        }
+    ],
+    "categories": [
+        {
+            "store": "blacksmith",
+            "icon_name": "spr_ui_store_category_icon_tide_caverns_orb",
+            "sprite": "images/categories/spr_ui_store_category_icon_tide_caverns_orb.png"
+        }
+    ]
+}

@@ -28,27 +28,27 @@
         {
             "item": "dark_knight_helmet",
             "store": "blacksmith",
-            "category": "spr_ui_store_category_icon_cleric"
+            "category": "spr_ui_store_category_icon_dark_knight"
         },
         {
             "item": "dark_knight_chestpiece",
             "store": "blacksmith",
-            "category": "spr_ui_store_category_icon_cleric"
+            "category": "spr_ui_store_category_icon_dark_knight"
         },
         {
             "item": "dark_knight_pants",
             "store": "blacksmith",
-            "category": "spr_ui_store_category_icon_cleric"
+            "category": "spr_ui_store_category_icon_dark_knight"
         },
         {
             "item": "dark_knight_boots",
             "store": "blacksmith",
-            "category": "spr_ui_store_category_icon_cleric"
+            "category": "spr_ui_store_category_icon_dark_knight"
         },
         {
             "item": "dark_knight_gloves",
             "store": "blacksmith",
-            "category": "spr_ui_store_category_icon_cleric"
+            "category": "spr_ui_store_category_icon_dark_knight"
         }
     ],
     "categories": [
