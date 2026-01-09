@@ -27,7 +27,8 @@
         "misc_pantry"
     ],
     "value": {
-      "bin": 0
+      "bin": 0,
+      "store": 1
     }
   },
   "deep_earth_orb": {
@@ -58,7 +59,8 @@
         "misc_pantry"
     ],
     "value": {
-      "bin": 0
+      "bin": 0,
+      "store": 1
     }
   }
 }

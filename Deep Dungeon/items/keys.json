@@ -6,7 +6,8 @@
         "icon_sprite": "spr_ui_item_tide_caverns_key",
         "edible": true,
         "value": {
-            "bin": 0
+            "bin": 0,
+            "store": 1
         }
     },
     "deep_earth_key": {
@@ -16,7 +17,8 @@
         "icon_sprite": "spr_ui_item_deep_earth_key",
         "edible": true,
         "value": {
-            "bin": 0
+            "bin": 0,
+            "store": 1
         }
     },
     "lava_caves_key": {
@@ -26,7 +28,8 @@
         "icon_sprite": "spr_ui_item_lava_caves_key",
         "edible": true,
         "value": {
-            "bin": 0
+            "bin": 0,
+            "store": 1
         }
     },
     "ruins_key": {
@@ -36,7 +39,8 @@
         "icon_sprite": "spr_ui_item_ruins_key",
         "edible": true,
         "value": {
-            "bin": 0
+            "bin": 0,
+            "store": 1
         }
     }
 }
