@@ -10,5 +10,17 @@
     "MarginTop": 0,
     "IsAnimated": false,
     "IsUiItem": true
+  },
+  "spr_ui_item_soul_stone_dark_knight": {
+    "Location": "images/materials/soul_stone/dark_knight/spr_ui_item_soul_stone_dark_knight.png",
+    "OutlineLocation": "images/materials/soul_stone/dark_knight/spr_ui_item_soul_stone_dark_knight_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
   }
 }

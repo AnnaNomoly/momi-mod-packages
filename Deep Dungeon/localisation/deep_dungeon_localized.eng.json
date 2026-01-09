@@ -32,7 +32,8 @@
     "Conversations/Mods/Deep Dungeon/Offerings/Positive/leech": "$Leech$: Your attacks will $heal you$ a tiny amount on the next floor.",
     "Conversations/Mods/Deep Dungeon/Offerings/Positive/inner_fire": "$Inner Fire$: Summon $flames of destruction$ on the next floor.",
 
-    "Conversations/Mods/Deep Dungeon/Boss Battles/tide_caverns_orb/init": "^Boss Battle^: #Those Who Throw Stones#\n$Victory Condition$: Defeat all enemies. Sigils are disabled.\n=Defeat Condition=: Death or fleeing the seal room.",
+    "Conversations/Mods/Deep Dungeon/Boss Battles/tide_caverns_orb/init": "^Boss Battle^: #Those Who Throw Stones#\n$Victory Condition$: Defeat all enemies. Sigils are disabled.\n=Defeat Condition=: Death or fleeing the room.",
+    "Conversations/Mods/Deep Dungeon/Boss Battles/deep_earth_orb/init": "^Boss Battle^: #Simple Geometry#\n$Victory Condition$: Defeat all enemies. Sigils are disabled.\n=Defeat Condition=: Death or fleeing the room.",
 
     "Items/Mods/Deep Dungeon/Sigils/rage/name": "Sigil of Rage",
     "Items/Mods/Deep Dungeon/Sigils/rage/description": "Unleash your fury, causing all attacks to do guaranteed critical lethal damage.",
@@ -60,13 +61,13 @@
     "Items/Mods/Deep Dungeon/Sigils/temptation/description": "Give in, and listen to the faint whispers that call out to you.",
 
     "Items/Mods/Deep Dungeon/Salves/sustaining_potion/name": "Sustaining Potion",
-    "Items/Mods/Deep Dungeon/Salves/sustaining_potion/description": "Restores health and stamina slowly over time for 1 hour.",
+    "Items/Mods/Deep Dungeon/Salves/sustaining_potion/description": "Restores health and stamina slowly over time.",
     "Items/Mods/Deep Dungeon/Salves/health_salve/name": "Health Salve",
-    "Items/Mods/Deep Dungeon/Salves/health_salve/description": "Restores 30 health.",
+    "Items/Mods/Deep Dungeon/Salves/health_salve/description": "Restores <VALUE> health.",
     "Items/Mods/Deep Dungeon/Salves/stamina_salve/name": "Stamina Salve",
-    "Items/Mods/Deep Dungeon/Salves/stamina_salve/description": "Restores 30 stamina.",
+    "Items/Mods/Deep Dungeon/Salves/stamina_salve/description": "Restores <VALUE> stamina.",
     "Items/Mods/Deep Dungeon/Salves/mana_salve/name": "Mana Salve",
-    "Items/Mods/Deep Dungeon/Salves/mana_salve/description": "Restores 1 mana.",
+    "Items/Mods/Deep Dungeon/Salves/mana_salve/description": "Restores <VALUE> mana.",
 
     "Items/Mods/Deep Dungeon/Keys/tide_caverns_key/name": "Tide Caverns Key",
     "Items/Mods/Deep Dungeon/Keys/tide_caverns_key/description": "A single use key that temporarily unlocks Floor 20 on the lift in the mines entrance.",
@@ -79,6 +80,8 @@
 
     "Items/Mods/Deep Dungeon/Orbs/tide_caverns_orb/name": "Tide Caverns Orb",
     "Items/Mods/Deep Dungeon/Orbs/tide_caverns_orb/description": "A strange orb filled with water from the Tide Caverns.\n\nUse it in the mines entrance to initiate the boss battle \"Those Who Throw Stones\".",
+    "Items/Mods/Deep Dungeon/Orbs/deep_earth_orb/name": "Deep Earth Orb",
+    "Items/Mods/Deep Dungeon/Orbs/deep_earth_orb/description": "A strange orb filled with crystals from the Deep Earth.\n\nUse it in the mines entrance to initiate the boss battle \"Simple Geometry\".",
 
     "Items/Mods/Deep Dungeon/Beast Coins/giant/name": "Beast Coin: Ruins",
     "Items/Mods/Deep Dungeon/Beast Coins/giant/description": "A beast coin found in the ruins biome of the dungeon.",
@@ -104,7 +107,11 @@
 
     "Items/Mods/Deep Dungeon/Soul Stones/cleric/name": "Soul Stone: Cleric",
     "Items/Mods/Deep Dungeon/Soul Stones/cleric/description": "A strange egg shaped stone with an engraving on it that glows faintly.",
+    "Items/Mods/Deep Dungeon/Soul Stones/dark_knight/name": "Soul Stone: Dark Knight",
+    "Items/Mods/Deep Dungeon/Soul Stones/dark_knight/description": "A strange crest shaped stone with an engraving on it that glows faintly.",
 
+    "items/other/blacksmithing/pick_axe_worn/name": "Mistpool Pickaxe",
+    "items/other/blacksmithing/pick_axe_worn/description": "A pickaxe that seems to glow brighter the deeper you traverse inside the dungeon.",
     "Items/Mods/Deep Dungeon/Swords/mistpool/name": "Mistpool Sword",
     "Items/Mods/Deep Dungeon/Swords/mistpool/description": "A sword that seems to glow brighter the deeper you traverse inside the dungeon.",
     "Items/Mods/Deep Dungeon/Armor/mistpool_helmet/name": "Mistpool Helmet",
@@ -133,6 +140,12 @@
     "Items/Mods/Deep Dungeon/Armor/cleric_boots/name": "Healer's Boots",
     "Items/Mods/Deep Dungeon/Armor/cleric_gloves/name": "Healer's Gloves",
     "Items/Mods/Deep Dungeon/Armor/cleric/description": "A legendary piece of equipment that once belonged to a Cleric.",
+    "Items/Mods/Deep Dungeon/Armor/dark_knight_helmet/name": "Chaos Burgeonet",
+    "Items/Mods/Deep Dungeon/Armor/dark_knight_chestpiece/name": "Chaos Cuirass",
+    "Items/Mods/Deep Dungeon/Armor/dark_knight_pants/name": "Chaos Flanchard",
+    "Items/Mods/Deep Dungeon/Armor/dark_knight_boots/name": "Chaos Sollerets",
+    "Items/Mods/Deep Dungeon/Armor/dark_knight_gloves/name": "Chaos Gauntlets",
+    "Items/Mods/Deep Dungeon/Armor/dark_knight/description": "A legendary piece of equipment that once belonged to a Dark Knight.",
 
     "Items/Mods/Deep Dungeon/set_bonuses/equipped": "Equipped: ",
     "Items/Mods/Deep Dungeon/Classes/Cleric/set_bonuses/auto_regen/1": "Auto Regen I: Recover 1 HP every minute in the dungeon.",
@@ -140,6 +153,15 @@
     "Items/Mods/Deep Dungeon/Classes/Cleric/set_bonuses/auto_regen/3": "Auto Regen III: Recover 3 HP every minute in the dungeon.",
     "Items/Mods/Deep Dungeon/Classes/Cleric/set_bonuses/divine_seal": "Divine Seal: Restoration grants the Fairy status and removes all Floor Enchantments.",
     "Items/Mods/Deep Dungeon/Classes/Cleric/set_bonuses/afflatus_misery": "Afflatus Misery: Damage you take pools. Your attacks have a chance to consume the pooled amount as bonus damage.",
+    "Items/Mods/Deep Dungeon/Classes/Dark Knight/set_bonuses/drain/1": "Drain I: Your attacks have a chance to heal you for 3% of your max HP.",
+    "Items/Mods/Deep Dungeon/Classes/Dark Knight/set_bonuses/drain/2": "Drain II: Your attacks have a chance to heal you for 5% of your max HP.",
+    "Items/Mods/Deep Dungeon/Classes/Dark Knight/set_bonuses/drain/3": "Drain III: Your attacks have a chance to heal you for 8% of your max HP.",
+    "Items/Mods/Deep Dungeon/Classes/Dark Knight/set_bonuses/dark_seal": "Dark Seal: Changes the Restoration spell to Siphon Life.",
+    "Items/Mods/Deep Dungeon/Classes/Dark Knight/set_bonuses/soul_eater": "Soul Eater: Your attacks have a chance to consume up to 25% of your current HP as bonus damage.",
+
+    "Spells/Mods/Deep Dungeon/Siphon Life/name": "Siphon Life",
+    "Spells/Mods/Deep Dungeon/Siphon Life/description": "Drains health from all monsters on the current dungeon floor and temporarily increases your max HP. ",
+    "Spells/Mods/Deep Dungeon/Siphon Life/type": "Dark",
 
     "Notifications/Mods/Deep Dungeon/Traps/confusing": "The hidden floor rune activates, confusing your movement!",
     "Notifications/Mods/Deep Dungeon/Traps/disorienting": "The hidden floor rune activates, disorienting your perception!",

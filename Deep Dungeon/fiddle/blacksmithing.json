@@ -4,6 +4,11 @@
     "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/22": "cleric_pants",
     "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/23": "cleric_boots",
     "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/24": "cleric_gloves",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/25": "dark_knight_helmet",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/26": "dark_knight_chestpiece",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/27": "dark_knight_pants",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/28": "dark_knight_boots",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/29": "dark_knight_gloves",
     "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order": [
         "copper_helmet",
         "copper_armor",
@@ -29,7 +34,12 @@
         "cleric_chestpiece",
         "cleric_pants",
         "cleric_boots",
-        "cleric_gloves"
+        "cleric_gloves",
+        "dark_knight_helmet",
+        "dark_knight_chestpiece",
+        "dark_knight_pants",
+        "dark_knight_boots",
+        "dark_knight_gloves"
     ],
     "ui/crafting/blacksmithing/categories/9/sub_categories/0": {
         "manual_order": [
@@ -57,7 +67,12 @@
             "cleric_chestpiece",
             "cleric_pants",
             "cleric_boots",
-            "cleric_gloves"
+            "cleric_gloves",
+            "dark_knight_helmet",
+            "dark_knight_chestpiece",
+            "dark_knight_pants",
+            "dark_knight_boots",
+            "dark_knight_gloves"
         ]
     },
     "ui/crafting/blacksmithing/categories/9/sub_categories": [
@@ -89,7 +104,12 @@
                 "cleric_chestpiece",
                 "cleric_pants",
                 "cleric_boots",
-                "cleric_gloves"
+                "cleric_gloves",
+                "dark_knight_helmet",
+                "dark_knight_chestpiece",
+                "dark_knight_pants",
+                "dark_knight_boots",
+                "dark_knight_gloves"
             ]
         }
     ],
@@ -123,7 +143,12 @@
                     "cleric_chestpiece",
                     "cleric_pants",
                     "cleric_boots",
-                    "cleric_gloves"
+                    "cleric_gloves",
+                    "dark_knight_helmet",
+                    "dark_knight_chestpiece",
+                    "dark_knight_pants",
+                    "dark_knight_boots",
+                    "dark_knight_gloves"
                 ]
             }
         ]
@@ -305,7 +330,12 @@
                         "cleric_chestpiece",
                         "cleric_pants",
                         "cleric_boots",
-                        "cleric_gloves"
+                        "cleric_gloves",
+                        "dark_knight_helmet",
+                        "dark_knight_chestpiece",
+                        "dark_knight_pants",
+                        "dark_knight_boots",
+                        "dark_knight_gloves"
                     ]
                 }
             ]
@@ -489,7 +519,12 @@
                             "cleric_chestpiece",
                             "cleric_pants",
                             "cleric_boots",
-                            "cleric_gloves"
+                            "cleric_gloves",
+                            "dark_knight_helmet",
+                            "dark_knight_chestpiece",
+                            "dark_knight_pants",
+                            "dark_knight_boots",
+                            "dark_knight_gloves"
                         ]
                     }
                 ]
@@ -675,7 +710,12 @@
                                 "cleric_chestpiece",
                                 "cleric_pants",
                                 "cleric_boots",
-                                "cleric_gloves"
+                                "cleric_gloves",
+                                "dark_knight_helmet",
+                                "dark_knight_chestpiece",
+                                "dark_knight_pants",
+                                "dark_knight_boots",
+                                "dark_knight_gloves"
                             ]
                         }
                     ]
@@ -863,7 +903,12 @@
                                     "cleric_chestpiece",
                                     "cleric_pants",
                                     "cleric_boots",
-                                    "cleric_gloves"
+                                    "cleric_gloves",
+                                    "dark_knight_helmet",
+                                    "dark_knight_chestpiece",
+                                    "dark_knight_pants",
+                                    "dark_knight_boots",
+                                    "dark_knight_gloves"
                                 ]
                             }
                         ]

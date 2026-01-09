@@ -1,0 +1,62 @@
+{
+    "spr_ui_item_equipment_dark_knight_helmet": {
+        "Location": "images/armor/dark_knight/helmet/spr_ui_item_equipment_dark_knight_helmet.png",
+        "OutlineLocation": "images/armor/dark_knight/helmet/spr_ui_item_equipment_dark_knight_helmet_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_dark_knight_chestpiece": {
+        "Location": "images/armor/dark_knight/chestpiece/spr_ui_item_equipment_dark_knight_chestpiece.png",
+        "OutlineLocation": "images/armor/dark_knight/chestpiece/spr_ui_item_equipment_dark_knight_chestpiece_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_dark_knight_pants": {
+        "Location": "images/armor/dark_knight/pants/spr_ui_item_equipment_dark_knight_pants.png",
+        "OutlineLocation": "images/armor/dark_knight/pants/spr_ui_item_equipment_dark_knight_pants_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_dark_knight_boots": {
+        "Location": "images/armor/dark_knight/boots/spr_ui_item_equipment_dark_knight_boots.png",
+        "OutlineLocation": "images/armor/dark_knight/boots/spr_ui_item_equipment_dark_knight_boots_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_dark_knight_gloves": {
+        "Location": "images/armor/dark_knight/gloves/spr_ui_item_equipment_dark_knight_gloves.png",
+        "OutlineLocation": "images/armor/dark_knight/gloves/spr_ui_item_equipment_dark_knight_gloves_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    }
+}

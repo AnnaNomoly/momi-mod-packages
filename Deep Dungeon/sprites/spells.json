@@ -42,5 +42,60 @@
     "MarginTop": 0,
     "IsAnimated": false,
     "IsUiItem": true
+  },
+  "spr_ui_journal_magic_siphon_life_spell_icon_main": {
+    "Location": "images/spells/siphon_life/spr_ui_journal_magic_siphon_life_spell_icon_main.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 17,
+    "MarginBottom": 17,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_journal_magic_siphon_life_spell_icon_disabled": {
+    "Location": "images/spells/siphon_life/spr_ui_journal_magic_siphon_life_spell_icon_disabled.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 17,
+    "MarginBottom": 17,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_journal_magic_siphon_life_card_icon": {
+    "Location": "images/spells/siphon_life/spr_ui_journal_magic_siphon_life_card_icon.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 14,
+    "MarginBottom": 12,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_journal_sipon_life_card_backplate": {
+    "Location": "images/spells/siphon_life/spr_ui_journal_sipon_life_card_backplate.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 74,
+    "MarginBottom": 100,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_journal_magic_card_ribbon_siphon_life": {
+    "Location": "images/spells/siphon_life/spr_ui_journal_magic_card_ribbon_siphon_life.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 74,
+    "MarginBottom": 100,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
   }
 }
