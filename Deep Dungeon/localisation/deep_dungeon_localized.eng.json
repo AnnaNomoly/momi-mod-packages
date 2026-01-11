@@ -169,6 +169,7 @@
     "Notifications/Mods/Deep Dungeon/Traps/inhibiting": "The hidden floor rune activates, inhibiting your attacks!",
     "Notifications/Mods/Deep Dungeon/Traps/luring": "The hidden floor rune activates, summoning monsters nearby!",
 
+    "Notifications/Mods/Deep Dungeon/saving_disabled": "You are unable to save in the Deep Dungeon!",
     "Notifications/Mods/Deep Dungeon/sigil_limit": "That sigil is already active!",
     "Notifications/Mods/Deep Dungeon/salve_limit": "You have already used that type of salve on the current floor!",
     "Notifications/Mods/Deep Dungeon/item_penalty": "You are unable to use that item due to the Item Penalty floor enchantment!",
