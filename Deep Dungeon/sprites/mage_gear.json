@@ -1,0 +1,62 @@
+{
+    "spr_ui_item_equipment_mage_helmet": {
+        "Location": "images/armor/mage/helmet/spr_ui_item_equipment_mage_helmet.png",
+        "OutlineLocation": "images/armor/mage/helmet/spr_ui_item_equipment_mage_helmet_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mage_chestpiece": {
+        "Location": "images/armor/mage/chestpiece/spr_ui_item_equipment_mage_chestpiece.png",
+        "OutlineLocation": "images/armor/mage/chestpiece/spr_ui_item_equipment_mage_chestpiece_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mage_pants": {
+        "Location": "images/armor/mage/pants/spr_ui_item_equipment_mage_pants.png",
+        "OutlineLocation": "images/armor/mage/pants/spr_ui_item_equipment_mage_pants_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mage_boots": {
+        "Location": "images/armor/mage/boots/spr_ui_item_equipment_mage_boots.png",
+        "OutlineLocation": "images/armor/mage/boots/spr_ui_item_equipment_mage_boots_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_mage_gloves": {
+        "Location": "images/armor/mage/gloves/spr_ui_item_equipment_mage_gloves.png",
+        "OutlineLocation": "images/armor/mage/gloves/spr_ui_item_equipment_mage_gloves_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    }
+}
