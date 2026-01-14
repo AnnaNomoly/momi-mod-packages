@@ -507,5 +507,138 @@
         ],
         "can_talk_after": true,
         "priority": "Basement"
-    }
+    },
+    "Conversations/Mods/Deep Dungeon/sigil_parchment_exchange/unavailable": {
+        "kind": "GameplayTriggered",
+        "requires": [],
+        "writes": [],
+        "actions": [],
+        "lines": {
+            "init": {
+                "local": "Conversations/Mods/Deep Dungeon/sigil_parchment_exchange/unavailable",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            }
+        },
+        "multiple_speakers_in_conversation": false,
+        "speakers_in_conversation": [],
+        "can_talk_after": true,
+        "priority": "Basement"
+    },
+    "Conversations/Mods/Deep Dungeon/sigil_parchment_exchange": {
+        "kind": "GameplayTriggered",
+        "requires": [],
+        "writes": [],
+        "actions": [],
+        "lines": {
+            "1": {
+                "local": "Conversations/Mods/Deep Dungeon/sigil_parchment_exchange/1",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "prompts",
+                    "content": [
+                        {
+                            "local": "Conversations/Mods/Deep Dungeon/sigil_parchment_exchange/1/prompts/0",
+                            "next_lines": [
+                                {
+                                    "line_id": "2a",
+                                    "requirements": []
+                                }
+                            ]
+                        },
+                        {
+                            "local": "Conversations/Mods/Deep Dungeon/sigil_parchment_exchange/1/prompts/1",
+                            "next_lines": [
+                                {
+                                    "line_id": "2b",
+                                    "requirements": []
+                                }
+                            ]
+                        },
+                        {
+                            "local": "Conversations/Mods/Deep Dungeon/sigil_parchment_exchange/1/prompts/2",
+                            "next_lines": [
+                                {
+                                    "line_id": "2c",
+                                    "requirements": []
+                                }
+                            ]
+                        },
+                    ]
+                }
+            },
+            "2a": {
+                "local": "Conversations/Mods/Deep Dungeon/placeholders/sigil_parchment_exchange/cursed_armor/result",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "2b": {
+                "local": "Conversations/Mods/Deep Dungeon/placeholders/sigil_parchment_exchange/soul_stone/result",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "2c": {
+                "local": "Conversations/Mods/Deep Dungeon/sigil_parchment_exchange/cancelled",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "init": {
+                "local": "Conversations/Mods/Deep Dungeon/sigil_parchment_exchange/init",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "next_lines",
+                    "content": [
+                        {
+                            "line_id": "1",
+                            "requirements": []
+                        }
+                    ]
+                }
+            }
+        },
+        "multiple_speakers_in_conversation": false,
+        "speakers_in_conversation": [
+            "seridia"
+        ],
+        "can_talk_after": true,
+        "priority": "Basement"
+    },
 }

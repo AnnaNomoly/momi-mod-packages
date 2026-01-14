@@ -1,4 +1,16 @@
 {
+  "spr_ui_item_sigil_parchment": {
+    "Location": "images/sigils/spr_ui_item_sigil_parchment.png",
+    "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
   "spr_ui_item_sigil_of_alteration": {
     "Location": "images/sigils/alteration/spr_ui_item_sigil_of_alteration.png",
     "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
@@ -266,17 +278,6 @@
   },
   "spr_ui_item_sigil_of_temptation_disabled": {
     "Location": "images/sigils/temptation/spr_ui_item_sigil_of_temptation_disabled.png",
-    "OriginX": 9,
-    "OriginY": 9,
-    "MarginLeft": 0,
-    "MarginRight": 18,
-    "MarginBottom": 18,
-    "MarginTop": 0,
-    "IsAnimated": false,
-    "IsUiItem": true
-  },
-  "spr_ui_item_sigil_parchment": {
-    "Location": "images/sigils/spr_ui_item_sigil_parchment.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,

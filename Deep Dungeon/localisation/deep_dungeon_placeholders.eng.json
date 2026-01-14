@@ -1,4 +1,6 @@
 {
     "Conversations/Mods/Deep Dungeon/placeholders/floor_enchantments/init": "",
-    "Conversations/Mods/Deep Dungeon/placeholders/offerings/result": ""
+    "Conversations/Mods/Deep Dungeon/placeholders/offerings/result": "",
+    "Conversations/Mods/Deep Dungeon/placeholders/sigil_parchment_exchange/cursed_armor/result": "",
+    "Conversations/Mods/Deep Dungeon/placeholders/sigil_parchment_exchange/soul_stone/result": ""
 }
