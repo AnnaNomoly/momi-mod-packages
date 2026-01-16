@@ -62,5 +62,37 @@
       "bin": 0,
       "store": 1
     }
+  },
+  "lava_caves_orb": {
+    "overwrites_other_mod": false,
+    "description": "Items/Mods/Deep Dungeon/Orbs/lava_caves_orb/description",
+    "name": "Items/Mods/Deep Dungeon/Orbs/lava_caves_orb/name",
+    "icon_sprite": "spr_ui_item_lava_caves_orb",
+    "edible": true,
+    "recipe_is_default": true,
+    "crafting_level_requirement": 1,
+    "kitchen_tier_requirement": 1,
+    "recipe": [
+      {
+        "count": 125,
+        "item": "glow_stone_medium"
+      },
+      {
+        "count": 25,
+        "item": "beast_coin_medium"
+      },
+      {
+        "hours": 2,
+        "minutes": 0
+      }
+    ],
+    "tags": [
+        "food",
+        "misc_pantry"
+    ],
+    "value": {
+      "bin": 0,
+      "store": 1
+    }
   }
 }

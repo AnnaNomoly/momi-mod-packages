@@ -71,6 +71,30 @@
         "can_talk_after": true,
         "priority": "Basement"
     },
+    "Conversations/Mods/Deep Dungeon/Boss Battles/lava_caves_orb": {
+        "kind": "GameplayTriggered",
+        "requires": [],
+        "writes": [],
+        "actions": [],
+        "lines": {
+            "init": {
+                "local": "Conversations/Mods/Deep Dungeon/Boss Battles/lava_caves_orb/init",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            }
+        },
+        "multiple_speakers_in_conversation": false,
+        "speakers_in_conversation": [],
+        "can_talk_after": true,
+        "priority": "Basement"
+    },
     "Conversations/Mods/Deep Dungeon/floor_enchantments": {
         "kind": "GameplayTriggered",
         "requires": [],

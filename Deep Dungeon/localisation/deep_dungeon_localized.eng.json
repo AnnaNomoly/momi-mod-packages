@@ -34,6 +34,7 @@
 
     "Conversations/Mods/Deep Dungeon/Boss Battles/tide_caverns_orb/init": "^Boss Battle^: #Those Who Throw Stones#\n$Victory Condition$: Defeat all enemies. Sigils are disabled.\n=Defeat Condition=: Death or fleeing the room.",
     "Conversations/Mods/Deep Dungeon/Boss Battles/deep_earth_orb/init": "^Boss Battle^: #Simple Geometry#\n$Victory Condition$: Defeat all enemies. Sigils are disabled.\n=Defeat Condition=: Death or fleeing the room.",
+    "Conversations/Mods/Deep Dungeon/Boss Battles/lava_caves_orb/init": "^Boss Battle^: #Bats Outta Hell#\n$Victory Condition$: Defeat all enemies. Sigils are disabled.\n=Defeat Condition=: Death or fleeing the room.",
 
     "Conversations/Mods/Deep Dungeon/sigil_parchment_exchange/init": "You feel compelled to make an ^offering^ to the statue...",
     "Conversations/Mods/Deep Dungeon/sigil_parchment_exchange/1": "You may ^exchange^ all $cursed armor$ or $soul stones$ in your inventory for =sigil parchment=. What will you ^offer^?",
@@ -95,6 +96,8 @@
     "Items/Mods/Deep Dungeon/Orbs/tide_caverns_orb/description": "A strange orb filled with water from the Tide Caverns.\n\nUse it in the mines entrance to initiate the boss battle \"Those Who Throw Stones\".",
     "Items/Mods/Deep Dungeon/Orbs/deep_earth_orb/name": "Deep Earth Orb",
     "Items/Mods/Deep Dungeon/Orbs/deep_earth_orb/description": "A strange orb filled with crystals from the Deep Earth.\n\nUse it in the mines entrance to initiate the boss battle \"Simple Geometry\".",
+    "Items/Mods/Deep Dungeon/Orbs/lava_caves_orb/name": "Lava Caves Orb",
+    "Items/Mods/Deep Dungeon/Orbs/lava_caves_orb/description": "A strange orb filled with magma from the Lava Caves.\n\nUse it in the mines entrance to initiate the boss battle \"Bats Outta Hell\".",
 
     "Items/Mods/Deep Dungeon/Beast Coins/giant/name": "Beast Coin: Ruins",
     "Items/Mods/Deep Dungeon/Beast Coins/giant/description": "A beast coin found in the ruins biome of the dungeon.",
