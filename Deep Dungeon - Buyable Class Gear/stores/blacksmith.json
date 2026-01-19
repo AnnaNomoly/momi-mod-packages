@@ -49,6 +49,31 @@
             "item": "dark_knight_gloves",
             "store": "blacksmith",
             "category": "spr_ui_store_category_icon_dark_knight"
+        },
+        {
+            "item": "mage_helmet",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_mage"
+        },
+        {
+            "item": "mage_chestpiece",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_mage"
+        },
+        {
+            "item": "mage_pants",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_mage"
+        },
+        {
+            "item": "mage_boots",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_mage"
+        },
+        {
+            "item": "mage_gloves",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_mage"
         }
     ],
     "categories": [
@@ -61,6 +86,11 @@
             "store": "blacksmith",
             "icon_name": "spr_ui_store_category_icon_dark_knight",
             "sprite": "images/categories/spr_ui_store_category_icon_dark_knight.png"
+        },
+        {
+            "store": "blacksmith",
+            "icon_name": "spr_ui_store_category_icon_mage",
+            "sprite": "images/categories/spr_ui_store_category_icon_mage.png"
         }
     ]
 }
