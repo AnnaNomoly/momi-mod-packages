@@ -1,12 +1,39 @@
 {
+    "sigil_parchment": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Sigils/parchment/description",
+        "name": "Items/Mods/Deep Dungeon/Sigils/parchment/name",
+        "icon_sprite": "spr_ui_item_sigil_parchment",
+        "tags": [
+            "material"
+        ],
+        "value": {
+            "bin": 0
+        }
+    },
     "sigil_of_alteration": {
         "overwrites_other_mod": false,
         "name": "Items/Mods/Deep Dungeon/Sigils/alteration/name",
         "description": "Items/Mods/Deep Dungeon/Sigils/alteration/description",
         "icon_sprite": "spr_ui_item_sigil_of_alteration",
         "edible": true,
-        "recipe_is_default": false,
-        "tags": [],
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "sigil_parchment"
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
         "value": {
             "bin": 0
         }
@@ -17,8 +44,23 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/concealment/description",
         "icon_sprite": "spr_ui_item_sigil_of_concealment",
         "edible": true,
-        "recipe_is_default": false,
-        "tags": [],
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "sigil_parchment"
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
         "value": {
             "bin": 0
         }
@@ -29,8 +71,23 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/fortification/description",
         "icon_sprite": "spr_ui_item_sigil_of_fortification",
         "edible": true,
-        "recipe_is_default": false,
-        "tags": [],
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "sigil_parchment"
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
         "value": {
             "bin": 0
         }
@@ -41,8 +98,23 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/fortune/description",
         "icon_sprite": "spr_ui_item_sigil_of_fortune",
         "edible": true,
-        "recipe_is_default": false,
-        "tags": [],
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "sigil_parchment"
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
         "value": {
             "bin": 0
         }
@@ -53,8 +125,23 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/protection/description",
         "icon_sprite": "spr_ui_item_sigil_of_protection",
         "edible": true,
-        "recipe_is_default": false,
-        "tags": [],
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "sigil_parchment"
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
         "value": {
             "bin": 0
         }
@@ -65,8 +152,23 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/rage/description",
         "icon_sprite": "spr_ui_item_sigil_of_rage",
         "edible": true,
-        "recipe_is_default": false,
-        "tags": [],
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "sigil_parchment"
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
         "value": {
             "bin": 0
         }
@@ -77,8 +179,23 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/redemption/description",
         "icon_sprite": "spr_ui_item_sigil_of_redemption",
         "edible": true,
-        "recipe_is_default": false,
-        "tags": [],
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "sigil_parchment"
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
         "value": {
             "bin": 0
         }
@@ -89,8 +206,23 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/safety/description",
         "icon_sprite": "spr_ui_item_sigil_of_safety",
         "edible": true,
-        "recipe_is_default": false,
-        "tags": [],
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "sigil_parchment"
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
         "value": {
             "bin": 0
         }
@@ -101,8 +233,23 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/serenity/description",
         "icon_sprite": "spr_ui_item_sigil_of_serenity",
         "edible": true,
-        "recipe_is_default": false,
-        "tags": [],
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "sigil_parchment"
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
         "value": {
             "bin": 0
         }
@@ -113,8 +260,23 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/silence/description",
         "icon_sprite": "spr_ui_item_sigil_of_silence",
         "edible": true,
-        "recipe_is_default": false,
-        "tags": [],
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "sigil_parchment"
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
         "value": {
             "bin": 0
         }
@@ -125,8 +287,23 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/strength/description",
         "icon_sprite": "spr_ui_item_sigil_of_strength",
         "edible": true,
-        "recipe_is_default": false,
-        "tags": [],
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "sigil_parchment"
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
         "value": {
             "bin": 0
         }
@@ -137,8 +314,23 @@
         "description": "Items/Mods/Deep Dungeon/Sigils/temptation/description",
         "icon_sprite": "spr_ui_item_sigil_of_temptation",
         "edible": true,
-        "recipe_is_default": false,
-        "tags": [],
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "sigil_parchment"
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
         "value": {
             "bin": 0
         }

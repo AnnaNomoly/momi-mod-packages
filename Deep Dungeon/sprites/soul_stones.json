@@ -22,5 +22,17 @@
     "MarginTop": 0,
     "IsAnimated": false,
     "IsUiItem": true
+  },
+  "spr_ui_item_soul_stone_mage": {
+    "Location": "images/materials/soul_stone/mage/spr_ui_item_soul_stone_mage.png",
+    "OutlineLocation": "images/materials/soul_stone/mage/spr_ui_item_soul_stone_mage_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
   }
 }
