@@ -34,5 +34,29 @@
     "MarginTop": 0,
     "IsAnimated": false,
     "IsUiItem": true
+  },
+  "spr_ui_item_soul_stone_paladin": {
+    "Location": "images/materials/soul_stone/paladin/spr_ui_item_soul_stone_paladin.png",
+    "OutlineLocation": "images/materials/soul_stone/paladin/spr_ui_item_soul_stone_paladin_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_soul_stone_rogue": {
+    "Location": "images/materials/soul_stone/rogue/spr_ui_item_soul_stone_rogue.png",
+    "OutlineLocation": "images/materials/soul_stone/rogue/spr_ui_item_soul_stone_rogue_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
   }
 }

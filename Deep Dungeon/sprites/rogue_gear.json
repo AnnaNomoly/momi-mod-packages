@@ -1,0 +1,62 @@
+{
+    "spr_ui_item_equipment_rogue_helmet": {
+        "Location": "images/armor/rogue/helmet/spr_ui_item_equipment_rogue_helmet.png",
+        "OutlineLocation": "images/armor/rogue/helmet/spr_ui_item_equipment_rogue_helmet_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_rogue_chestpiece": {
+        "Location": "images/armor/rogue/chestpiece/spr_ui_item_equipment_rogue_chestpiece.png",
+        "OutlineLocation": "images/armor/rogue/chestpiece/spr_ui_item_equipment_rogue_chestpiece_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_rogue_pants": {
+        "Location": "images/armor/rogue/pants/spr_ui_item_equipment_rogue_pants.png",
+        "OutlineLocation": "images/armor/rogue/pants/spr_ui_item_equipment_rogue_pants_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_rogue_boots": {
+        "Location": "images/armor/rogue/boots/spr_ui_item_equipment_rogue_boots.png",
+        "OutlineLocation": "images/armor/rogue/boots/spr_ui_item_equipment_rogue_boots_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_rogue_gloves": {
+        "Location": "images/armor/rogue/gloves/spr_ui_item_equipment_rogue_gloves.png",
+        "OutlineLocation": "images/armor/rogue/gloves/spr_ui_item_equipment_rogue_gloves_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    }
+}

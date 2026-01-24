@@ -34,5 +34,29 @@
         "value": {
             "bin": 0
         }
+    },
+    "soul_stone_paladin": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Soul Stones/paladin/description",
+        "name": "Items/Mods/Deep Dungeon/Soul Stones/paladin/name",
+        "icon_sprite": "spr_ui_item_soul_stone_paladin",
+        "tags": [
+            "material"
+        ],
+        "value": {
+            "bin": 0
+        }
+    },
+    "soul_stone_rogue": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Soul Stones/rogue/description",
+        "name": "Items/Mods/Deep Dungeon/Soul Stones/rogue/name",
+        "icon_sprite": "spr_ui_item_soul_stone_rogue",
+        "tags": [
+            "material"
+        ],
+        "value": {
+            "bin": 0
+        }
     }
 }
