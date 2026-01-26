@@ -74,6 +74,56 @@
             "item": "mage_gloves",
             "store": "blacksmith",
             "category": "spr_ui_store_category_icon_mage"
+        },
+        {
+            "item": "paladin_helmet",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_paladin"
+        },
+        {
+            "item": "paladin_chestpiece",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_paladin"
+        },
+        {
+            "item": "paladin_pants",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_paladin"
+        },
+        {
+            "item": "paladin_boots",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_paladin"
+        },
+        {
+            "item": "paladin_gloves",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_paladin"
+        },
+        {
+            "item": "rogue_helmet",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_rogue"
+        },
+        {
+            "item": "rogue_chestpiece",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_rogue"
+        },
+        {
+            "item": "rogue_pants",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_rogue"
+        },
+        {
+            "item": "rogue_boots",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_rogue"
+        },
+        {
+            "item": "rogue_gloves",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_rogue"
         }
     ],
     "categories": [
@@ -91,6 +141,16 @@
             "store": "blacksmith",
             "icon_name": "spr_ui_store_category_icon_mage",
             "sprite": "images/categories/spr_ui_store_category_icon_mage.png"
+        },
+        {
+            "store": "blacksmith",
+            "icon_name": "spr_ui_store_category_icon_paladin",
+            "sprite": "images/categories/spr_ui_store_category_icon_paladin.png"
+        },
+        {
+            "store": "blacksmith",
+            "icon_name": "spr_ui_store_category_icon_rogue",
+            "sprite": "images/categories/spr_ui_store_category_icon_rogue.png"
         }
     ]
 }
