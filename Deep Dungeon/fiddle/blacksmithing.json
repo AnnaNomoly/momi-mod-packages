@@ -9,6 +9,21 @@
     "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/27": "dark_knight_pants",
     "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/28": "dark_knight_boots",
     "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/29": "dark_knight_gloves",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/30": "mage_helmet",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/31": "mage_chestpiece",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/32": "mage_pants",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/33": "mage_boots",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/34": "mage_gloves",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/35": "paladin_helmet",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/36": "paladin_chestpiece",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/37": "paladin_pants",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/38": "paladin_boots",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/39": "paladin_gloves",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/40": "rogue_helmet",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/41": "rogue_chestpiece",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/42": "rogue_pants",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/43": "rogue_boots",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/44": "rogue_gloves",
     "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order": [
         "copper_helmet",
         "copper_armor",
@@ -39,7 +54,22 @@
         "dark_knight_chestpiece",
         "dark_knight_pants",
         "dark_knight_boots",
-        "dark_knight_gloves"
+        "dark_knight_gloves",
+        "mage_helmet",
+        "mage_chestpiece",
+        "mage_pants",
+        "mage_boots",
+        "mage_gloves",
+        "paladin_helmet",
+        "paladin_chestpiece",
+        "paladin_pants",
+        "paladin_boots",
+        "paladin_gloves",
+        "rogue_helmet",
+        "rogue_chestpiece",
+        "rogue_pants",
+        "rogue_boots",
+        "rogue_gloves"
     ],
     "ui/crafting/blacksmithing/categories/9/sub_categories/0": {
         "manual_order": [
@@ -72,7 +102,22 @@
             "dark_knight_chestpiece",
             "dark_knight_pants",
             "dark_knight_boots",
-            "dark_knight_gloves"
+            "dark_knight_gloves",
+            "mage_helmet",
+            "mage_chestpiece",
+            "mage_pants",
+            "mage_boots",
+            "mage_gloves",
+            "paladin_helmet",
+            "paladin_chestpiece",
+            "paladin_pants",
+            "paladin_boots",
+            "paladin_gloves",
+            "rogue_helmet",
+            "rogue_chestpiece",
+            "rogue_pants",
+            "rogue_boots",
+            "rogue_gloves"
         ]
     },
     "ui/crafting/blacksmithing/categories/9/sub_categories": [
@@ -109,7 +154,22 @@
                 "dark_knight_chestpiece",
                 "dark_knight_pants",
                 "dark_knight_boots",
-                "dark_knight_gloves"
+                "dark_knight_gloves",
+                "mage_helmet",
+                "mage_chestpiece",
+                "mage_pants",
+                "mage_boots",
+                "mage_gloves",
+                "paladin_helmet",
+                "paladin_chestpiece",
+                "paladin_pants",
+                "paladin_boots",
+                "paladin_gloves",
+                "rogue_helmet",
+                "rogue_chestpiece",
+                "rogue_pants",
+                "rogue_boots",
+                "rogue_gloves"
             ]
         }
     ],
@@ -148,7 +208,22 @@
                     "dark_knight_chestpiece",
                     "dark_knight_pants",
                     "dark_knight_boots",
-                    "dark_knight_gloves"
+                    "dark_knight_gloves",
+                    "mage_helmet",
+                    "mage_chestpiece",
+                    "mage_pants",
+                    "mage_boots",
+                    "mage_gloves",
+                    "paladin_helmet",
+                    "paladin_chestpiece",
+                    "paladin_pants",
+                    "paladin_boots",
+                    "paladin_gloves",
+                    "rogue_helmet",
+                    "rogue_chestpiece",
+                    "rogue_pants",
+                    "rogue_boots",
+                    "rogue_gloves"
                 ]
             }
         ]
@@ -335,7 +410,22 @@
                         "dark_knight_chestpiece",
                         "dark_knight_pants",
                         "dark_knight_boots",
-                        "dark_knight_gloves"
+                        "dark_knight_gloves",
+                        "mage_helmet",
+                        "mage_chestpiece",
+                        "mage_pants",
+                        "mage_boots",
+                        "mage_gloves",
+                        "paladin_helmet",
+                        "paladin_chestpiece",
+                        "paladin_pants",
+                        "paladin_boots",
+                        "paladin_gloves",
+                        "rogue_helmet",
+                        "rogue_chestpiece",
+                        "rogue_pants",
+                        "rogue_boots",
+                        "rogue_gloves"
                     ]
                 }
             ]
@@ -524,7 +614,22 @@
                             "dark_knight_chestpiece",
                             "dark_knight_pants",
                             "dark_knight_boots",
-                            "dark_knight_gloves"
+                            "dark_knight_gloves",
+                            "mage_helmet",
+                            "mage_chestpiece",
+                            "mage_pants",
+                            "mage_boots",
+                            "mage_gloves",
+                            "paladin_helmet",
+                            "paladin_chestpiece",
+                            "paladin_pants",
+                            "paladin_boots",
+                            "paladin_gloves",
+                            "rogue_helmet",
+                            "rogue_chestpiece",
+                            "rogue_pants",
+                            "rogue_boots",
+                            "rogue_gloves"
                         ]
                     }
                 ]
@@ -715,7 +820,22 @@
                                 "dark_knight_chestpiece",
                                 "dark_knight_pants",
                                 "dark_knight_boots",
-                                "dark_knight_gloves"
+                                "dark_knight_gloves",
+                                "mage_helmet",
+                                "mage_chestpiece",
+                                "mage_pants",
+                                "mage_boots",
+                                "mage_gloves",
+                                "paladin_helmet",
+                                "paladin_chestpiece",
+                                "paladin_pants",
+                                "paladin_boots",
+                                "paladin_gloves",
+                                "rogue_helmet",
+                                "rogue_chestpiece",
+                                "rogue_pants",
+                                "rogue_boots",
+                                "rogue_gloves"
                             ]
                         }
                     ]
@@ -908,7 +1028,22 @@
                                     "dark_knight_chestpiece",
                                     "dark_knight_pants",
                                     "dark_knight_boots",
-                                    "dark_knight_gloves"
+                                    "dark_knight_gloves",
+                                    "mage_helmet",
+                                    "mage_chestpiece",
+                                    "mage_pants",
+                                    "mage_boots",
+                                    "mage_gloves",
+                                    "paladin_helmet",
+                                    "paladin_chestpiece",
+                                    "paladin_pants",
+                                    "paladin_boots",
+                                    "paladin_gloves",
+                                    "rogue_helmet",
+                                    "rogue_chestpiece",
+                                    "rogue_pants",
+                                    "rogue_boots",
+                                    "rogue_gloves"
                                 ]
                             }
                         ]
