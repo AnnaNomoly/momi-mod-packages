@@ -425,6 +425,212 @@
                 }
             ]
         },
+        "secret_santa_notice_caldarus": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "adeline",
+            "subject_line": "letters/secret_santa_notice_caldarus/subject_line",
+            "local": "letters/secret_santa_notice_caldarus/local",
+            "items": [
+                {
+                    "item_name": "big_cookie",
+                    "count": 1
+                },
+                {
+                    "item_name": "hot_cocoa",
+                    "count": 1
+                },
+                {
+                    "item_name": "large_gold_coin",
+                    "count": 1
+                }
+            ]
+        },
+        "secret_santa_reminder_caldarus": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "adeline",
+            "subject_line": "letters/secret_santa_reminder_caldarus/subject_line",
+            "local": "letters/secret_santa_reminder_caldarus/local"
+        },
+        "secret_santa_caldarus_berry_bowl": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "caldarus",
+            "subject_line": "letters/secret_santa_caldarus_gift/subject_line",
+            "local": "letters/secret_santa_caldarus_gift/local",
+            "items": [
+                {
+                    "item_name": "berry_bowl",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_caldarus_beet_soup": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "caldarus",
+            "subject_line": "letters/secret_santa_caldarus_gift/subject_line",
+            "local": "letters/secret_santa_caldarus_gift/local",
+            "items": [
+                {
+                    "item_name": "beet_soup",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_caldarus_fried_rice": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "caldarus",
+            "subject_line": "letters/secret_santa_caldarus_gift/subject_line",
+            "local": "letters/secret_santa_caldarus_gift/local",
+            "items": [
+                {
+                    "item_name": "fried_rice",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_caldarus_vegetable_pot_pie": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "caldarus",
+            "subject_line": "letters/secret_santa_caldarus_gift/subject_line",
+            "local": "letters/secret_santa_caldarus_gift/local",
+            "items": [
+                {
+                    "item_name": "vegetable_pot_pie",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_caldarus_floral_tea": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "caldarus",
+            "subject_line": "letters/secret_santa_caldarus_gift/subject_line",
+            "local": "letters/secret_santa_caldarus_gift/local",
+            "items": [
+                {
+                    "item_name": "floral_tea",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_caldarus_tulip_cake": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "caldarus",
+            "subject_line": "letters/secret_santa_caldarus_gift/subject_line",
+            "local": "letters/secret_santa_caldarus_gift/local",
+            "items": [
+                {
+                    "item_name": "tulip_cake",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_caldarus_sushi_platter": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "caldarus",
+            "subject_line": "letters/secret_santa_caldarus_gift/subject_line",
+            "local": "letters/secret_santa_caldarus_gift/local",
+            "items": [
+                {
+                    "item_name": "sushi_platter",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_caldarus_lobster_roll": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "caldarus",
+            "subject_line": "letters/secret_santa_caldarus_gift/subject_line",
+            "local": "letters/secret_santa_caldarus_gift/local",
+            "items": [
+                {
+                    "item_name": "lobster_roll",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_caldarus_summer_salad": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "caldarus",
+            "subject_line": "letters/secret_santa_caldarus_gift/subject_line",
+            "local": "letters/secret_santa_caldarus_gift/local",
+            "items": [
+                {
+                    "item_name": "summer_salad",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_caldarus_vegetable_quiche": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "caldarus",
+            "subject_line": "letters/secret_santa_caldarus_gift/subject_line",
+            "local": "letters/secret_santa_caldarus_gift/local",
+            "items": [
+                {
+                    "item_name": "vegetable_quiche",
+                    "count": 3
+                }
+            ]
+        },
         "secret_santa_notice_celine": {
             "default": false,
             "requirements": {
@@ -5156,6 +5362,212 @@
             "npc": "ryis",
             "subject_line": "letters/secret_santa_ryis_gift/subject_line",
             "local": "letters/secret_santa_ryis_gift/local",
+            "items": [
+                {
+                    "item_name": "vegetable_quiche",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_notice_taliferro": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "adeline",
+            "subject_line": "letters/secret_santa_notice_taliferro/subject_line",
+            "local": "letters/secret_santa_notice_taliferro/local",
+            "items": [
+                {
+                    "item_name": "big_cookie",
+                    "count": 1
+                },
+                {
+                    "item_name": "hot_cocoa",
+                    "count": 1
+                },
+                {
+                    "item_name": "large_gold_coin",
+                    "count": 1
+                }
+            ]
+        },
+        "secret_santa_reminder_taliferro": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "adeline",
+            "subject_line": "letters/secret_santa_reminder_taliferro/subject_line",
+            "local": "letters/secret_santa_reminder_taliferro/local"
+        },
+        "secret_santa_taliferro_berry_bowl": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "taliferro",
+            "subject_line": "letters/secret_santa_generic_gift/subject_line",
+            "local": "letters/secret_santa_generic_gift/local",
+            "items": [
+                {
+                    "item_name": "berry_bowl",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_taliferro_beet_soup": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "taliferro",
+            "subject_line": "letters/secret_santa_generic_gift/subject_line",
+            "local": "letters/secret_santa_generic_gift/local",
+            "items": [
+                {
+                    "item_name": "beet_soup",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_taliferro_fried_rice": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "taliferro",
+            "subject_line": "letters/secret_santa_generic_gift/subject_line",
+            "local": "letters/secret_santa_generic_gift/local",
+            "items": [
+                {
+                    "item_name": "fried_rice",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_taliferro_vegetable_pot_pie": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "taliferro",
+            "subject_line": "letters/secret_santa_generic_gift/subject_line",
+            "local": "letters/secret_santa_generic_gift/local",
+            "items": [
+                {
+                    "item_name": "vegetable_pot_pie",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_taliferro_floral_tea": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "taliferro",
+            "subject_line": "letters/secret_santa_generic_gift/subject_line",
+            "local": "letters/secret_santa_generic_gift/local",
+            "items": [
+                {
+                    "item_name": "floral_tea",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_taliferro_tulip_cake": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "taliferro",
+            "subject_line": "letters/secret_santa_generic_gift/subject_line",
+            "local": "letters/secret_santa_generic_gift/local",
+            "items": [
+                {
+                    "item_name": "tulip_cake",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_taliferro_sushi_platter": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "taliferro",
+            "subject_line": "letters/secret_santa_generic_gift/subject_line",
+            "local": "letters/secret_santa_generic_gift/local",
+            "items": [
+                {
+                    "item_name": "sushi_platter",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_taliferro_lobster_roll": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "taliferro",
+            "subject_line": "letters/secret_santa_generic_gift/subject_line",
+            "local": "letters/secret_santa_generic_gift/local",
+            "items": [
+                {
+                    "item_name": "lobster_roll",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_taliferro_summer_salad": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "taliferro",
+            "subject_line": "letters/secret_santa_generic_gift/subject_line",
+            "local": "letters/secret_santa_generic_gift/local",
+            "items": [
+                {
+                    "item_name": "summer_salad",
+                    "count": 3
+                }
+            ]
+        },
+        "secret_santa_taliferro_vegetable_quiche": {
+            "default": false,
+            "requirements": {
+                "world_fact_is": {
+                    "secret_santa": true
+                }
+            },
+            "npc": "taliferro",
+            "subject_line": "letters/secret_santa_generic_gift/subject_line",
+            "local": "letters/secret_santa_generic_gift/local",
             "items": [
                 {
                     "item_name": "vegetable_quiche",
