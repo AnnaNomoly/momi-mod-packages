@@ -127,6 +127,10 @@
     "Items/Mods/Deep Dungeon/Soul Stones/dark_knight/description": "A strange crest shaped stone with an engraving on it that glows faintly.",
     "Items/Mods/Deep Dungeon/Soul Stones/mage/name": "Soul Stone: Mage",
     "Items/Mods/Deep Dungeon/Soul Stones/mage/description": "A strange tear shaped stone with an engraving on it that glows faintly.",
+    "Items/Mods/Deep Dungeon/Soul Stones/paladin/name": "Soul Stone: Paladin",
+    "Items/Mods/Deep Dungeon/Soul Stones/paladin/description": "A strange kite shaped stone with an engraving on it that glows faintly.",
+    "Items/Mods/Deep Dungeon/Soul Stones/rogue/name": "Soul Stone: Rogue",
+    "Items/Mods/Deep Dungeon/Soul Stones/rogue/description": "A strange pick shaped stone with an engraving on it that glows faintly.",
 
     "items/other/blacksmithing/pick_axe_worn/name": "Mistpool Pickaxe",
     "items/other/blacksmithing/pick_axe_worn/description": "A pickaxe that seems to glow brighter the deeper you traverse inside the dungeon.",
@@ -231,9 +235,10 @@
 
     "Notifications/Mods/Deep Dungeon/Traps/confusing": "The hidden floor rune activates, confusing your movement!",
     "Notifications/Mods/Deep Dungeon/Traps/disorienting": "The hidden floor rune activates, disorienting your perception!",
-    "Notifications/Mods/Deep Dungeon/Traps/exploding": "The hidden floor trap explodes, damaging you and all nearby monsters!",
+    "Notifications/Mods/Deep Dungeon/Traps/exploding": "The hidden floor rune activates, damaging you and all nearby monsters!",
     "Notifications/Mods/Deep Dungeon/Traps/inhibiting": "The hidden floor rune activates, inhibiting your attacks!",
     "Notifications/Mods/Deep Dungeon/Traps/luring": "The hidden floor rune activates, summoning monsters nearby!",
+    "Notifications/Mods/Deep Dungeon/Traps/malfunction": "The hidden floor rune activates, and nothing happens!",
 
     "Notifications/Mods/Deep Dungeon/saving_disabled": "You are unable to save in the Deep Dungeon!",
     "Notifications/Mods/Deep Dungeon/sigil_limit": "That sigil is already active!",
