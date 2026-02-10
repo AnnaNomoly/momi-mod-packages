@@ -1,0 +1,208 @@
+{
+    "paladin_helmet": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/paladin/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/paladin_helmet/name",
+        "icon_sprite": "spr_ui_item_equipment_paladin_helmet",
+        "defense": 0,
+        "recipe_is_default": true,
+        "tags": [
+            "head",
+            "armor",
+            "blacksmithing",
+            "class_armor"
+        ],
+        "crafting_level_requirement": 1,
+        "recipe": [
+            {
+                "hours": 6,
+                "minutes": 0
+            },
+            {
+                "count": 250,
+                "item": "glow_stone_small"
+            },
+            {
+                "count": 50,
+                "item": "beast_coin_small"
+            },
+            {
+                "count": 1,
+                "item": "cursed_helmet"
+            },
+            {
+                "count": 1,
+                "item": "soul_stone_paladin"
+            }
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "paladin_chestpiece": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/paladin/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/paladin_chestpiece/name",
+        "icon_sprite": "spr_ui_item_equipment_paladin_chestpiece",
+        "defense": 0,
+        "recipe_is_default": true,
+        "tags": [
+            "chest",
+            "armor",
+            "blacksmithing",
+            "class_armor"
+        ],
+        "crafting_level_requirement": 1,
+        "recipe": [
+            {
+                "hours": 6,
+                "minutes": 0
+            },
+            {
+                "count": 250,
+                "item": "glow_stone_tiny"
+            },
+            {
+                "count": 50,
+                "item": "beast_coin_tiny"
+            },
+            {
+                "count": 1,
+                "item": "cursed_chestpiece"
+            },
+            {
+                "count": 1,
+                "item": "soul_stone_paladin"
+            }
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "paladin_pants": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/paladin/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/paladin_pants/name",
+        "icon_sprite": "spr_ui_item_equipment_paladin_pants",
+        "defense": 0,
+        "recipe_is_default": true,
+        "tags": [
+            "legs",
+            "armor",
+            "blacksmithing",
+            "class_armor"
+        ],
+        "crafting_level_requirement": 1,
+        "recipe": [
+            {
+                "hours": 6,
+                "minutes": 0
+            },
+            {
+                "count": 250,
+                "item": "glow_stone_large"
+            },
+            {
+                "count": 50,
+                "item": "beast_coin_large"
+            },
+            {
+                "count": 1,
+                "item": "cursed_pants"
+            },
+            {
+                "count": 1,
+                "item": "soul_stone_paladin"
+            }
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "paladin_boots": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/paladin/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/paladin_boots/name",
+        "icon_sprite": "spr_ui_item_equipment_paladin_boots",
+        "defense": 0,
+        "recipe_is_default": true,
+        "tags": [
+            "boots",
+            "armor",
+            "blacksmithing",
+            "class_armor"
+        ],
+        "crafting_level_requirement": 1,
+        "recipe": [
+            {
+                "hours": 6,
+                "minutes": 0
+            },
+            {
+                "count": 250,
+                "item": "glow_stone_giant"
+            },
+            {
+                "count": 50,
+                "item": "beast_coin_giant"
+            },
+            {
+                "count": 1,
+                "item": "cursed_boots"
+            },
+            {
+                "count": 1,
+                "item": "soul_stone_paladin"
+            }
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "paladin_gloves": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/paladin/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/paladin_gloves/name",
+        "icon_sprite": "spr_ui_item_equipment_paladin_gloves",
+        "defense": 0,
+        "recipe_is_default": true,
+        "tags": [
+            "armor",
+            "accessory",
+            "blacksmithing",
+            "class_armor"
+        ],
+        "crafting_level_requirement": 1,
+        "recipe": [
+            {
+                "hours": 6,
+                "minutes": 0
+            },
+            {
+                "count": 250,
+                "item": "glow_stone_medium"
+            },
+            {
+                "count": 50,
+                "item": "beast_coin_medium"
+            },
+            {
+                "count": 1,
+                "item": "cursed_gloves"
+            },
+            {
+                "count": 1,
+                "item": "soul_stone_paladin"
+            }
+        ],
+        "value": {
+
+            "bin": 0,
+            "store": 1
+        }
+    }
+}
