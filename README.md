@@ -13,7 +13,6 @@ The table below will be updated with mod development to indicate the status of a
 | ---- | ----------- | ------------------- | ---------- |
 | Annas Journal | 1.0.0 | ❌ | N/A |
 | Capybara Mount | 1.0.0 | ❌ | N/A |
-| Charm Spell | 1.0.0 | ❌ | N/A |
 | Duck Fishing Rod Buoy | 1.0.0 | ✅ | https://www.nexusmods.com/fieldsofmistria/mods/233 |
 | Extra-Dimensional Barns & Coops | 1.1.0 | 🟡 | N/A |
 | Fishing Pro | 1.0.0 | ✅ | https://www.nexusmods.com/fieldsofmistria/mods/201 |
