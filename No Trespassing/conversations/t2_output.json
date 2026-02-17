@@ -1,0 +1,61 @@
+{
+    "Conversations/Mods/No Trespassing/room_restricted": {
+        "kind": "GameplayTriggered",
+        "requires": [],
+        "writes": [],
+        "actions": [],
+        "lines": {
+            "init": {
+                "local": "Conversations/Mods/No Trespassing/placeholders/room_restricted",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            }
+        },
+        "multiple_speakers_in_conversation": false,
+        "speakers_in_conversation": [],
+        "can_talk_after": true,
+        "priority": "Basement"
+    },
+    "Conversations/Mods/No Trespassing/anna_easter_egg": {
+        "kind": "GameplayTriggered",
+        "requires": [],
+        "writes": [],
+        "actions": [],
+        "lines": {
+            "init": {
+                "local": "Conversations/Mods/No Trespassing/anna_easter_egg/init",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "speaker",
+                        "content": "seridia"
+                    },
+                    {
+                        "type": "portrait",
+                        "content": "neutral"
+                    },
+                    {
+                        "type": "effect",
+                        "content": "music_notes"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            }
+        },
+        "multiple_speakers_in_conversation": false,
+        "speakers_in_conversation": [
+            "seridia"
+        ],
+        "can_talk_after": true,
+        "priority": "Basement"
+    }
+}

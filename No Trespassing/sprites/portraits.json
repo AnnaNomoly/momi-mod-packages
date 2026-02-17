@@ -1,0 +1,13 @@
+{
+    "spr_portrait_anna_spring_neutral": {
+        "Location": "images/portraits/anna",
+        "OriginX": 0,
+        "OriginY": 0,
+        "MarginLeft": 0,
+        "MarginRight": 295,
+        "MarginBottom": 179,
+        "MarginTop": 0,
+        "IsAnimated": true,
+        "IsUiItem": false
+    }
+}
