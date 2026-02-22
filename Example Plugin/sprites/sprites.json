@@ -1,11 +1,46 @@
 {
-  "aldarian_danger_banner": {
-    "Location": "images/aldarian_danger_banner.png",
-    "OriginX": 0,
-    "OriginY": 0,
+  "spr_meteor_effect": {
+    "Location": "images/spr_meteor_effect",
+    "OriginX": 300,
+    "OriginY": 300,
     "MarginLeft": 0,
     "MarginRight": 0,
     "MarginBottom": 0,
-    "MarginTop": 0
-  }
+    "MarginTop": 0,
+    "IsAnimated": true,
+    "IsUiItem": false
+  },
+  "spr_circle_aoe": {
+    "Location": "images/spr_circle_aoe",
+    "OriginX": 148,
+    "OriginY": 148,
+    "MarginLeft": 0,
+    "MarginRight": 0,
+    "MarginBottom": 0,
+    "MarginTop": 0,
+    "IsAnimated": true,
+    "IsUiItem": false
+  },
+  "spr_circle_aoe_24px": {
+    "Location": "images/spr_circle_aoe_24px/circle_aoe_24px_0.png",
+    "OriginX": 12,
+    "OriginY": 12,
+    "MarginLeft": 0,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": false
+  },
+  "spr_circle_aoe_32px": {
+    "Location": "images/spr_circle_aoe_32px/circle_aoe_32px_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 0,
+    "MarginRight": 0,
+    "MarginBottom": 0,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": false
+  } 
 }
