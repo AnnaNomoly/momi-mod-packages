@@ -1,4 +1,26 @@
 {
+  "spr_trap_gaze": {
+    "Location": "images/gaze",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 0,
+    "MarginRight": 0,
+    "MarginBottom": 0,
+    "MarginTop": 0,
+    "IsAnimated": true,
+    "IsUiItem": false
+  },
+  "spr_trap_meteor": {
+    "Location": "images/meteor",
+    "OriginX": 256,
+    "OriginY": 256,
+    "MarginLeft": 0,
+    "MarginRight": 0,
+    "MarginBottom": 0,
+    "MarginTop": 0,
+    "IsAnimated": true,
+    "IsUiItem": false
+  },
   "spr_meteor_effect": {
     "Location": "images/spr_meteor_effect",
     "OriginX": 300,
@@ -42,5 +64,5 @@
     "MarginTop": 0,
     "IsAnimated": false,
     "IsUiItem": false
-  } 
+  }
 }
