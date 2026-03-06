@@ -35,6 +35,7 @@
     "Conversations/Mods/Deep Dungeon/Boss Battles/tide_caverns_orb/init": "^Boss Battle^: #Those Who Throw Stones#\n$Victory Condition$: Defeat all enemies. Sigils are disabled.\n=Defeat Condition=: Death or fleeing the room.",
     "Conversations/Mods/Deep Dungeon/Boss Battles/deep_earth_orb/init": "^Boss Battle^: #Simple Geometry#\n$Victory Condition$: Defeat all enemies. Sigils are disabled.\n=Defeat Condition=: Death or fleeing the room.",
     "Conversations/Mods/Deep Dungeon/Boss Battles/lava_caves_orb/init": "^Boss Battle^: #Bats Outta Hell#\n$Victory Condition$: Defeat all enemies. Sigils are disabled.\n=Defeat Condition=: Death or fleeing the room.",
+    "Conversations/Mods/Deep Dungeon/Boss Battles/ruins_orb/init": "^Boss Battle^: #Nowhere To Run#\n$Victory Condition$: Defeat all enemies. Sigils are disabled.\n=Defeat Condition=: Death or fleeing the room.",
 
     "Conversations/Mods/Deep Dungeon/sigil_parchment_exchange/init": "You feel compelled to make an ^offering^ to the statue...",
     "Conversations/Mods/Deep Dungeon/sigil_parchment_exchange/1": "You may ^exchange^ all $cursed armor$ or $soul stones$ in your inventory for =sigil parchment=. What will you ^offer^?",
@@ -98,6 +99,8 @@
     "Items/Mods/Deep Dungeon/Orbs/deep_earth_orb/description": "A strange orb filled with crystals from the Deep Earth.\n\nUse it in the mines entrance to initiate the boss battle \"Simple Geometry\".",
     "Items/Mods/Deep Dungeon/Orbs/lava_caves_orb/name": "Lava Caves Orb",
     "Items/Mods/Deep Dungeon/Orbs/lava_caves_orb/description": "A strange orb filled with magma from the Lava Caves.\n\nUse it in the mines entrance to initiate the boss battle \"Bats Outta Hell\".",
+    "Items/Mods/Deep Dungeon/Orbs/ruins_orb/name": "Ruins Orb",
+    "Items/Mods/Deep Dungeon/Orbs/ruins_orb/description": "A strange orb filled with void energy from the Ruins.\n\nUse it in the mines entrance to initiate the boss battle \"Nowhere To Run\".",
 
     "Items/Mods/Deep Dungeon/Beast Coins/giant/name": "Beast Coin: Ruins",
     "Items/Mods/Deep Dungeon/Beast Coins/giant/description": "A beast coin found in the ruins biome of the dungeon.",
@@ -238,6 +241,8 @@
     "Notifications/Mods/Deep Dungeon/Traps/exploding": "The hidden floor rune activates, damaging you and all nearby monsters!",
     "Notifications/Mods/Deep Dungeon/Traps/inhibiting": "The hidden floor rune activates, inhibiting your attacks!",
     "Notifications/Mods/Deep Dungeon/Traps/luring": "The hidden floor rune activates, summoning monsters nearby!",
+    "Notifications/Mods/Deep Dungeon/Traps/meteor": "The hidden floor rune activates, and a meteor begins to fall!",
+    "Notifications/Mods/Deep Dungeon/Traps/gaze": "The hidden floor rune activates, and a dragon eye appears!",
     "Notifications/Mods/Deep Dungeon/Traps/malfunction": "The hidden floor rune activates, and nothing happens!",
 
     "Notifications/Mods/Deep Dungeon/saving_disabled": "You are unable to save in the Deep Dungeon!",

@@ -1,0 +1,33 @@
+{
+  "aldarian_danger_banner": {
+    "Location": "images/effects/aldarian_danger_banner.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 0,
+    "MarginBottom": 0,
+    "MarginTop": 0
+  },
+  "spr_trap_gaze": {
+    "Location": "images/effects/gaze",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 0,
+    "MarginRight": 0,
+    "MarginBottom": 0,
+    "MarginTop": 0,
+    "IsAnimated": true,
+    "IsUiItem": false
+  },
+  "spr_trap_meteor": {
+    "Location": "images/effects/meteor",
+    "OriginX": 256,
+    "OriginY": 256,
+    "MarginLeft": 0,
+    "MarginRight": 0,
+    "MarginBottom": 0,
+    "MarginTop": 0,
+    "IsAnimated": true,
+    "IsUiItem": false
+  }
+}
