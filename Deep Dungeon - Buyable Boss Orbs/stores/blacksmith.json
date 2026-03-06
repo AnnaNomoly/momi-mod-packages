@@ -14,6 +14,11 @@
             "item": "lava_caves_orb",
             "store": "blacksmith",
             "category": "spr_ui_store_category_icon_tide_caverns_orb"
+        },
+        {
+            "item": "ruins_orb",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_orb"
         }
     ],
     "categories": [
