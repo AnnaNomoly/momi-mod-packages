@@ -1,29 +1,34 @@
 {
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/20": "cleric_helmet",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/21": "cleric_chestpiece",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/22": "cleric_pants",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/23": "cleric_boots",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/24": "cleric_gloves",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/25": "dark_knight_helmet",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/26": "dark_knight_chestpiece",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/27": "dark_knight_pants",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/28": "dark_knight_boots",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/29": "dark_knight_gloves",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/30": "mage_helmet",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/31": "mage_chestpiece",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/32": "mage_pants",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/33": "mage_boots",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/34": "mage_gloves",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/35": "paladin_helmet",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/36": "paladin_chestpiece",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/37": "paladin_pants",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/38": "paladin_boots",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/39": "paladin_gloves",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/40": "rogue_helmet",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/41": "rogue_chestpiece",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/42": "rogue_pants",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/43": "rogue_boots",
-    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/44": "rogue_gloves",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/25": "cleric_helmet",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/26": "cleric_chestpiece",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/27": "cleric_pants",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/28": "cleric_boots",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/29": "cleric_gloves",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/30": "dark_knight_helmet",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/31": "dark_knight_chestpiece",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/32": "dark_knight_pants",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/33": "dark_knight_boots",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/34": "dark_knight_gloves",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/35": "mage_helmet",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/36": "mage_chestpiece",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/37": "mage_pants",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/38": "mage_boots",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/39": "mage_gloves",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/40": "paladin_helmet",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/41": "paladin_chestpiece",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/42": "paladin_pants",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/43": "paladin_boots",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/44": "paladin_gloves",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/45": "rogue_helmet",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/46": "rogue_chestpiece",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/47": "rogue_pants",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/48": "rogue_boots",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/49": "rogue_gloves",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/50": "oracle_helmet",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/51": "oracle_chestpiece",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/52": "oracle_pants",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/53": "oracle_boots",
+    "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order/54": "oracle_gloves",
     "ui/crafting/blacksmithing/categories/9/sub_categories/0/manual_order": [
         "copper_helmet",
         "copper_armor",
@@ -45,6 +50,11 @@
         "gold_ring",
         "gold_legplates",
         "gold_greaves",
+        "mistril_helmet",
+        "mistril_armor",
+        "mistril_ring",
+        "mistril_legplates",
+        "mistril_boots",
         "cleric_helmet",
         "cleric_chestpiece",
         "cleric_pants",
@@ -69,7 +79,12 @@
         "rogue_chestpiece",
         "rogue_pants",
         "rogue_boots",
-        "rogue_gloves"
+        "rogue_gloves",
+        "oracle_helmet",
+        "oracle_chestpiece",
+        "oracle_pants",
+        "oracle_boots",
+        "oracle_gloves"
     ],
     "ui/crafting/blacksmithing/categories/9/sub_categories/0": {
         "manual_order": [
@@ -93,6 +108,11 @@
             "gold_ring",
             "gold_legplates",
             "gold_greaves",
+            "mistril_helmet",
+            "mistril_armor",
+            "mistril_ring",
+            "mistril_legplates",
+            "mistril_boots",
             "cleric_helmet",
             "cleric_chestpiece",
             "cleric_pants",
@@ -117,7 +137,12 @@
             "rogue_chestpiece",
             "rogue_pants",
             "rogue_boots",
-            "rogue_gloves"
+            "rogue_gloves",
+            "oracle_helmet",
+            "oracle_chestpiece",
+            "oracle_pants",
+            "oracle_boots",
+            "oracle_gloves"
         ]
     },
     "ui/crafting/blacksmithing/categories/9/sub_categories": [
@@ -145,6 +170,11 @@
                 "gold_ring",
                 "gold_legplates",
                 "gold_greaves",
+                "mistril_helmet",
+                "mistril_armor",
+                "mistril_ring",
+                "mistril_legplates",
+                "mistril_boots",
                 "cleric_helmet",
                 "cleric_chestpiece",
                 "cleric_pants",
@@ -169,7 +199,12 @@
                 "rogue_chestpiece",
                 "rogue_pants",
                 "rogue_boots",
-                "rogue_gloves"
+                "rogue_gloves",
+                "oracle_helmet",
+                "oracle_chestpiece",
+                "oracle_pants",
+                "oracle_boots",
+                "oracle_gloves"
             ]
         }
     ],
@@ -199,6 +234,11 @@
                     "gold_ring",
                     "gold_legplates",
                     "gold_greaves",
+                    "mistril_helmet",
+                    "mistril_armor",
+                    "mistril_ring",
+                    "mistril_legplates",
+                    "mistril_boots",
                     "cleric_helmet",
                     "cleric_chestpiece",
                     "cleric_pants",
@@ -223,7 +263,12 @@
                     "rogue_chestpiece",
                     "rogue_pants",
                     "rogue_boots",
-                    "rogue_gloves"
+                    "rogue_gloves",
+                    "oracle_helmet",
+                    "oracle_chestpiece",
+                    "oracle_pants",
+                    "oracle_boots",
+                    "oracle_gloves"
                 ]
             }
         ]
@@ -401,6 +446,11 @@
                         "gold_ring",
                         "gold_legplates",
                         "gold_greaves",
+                        "mistril_helmet",
+                        "mistril_armor",
+                        "mistril_ring",
+                        "mistril_legplates",
+                        "mistril_boots",
                         "cleric_helmet",
                         "cleric_chestpiece",
                         "cleric_pants",
@@ -425,7 +475,12 @@
                         "rogue_chestpiece",
                         "rogue_pants",
                         "rogue_boots",
-                        "rogue_gloves"
+                        "rogue_gloves",
+                        "oracle_helmet",
+                        "oracle_chestpiece",
+                        "oracle_pants",
+                        "oracle_boots",
+                        "oracle_gloves"
                     ]
                 }
             ]
@@ -605,6 +660,11 @@
                             "gold_ring",
                             "gold_legplates",
                             "gold_greaves",
+                            "mistril_helmet",
+                            "mistril_armor",
+                            "mistril_ring",
+                            "mistril_legplates",
+                            "mistril_boots",
                             "cleric_helmet",
                             "cleric_chestpiece",
                             "cleric_pants",
@@ -629,7 +689,12 @@
                             "rogue_chestpiece",
                             "rogue_pants",
                             "rogue_boots",
-                            "rogue_gloves"
+                            "rogue_gloves",
+                            "oracle_helmet",
+                            "oracle_chestpiece",
+                            "oracle_pants",
+                            "oracle_boots",
+                            "oracle_gloves"
                         ]
                     }
                 ]
@@ -811,6 +876,11 @@
                                 "gold_ring",
                                 "gold_legplates",
                                 "gold_greaves",
+                                "mistril_helmet",
+                                "mistril_armor",
+                                "mistril_ring",
+                                "mistril_legplates",
+                                "mistril_boots",
                                 "cleric_helmet",
                                 "cleric_chestpiece",
                                 "cleric_pants",
@@ -835,7 +905,12 @@
                                 "rogue_chestpiece",
                                 "rogue_pants",
                                 "rogue_boots",
-                                "rogue_gloves"
+                                "rogue_gloves",
+                                "oracle_helmet",
+                                "oracle_chestpiece",
+                                "oracle_pants",
+                                "oracle_boots",
+                                "oracle_gloves"
                             ]
                         }
                     ]
@@ -1019,6 +1094,11 @@
                                     "gold_ring",
                                     "gold_legplates",
                                     "gold_greaves",
+                                    "mistril_helmet",
+                                    "mistril_armor",
+                                    "mistril_ring",
+                                    "mistril_legplates",
+                                    "mistril_boots",
                                     "cleric_helmet",
                                     "cleric_chestpiece",
                                     "cleric_pants",
@@ -1043,7 +1123,12 @@
                                     "rogue_chestpiece",
                                     "rogue_pants",
                                     "rogue_boots",
-                                    "rogue_gloves"
+                                    "rogue_gloves",
+                                    "oracle_helmet",
+                                    "oracle_chestpiece",
+                                    "oracle_pants",
+                                    "oracle_boots",
+                                    "oracle_gloves"
                                 ]
                             }
                         ]

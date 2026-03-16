@@ -1,0 +1,74 @@
+{
+    "spr_ui_item_equipment_oracle_helmet": {
+        "Location": "images/armor/oracle/helmet/spr_ui_item_equipment_oracle_helmet.png",
+        "OutlineLocation": "images/armor/oracle/helmet/spr_ui_item_equipment_oracle_helmet_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_oracle_chestpiece": {
+        "Location": "images/armor/oracle/chestpiece/spr_ui_item_equipment_oracle_chestpiece.png",
+        "OutlineLocation": "images/armor/oracle/chestpiece/spr_ui_item_equipment_oracle_chestpiece_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_oracle_pants": {
+        "Location": "images/armor/oracle/pants/spr_ui_item_equipment_oracle_pants.png",
+        "OutlineLocation": "images/armor/oracle/pants/spr_ui_item_equipment_oracle_pants_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_oracle_boots": {
+        "Location": "images/armor/oracle/boots/spr_ui_item_equipment_oracle_boots.png",
+        "OutlineLocation": "images/armor/oracle/boots/spr_ui_item_equipment_oracle_boots_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_oracle_gloves": {
+        "Location": "images/armor/oracle/gloves/spr_ui_item_equipment_oracle_gloves.png",
+        "OutlineLocation": "images/armor/oracle/gloves/spr_ui_item_equipment_oracle_gloves_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_equipment_oracle_bracelet": {
+        "Location": "images/armor/oracle/bracelet/spr_ui_item_equipment_oracle_bracelet.png",
+        "OutlineLocation": "images/armor/oracle/bracelet/spr_ui_item_equipment_oracle_bracelet_outline.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    }
+}
