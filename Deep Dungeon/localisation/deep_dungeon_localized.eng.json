@@ -73,7 +73,7 @@
     "Items/Mods/Deep Dungeon/Sigils/serenity/name": "Sigil of Serenity",
     "Items/Mods/Deep Dungeon/Sigils/serenity/description": "Meditate, warding off all unnatural afflictions. All floor enchantments are dispelled.",
     "Items/Mods/Deep Dungeon/Sigils/safety/name": "Sigil of Safety",
-    "Items/Mods/Deep Dungeon/Sigils/safety/description": "Focus, observing your surroundings. All floor traps are disabled.",
+    "Items/Mods/Deep Dungeon/Sigils/safety/description": "Pray to the priestess for safe passage. All floor traps are disabled.",
     "Items/Mods/Deep Dungeon/Sigils/silence/name": "Sigil of Silence",
     "Items/Mods/Deep Dungeon/Sigils/silence/description": "You hear nothing but silence. The next dungeon floor will have less monsters.",
     "Items/Mods/Deep Dungeon/Sigils/fortune/name": "Sigil of Fortune",
@@ -86,6 +86,10 @@
     "Items/Mods/Deep Dungeon/Sigils/concealment/description": "Your body becomes ethereal, allowing you to remain undetected by monsters.",
     "Items/Mods/Deep Dungeon/Sigils/temptation/name": "Sigil of Temptation",
     "Items/Mods/Deep Dungeon/Sigils/temptation/description": "Give in, and listen to the faint whispers that call out to you.",
+    "Items/Mods/Deep Dungeon/Sigils/sight/name": "Sigil of Sight",
+    "Items/Mods/Deep Dungeon/Sigils/sight/description": "Focus, observing your surroundings. All floor traps are revealed.",
+    "Items/Mods/Deep Dungeon/Sigils/intuition/name": "Sigil of Intuition",
+    "Items/Mods/Deep Dungeon/Sigils/intuition/description": "Open your third eye, revealing secrets hidden in plain sight. Treasure may unveil itself.",
 
     "Items/Mods/Deep Dungeon/Salves/sustaining_potion/name": "Sustaining Potion",
     "Items/Mods/Deep Dungeon/Salves/sustaining_potion/description": "Restores health and stamina slowly over time.",
@@ -272,6 +276,7 @@
     "Notifications/Mods/Deep Dungeon/Traps/luring": "The hidden floor rune activates, summoning monsters nearby!",
     "Notifications/Mods/Deep Dungeon/Traps/meteor": "The hidden floor rune activates, and a meteor begins to fall!",
     "Notifications/Mods/Deep Dungeon/Traps/gaze": "The hidden floor rune activates, and a dragon eye appears!",
+    "Notifications/Mods/Deep Dungeon/Traps/void": "The hidden floor rune activates, and a void vortex appears!",
     "Notifications/Mods/Deep Dungeon/Traps/malfunction": "The hidden floor rune activates, and nothing happens!",
 
     "Notifications/Mods/Deep Dungeon/saving_disabled": "You are unable to save in the Deep Dungeon!",

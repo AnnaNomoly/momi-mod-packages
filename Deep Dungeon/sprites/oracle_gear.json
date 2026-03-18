@@ -58,17 +58,5 @@
         "MarginTop": 0,
         "IsAnimated": false,
         "IsUiItem": true
-    },
-    "spr_ui_item_equipment_oracle_bracelet": {
-        "Location": "images/armor/oracle/bracelet/spr_ui_item_equipment_oracle_bracelet.png",
-        "OutlineLocation": "images/armor/oracle/bracelet/spr_ui_item_equipment_oracle_bracelet_outline.png",
-        "OriginX": 9,
-        "OriginY": 9,
-        "MarginLeft": 0,
-        "MarginRight": 18,
-        "MarginBottom": 18,
-        "MarginTop": 0,
-        "IsAnimated": false,
-        "IsUiItem": true
     }
 }
