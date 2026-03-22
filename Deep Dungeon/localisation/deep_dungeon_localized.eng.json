@@ -91,6 +91,17 @@
     "Items/Mods/Deep Dungeon/Sigils/intuition/name": "Sigil of Intuition",
     "Items/Mods/Deep Dungeon/Sigils/intuition/description": "Open your third eye, revealing secrets hidden in plain sight. Treasure may unveil itself.",
 
+    "Items/Mods/Deep Dungeon/Greater Sigils/benediction/name": "Greater Sigil of Benediction",
+    "Items/Mods/Deep Dungeon/Greater Sigils/benediction/description": "Become enveloped in a golden light. Fully restores HP and all floor enchantments are dispelled.",
+    "Items/Mods/Deep Dungeon/Greater Sigils/astral_flow/name": "Greater Sigil of Astral Flow",
+    "Items/Mods/Deep Dungeon/Greater Sigils/astral_flow/description": "Call upon the divine to smite your foes. Destroys all monsters on the current dungeon floor.",
+    "Items/Mods/Deep Dungeon/Greater Sigils/chain_spell/name": "Greater Sigil of Chain Spell",
+    "Items/Mods/Deep Dungeon/Greater Sigils/chain_spell/description": "Pull latent mana from the air itself. All spells cost 0 mana on the current dungeon floor.",
+    "Items/Mods/Deep Dungeon/Greater Sigils/spirit_surge/name": "Greater Sigil of Spirit Surge",
+    "Items/Mods/Deep Dungeon/Greater Sigils/spirit_surge/description": "Overcharge your inner spirit. Fully restores stamina, prevents stamina loss, and dramatically increases movement speed on the current dungeon floor.",
+    "Items/Mods/Deep Dungeon/Greater Sigils/meikyo_shisui/name": "Greater Sigil of Meikyo Shisui",
+    "Items/Mods/Deep Dungeon/Greater Sigils/meikyo_shisui/description": "Embrace tranquility. Dramatically increases the effectiveness of all Mistpool equipment on the current dungeon floor.",
+
     "Items/Mods/Deep Dungeon/Salves/sustaining_potion/name": "Sustaining Potion",
     "Items/Mods/Deep Dungeon/Salves/sustaining_potion/description": "Restores health and stamina slowly over time.",
     "Items/Mods/Deep Dungeon/Salves/health_salve/name": "Health Salve",
@@ -281,6 +292,7 @@
 
     "Notifications/Mods/Deep Dungeon/saving_disabled": "You are unable to save in the Deep Dungeon!",
     "Notifications/Mods/Deep Dungeon/sigil_limit": "That sigil is already active!",
+    "Notifications/Mods/Deep Dungeon/greater_sigil_limit": "A greater sigil has already been used!",
     "Notifications/Mods/Deep Dungeon/salve_limit": "You have already used that type of salve on the current floor!",
     "Notifications/Mods/Deep Dungeon/item_penalty": "You are unable to use that item due to the Item Penalty floor enchantment!",
     "Notifications/Mods/Deep Dungeon/item_prohibited": "That item is prohibited in the Deep Dungeon!",
@@ -290,6 +302,7 @@
     "Notifications/Mods/Deep Dungeon/lift_key_restricted": "You are only allowed to use a lift key at the mines entrance!",
     "Notifications/Mods/Deep Dungeon/orb_restricted": "You are only allowed to use boss battle orbs at the mines entrance!",
     "Notifications/Mods/Deep Dungeon/sigil_restricted": "You are unable to use sigils during a boss battle!",
+    "Notifications/Mods/Deep Dungeon/greater_sigil_restricted": "You are unable to use greater sigils during a boss battle!",
     "Notifications/Mods/Deep Dungeon/amnesia": "You are unable to cast spells due to the Amnesia floor enchantment!",
     "Notifications/Mods/Deep Dungeon/boss_spell_restriction": "You are unable to cast spells during boss battles!",
     "Notifications/Mods/Deep Dungeon/predict": "You have altered the enchantments on the next floor...",
@@ -299,6 +312,10 @@
     "Notifications/Mods/Deep Dungeon/Prophecy/protection": "The prophecy of protection has come true.",
     "Notifications/Mods/Deep Dungeon/Prophecy/concealment": "The prophecy of concealment has come true.",
     "Notifications/Mods/Deep Dungeon/Prophecy/safety": "The prophecy of safety has come true.",
+
+    "Notifications/Mods/Deep Dungeon/Treasure Spot/not_present": "The hidden treasure is not present on this floor.",
+    "Notifications/Mods/Deep Dungeon/Treasure Spot/spawned": "The hidden treasure is somewhere on this floor!",
+    "Notifications/Mods/Deep Dungeon/Treasure Spot/found": "You found the hidden treasure!",
 
     "Tutorials/Mods/Deep Dungeon/title": "Tutorial: Deep Dungeon",
     "Tutorials/Mods/Deep Dungeon/steps/0/text": "This mod makes significant changes to the dungeon and overall gameplay experience inside of it.",

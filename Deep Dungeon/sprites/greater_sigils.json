@@ -1,0 +1,117 @@
+{
+  "spr_ui_item_greater_sigil_of_benediction": {
+    "Location": "images/greater_sigils/benediction/spr_ui_item_greater_sigil_of_benediction.png",
+    "OutlineLocation": "images/greater_sigils/spr_ui_item_greater_sigil_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_greater_sigil_of_benediction_disabled": {
+    "Location": "images/greater_sigils/benediction/spr_ui_item_greater_sigil_of_benediction_disabled.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_greater_sigil_of_astral_flow": {
+    "Location": "images/greater_sigils/astral_flow/spr_ui_item_greater_sigil_of_astral_flow.png",
+    "OutlineLocation": "images/greater_sigils/spr_ui_item_greater_sigil_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_greater_sigil_of_astral_flow_disabled": {
+    "Location": "images/greater_sigils/astral_flow/spr_ui_item_greater_sigil_of_astral_flow_disabled.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_greater_sigil_of_chain_spell": {
+    "Location": "images/greater_sigils/chain_spell/spr_ui_item_greater_sigil_of_chain_spell.png",
+    "OutlineLocation": "images/greater_sigils/spr_ui_item_greater_sigil_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_greater_sigil_of_chain_spell_disabled": {
+    "Location": "images/greater_sigils/chain_spell/spr_ui_item_greater_sigil_of_chain_spell_disabled.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_greater_sigil_of_spirit_surge": {
+    "Location": "images/greater_sigils/spirit_surge/spr_ui_item_greater_sigil_of_spirit_surge.png",
+    "OutlineLocation": "images/greater_sigils/spr_ui_item_greater_sigil_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_greater_sigil_of_spirit_surge_disabled": {
+    "Location": "images/greater_sigils/spirit_surge/spr_ui_item_greater_sigil_of_spirit_surge_disabled.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_greater_sigil_of_meikyo_shisui": {
+    "Location": "images/greater_sigils/meikyo_shisui/spr_ui_item_greater_sigil_of_meikyo_shisui.png",
+    "OutlineLocation": "images/greater_sigils/spr_ui_item_greater_sigil_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_greater_sigil_of_meikyo_shisui_disabled": {
+    "Location": "images/greater_sigils/meikyo_shisui/spr_ui_item_greater_sigil_of_meikyo_shisui_disabled.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  }
+}
