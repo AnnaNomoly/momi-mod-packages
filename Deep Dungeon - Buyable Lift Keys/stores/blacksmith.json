@@ -1,22 +1,102 @@
 {
     "items": [
         {
-            "item": "tide_caverns_key",
+            "item": "upper_mines_key_f5",
             "store": "blacksmith",
             "category": "spr_ui_store_category_icon_tide_caverns_key"
         },
         {
-            "item": "deep_earth_key",
+            "item": "upper_mines_key_f10",
             "store": "blacksmith",
             "category": "spr_ui_store_category_icon_tide_caverns_key"
         },
         {
-            "item": "lava_caves_key",
+            "item": "upper_mines_key_f15",
             "store": "blacksmith",
             "category": "spr_ui_store_category_icon_tide_caverns_key"
         },
         {
-            "item": "ruins_key",
+            "item": "tide_caverns_key_f20",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_key"
+        },
+        {
+            "item": "tide_caverns_key_f25",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_key"
+        },
+        {
+            "item": "tide_caverns_key_f30",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_key"
+        },
+        {
+            "item": "tide_caverns_key_f35",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_key"
+        },
+        {
+            "item": "deep_earth_key_f40",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_key"
+        },
+        {
+            "item": "deep_earth_key_f45",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_key"
+        },
+        {
+            "item": "deep_earth_key_f50",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_key"
+        },
+        {
+            "item": "deep_earth_key_f55",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_key"
+        },
+        {
+            "item": "lava_caves_key_f60",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_key"
+        },
+        {
+            "item": "lava_caves_key_f65",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_key"
+        },
+        {
+            "item": "lava_caves_key_f70",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_key"
+        },
+        {
+            "item": "lava_caves_key_f75",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_key"
+        },
+        {
+            "item": "ruins_key_f80",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_key"
+        },
+        {
+            "item": "ruins_key_f85",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_key"
+        },
+        {
+            "item": "ruins_key_f90",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_key"
+        },
+        {
+            "item": "ruins_key_f95",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_tide_caverns_key"
+        },
+        {
+            "item": "ruins_key_f100",
             "store": "blacksmith",
             "category": "spr_ui_store_category_icon_tide_caverns_key"
         }
