@@ -285,7 +285,7 @@
     "Items/Mods/Deep Dungeon/Classes/Oracle/set_bonuses/condemn": "Condemn: Changes the Growth spell to Condemn.",
     "Items/Mods/Deep Dungeon/Classes/Oracle/set_bonuses/divination": "Divination: Significantly increases the likelihood of floor enchantments occurring.",
     "Items/Mods/Deep Dungeon/Classes/Oracle/set_bonuses/blessed": "Blessed: Your maximum HP is increased by 10 for each predicted floor enchantment and condemned offering. This effect stacks.",
-    "Items/Mods/Deep Dungeon/Classes/Oracle/set_bonuses/prophecy": "Prophecy: You have a chance the begin next floor with a random Sigil effect.",
+    "Items/Mods/Deep Dungeon/Classes/Oracle/set_bonuses/prophecy": "Prophecy: After casting both Predict and Condemn you will begin next floor with a random Sigil effect.",
 
     "Spells/Mods/Deep Dungeon/Siphon Life/name": "Siphon Life",
     "Spells/Mods/Deep Dungeon/Siphon Life/description": "Drains health from all monsters on the current dungeon floor and temporarily increases your max HP. ",
