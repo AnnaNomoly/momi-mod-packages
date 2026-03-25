@@ -124,6 +124,31 @@
             "item": "rogue_gloves",
             "store": "blacksmith",
             "category": "spr_ui_store_category_icon_rogue"
+        },
+        {
+            "item": "oracle_helmet",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_oracle"
+        },
+        {
+            "item": "oracle_chestpiece",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_oracle"
+        },
+        {
+            "item": "oracle_pants",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_oracle"
+        },
+        {
+            "item": "oracle_boots",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_oracle"
+        },
+        {
+            "item": "oracle_gloves",
+            "store": "blacksmith",
+            "category": "spr_ui_store_category_icon_oracle"
         }
     ],
     "categories": [
@@ -151,6 +176,11 @@
             "store": "blacksmith",
             "icon_name": "spr_ui_store_category_icon_rogue",
             "sprite": "images/categories/spr_ui_store_category_icon_rogue.png"
+        },
+        {
+            "store": "blacksmith",
+            "icon_name": "spr_ui_store_category_icon_oracle",
+            "sprite": "images/categories/spr_ui_store_category_icon_oracle.png"
         }
     ]
 }
