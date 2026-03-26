@@ -111,6 +111,11 @@
     "Items/Mods/Deep Dungeon/Salves/mana_salve/name": "Mana Salve",
     "Items/Mods/Deep Dungeon/Salves/mana_salve/description": "Restores <VALUE> mana.",
 
+    "Items/Mods/Deep Dungeon/Upgrades/adventurers_rucksack_worn/name": "Worn Adventurer's Rucksack",
+    "Items/Mods/Deep Dungeon/Upgrades/adventurers_rucksack_worn/description": "A staple piece of equipment for every adventurer. It's seen some use. Increases your maximum carrying capacity to 20 items!",
+    "Items/Mods/Deep Dungeon/Upgrades/adventurers_rucksack_new/name": "Adventurer's Rucksack",
+    "Items/Mods/Deep Dungeon/Upgrades/adventurers_rucksack_new/description": "A staple piece of equipment for every adventurer. It's brand new. Increases your maximum carrying capacity to 30 items!",
+
     "Items/Mods/Deep Dungeon/Keys/upper_mines_key/F5/name": "Upper Mines Key: F5",
     "Items/Mods/Deep Dungeon/Keys/upper_mines_key/F5/description": "A single use key that temporarily unlocks Floor 5 on the lift in the mines entrance.",
     "Items/Mods/Deep Dungeon/Keys/upper_mines_key/F10/name": "Upper Mines Key: F10",
