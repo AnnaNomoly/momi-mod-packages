@@ -1,0 +1,36 @@
+{
+  "spr_portrait_seridia_flashback_priestess_closed_eyes": {
+    "Location": "images/portraits/priestess/spr_portrait_seridia_flashback_priestess_closed_eyes",
+    "IsAnimated": true
+  },
+
+  "spr_portrait_seridia_flashback_priestess_eyes_shine": {
+    "Location": "images/portraits/priestess/spr_portrait_seridia_flashback_priestess_eyes_shine",
+    "IsAnimated": true
+  },
+
+  "spr_portrait_seridia_flashback_priestess_happy": {
+    "Location": "images/portraits/priestess/spr_portrait_seridia_flashback_priestess_happy",
+    "IsAnimated": true
+  },
+
+  "spr_portrait_seridia_flashback_priestess_hurt": {
+    "Location": "images/portraits/priestess/spr_portrait_seridia_flashback_priestess_hurt",
+    "IsAnimated": true
+  },
+
+  "spr_portrait_seridia_flashback_priestess_neutral": {
+    "Location": "images/portraits/priestess/spr_portrait_seridia_flashback_priestess_neutral",
+    "IsAnimated": true
+  },
+
+  "spr_portrait_seridia_flashback_priestess_sad": {
+    "Location": "images/portraits/priestess/spr_portrait_seridia_flashback_priestess_sad",
+    "IsAnimated": true
+  },
+
+  "spr_portrait_seridia_flashback_priestess_think": {
+    "Location": "images/portraits/priestess/spr_portrait_seridia_flashback_priestess_think",
+    "IsAnimated": true
+  }
+}
