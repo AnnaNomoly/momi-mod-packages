@@ -730,5 +730,196 @@
         ],
         "can_talk_after": true,
         "priority": "Basement"
-    }
+    },
+    "Conversations/Mods/Deep Dungeon/teleport_to_mines": {
+        "kind": "Normal",
+        "requires": [
+            {
+                "WorldFactCheck": {
+                    "name": [
+                        {
+                            "Resolved": {
+                                "type": "string",
+                                "content": "Conversations/Mods/Deep Dungeon/teleport_to_mines"
+                            }
+                        }
+                    ],
+                    "value": [
+                        {
+                            "Resolved": {
+                                "type": "undefined"
+                            }
+                        }
+                    ],
+                    "comparator": "Equal",
+                    "parser": null,
+                    "subtract_from": null,
+                    "subtract": null,
+                    "priority_value": 0,
+                    "numeric_must_be_positive": false
+                }
+            },
+            {
+                "WorldFactCheck": {
+                    "name": [
+                        {
+                            "Resolved": {
+                                "type": "string",
+                                "content": "npc"
+                            }
+                        }
+                    ],
+                    "value": [
+                        {
+                            "Resolved": {
+                                "type": "string",
+                                "content": "caldarus"
+                            }
+                        }
+                    ],
+                    "comparator": "Equal",
+                    "parser": null,
+                    "subtract_from": null,
+                    "subtract": null,
+                    "priority_value": 1,
+                    "numeric_must_be_positive": false
+                }
+            },
+            {
+                "WorldFactCheck": {
+                    "name": [
+                        {
+                            "Resolved": {
+                                "type": "string",
+                                "content": "caldarus_is_human"
+                            }
+                        }
+                    ],
+                    "value": [
+                        {
+                            "Resolved": {
+                                "type": "float",
+                                "content": 0.0
+                            }
+                        }
+                    ],
+                    "comparator": "Equal",
+                    "parser": null,
+                    "subtract_from": null,
+                    "subtract": null,
+                    "priority_value": 2,
+                    "numeric_must_be_positive": false
+                }
+            },
+            {
+              "WorldFactCheck": {
+                "name": [
+                  {
+                    "Resolved": {
+                      "type": "string",
+                      "content": "quest_unlocking_the_mines_pt_2_complete"
+                    }
+                  }
+                ],
+                "value": [
+                  {
+                    "Resolved": {
+                      "type": "float",
+                      "content": 1.0
+                    }
+                  }
+                ],
+                "comparator": "Equal",
+                "parser": null,
+                "subtract_from": null,
+                "subtract": null,
+                "priority_value": 3,
+                "numeric_must_be_positive": false
+              }
+            }
+        ],
+        "writes": [],
+        "actions": [],
+        "lines": {
+            "1": {
+                "local": "Conversations/Mods/Deep Dungeon/teleport_to_mines/1",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "2": {
+                "local": "Conversations/Mods/Deep Dungeon/teleport_to_mines/2",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "init": {
+                "local": "Conversations/Mods/Deep Dungeon/teleport_to_mines/init",
+                "writes": [
+                    {
+                        "name": [
+                            {
+                                "Resolved": {
+                                    "type": "string",
+                                    "content": "Conversations/Mods/Deep Dungeon/teleport_to_mines"
+                                }
+                            }
+                        ],
+                        "value": {
+                            "type": "float",
+                            "content": 1.0
+                        },
+                        "expires": 86400
+                    }
+                ],
+                "actions": [
+                    {
+                        "type": "speaker",
+                        "content": "caldarus"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "prompts",
+                    "content": [
+                        {
+                            "local": "Conversations/Mods/Deep Dungeon/teleport_to_mines/init/prompts/0",
+                            "next_lines": [
+                                {
+                                    "line_id": "1",
+                                    "requirements": []
+                                }
+                            ]
+                        },
+                        {
+                            "local": "Conversations/Mods/Deep Dungeon/teleport_to_mines/init/prompts/1",
+                            "next_lines": [
+                                {
+                                    "line_id": "2",
+                                    "requirements": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        "multiple_speakers_in_conversation": false,
+        "speakers_in_conversation": [
+            "caldarus"
+        ],
+        "can_talk_after": true,
+        "priority": "Max"
+    },
 }

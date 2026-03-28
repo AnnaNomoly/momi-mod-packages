@@ -59,7 +59,11 @@
     "Conversations/Mods/Deep Dungeon/sigil_parchment_exchange/cancelled": "On second thought, you walk away.",
     "Conversations/Mods/Deep Dungeon/sigil_parchment_exchange/insufficient": "You lack the required item to ^exchange^.",
     "Conversations/Mods/Deep Dungeon/sigil_parchment_exchange/unavailable": "You are unable to ^exchange^ items at this time.",
-    
+
+    "Conversations/Mods/Deep Dungeon/teleport_to_mines/init": "[Ari], though my $magic$ is faint, I am able to =teleport= you to the mines entrance if you desire.",
+    "Conversations/Mods/Deep Dungeon/teleport_to_mines/init/prompts/0": "Sure!",
+    "Conversations/Mods/Deep Dungeon/teleport_to_mines/init/prompts/1": "I'll pass.",
+
     "Items/Mods/Deep Dungeon/Sigils/parchment/name": "Sigil Parchment",
     "Items/Mods/Deep Dungeon/Sigils/parchment/description": "A magical scroll ready to be imbued with a sigil.",
     "Items/Mods/Deep Dungeon/Sigils/rage/name": "Sigil of Rage",
