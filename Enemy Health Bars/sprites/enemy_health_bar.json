@@ -1,0 +1,11 @@
+{
+  "enemy_health_bar": {
+    "Location": "images/enemy_health_bar.png",
+    "OriginX": 0,
+    "OriginY": 0,
+    "MarginLeft": 0,
+    "MarginRight": 0,
+    "MarginBottom": 0,
+    "MarginTop": 0
+  }
+}
