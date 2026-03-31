@@ -922,4 +922,96 @@
         "can_talk_after": true,
         "priority": "Max"
     },
+    "Conversations/Mods/Deep Dungeon/teleport_to_mines_or_deep_woods": {
+        "kind": "GameplayTriggered",
+        "requires": [],
+        "writes": [],
+        "actions": [],
+        "lines": {
+            "1": {
+                "local": "Conversations/Mods/Deep Dungeon/teleport_to_mines_or_deep_woods/1",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "2": {
+                "local": "Conversations/Mods/Deep Dungeon/teleport_to_mines_or_deep_woods/2",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "3": {
+                "local": "Conversations/Mods/Deep Dungeon/teleport_to_mines_or_deep_woods/3",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "init": {
+                "local": "Conversations/Mods/Deep Dungeon/teleport_to_mines_or_deep_woods/init",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "speaker",
+                        "content": "caldarus"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "prompts",
+                    "content": [
+                        {
+                            "local": "Conversations/Mods/Deep Dungeon/teleport_to_mines_or_deep_woods/init/prompts/0",
+                            "next_lines": [
+                                {
+                                    "line_id": "1",
+                                    "requirements": []
+                                }
+                            ]
+                        },
+                        {
+                            "local": "Conversations/Mods/Deep Dungeon/teleport_to_mines_or_deep_woods/init/prompts/1",
+                            "next_lines": [
+                                {
+                                    "line_id": "2",
+                                    "requirements": []
+                                }
+                            ]
+                        },
+                        {
+                            "local": "Conversations/Mods/Deep Dungeon/teleport_to_mines_or_deep_woods/init/prompts/2",
+                            "next_lines": [
+                                {
+                                    "line_id": "3",
+                                    "requirements": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        "multiple_speakers_in_conversation": false,
+        "speakers_in_conversation": [
+            "caldarus"
+        ],
+        "can_talk_after": true,
+        "priority": "Basement"
+    }
 }
