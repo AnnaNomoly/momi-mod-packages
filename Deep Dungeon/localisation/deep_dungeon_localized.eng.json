@@ -272,9 +272,9 @@
     "Items/Mods/Deep Dungeon/Armor/oracle/description": "A legendary piece of equipment that once belonged to an Oracle.",
 
     "Items/Mods/Deep Dungeon/set_bonuses/equipped": "Equipped: ",
-    "Items/Mods/Deep Dungeon/Classes/Cleric/set_bonuses/auto_regen/1": "Auto Regen I: Recover 1 HP every minute in the dungeon.",
-    "Items/Mods/Deep Dungeon/Classes/Cleric/set_bonuses/auto_regen/2": "Auto Regen II: Recover 2 HP every minute in the dungeon.",
-    "Items/Mods/Deep Dungeon/Classes/Cleric/set_bonuses/auto_regen/3": "Auto Regen III: Recover 3 HP every minute in the dungeon.",
+    "Items/Mods/Deep Dungeon/Classes/Cleric/set_bonuses/auto_regen/1": "Auto Regen I: Recover 1 HP every three minutes in the dungeon.",
+    "Items/Mods/Deep Dungeon/Classes/Cleric/set_bonuses/auto_regen/2": "Auto Regen II: Recover 2 HP every three minutes in the dungeon.",
+    "Items/Mods/Deep Dungeon/Classes/Cleric/set_bonuses/auto_regen/3": "Auto Regen III: Recover 3 HP every three minutes in the dungeon.",
     "Items/Mods/Deep Dungeon/Classes/Cleric/set_bonuses/divine_seal": "Divine Seal: Restoration grants the Fairy status and removes all Floor Enchantments.",
     "Items/Mods/Deep Dungeon/Classes/Cleric/set_bonuses/afflatus_misery": "Afflatus Misery: Damage you take pools. Your attacks have a chance to consume the pooled amount as bonus damage.",
     "Items/Mods/Deep Dungeon/Classes/Dark Knight/set_bonuses/drain/1": "Drain I: Your attacks have a chance to heal you for 3% of your max HP.",
