@@ -42,7 +42,7 @@
     "Conversations/Mods/Deep Dungeon/Offerings/Condemn/outbreak": "=Outbreak=: A virulent =contagion= is spreading on the next floor.",
     "Conversations/Mods/Deep Dungeon/Offerings/Condemn/spirit_link": "=Spirit Link=: The fate of all monsters is =intertwined= on the next floor.",
     "Conversations/Mods/Deep Dungeon/Offerings/Condemn/spikes": "=Spikes=: Monsters are covered in =thorns= on the next floor.",
-    "Conversations/Mods/Deep Dungeon/Offerings/Condemn/reflect": "$Reflect$: A magical ward will $deflects some damage$ on the next floor.",
+    "Conversations/Mods/Deep Dungeon/Offerings/Condemn/reflect": "$Reflect$: A magical ward will $deflect$ some damage on the next floor.",
 
     "Conversations/Mods/Deep Dungeon/Boss Battles/tide_caverns_orb/init": "^Boss Battle^: #Those Who Throw Stones#\n$Victory Condition$: Defeat all enemies. Sigils are disabled.\n=Defeat Condition=: Death or fleeing the room.",
     "Conversations/Mods/Deep Dungeon/Boss Battles/deep_earth_orb/init": "^Boss Battle^: #Simple Geometry#\n$Victory Condition$: Defeat all enemies. Sigils are disabled.\n=Defeat Condition=: Death or fleeing the room.",
