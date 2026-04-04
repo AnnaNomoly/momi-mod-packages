@@ -11,7 +11,7 @@
   "spr_trap_gaze": {
     "Location": "images/effects/gaze",
     "OriginX": 16,
-    "OriginY": 16,
+    "OriginY": 34,
     "MarginLeft": 0,
     "MarginRight": 0,
     "MarginBottom": 0,
@@ -53,14 +53,14 @@
     "IsUiItem": false
   },
   "spr_treasure_spot": {
-    "Location": "images/effects/treasure_spot.png",
-    "OriginX": 25,
-    "OriginY": 25,
+    "Location": "images/effects/treasure_spot",
+    "OriginX": 8,
+    "OriginY": 8,
     "MarginLeft": 0,
     "MarginRight": 0,
     "MarginBottom": 0,
     "MarginTop": 0,
-    "IsAnimated": false,
+    "IsAnimated": true,
     "IsUiItem": false
   }
 }
