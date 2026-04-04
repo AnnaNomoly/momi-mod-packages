@@ -19,6 +19,17 @@
     "IsAnimated": true,
     "IsUiItem": false
   },
+  "spr_trap_gaze_vanish": {
+    "Location": "images/effects/gaze_vanish",
+    "OriginX": 16,
+    "OriginY": 34,
+    "MarginLeft": 0,
+    "MarginRight": 0,
+    "MarginBottom": 0,
+    "MarginTop": 0,
+    "IsAnimated": true,
+    "IsUiItem": false
+  },
   "spr_trap_meteor": {
     "Location": "images/effects/meteor",
     "OriginX": 256,
