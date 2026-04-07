@@ -1,0 +1,482 @@
+{
+  "spr_fish_silhouette_giant_0_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_giant/spr_fish_silhouette_giant_0_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_giant_6_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_giant/spr_fish_silhouette_giant_6_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_giant_11_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_giant/spr_fish_silhouette_giant_11_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_giant_17_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_giant/spr_fish_silhouette_giant_17_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_giant_22_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_giant/spr_fish_silhouette_giant_22_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_giant_28_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_giant/spr_fish_silhouette_giant_28_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_giant_33_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_giant/spr_fish_silhouette_giant_33_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_giant_39_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_giant/spr_fish_silhouette_giant_39_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_giant_45_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_giant/spr_fish_silhouette_giant_45_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_giant_0_swim_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_giant/spr_fish_silhouette_giant_0_swim",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": true
+  },
+  "spr_fish_silhouette_giant_22_swim_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_giant/spr_fish_silhouette_giant_22_swim",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": true
+  },
+  "spr_fish_silhouette_giant_45_swim_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_giant/spr_fish_silhouette_giant_45_swim",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": true
+  },
+  "spr_fish_silhouette_large_0_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_large/spr_fish_silhouette_large_0_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 21,
+    "MarginRight": 36,
+    "MarginBottom": 28,
+    "MarginTop": 20,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_large_6_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_large/spr_fish_silhouette_large_6_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_large_11_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_large/spr_fish_silhouette_large_11_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_large_17_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_large/spr_fish_silhouette_large_17_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_large_22_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_large/spr_fish_silhouette_large_22_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_large_28_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_large/spr_fish_silhouette_large_28_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_large_33_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_large/spr_fish_silhouette_large_33_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_large_39_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_large/spr_fish_silhouette_large_39_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_large_45_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_large/spr_fish_silhouette_large_45_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_large_0_swim_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_large/spr_fish_silhouette_large_0_swim",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": true
+  },
+  "spr_fish_silhouette_large_22_swim_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_large/spr_fish_silhouette_large_22_swim",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": true
+  },
+  "spr_fish_silhouette_large_45_swim_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_large/spr_fish_silhouette_large_45_swim",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": true
+  },
+  "spr_fish_silhouette_medium_0_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_medium/spr_fish_silhouette_medium_0_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 21,
+    "MarginRight": 36,
+    "MarginBottom": 28,
+    "MarginTop": 20,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_medium_6_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_medium/spr_fish_silhouette_medium_6_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_medium_11_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_medium/spr_fish_silhouette_medium_11_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_medium_17_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_medium/spr_fish_silhouette_medium_17_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_medium_22_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_medium/spr_fish_silhouette_medium_22_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_medium_28_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_medium/spr_fish_silhouette_medium_28_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_medium_33_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_medium/spr_fish_silhouette_medium_33_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_medium_39_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_medium/spr_fish_silhouette_medium_39_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_medium_45_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_medium/spr_fish_silhouette_medium_45_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_medium_0_swim_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_medium/spr_fish_silhouette_medium_0_swim",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": true
+  },
+  "spr_fish_silhouette_medium_22_swim_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_medium/spr_fish_silhouette_medium_22_swim",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": true
+  },
+  "spr_fish_silhouette_medium_45_swim_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_medium/spr_fish_silhouette_medium_45_swim",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": true
+  },
+  "spr_fish_silhouette_small_0_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_small/spr_fish_silhouette_small_0_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 23,
+    "MarginRight": 36,
+    "MarginBottom": 27,
+    "MarginTop": 21,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_small_6_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_small/spr_fish_silhouette_small_6_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_small_11_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_small/spr_fish_silhouette_small_11_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_small_17_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_small/spr_fish_silhouette_small_17_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_small_22_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_small/spr_fish_silhouette_small_22_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_small_28_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_small/spr_fish_silhouette_small_28_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_small_33_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_small/spr_fish_silhouette_small_33_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_small_39_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_small/spr_fish_silhouette_small_39_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_small_45_idle_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_small/spr_fish_silhouette_small_45_idle.png",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_fish_silhouette_small_0_swim_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_small/spr_fish_silhouette_small_0_swim",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": true
+  },
+  "spr_fish_silhouette_small_22_swim_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_small/spr_fish_silhouette_small_22_swim",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": true
+  },
+  "spr_fish_silhouette_small_45_swim_donatable": {
+    "Location": "images/fish/spr_fish_silhouette_small/spr_fish_silhouette_small_45_swim",
+    "OriginX": 48,
+    "OriginY": 48,
+    "MarginLeft": 0,
+    "MarginRight": 97,
+    "MarginBottom": 97,
+    "MarginTop": 0,
+    "IsAnimated": true
+  }
+}

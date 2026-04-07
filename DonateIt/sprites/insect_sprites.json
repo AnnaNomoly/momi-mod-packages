@@ -1,0 +1,1142 @@
+{
+  "spr_insect_ancient_firefly_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_ancient_firefly_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_ancient_firefly_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_ancient_firefly_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_ant_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_ant_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_ant_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_ant_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_ant_queen_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_ant_queen_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_ant_queen_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_ant_queen_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_beach_hopper_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_beach_hopper_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_beach_hopper_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_beach_hopper_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_biggest_beetle_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_biggest_beetle_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_biggest_beetle_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_biggest_beetle_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_big_bee_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_big_bee_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_big_bee_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_big_bee_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_brightbulb_moth_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_brightbulb_moth_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_brightbulb_moth_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_brightbulb_moth_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_bumblebee_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_bumblebee_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_bumblebee_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_bumblebee_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_butterfly_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_butterfly_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_butterfly_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_butterfly_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_caterpillar_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_caterpillar_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_caterpillar_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_caterpillar_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_chillipede_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_chillipede_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_chillipede_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_chillipede_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_cicadanymph_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_cicadanymph_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_cicadanymph_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_cicadanymph_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_cicada_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_cicada_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_cicada_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_cicada_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_cooktop_beetle_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_cooktop_beetle_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_cooktop_beetle_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_cooktop_beetle_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_copper_beetle_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_copper_beetle_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_copper_beetle_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_copper_beetle_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_coral_mantis_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_coral_mantis_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_coral_mantis_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_coral_mantis_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_cricket_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_cricket_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_cricket_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_cricket_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_crystalcaterpillar_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_crystalcaterpillar_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_crystalcaterpillar_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_crystalcaterpillar_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_crystalline_cricket_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_crystalline_cricket_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_crystalline_cricket_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_crystalline_cricket_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_crystal_wing_moth_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_crystal_wing_moth_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_crystal_wing_moth_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_crystal_wing_moth_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_deep_earthworm_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_deep_earthworm_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_deep_earthworm_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_deep_earthworm_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_diamond_beetle_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_diamond_beetle_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_diamond_beetle_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_diamond_beetle_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_dragonfly_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_dragonfly_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_dragonfly_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_dragonfly_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_dragon_horn_beetle_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_dragon_horn_beetle_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_dragon_horn_beetle_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_dragon_horn_beetle_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_fairybee_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_fairybee_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_fairybee_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_fairybee_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_firefly_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_firefly_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_firefly_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_firefly_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_fire_wasp_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_fire_wasp_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_fire_wasp_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_fire_wasp_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_flowercrownbeetle_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_flowercrownbeetle_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_flowercrownbeetle_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_flowercrownbeetle_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_flower_bee_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_flower_bee_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_flower_bee_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_flower_bee_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_frost_flutter_butterfly_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_frost_flutter_butterfly_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_frost_flutter_butterfly_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_frost_flutter_butterfly_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_fur_bee_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_fur_bee_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_fur_bee_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_fur_bee_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_fuzzymoth_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_fuzzymoth_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_fuzzymoth_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_fuzzymoth_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_gem_shard_caterpillar_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_gem_shard_caterpillar_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_gem_shard_caterpillar_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_gem_shard_caterpillar_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_giant_worm_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_giant_worm_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_giant_worm_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_giant_worm_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_grasshopper_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_grasshopper_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_grasshopper_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_grasshopper_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_hermitcrab_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_hermitcrab_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_hermitcrab_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_hermitcrab_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_hermit_snail_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_hermit_snail_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_hermit_snail_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_hermit_snail_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_hidden_beetle_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_hidden_beetle_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_hidden_beetle_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_hidden_beetle_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_hummingbirdhawkmoth_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_hummingbirdhawkmoth_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_hummingbirdhawkmoth_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_hummingbirdhawkmoth_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_icehopper_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_icehopper_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_icehopper_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_icehopper_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_inchworm_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_inchworm_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_inchworm_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_inchworm_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_jewelbeetle_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_jewelbeetle_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_jewelbeetle_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_jewelbeetle_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_ladybug_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_ladybug_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_ladybug_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_ladybug_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_lantern_moth_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_lantern_moth_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_lantern_moth_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_lantern_moth_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_lava_snail_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_lava_snail_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_lava_snail_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_lava_snail_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_leafhopper_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_leafhopper_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_leafhopper_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_leafhopper_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_lightningdragonfly_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_lightningdragonfly_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_lightningdragonfly_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_lightningdragonfly_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_loam_caterpillar_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_loam_caterpillar_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_loam_caterpillar_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_loam_caterpillar_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_lunamoth_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_lunamoth_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_lunamoth_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_lunamoth_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_magmabeetle_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_magmabeetle_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_magmabeetle_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_magmabeetle_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_mine_cricket_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_mine_cricket_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_mine_cricket_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_mine_cricket_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_mistmoth_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_mistmoth_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_mistmoth_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_mistmoth_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_monarchbutterfly_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_monarchbutterfly_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_monarchbutterfly_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_monarchbutterfly_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_moonlight_bee_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_moonlight_bee_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_moonlight_bee_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_moonlight_bee_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_mote_firefly_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_mote_firefly_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_mote_firefly_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_mote_firefly_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_orchidmantis_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_orchidmantis_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_orchidmantis_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_orchidmantis_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_parchment_moth_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_parchment_moth_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_parchment_moth_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_parchment_moth_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_petalhopper_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_petalhopper_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_petalhopper_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_petalhopper_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_pillbug_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_pillbug_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_pillbug_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_pillbug_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_polar_fly_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_polar_fly_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_polar_fly_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_polar_fly_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_pondskater_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_pondskater_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_pondskater_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_pondskater_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_prayingmantis_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_prayingmantis_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_prayingmantis_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_prayingmantis_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_puddle_spider_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_puddle_spider_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_puddle_spider_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_puddle_spider_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_queens_birdwing_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_queens_birdwing_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_queens_birdwing_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_queens_birdwing_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_questionmarkbutterfly_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_questionmarkbutterfly_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_questionmarkbutterfly_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_questionmarkbutterfly_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_raindropbeetle_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_raindropbeetle_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_raindropbeetle_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_raindropbeetle_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_rareinsect_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_rareinsect_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_rareinsect_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_rareinsect_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_redhead_worm_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_redhead_worm_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_redhead_worm_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_redhead_worm_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_reliccrab_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_reliccrab_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_reliccrab_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_reliccrab_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_rhinocerosbeetle_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_rhinocerosbeetle_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_rhinocerosbeetle_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_rhinocerosbeetle_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_rock_roach_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_rock_roach_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_rock_roach_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_rock_roach_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_saint_mantis_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_saint_mantis_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_saint_mantis_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_saint_mantis_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_sand_bug_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_sand_bug_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_sand_bug_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_sand_bug_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_sea_scarab_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_sea_scarab_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_sea_scarab_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_sea_scarab_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_singing_katydid_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_singing_katydid_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_singing_katydid_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_singing_katydid_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_smoke_moth_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_smoke_moth_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_smoke_moth_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_smoke_moth_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_snail_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_snail_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_snail_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_snail_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_snowballbeetle_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_snowballbeetle_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_snowballbeetle_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_snowballbeetle_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_snug_bug_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_snug_bug_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_snug_bug_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_snug_bug_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_speedysnail_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_speedysnail_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_speedysnail_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_speedysnail_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_strawhopper_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_strawhopper_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_strawhopper_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_strawhopper_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_strobedragonfly_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_strobedragonfly_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_strobedragonfly_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_strobedragonfly_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_sunset_moth_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_sunset_moth_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_sunset_moth_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_sunset_moth_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_surf_beetle_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_surf_beetle_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_surf_beetle_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_surf_beetle_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_sweet_bee_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_sweet_bee_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_sweet_bee_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_sweet_bee_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_tigerswallowtailbutterfly_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_tigerswallowtailbutterfly_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_tigerswallowtailbutterfly_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_tigerswallowtailbutterfly_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_tunnel_millipede_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_tunnel_millipede_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_tunnel_millipede_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_tunnel_millipede_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_void_snail_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_void_snail_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_void_snail_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_void_snail_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_walkingleaf_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_walkingleaf_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_walkingleaf_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_walkingleaf_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_walkingstick_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_walkingstick_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_walkingstick_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_walkingstick_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_waterbug_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_waterbug_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_waterbug_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_waterbug_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_waterfly_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_waterfly_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_waterfly_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_waterfly_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_windleaf_butterfly_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_windleaf_butterfly_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_windleaf_butterfly_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_windleaf_butterfly_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_winterpillar_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_winterpillar_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_winterpillar_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_winterpillar_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_worm_entity_idle_donatable": {
+    "Location": "images/insects/spr_insect_worm_entity_idle",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  },
+  "spr_insect_worm_entity_move_donatable": {
+    "Location": "images/insects/spr_insect_worm_entity_move",
+    "OriginX": 12,
+    "OriginY": 14,
+    "IsAnimated": true
+  }
+}

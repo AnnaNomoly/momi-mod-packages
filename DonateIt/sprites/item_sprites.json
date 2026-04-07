@@ -1,7 +1,7 @@
 {
   "spr_ui_item_aldarian_gauntlet_donatable": {
-    "Location": "images/spr_ui_item_aldarian_gauntlet_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_aldarian_gauntlet_donatable_0.png",
+    "Location": "images/items/spr_ui_item_aldarian_gauntlet_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_aldarian_gauntlet_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -12,8 +12,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_aldarian_sword_donatable": {
-    "Location": "images/spr_ui_item_aldarian_sword_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_aldarian_sword_donatable_0.png",
+    "Location": "images/items/spr_ui_item_aldarian_sword_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_aldarian_sword_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -24,8 +24,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_aldarian_war_banner_donatable": {
-    "Location": "images/spr_ui_item_aldarian_war_banner_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_aldarian_war_banner_donatable_0.png",
+    "Location": "images/items/spr_ui_item_aldarian_war_banner_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_aldarian_war_banner_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -36,8 +36,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_alda_bronze_sword_donatable": {
-    "Location": "images/spr_ui_item_alda_bronze_sword_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_alda_bronze_sword_donatable_0.png",
+    "Location": "images/items/spr_ui_item_alda_bronze_sword_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_alda_bronze_sword_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -48,8 +48,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_alda_clay_pot_donatable": {
-    "Location": "images/spr_ui_item_alda_clay_pot_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_alda_clay_pot_donatable_0.png",
+    "Location": "images/items/spr_ui_item_alda_clay_pot_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_alda_clay_pot_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -60,8 +60,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_alda_feather_pendant_donatable": {
-    "Location": "images/spr_ui_item_alda_feather_pendant_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_alda_feather_pendant_donatable_0.png",
+    "Location": "images/items/spr_ui_item_alda_feather_pendant_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_alda_feather_pendant_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -72,8 +72,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_alda_gem_bracelet_donatable": {
-    "Location": "images/spr_ui_item_alda_gem_bracelet_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_alda_gem_bracelet_donatable_0.png",
+    "Location": "images/items/spr_ui_item_alda_gem_bracelet_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_alda_gem_bracelet_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -84,8 +84,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_alda_mural_tablet_donatable": {
-    "Location": "images/spr_ui_item_alda_mural_tablet_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_alda_mural_tablet_donatable_0.png",
+    "Location": "images/items/spr_ui_item_alda_mural_tablet_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_alda_mural_tablet_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -96,8 +96,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_amber_trapped_insect_donatable": {
-    "Location": "images/spr_ui_item_amber_trapped_insect_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_amber_trapped_insect_donatable_0.png",
+    "Location": "images/items/spr_ui_item_amber_trapped_insect_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_amber_trapped_insect_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -108,8 +108,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_ancient_crystal_goblet_donatable": {
-    "Location": "images/spr_ui_item_ancient_crystal_goblet_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_ancient_crystal_goblet_donatable_0.png",
+    "Location": "images/items/spr_ui_item_ancient_crystal_goblet_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_ancient_crystal_goblet_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -120,8 +120,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_ancient_gold_coin_donatable": {
-    "Location": "images/spr_ui_item_ancient_gold_coin_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_ancient_gold_coin_donatable_0.png",
+    "Location": "images/items/spr_ui_item_ancient_gold_coin_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_ancient_gold_coin_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -132,8 +132,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_ancient_horn_circlet_donatable": {
-    "Location": "images/spr_ui_item_ancient_horn_circlet_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_ancient_horn_circlet_donatable_0.png",
+    "Location": "images/items/spr_ui_item_ancient_horn_circlet_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_ancient_horn_circlet_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -144,8 +144,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_ancient_royal_scepter_donatable": {
-    "Location": "images/spr_ui_item_ancient_royal_scepter_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_ancient_royal_scepter_donatable_0.png",
+    "Location": "images/items/spr_ui_item_ancient_royal_scepter_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_ancient_royal_scepter_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -156,8 +156,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_ancient_stone_lantern_donatable": {
-    "Location": "images/spr_ui_item_ancient_stone_lantern_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_ancient_stone_lantern_donatable_0.png",
+    "Location": "images/items/spr_ui_item_ancient_stone_lantern_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_ancient_stone_lantern_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -168,8 +168,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_apple_donatable": {
-    "Location": "images/spr_ui_item_apple_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_apple_donatable_0.png",
+    "Location": "images/items/spr_ui_item_apple_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_apple_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -180,8 +180,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_ash_mushroom_donatable": {
-    "Location": "images/spr_ui_item_ash_mushroom_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_ash_mushroom_donatable_0.png",
+    "Location": "images/items/spr_ui_item_ash_mushroom_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_ash_mushroom_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -192,8 +192,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_basil_donatable": {
-    "Location": "images/spr_ui_item_basil_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_basil_donatable_0.png",
+    "Location": "images/items/spr_ui_item_basil_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_basil_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -204,8 +204,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_beet_donatable": {
-    "Location": "images/spr_ui_item_beet_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_beet_donatable_0.png",
+    "Location": "images/items/spr_ui_item_beet_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_beet_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -216,8 +216,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_black_tablet_donatable": {
-    "Location": "images/spr_ui_item_black_tablet_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_black_tablet_donatable_0.png",
+    "Location": "images/items/spr_ui_item_black_tablet_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_black_tablet_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -228,8 +228,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_breath_of_flame_donatable": {
-    "Location": "images/spr_ui_item_breath_of_flame_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_breath_of_flame_donatable_0.png",
+    "Location": "images/items/spr_ui_item_breath_of_flame_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_breath_of_flame_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -240,8 +240,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_broccoli_donatable": {
-    "Location": "images/spr_ui_item_broccoli_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_broccoli_donatable_0.png",
+    "Location": "images/items/spr_ui_item_broccoli_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_broccoli_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -252,8 +252,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_burdock_root_donatable": {
-    "Location": "images/spr_ui_item_burdock_root_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_burdock_root_donatable_0.png",
+    "Location": "images/items/spr_ui_item_burdock_root_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_burdock_root_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -264,8 +264,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_bush_bell_berry_donatable": {
-    "Location": "images/spr_ui_item_bush_bell_berry_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_bush_bell_berry_donatable_0.png",
+    "Location": "images/items/spr_ui_item_bush_bell_berry_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_bush_bell_berry_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -276,8 +276,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_bush_rosehip_donatable": {
-    "Location": "images/spr_ui_item_bush_rosehip_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_bush_rosehip_donatable_0.png",
+    "Location": "images/items/spr_ui_item_bush_rosehip_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_bush_rosehip_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -288,8 +288,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_cabbage_donatable": {
-    "Location": "images/spr_ui_item_cabbage_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_cabbage_donatable_0.png",
+    "Location": "images/items/spr_ui_item_cabbage_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_cabbage_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -300,8 +300,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_caldosian_breastplate_donatable": {
-    "Location": "images/spr_ui_item_caldosian_breastplate_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_caldosian_breastplate_donatable_0.png",
+    "Location": "images/items/spr_ui_item_caldosian_breastplate_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_caldosian_breastplate_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -312,8 +312,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_caldosian_drinking_horn_donatable": {
-    "Location": "images/spr_ui_item_caldosian_drinking_horn_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_caldosian_drinking_horn_donatable_0.png",
+    "Location": "images/items/spr_ui_item_caldosian_drinking_horn_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_caldosian_drinking_horn_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -324,8 +324,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_caldosian_emperor_bust_donatable": {
-    "Location": "images/spr_ui_item_caldosian_emperor_bust_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_caldosian_emperor_bust_donatable_0.png",
+    "Location": "images/items/spr_ui_item_caldosian_emperor_bust_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_caldosian_emperor_bust_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -336,8 +336,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_caldosian_sword_donatable": {
-    "Location": "images/spr_ui_item_caldosian_sword_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_caldosian_sword_donatable_0.png",
+    "Location": "images/items/spr_ui_item_caldosian_sword_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_caldosian_sword_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -348,8 +348,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_catmint_donatable": {
-    "Location": "images/spr_ui_item_catmint_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_catmint_donatable_0.png",
+    "Location": "images/items/spr_ui_item_catmint_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_catmint_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -360,8 +360,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_cauliflower_donatable": {
-    "Location": "images/spr_ui_item_cauliflower_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_cauliflower_donatable_0.png",
+    "Location": "images/items/spr_ui_item_cauliflower_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_cauliflower_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -372,8 +372,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_cave_kelp_donatable": {
-    "Location": "images/spr_ui_item_cave_kelp_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_cave_kelp_donatable_0.png",
+    "Location": "images/items/spr_ui_item_cave_kelp_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_cave_kelp_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -384,8 +384,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_celosia_donatable": {
-    "Location": "images/spr_ui_item_celosia_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_celosia_donatable_0.png",
+    "Location": "images/items/spr_ui_item_celosia_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_celosia_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -396,8 +396,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_cherry_donatable": {
-    "Location": "images/spr_ui_item_cherry_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_cherry_donatable_0.png",
+    "Location": "images/items/spr_ui_item_cherry_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_cherry_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -408,8 +408,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_chestnut_donatable": {
-    "Location": "images/spr_ui_item_chestnut_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_chestnut_donatable_0.png",
+    "Location": "images/items/spr_ui_item_chestnut_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_chestnut_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -420,8 +420,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_chili_pepper_donatable": {
-    "Location": "images/spr_ui_item_chili_pepper_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_chili_pepper_donatable_0.png",
+    "Location": "images/items/spr_ui_item_chili_pepper_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_chili_pepper_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -432,8 +432,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_chirping_fern_donatable": {
-    "Location": "images/spr_ui_item_chirping_fern_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_chirping_fern_donatable_0.png",
+    "Location": "images/items/spr_ui_item_chirping_fern_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_chirping_fern_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -444,8 +444,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_chrysanthemum_donatable": {
-    "Location": "images/spr_ui_item_chrysanthemum_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_chrysanthemum_donatable_0.png",
+    "Location": "images/items/spr_ui_item_chrysanthemum_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_chrysanthemum_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -456,8 +456,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_clay_amphora_donatable": {
-    "Location": "images/spr_ui_item_clay_amphora_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_clay_amphora_donatable_0.png",
+    "Location": "images/items/spr_ui_item_clay_amphora_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_clay_amphora_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -468,8 +468,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_clay_donatable": {
-    "Location": "images/spr_ui_item_clay_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_clay_donatable_0.png",
+    "Location": "images/items/spr_ui_item_clay_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_clay_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -480,8 +480,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_coin_lump_donatable": {
-    "Location": "images/spr_ui_item_coin_lump_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_coin_lump_donatable_0.png",
+    "Location": "images/items/spr_ui_item_coin_lump_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_coin_lump_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -492,8 +492,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_completely_wrong_map_donatable": {
-    "Location": "images/spr_ui_item_completely_wrong_map_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_completely_wrong_map_donatable_0.png",
+    "Location": "images/items/spr_ui_item_completely_wrong_map_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_completely_wrong_map_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -504,8 +504,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_corn_donatable": {
-    "Location": "images/spr_ui_item_corn_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_corn_donatable_0.png",
+    "Location": "images/items/spr_ui_item_corn_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_corn_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -516,8 +516,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_cosmos_donatable": {
-    "Location": "images/spr_ui_item_cosmos_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_cosmos_donatable_0.png",
+    "Location": "images/items/spr_ui_item_cosmos_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_cosmos_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -528,8 +528,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_crab_statue_donatable": {
-    "Location": "images/spr_ui_item_crab_statue_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_crab_statue_donatable_0.png",
+    "Location": "images/items/spr_ui_item_crab_statue_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_crab_statue_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -540,8 +540,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_cranberry_donatable": {
-    "Location": "images/spr_ui_item_cranberry_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_cranberry_donatable_0.png",
+    "Location": "images/items/spr_ui_item_cranberry_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_cranberry_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -552,8 +552,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_criminal_confession_donatable": {
-    "Location": "images/spr_ui_item_criminal_confession_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_criminal_confession_donatable_0.png",
+    "Location": "images/items/spr_ui_item_criminal_confession_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_criminal_confession_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -564,8 +564,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_crocus_donatable": {
-    "Location": "images/spr_ui_item_crocus_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_crocus_donatable_0.png",
+    "Location": "images/items/spr_ui_item_crocus_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_crocus_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -576,8 +576,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_crystal_apple_donatable": {
-    "Location": "images/spr_ui_item_crystal_apple_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_crystal_apple_donatable_0.png",
+    "Location": "images/items/spr_ui_item_crystal_apple_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_crystal_apple_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -588,8 +588,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_crystal_berries_donatable": {
-    "Location": "images/spr_ui_item_crystal_berries_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_crystal_berries_donatable_0.png",
+    "Location": "images/items/spr_ui_item_crystal_berries_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_crystal_berries_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -600,8 +600,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_crystal_rose_donatable": {
-    "Location": "images/spr_ui_item_crystal_rose_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_crystal_rose_donatable_0.png",
+    "Location": "images/items/spr_ui_item_crystal_rose_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_crystal_rose_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -612,8 +612,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_cucumber_donatable": {
-    "Location": "images/spr_ui_item_cucumber_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_cucumber_donatable_0.png",
+    "Location": "images/items/spr_ui_item_cucumber_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_cucumber_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -624,8 +624,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_daffodil_donatable": {
-    "Location": "images/spr_ui_item_daffodil_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_daffodil_donatable_0.png",
+    "Location": "images/items/spr_ui_item_daffodil_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_daffodil_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -636,8 +636,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_daikon_radish_donatable": {
-    "Location": "images/spr_ui_item_daikon_radish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_daikon_radish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_daikon_radish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_daikon_radish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -648,8 +648,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_daisy_donatable": {
-    "Location": "images/spr_ui_item_daisy_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_daisy_donatable_0.png",
+    "Location": "images/items/spr_ui_item_daisy_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_daisy_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -660,8 +660,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_dandelionflower_donatable": {
-    "Location": "images/spr_ui_item_dandelionflower_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_dandelionflower_donatable_0.png",
+    "Location": "images/items/spr_ui_item_dandelionflower_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_dandelionflower_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -672,8 +672,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_dense_water_donatable": {
-    "Location": "images/spr_ui_item_dense_water_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_dense_water_donatable_0.png",
+    "Location": "images/items/spr_ui_item_dense_water_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_dense_water_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -684,8 +684,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_diamond_backed_mirror_donatable": {
-    "Location": "images/spr_ui_item_diamond_backed_mirror_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_diamond_backed_mirror_donatable_0.png",
+    "Location": "images/items/spr_ui_item_diamond_backed_mirror_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_diamond_backed_mirror_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -696,8 +696,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_dill_donatable": {
-    "Location": "images/spr_ui_item_dill_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_dill_donatable_0.png",
+    "Location": "images/items/spr_ui_item_dill_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_dill_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -708,8 +708,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_dragon_claw_donatable": {
-    "Location": "images/spr_ui_item_dragon_claw_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_dragon_claw_donatable_0.png",
+    "Location": "images/items/spr_ui_item_dragon_claw_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_dragon_claw_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -720,8 +720,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_dragon_forged_bracelet_donatable": {
-    "Location": "images/spr_ui_item_dragon_forged_bracelet_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_dragon_forged_bracelet_donatable_0.png",
+    "Location": "images/items/spr_ui_item_dragon_forged_bracelet_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_dragon_forged_bracelet_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -732,8 +732,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_dragon_pact_tablet_donatable": {
-    "Location": "images/spr_ui_item_dragon_pact_tablet_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_dragon_pact_tablet_donatable_0.png",
+    "Location": "images/items/spr_ui_item_dragon_pact_tablet_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_dragon_pact_tablet_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -744,8 +744,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_dragon_scale_donatable": {
-    "Location": "images/spr_ui_item_dragon_scale_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_dragon_scale_donatable_0.png",
+    "Location": "images/items/spr_ui_item_dragon_scale_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_dragon_scale_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -756,8 +756,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_earthshroom_donatable": {
-    "Location": "images/spr_ui_item_earthshroom_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_earthshroom_donatable_0.png",
+    "Location": "images/items/spr_ui_item_earthshroom_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_earthshroom_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -768,8 +768,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_earth_infused_stone_donatable": {
-    "Location": "images/spr_ui_item_earth_infused_stone_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_earth_infused_stone_donatable_0.png",
+    "Location": "images/items/spr_ui_item_earth_infused_stone_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_earth_infused_stone_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -780,8 +780,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_essence_blossom_donatable": {
-    "Location": "images/spr_ui_item_essence_blossom_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_essence_blossom_donatable_0.png",
+    "Location": "images/items/spr_ui_item_essence_blossom_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_essence_blossom_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -792,8 +792,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_ethereal_grass_donatable": {
-    "Location": "images/spr_ui_item_ethereal_grass_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_ethereal_grass_donatable_0.png",
+    "Location": "images/items/spr_ui_item_ethereal_grass_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_ethereal_grass_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -804,8 +804,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_faceted_rock_gem_donatable": {
-    "Location": "images/spr_ui_item_faceted_rock_gem_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_faceted_rock_gem_donatable_0.png",
+    "Location": "images/items/spr_ui_item_faceted_rock_gem_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_faceted_rock_gem_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -816,8 +816,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_family_crest_pendant_donatable": {
-    "Location": "images/spr_ui_item_family_crest_pendant_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_family_crest_pendant_donatable_0.png",
+    "Location": "images/items/spr_ui_item_family_crest_pendant_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_family_crest_pendant_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -828,8 +828,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fennel_donatable": {
-    "Location": "images/spr_ui_item_fennel_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fennel_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fennel_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fennel_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -840,8 +840,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fiddlehead_donatable": {
-    "Location": "images/spr_ui_item_fiddlehead_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fiddlehead_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fiddlehead_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fiddlehead_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -852,8 +852,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fire_crystal_donatable": {
-    "Location": "images/spr_ui_item_fire_crystal_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fire_crystal_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fire_crystal_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fire_crystal_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -864,8 +864,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_copper_rockfish_donatable": {
-    "Location": "images/spr_ui_item_fish_copper_rockfish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_copper_rockfish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_copper_rockfish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_copper_rockfish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -876,8 +876,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_giant_alligator_gar_donatable": {
-    "Location": "images/spr_ui_item_fish_giant_alligator_gar_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_giant_alligator_gar_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_giant_alligator_gar_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_giant_alligator_gar_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -888,8 +888,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_giant_giant_koi_donatable": {
-    "Location": "images/spr_ui_item_fish_giant_giant_koi_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_giant_giant_koi_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_giant_giant_koi_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_giant_giant_koi_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -900,8 +900,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_giant_grouper_donatable": {
-    "Location": "images/spr_ui_item_fish_giant_grouper_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_giant_grouper_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_giant_grouper_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_giant_grouper_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -912,8 +912,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_giant_oarfish_donatable": {
-    "Location": "images/spr_ui_item_fish_giant_oarfish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_giant_oarfish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_giant_oarfish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_giant_oarfish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -924,8 +924,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_giant_ocean_sunfish_donatable": {
-    "Location": "images/spr_ui_item_fish_giant_ocean_sunfish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_giant_ocean_sunfish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_giant_ocean_sunfish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_giant_ocean_sunfish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -936,8 +936,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_giant_paddlefish_donatable": {
-    "Location": "images/spr_ui_item_fish_giant_paddlefish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_giant_paddlefish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_giant_paddlefish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_giant_paddlefish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -948,8 +948,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_giant_shark_donatable": {
-    "Location": "images/spr_ui_item_fish_giant_shark_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_giant_shark_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_giant_shark_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_giant_shark_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -960,8 +960,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_giant_tarpon_donatable": {
-    "Location": "images/spr_ui_item_fish_giant_tarpon_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_giant_tarpon_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_giant_tarpon_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_giant_tarpon_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -972,8 +972,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_golden_eel_donatable": {
-    "Location": "images/spr_ui_item_fish_golden_eel_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_golden_eel_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_golden_eel_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_golden_eel_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -984,8 +984,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_iron_fish_donatable": {
-    "Location": "images/spr_ui_item_fish_iron_fish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_iron_fish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_iron_fish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_iron_fish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -996,8 +996,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_amberjack_donatable": {
-    "Location": "images/spr_ui_item_fish_large_amberjack_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_amberjack_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_amberjack_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_amberjack_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1008,8 +1008,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_bluefish_donatable": {
-    "Location": "images/spr_ui_item_fish_large_bluefish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_bluefish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_bluefish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_bluefish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1020,8 +1020,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_bowfish_donatable": {
-    "Location": "images/spr_ui_item_fish_large_bowfish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_bowfish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_bowfish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_bowfish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1032,8 +1032,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_bream_donatable": {
-    "Location": "images/spr_ui_item_fish_large_bream_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_bream_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_bream_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_bream_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1044,8 +1044,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_brown_trout_donatable": {
-    "Location": "images/spr_ui_item_fish_large_brown_trout_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_brown_trout_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_brown_trout_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_brown_trout_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1056,8 +1056,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_burbot_donatable": {
-    "Location": "images/spr_ui_item_fish_large_burbot_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_burbot_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_burbot_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_burbot_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1068,8 +1068,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_cave_shark_donatable": {
-    "Location": "images/spr_ui_item_fish_large_cave_shark_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_cave_shark_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_cave_shark_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_cave_shark_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1080,8 +1080,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_char_donatable": {
-    "Location": "images/spr_ui_item_fish_large_char_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_char_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_char_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_char_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1092,8 +1092,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_coelacanth_donatable": {
-    "Location": "images/spr_ui_item_fish_large_coelacanth_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_coelacanth_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_coelacanth_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_coelacanth_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1104,8 +1104,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_emerald_horned_charger_donatable": {
-    "Location": "images/spr_ui_item_fish_large_emerald_horned_charger_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_emerald_horned_charger_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_emerald_horned_charger_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_emerald_horned_charger_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1116,8 +1116,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_firesail_fish_donatable": {
-    "Location": "images/spr_ui_item_fish_large_firesail_fish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_firesail_fish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_firesail_fish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_firesail_fish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1128,8 +1128,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_giant_jellyfish_donatable": {
-    "Location": "images/spr_ui_item_fish_large_giant_jellyfish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_giant_jellyfish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_giant_jellyfish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_giant_jellyfish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1140,8 +1140,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_giant_tilapia_donatable": {
-    "Location": "images/spr_ui_item_fish_large_giant_tilapia_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_giant_tilapia_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_giant_tilapia_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_giant_tilapia_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1152,8 +1152,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_halibut_donatable": {
-    "Location": "images/spr_ui_item_fish_large_halibut_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_halibut_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_halibut_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_halibut_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1164,8 +1164,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_king_crab_donatable": {
-    "Location": "images/spr_ui_item_fish_large_king_crab_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_king_crab_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_king_crab_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_king_crab_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1176,8 +1176,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_lake_trout_donatable": {
-    "Location": "images/spr_ui_item_fish_large_lake_trout_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_lake_trout_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_lake_trout_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_lake_trout_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1188,8 +1188,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_mackerel_donatable": {
-    "Location": "images/spr_ui_item_fish_large_mackerel_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_mackerel_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_mackerel_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_mackerel_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1200,8 +1200,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_mini_whale_shark_donatable": {
-    "Location": "images/spr_ui_item_fish_large_mini_whale_shark_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_mini_whale_shark_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_mini_whale_shark_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_mini_whale_shark_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1212,8 +1212,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_muskie_donatable": {
-    "Location": "images/spr_ui_item_fish_large_muskie_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_muskie_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_muskie_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_muskie_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1224,8 +1224,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_perch_donatable": {
-    "Location": "images/spr_ui_item_fish_large_perch_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_perch_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_perch_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_perch_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1236,8 +1236,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_pike_donatable": {
-    "Location": "images/spr_ui_item_fish_large_pike_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_pike_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_pike_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_pike_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1248,8 +1248,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_pollock_donatable": {
-    "Location": "images/spr_ui_item_fish_large_pollock_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_pollock_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_pollock_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_pollock_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1260,8 +1260,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_sauger_donatable": {
-    "Location": "images/spr_ui_item_fish_large_sauger_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_sauger_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_sauger_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_sauger_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1272,8 +1272,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_striped_bass_donatable": {
-    "Location": "images/spr_ui_item_fish_large_striped_bass_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_striped_bass_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_striped_bass_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_striped_bass_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1284,8 +1284,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_large_walleye_donatable": {
-    "Location": "images/spr_ui_item_fish_large_walleye_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_large_walleye_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_large_walleye_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_large_walleye_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1296,8 +1296,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_massive_minnow_donatable": {
-    "Location": "images/spr_ui_item_fish_massive_minnow_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_massive_minnow_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_massive_minnow_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_massive_minnow_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1308,8 +1308,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_armored_bass_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_armored_bass_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_armored_bass_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_armored_bass_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_armored_bass_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1320,8 +1320,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_bait_thief_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_bait_thief_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_bait_thief_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_bait_thief_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_bait_thief_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1332,8 +1332,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_brown_bullhead_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_brown_bullhead_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_brown_bullhead_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_brown_bullhead_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_brown_bullhead_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1344,8 +1344,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_carp_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_carp_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_carp_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_carp_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_carp_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1356,8 +1356,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_cave_eel_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_cave_eel_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_cave_eel_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_cave_eel_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_cave_eel_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1368,8 +1368,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_crucian_carp_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_crucian_carp_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_crucian_carp_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_crucian_carp_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_crucian_carp_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1380,8 +1380,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_earth_eel_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_earth_eel_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_earth_eel_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_earth_eel_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_earth_eel_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1392,8 +1392,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_flathead_catfish_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_flathead_catfish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_flathead_catfish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_flathead_catfish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_flathead_catfish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1404,8 +1404,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_forest_perch_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_forest_perch_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_forest_perch_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_forest_perch_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_forest_perch_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1416,8 +1416,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_freshwater_eel_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_freshwater_eel_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_freshwater_eel_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_freshwater_eel_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_freshwater_eel_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1428,8 +1428,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_hake_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_hake_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_hake_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_hake_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_hake_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1440,8 +1440,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_koi_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_koi_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_koi_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_koi_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_koi_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1452,8 +1452,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_lightning_fish_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_lightning_fish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_lightning_fish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_lightning_fish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_lightning_fish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1464,8 +1464,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_lobster_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_lobster_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_lobster_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_lobster_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_lobster_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1476,8 +1476,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_luminescent_crab_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_luminescent_crab_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_luminescent_crab_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_luminescent_crab_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_luminescent_crab_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1488,8 +1488,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_mullet_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_mullet_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_mullet_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_mullet_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_mullet_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1500,8 +1500,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_rainbow_trout_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_rainbow_trout_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_rainbow_trout_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_rainbow_trout_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_rainbow_trout_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1512,8 +1512,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_razorback_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_razorback_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_razorback_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_razorback_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_razorback_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1524,8 +1524,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_rockbiter_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_rockbiter_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_rockbiter_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_rockbiter_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_rockbiter_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1536,8 +1536,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_sea_bass_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_sea_bass_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_sea_bass_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_sea_bass_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_sea_bass_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1548,8 +1548,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_shadow_bass_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_shadow_bass_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_shadow_bass_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_shadow_bass_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_shadow_bass_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1560,8 +1560,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_shad_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_shad_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_shad_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_shad_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_shad_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1572,8 +1572,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_silver_redhorse_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_silver_redhorse_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_silver_redhorse_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_silver_redhorse_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_silver_redhorse_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1584,8 +1584,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_snow_fish_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_snow_fish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_snow_fish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_snow_fish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_snow_fish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1596,8 +1596,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_stingray_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_stingray_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_stingray_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_stingray_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_stingray_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1608,8 +1608,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_stone_loach_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_stone_loach_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_stone_loach_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_stone_loach_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_stone_loach_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1620,8 +1620,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_sulfur_crab_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_sulfur_crab_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_sulfur_crab_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_sulfur_crab_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_sulfur_crab_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1632,8 +1632,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_sweetfish_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_sweetfish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_sweetfish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_sweetfish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_sweetfish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1644,8 +1644,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_transparent_jellyfish_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_transparent_jellyfish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_transparent_jellyfish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_transparent_jellyfish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_transparent_jellyfish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1656,8 +1656,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_trout_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_trout_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_trout_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_trout_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_trout_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1668,8 +1668,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_water_balloon_fish_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_water_balloon_fish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_water_balloon_fish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_water_balloon_fish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_water_balloon_fish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1680,8 +1680,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_medium_white_perch_donatable": {
-    "Location": "images/spr_ui_item_fish_medium_white_perch_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_medium_white_perch_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_medium_white_perch_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_medium_white_perch_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1692,8 +1692,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_silver_squid_donatable": {
-    "Location": "images/spr_ui_item_fish_silver_squid_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_silver_squid_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_silver_squid_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_silver_squid_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1704,8 +1704,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_anchovy_donatable": {
-    "Location": "images/spr_ui_item_fish_small_anchovy_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_anchovy_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_anchovy_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_anchovy_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1716,8 +1716,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_angel_fish_donatable": {
-    "Location": "images/spr_ui_item_fish_small_angel_fish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_angel_fish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_angel_fish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_angel_fish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1728,8 +1728,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_archerfish_donatable": {
-    "Location": "images/spr_ui_item_fish_small_archerfish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_archerfish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_archerfish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_archerfish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1740,8 +1740,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_barb_donatable": {
-    "Location": "images/spr_ui_item_fish_small_barb_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_barb_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_barb_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_barb_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1752,8 +1752,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_blue_crab_donatable": {
-    "Location": "images/spr_ui_item_fish_small_blue_crab_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_blue_crab_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_blue_crab_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_blue_crab_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1764,8 +1764,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_blue_gill_donatable": {
-    "Location": "images/spr_ui_item_fish_small_blue_gill_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_blue_gill_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_blue_gill_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_blue_gill_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1776,8 +1776,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_butterfish_donatable": {
-    "Location": "images/spr_ui_item_fish_small_butterfish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_butterfish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_butterfish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_butterfish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1788,8 +1788,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_candelabra_seadragon_donatable": {
-    "Location": "images/spr_ui_item_fish_small_candelabra_seadragon_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_candelabra_seadragon_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_candelabra_seadragon_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_candelabra_seadragon_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1800,8 +1800,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_cave_shrimp_donatable": {
-    "Location": "images/spr_ui_item_fish_small_cave_shrimp_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_cave_shrimp_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_cave_shrimp_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_cave_shrimp_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1812,8 +1812,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_cherry_fish_donatable": {
-    "Location": "images/spr_ui_item_fish_small_cherry_fish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_cherry_fish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_cherry_fish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_cherry_fish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1824,8 +1824,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_chub_donatable": {
-    "Location": "images/spr_ui_item_fish_small_chub_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_chub_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_chub_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_chub_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1836,8 +1836,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_crab_donatable": {
-    "Location": "images/spr_ui_item_fish_small_crab_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_crab_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_crab_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_crab_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1848,8 +1848,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_dace_donatable": {
-    "Location": "images/spr_ui_item_fish_small_dace_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_dace_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_dace_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_dace_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1860,8 +1860,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_dart_donatable": {
-    "Location": "images/spr_ui_item_fish_small_dart_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_dart_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_dart_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_dart_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1872,8 +1872,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_gazer_donatable": {
-    "Location": "images/spr_ui_item_fish_small_gazer_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_gazer_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_gazer_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_gazer_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1884,8 +1884,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_golden_shiner_donatable": {
-    "Location": "images/spr_ui_item_fish_small_golden_shiner_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_golden_shiner_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_golden_shiner_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_golden_shiner_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1896,8 +1896,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_goldfish_donatable": {
-    "Location": "images/spr_ui_item_fish_small_goldfish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_goldfish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_goldfish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_goldfish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1908,8 +1908,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_grayling_donatable": {
-    "Location": "images/spr_ui_item_fish_small_grayling_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_grayling_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_grayling_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_grayling_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1920,8 +1920,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_herring_donatable": {
-    "Location": "images/spr_ui_item_fish_small_herring_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_herring_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_herring_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_herring_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1932,8 +1932,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_horse_mackerel_donatable": {
-    "Location": "images/spr_ui_item_fish_small_horse_mackerel_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_horse_mackerel_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_horse_mackerel_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_horse_mackerel_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1944,8 +1944,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_killifish_donatable": {
-    "Location": "images/spr_ui_item_fish_small_killifish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_killifish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_killifish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_killifish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1956,8 +1956,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_lake_chub_donatable": {
-    "Location": "images/spr_ui_item_fish_small_lake_chub_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_lake_chub_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_lake_chub_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_lake_chub_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1968,8 +1968,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_lamprey_donatable": {
-    "Location": "images/spr_ui_item_fish_small_lamprey_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_lamprey_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_lamprey_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_lamprey_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1980,8 +1980,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_lava_piranha_donatable": {
-    "Location": "images/spr_ui_item_fish_small_lava_piranha_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_lava_piranha_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_lava_piranha_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_lava_piranha_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -1992,8 +1992,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_leaf_fish_donatable": {
-    "Location": "images/spr_ui_item_fish_small_leaf_fish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_leaf_fish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_leaf_fish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_leaf_fish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2004,8 +2004,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_loach_donatable": {
-    "Location": "images/spr_ui_item_fish_small_loach_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_loach_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_loach_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_loach_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2016,8 +2016,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_minnow_donatable": {
-    "Location": "images/spr_ui_item_fish_small_minnow_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_minnow_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_minnow_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_minnow_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2028,8 +2028,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_pebble_minnow_donatable": {
-    "Location": "images/spr_ui_item_fish_small_pebble_minnow_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_pebble_minnow_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_pebble_minnow_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_pebble_minnow_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2040,8 +2040,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_rock_guppy_donatable": {
-    "Location": "images/spr_ui_item_fish_small_rock_guppy_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_rock_guppy_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_rock_guppy_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_rock_guppy_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2052,8 +2052,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_sand_lance_donatable": {
-    "Location": "images/spr_ui_item_fish_small_sand_lance_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_sand_lance_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_sand_lance_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_sand_lance_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2064,8 +2064,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_sapphire_betta_donatable": {
-    "Location": "images/spr_ui_item_fish_small_sapphire_betta_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_sapphire_betta_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_sapphire_betta_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_sapphire_betta_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2076,8 +2076,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_saury_donatable": {
-    "Location": "images/spr_ui_item_fish_small_saury_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_saury_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_saury_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_saury_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2088,8 +2088,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_sea_urchin_donatable": {
-    "Location": "images/spr_ui_item_fish_small_sea_urchin_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_sea_urchin_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_sea_urchin_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_sea_urchin_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2100,8 +2100,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_shardfin_donatable": {
-    "Location": "images/spr_ui_item_fish_small_shardfin_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_shardfin_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_shardfin_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_shardfin_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2112,8 +2112,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_shrimp_donatable": {
-    "Location": "images/spr_ui_item_fish_small_shrimp_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_shrimp_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_shrimp_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_shrimp_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2124,8 +2124,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_smallmouth_bass_donatable": {
-    "Location": "images/spr_ui_item_fish_small_smallmouth_bass_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_smallmouth_bass_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_smallmouth_bass_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_smallmouth_bass_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2136,8 +2136,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_sunny_donatable": {
-    "Location": "images/spr_ui_item_fish_small_sunny_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_sunny_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_sunny_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_sunny_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2148,8 +2148,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_tilapia_donatable": {
-    "Location": "images/spr_ui_item_fish_small_tilapia_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_tilapia_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_tilapia_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_tilapia_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2160,8 +2160,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fish_small_winged_shrimp_donatable": {
-    "Location": "images/spr_ui_item_fish_small_winged_shrimp_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fish_small_winged_shrimp_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fish_small_winged_shrimp_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fish_small_winged_shrimp_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2172,8 +2172,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_flame_pepper_donatable": {
-    "Location": "images/spr_ui_item_flame_pepper_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_flame_pepper_donatable_0.png",
+    "Location": "images/items/spr_ui_item_flame_pepper_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_flame_pepper_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2184,8 +2184,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_flint_arrowhead_donatable": {
-    "Location": "images/spr_ui_item_flint_arrowhead_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_flint_arrowhead_donatable_0.png",
+    "Location": "images/items/spr_ui_item_flint_arrowhead_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_flint_arrowhead_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2196,8 +2196,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fogorchid_donatable": {
-    "Location": "images/spr_ui_item_fogorchid_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fogorchid_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fogorchid_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fogorchid_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2208,8 +2208,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fossilized_egg_donatable": {
-    "Location": "images/spr_ui_item_fossilized_egg_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fossilized_egg_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fossilized_egg_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fossilized_egg_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2220,8 +2220,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_fossilized_mandrake_root_donatable": {
-    "Location": "images/spr_ui_item_fossilized_mandrake_root_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_fossilized_mandrake_root_donatable_0.png",
+    "Location": "images/items/spr_ui_item_fossilized_mandrake_root_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_fossilized_mandrake_root_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2232,8 +2232,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_frost_lily_donatable": {
-    "Location": "images/spr_ui_item_frost_lily_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_frost_lily_donatable_0.png",
+    "Location": "images/items/spr_ui_item_frost_lily_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_frost_lily_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2244,8 +2244,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_garlic_donatable": {
-    "Location": "images/spr_ui_item_garlic_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_garlic_donatable_0.png",
+    "Location": "images/items/spr_ui_item_garlic_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_garlic_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2256,8 +2256,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_gathering_basket_donatable": {
-    "Location": "images/spr_ui_item_gathering_basket_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_gathering_basket_donatable_0.png",
+    "Location": "images/items/spr_ui_item_gathering_basket_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_gathering_basket_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2268,8 +2268,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_giant_fish_scale_donatable": {
-    "Location": "images/spr_ui_item_giant_fish_scale_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_giant_fish_scale_donatable_0.png",
+    "Location": "images/items/spr_ui_item_giant_fish_scale_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_giant_fish_scale_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2280,8 +2280,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_hardened_essence_donatable": {
-    "Location": "images/spr_ui_item_hardened_essence_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_hardened_essence_donatable_0.png",
+    "Location": "images/items/spr_ui_item_hardened_essence_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_hardened_essence_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2292,8 +2292,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_heather_donatable": {
-    "Location": "images/spr_ui_item_heather_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_heather_donatable_0.png",
+    "Location": "images/items/spr_ui_item_heather_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_heather_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2304,8 +2304,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_holly_donatable": {
-    "Location": "images/spr_ui_item_holly_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_holly_donatable_0.png",
+    "Location": "images/items/spr_ui_item_holly_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_holly_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2316,8 +2316,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_horseradish_donatable": {
-    "Location": "images/spr_ui_item_horseradish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_horseradish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_horseradish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_horseradish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2328,8 +2328,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_hot_potato_donatable": {
-    "Location": "images/spr_ui_item_hot_potato_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_hot_potato_donatable_0.png",
+    "Location": "images/items/spr_ui_item_hot_potato_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_hot_potato_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2340,8 +2340,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_ancient_firefly_donatable": {
-    "Location": "images/spr_ui_item_insect_ancient_firefly_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_ancient_firefly_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_ancient_firefly_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_ancient_firefly_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2352,8 +2352,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_ant_donatable": {
-    "Location": "images/spr_ui_item_insect_ant_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_ant_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_ant_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_ant_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2364,8 +2364,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_ant_queen_donatable": {
-    "Location": "images/spr_ui_item_insect_ant_queen_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_ant_queen_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_ant_queen_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_ant_queen_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2376,8 +2376,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_beach_hopper_donatable": {
-    "Location": "images/spr_ui_item_insect_beach_hopper_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_beach_hopper_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_beach_hopper_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_beach_hopper_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2388,8 +2388,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_biggest_beetle_donatable": {
-    "Location": "images/spr_ui_item_insect_biggest_beetle_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_biggest_beetle_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_biggest_beetle_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_biggest_beetle_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2400,8 +2400,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_big_bee_donatable": {
-    "Location": "images/spr_ui_item_insect_big_bee_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_big_bee_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_big_bee_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_big_bee_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2412,8 +2412,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_brightbulb_moth_donatable": {
-    "Location": "images/spr_ui_item_insect_brightbulb_moth_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_brightbulb_moth_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_brightbulb_moth_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_brightbulb_moth_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2424,8 +2424,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_bumblebee_donatable": {
-    "Location": "images/spr_ui_item_insect_bumblebee_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_bumblebee_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_bumblebee_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_bumblebee_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2436,8 +2436,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_butterfly_donatable": {
-    "Location": "images/spr_ui_item_insect_butterfly_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_butterfly_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_butterfly_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_butterfly_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2448,8 +2448,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_caterpillar_donatable": {
-    "Location": "images/spr_ui_item_insect_caterpillar_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_caterpillar_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_caterpillar_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_caterpillar_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2460,8 +2460,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_cicadanymph_donatable": {
-    "Location": "images/spr_ui_item_insect_cicadanymph_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_cicadanymph_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_cicadanymph_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_cicadanymph_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2472,8 +2472,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_cicada_donatable": {
-    "Location": "images/spr_ui_item_insect_cicada_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_cicada_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_cicada_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_cicada_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2484,8 +2484,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_cooktop_beetle_donatable": {
-    "Location": "images/spr_ui_item_insect_cooktop_beetle_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_cooktop_beetle_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_cooktop_beetle_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_cooktop_beetle_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2496,8 +2496,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_copper_beetle_donatable": {
-    "Location": "images/spr_ui_item_insect_copper_beetle_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_copper_beetle_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_copper_beetle_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_copper_beetle_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2508,8 +2508,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_coral_mantis_donatable": {
-    "Location": "images/spr_ui_item_insect_coral_mantis_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_coral_mantis_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_coral_mantis_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_coral_mantis_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2520,8 +2520,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_cricket_donatable": {
-    "Location": "images/spr_ui_item_insect_cricket_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_cricket_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_cricket_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_cricket_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2532,8 +2532,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_crystalcaterpillar_donatable": {
-    "Location": "images/spr_ui_item_insect_crystalcaterpillar_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_crystalcaterpillar_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_crystalcaterpillar_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_crystalcaterpillar_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2544,8 +2544,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_crystalline_cricket_donatable": {
-    "Location": "images/spr_ui_item_insect_crystalline_cricket_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_crystalline_cricket_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_crystalline_cricket_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_crystalline_cricket_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2556,8 +2556,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_crystal_wing_moth_donatable": {
-    "Location": "images/spr_ui_item_insect_crystal_wing_moth_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_crystal_wing_moth_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_crystal_wing_moth_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_crystal_wing_moth_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2568,8 +2568,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_deep_earthworm_donatable": {
-    "Location": "images/spr_ui_item_insect_deep_earthworm_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_deep_earthworm_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_deep_earthworm_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_deep_earthworm_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2580,8 +2580,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_diamond_beetle_donatable": {
-    "Location": "images/spr_ui_item_insect_diamond_beetle_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_diamond_beetle_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_diamond_beetle_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_diamond_beetle_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2592,8 +2592,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_dragonfly_donatable": {
-    "Location": "images/spr_ui_item_insect_dragonfly_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_dragonfly_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_dragonfly_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_dragonfly_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2604,8 +2604,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_dragon_horn_beetle_donatable": {
-    "Location": "images/spr_ui_item_insect_dragon_horn_beetle_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_dragon_horn_beetle_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_dragon_horn_beetle_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_dragon_horn_beetle_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2616,8 +2616,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_fairybee_donatable": {
-    "Location": "images/spr_ui_item_insect_fairybee_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_fairybee_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_fairybee_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_fairybee_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2628,8 +2628,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_firefly_donatable": {
-    "Location": "images/spr_ui_item_insect_firefly_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_firefly_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_firefly_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_firefly_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2640,8 +2640,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_fire_wasp_donatable": {
-    "Location": "images/spr_ui_item_insect_fire_wasp_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_fire_wasp_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_fire_wasp_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_fire_wasp_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2652,8 +2652,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_flowercrownbeetle_donatable": {
-    "Location": "images/spr_ui_item_insect_flowercrownbeetle_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_flowercrownbeetle_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_flowercrownbeetle_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_flowercrownbeetle_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2664,8 +2664,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_flower_bee_donatable": {
-    "Location": "images/spr_ui_item_insect_flower_bee_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_flower_bee_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_flower_bee_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_flower_bee_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2676,8 +2676,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_frost_flutter_butterfly_donatable": {
-    "Location": "images/spr_ui_item_insect_frost_flutter_butterfly_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_frost_flutter_butterfly_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_frost_flutter_butterfly_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_frost_flutter_butterfly_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2688,8 +2688,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_fur_bee_donatable": {
-    "Location": "images/spr_ui_item_insect_fur_bee_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_fur_bee_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_fur_bee_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_fur_bee_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2700,8 +2700,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_fuzzymoth_donatable": {
-    "Location": "images/spr_ui_item_insect_fuzzymoth_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_fuzzymoth_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_fuzzymoth_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_fuzzymoth_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2712,8 +2712,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_gem_shard_caterpillar_donatable": {
-    "Location": "images/spr_ui_item_insect_gem_shard_caterpillar_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_gem_shard_caterpillar_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_gem_shard_caterpillar_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_gem_shard_caterpillar_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2724,8 +2724,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_giant_worm_donatable": {
-    "Location": "images/spr_ui_item_insect_giant_worm_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_giant_worm_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_giant_worm_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_giant_worm_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2736,8 +2736,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_grasshopper_donatable": {
-    "Location": "images/spr_ui_item_insect_grasshopper_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_grasshopper_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_grasshopper_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_grasshopper_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2748,8 +2748,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_hermitcrab_donatable": {
-    "Location": "images/spr_ui_item_insect_hermitcrab_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_hermitcrab_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_hermitcrab_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_hermitcrab_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2760,8 +2760,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_hermit_snail_donatable": {
-    "Location": "images/spr_ui_item_insect_hermit_snail_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_hermit_snail_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_hermit_snail_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_hermit_snail_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2772,8 +2772,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_hidden_beetle_donatable": {
-    "Location": "images/spr_ui_item_insect_hidden_beetle_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_hidden_beetle_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_hidden_beetle_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_hidden_beetle_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2784,8 +2784,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_hummingbirdhawkmoth_donatable": {
-    "Location": "images/spr_ui_item_insect_hummingbirdhawkmoth_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_hummingbirdhawkmoth_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_hummingbirdhawkmoth_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_hummingbirdhawkmoth_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2796,8 +2796,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_icehopper_donatable": {
-    "Location": "images/spr_ui_item_insect_icehopper_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_icehopper_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_icehopper_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_icehopper_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2808,8 +2808,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_inchworm_donatable": {
-    "Location": "images/spr_ui_item_insect_inchworm_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_inchworm_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_inchworm_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_inchworm_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2820,8 +2820,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_jewelbeetle_donatable": {
-    "Location": "images/spr_ui_item_insect_jewelbeetle_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_jewelbeetle_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_jewelbeetle_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_jewelbeetle_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2832,8 +2832,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_ladybug_donatable": {
-    "Location": "images/spr_ui_item_insect_ladybug_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_ladybug_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_ladybug_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_ladybug_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2844,8 +2844,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_lantern_moth_donatable": {
-    "Location": "images/spr_ui_item_insect_lantern_moth_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_lantern_moth_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_lantern_moth_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_lantern_moth_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2856,8 +2856,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_lava_snail_donatable": {
-    "Location": "images/spr_ui_item_insect_lava_snail_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_lava_snail_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_lava_snail_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_lava_snail_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2868,8 +2868,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_leafhopper_donatable": {
-    "Location": "images/spr_ui_item_insect_leafhopper_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_leafhopper_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_leafhopper_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_leafhopper_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2880,8 +2880,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_lightningdragonfly_donatable": {
-    "Location": "images/spr_ui_item_insect_lightningdragonfly_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_lightningdragonfly_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_lightningdragonfly_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_lightningdragonfly_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2892,8 +2892,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_loam_caterpillar_donatable": {
-    "Location": "images/spr_ui_item_insect_loam_caterpillar_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_loam_caterpillar_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_loam_caterpillar_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_loam_caterpillar_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2904,8 +2904,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_lunamoth_donatable": {
-    "Location": "images/spr_ui_item_insect_lunamoth_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_lunamoth_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_lunamoth_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_lunamoth_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2916,8 +2916,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_magmabeetle_donatable": {
-    "Location": "images/spr_ui_item_insect_magmabeetle_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_magmabeetle_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_magmabeetle_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_magmabeetle_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2928,8 +2928,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_mine_cricket_donatable": {
-    "Location": "images/spr_ui_item_insect_mine_cricket_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_mine_cricket_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_mine_cricket_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_mine_cricket_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2940,8 +2940,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_mistmoth_donatable": {
-    "Location": "images/spr_ui_item_insect_mistmoth_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_mistmoth_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_mistmoth_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_mistmoth_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2952,8 +2952,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_monarchbutterfly_donatable": {
-    "Location": "images/spr_ui_item_insect_monarchbutterfly_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_monarchbutterfly_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_monarchbutterfly_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_monarchbutterfly_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2964,8 +2964,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_moonlight_bee_donatable": {
-    "Location": "images/spr_ui_item_insect_moonlight_bee_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_moonlight_bee_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_moonlight_bee_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_moonlight_bee_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2976,8 +2976,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_mote_firefly_donatable": {
-    "Location": "images/spr_ui_item_insect_mote_firefly_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_mote_firefly_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_mote_firefly_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_mote_firefly_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -2988,8 +2988,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_orchidmantis_donatable": {
-    "Location": "images/spr_ui_item_insect_orchidmantis_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_orchidmantis_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_orchidmantis_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_orchidmantis_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3000,8 +3000,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_parchment_moth_donatable": {
-    "Location": "images/spr_ui_item_insect_parchment_moth_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_parchment_moth_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_parchment_moth_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_parchment_moth_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3012,8 +3012,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_petalhopper_donatable": {
-    "Location": "images/spr_ui_item_insect_petalhopper_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_petalhopper_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_petalhopper_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_petalhopper_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3024,8 +3024,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_pillbug_donatable": {
-    "Location": "images/spr_ui_item_insect_pillbug_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_pillbug_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_pillbug_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_pillbug_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3036,8 +3036,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_prayingmantis_donatable": {
-    "Location": "images/spr_ui_item_insect_prayingmantis_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_prayingmantis_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_prayingmantis_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_prayingmantis_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3048,8 +3048,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_puddle_spider_donatable": {
-    "Location": "images/spr_ui_item_insect_puddle_spider_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_puddle_spider_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_puddle_spider_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_puddle_spider_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3060,8 +3060,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_queens_birdwing_donatable": {
-    "Location": "images/spr_ui_item_insect_queens_birdwing_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_queens_birdwing_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_queens_birdwing_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_queens_birdwing_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3072,8 +3072,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_reliccrab_donatable": {
-    "Location": "images/spr_ui_item_insect_reliccrab_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_reliccrab_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_reliccrab_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_reliccrab_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3084,8 +3084,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_rock_roach_donatable": {
-    "Location": "images/spr_ui_item_insect_rock_roach_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_rock_roach_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_rock_roach_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_rock_roach_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3096,8 +3096,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_saint_mantis_donatable": {
-    "Location": "images/spr_ui_item_insect_saint_mantis_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_saint_mantis_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_saint_mantis_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_saint_mantis_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3108,8 +3108,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_sand_bug_donatable": {
-    "Location": "images/spr_ui_item_insect_sand_bug_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_sand_bug_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_sand_bug_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_sand_bug_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3120,8 +3120,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_sea_scarab_donatable": {
-    "Location": "images/spr_ui_item_insect_sea_scarab_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_sea_scarab_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_sea_scarab_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_sea_scarab_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3132,8 +3132,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_singing_katydid_donatable": {
-    "Location": "images/spr_ui_item_insect_singing_katydid_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_singing_katydid_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_singing_katydid_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_singing_katydid_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3144,8 +3144,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_smoke_moth_donatable": {
-    "Location": "images/spr_ui_item_insect_smoke_moth_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_smoke_moth_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_smoke_moth_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_smoke_moth_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3156,8 +3156,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_snowballbeetle_donatable": {
-    "Location": "images/spr_ui_item_insect_snowballbeetle_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_snowballbeetle_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_snowballbeetle_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_snowballbeetle_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3168,8 +3168,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_speedysnail_donatable": {
-    "Location": "images/spr_ui_item_insect_speedysnail_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_speedysnail_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_speedysnail_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_speedysnail_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3180,8 +3180,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_strawhopper_donatable": {
-    "Location": "images/spr_ui_item_insect_strawhopper_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_strawhopper_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_strawhopper_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_strawhopper_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3192,8 +3192,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_strobefirefly_donatable": {
-    "Location": "images/spr_ui_item_insect_strobefirefly_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_strobefirefly_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_strobefirefly_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_strobefirefly_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3204,8 +3204,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_sunset_moth_donatable": {
-    "Location": "images/spr_ui_item_insect_sunset_moth_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_sunset_moth_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_sunset_moth_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_sunset_moth_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3216,8 +3216,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_surf_beetle_donatable": {
-    "Location": "images/spr_ui_item_insect_surf_beetle_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_surf_beetle_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_surf_beetle_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_surf_beetle_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3228,8 +3228,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_sweet_bee_donatable": {
-    "Location": "images/spr_ui_item_insect_sweet_bee_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_sweet_bee_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_sweet_bee_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_sweet_bee_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3240,8 +3240,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_tigerswallowtailbutterfly_donatable": {
-    "Location": "images/spr_ui_item_insect_tigerswallowtailbutterfly_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_tigerswallowtailbutterfly_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_tigerswallowtailbutterfly_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_tigerswallowtailbutterfly_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3252,8 +3252,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_tunnel_millipede_donatable": {
-    "Location": "images/spr_ui_item_insect_tunnel_millipede_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_tunnel_millipede_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_tunnel_millipede_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_tunnel_millipede_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3264,8 +3264,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_void_snail_donatable": {
-    "Location": "images/spr_ui_item_insect_void_snail_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_void_snail_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_void_snail_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_void_snail_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3276,8 +3276,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_walkingleaf_donatable": {
-    "Location": "images/spr_ui_item_insect_walkingleaf_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_walkingleaf_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_walkingleaf_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_walkingleaf_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3288,8 +3288,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_walkingstick_donatable": {
-    "Location": "images/spr_ui_item_insect_walkingstick_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_walkingstick_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_walkingstick_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_walkingstick_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3300,8 +3300,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_waterbug_donatable": {
-    "Location": "images/spr_ui_item_insect_waterbug_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_waterbug_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_waterbug_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_waterbug_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3312,8 +3312,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_waterfly_donatable": {
-    "Location": "images/spr_ui_item_insect_waterfly_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_waterfly_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_waterfly_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_waterfly_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3324,8 +3324,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_windleaf_butterfly_donatable": {
-    "Location": "images/spr_ui_item_insect_windleaf_butterfly_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_windleaf_butterfly_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_windleaf_butterfly_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_windleaf_butterfly_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3336,8 +3336,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_winterpillar_donatable": {
-    "Location": "images/spr_ui_item_insect_winterpillar_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_winterpillar_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_winterpillar_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_winterpillar_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3348,8 +3348,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_insect_worm_donatable": {
-    "Location": "images/spr_ui_item_insect_worm_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_insect_worm_donatable_0.png",
+    "Location": "images/items/spr_ui_item_insect_worm_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_insect_worm_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3360,8 +3360,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_iris_donatable": {
-    "Location": "images/spr_ui_item_iris_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_iris_donatable_0.png",
+    "Location": "images/items/spr_ui_item_iris_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_iris_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3372,8 +3372,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_jasmine_donatable": {
-    "Location": "images/spr_ui_item_jasmine_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_jasmine_donatable_0.png",
+    "Location": "images/items/spr_ui_item_jasmine_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_jasmine_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3384,8 +3384,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_lava_chestnut_donatable": {
-    "Location": "images/spr_ui_item_lava_chestnut_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_lava_chestnut_donatable_0.png",
+    "Location": "images/items/spr_ui_item_lava_chestnut_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_lava_chestnut_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3396,8 +3396,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_lilac_donatable": {
-    "Location": "images/spr_ui_item_lilac_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_lilac_donatable_0.png",
+    "Location": "images/items/spr_ui_item_lilac_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_lilac_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3408,8 +3408,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_lost_crown_of_aldaria_donatable": {
-    "Location": "images/spr_ui_item_lost_crown_of_aldaria_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_lost_crown_of_aldaria_donatable_0.png",
+    "Location": "images/items/spr_ui_item_lost_crown_of_aldaria_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_lost_crown_of_aldaria_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3420,8 +3420,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_marigold_donatable": {
-    "Location": "images/spr_ui_item_marigold_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_marigold_donatable_0.png",
+    "Location": "images/items/spr_ui_item_marigold_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_marigold_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3432,8 +3432,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_mermaids_comb_donatable": {
-    "Location": "images/spr_ui_item_mermaids_comb_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_mermaids_comb_donatable_0.png",
+    "Location": "images/items/spr_ui_item_mermaids_comb_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_mermaids_comb_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3444,8 +3444,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_message_in_a_bottle_donatable": {
-    "Location": "images/spr_ui_item_message_in_a_bottle_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_message_in_a_bottle_donatable_0.png",
+    "Location": "images/items/spr_ui_item_message_in_a_bottle_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_message_in_a_bottle_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3456,8 +3456,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_metal_leaf_donatable": {
-    "Location": "images/spr_ui_item_metal_leaf_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_metal_leaf_donatable_0.png",
+    "Location": "images/items/spr_ui_item_metal_leaf_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_metal_leaf_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3468,8 +3468,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_meteorite_donatable": {
-    "Location": "images/spr_ui_item_meteorite_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_meteorite_donatable_0.png",
+    "Location": "images/items/spr_ui_item_meteorite_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_meteorite_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3480,8 +3480,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_miners_helmet_donatable": {
-    "Location": "images/spr_ui_item_miners_helmet_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_miners_helmet_donatable_0.png",
+    "Location": "images/items/spr_ui_item_miners_helmet_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_miners_helmet_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3492,8 +3492,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_miners_pickaxe_donatable": {
-    "Location": "images/spr_ui_item_miners_pickaxe_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_miners_pickaxe_donatable_0.png",
+    "Location": "images/items/spr_ui_item_miners_pickaxe_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_miners_pickaxe_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3504,8 +3504,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_miners_rucksack_donatable": {
-    "Location": "images/spr_ui_item_miners_rucksack_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_miners_rucksack_donatable_0.png",
+    "Location": "images/items/spr_ui_item_miners_rucksack_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_miners_rucksack_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3516,8 +3516,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_miners_slab_donatable": {
-    "Location": "images/spr_ui_item_miners_slab_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_miners_slab_donatable_0.png",
+    "Location": "images/items/spr_ui_item_miners_slab_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_miners_slab_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3528,8 +3528,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_mines_mussels_donatable": {
-    "Location": "images/spr_ui_item_mines_mussels_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_mines_mussels_donatable_0.png",
+    "Location": "images/items/spr_ui_item_mines_mussels_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_mines_mussels_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3540,8 +3540,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_misty_black_mirror_donatable": {
-    "Location": "images/spr_ui_item_misty_black_mirror_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_misty_black_mirror_donatable_0.png",
+    "Location": "images/items/spr_ui_item_misty_black_mirror_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_misty_black_mirror_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3552,8 +3552,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_misty_feather_quill_donatable": {
-    "Location": "images/spr_ui_item_misty_feather_quill_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_misty_feather_quill_donatable_0.png",
+    "Location": "images/items/spr_ui_item_misty_feather_quill_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_misty_feather_quill_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3564,8 +3564,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_mist_crystal_donatable": {
-    "Location": "images/spr_ui_item_mist_crystal_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_mist_crystal_donatable_0.png",
+    "Location": "images/items/spr_ui_item_mist_crystal_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_mist_crystal_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3576,8 +3576,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_mist_flute_donatable": {
-    "Location": "images/spr_ui_item_mist_flute_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_mist_flute_donatable_0.png",
+    "Location": "images/items/spr_ui_item_mist_flute_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_mist_flute_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3588,8 +3588,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_mist_scroll_donatable": {
-    "Location": "images/spr_ui_item_mist_scroll_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_mist_scroll_donatable_0.png",
+    "Location": "images/items/spr_ui_item_mist_scroll_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_mist_scroll_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3600,8 +3600,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_moon_fruit_donatable": {
-    "Location": "images/spr_ui_item_moon_fruit_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_moon_fruit_donatable_0.png",
+    "Location": "images/items/spr_ui_item_moon_fruit_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_moon_fruit_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3612,8 +3612,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_morelmushroom_donatable": {
-    "Location": "images/spr_ui_item_morelmushroom_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_morelmushroom_donatable_0.png",
+    "Location": "images/items/spr_ui_item_morelmushroom_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_morelmushroom_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3624,8 +3624,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_muttering_cube_donatable": {
-    "Location": "images/spr_ui_item_muttering_cube_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_muttering_cube_donatable_0.png",
+    "Location": "images/items/spr_ui_item_muttering_cube_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_muttering_cube_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3636,8 +3636,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_narrows_moss_donatable": {
-    "Location": "images/spr_ui_item_narrows_moss_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_narrows_moss_donatable_0.png",
+    "Location": "images/items/spr_ui_item_narrows_moss_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_narrows_moss_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3648,8 +3648,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_nettle_donatable": {
-    "Location": "images/spr_ui_item_nettle_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_nettle_donatable_0.png",
+    "Location": "images/items/spr_ui_item_nettle_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_nettle_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3660,8 +3660,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_obsidian_blade_donatable": {
-    "Location": "images/spr_ui_item_obsidian_blade_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_obsidian_blade_donatable_0.png",
+    "Location": "images/items/spr_ui_item_obsidian_blade_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_obsidian_blade_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3672,8 +3672,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_oregano_donatable": {
-    "Location": "images/spr_ui_item_oregano_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_oregano_donatable_0.png",
+    "Location": "images/items/spr_ui_item_oregano_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_oregano_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3684,8 +3684,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_oyster_mushroom_donatable": {
-    "Location": "images/spr_ui_item_oyster_mushroom_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_oyster_mushroom_donatable_0.png",
+    "Location": "images/items/spr_ui_item_oyster_mushroom_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_oyster_mushroom_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3696,8 +3696,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_peat_donatable": {
-    "Location": "images/spr_ui_item_peat_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_peat_donatable_0.png",
+    "Location": "images/items/spr_ui_item_peat_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_peat_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3708,8 +3708,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_perfect_copper_ore_donatable": {
-    "Location": "images/spr_ui_item_perfect_copper_ore_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_perfect_copper_ore_donatable_0.png",
+    "Location": "images/items/spr_ui_item_perfect_copper_ore_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_perfect_copper_ore_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3720,8 +3720,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_perfect_diamond_donatable": {
-    "Location": "images/spr_ui_item_perfect_diamond_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_perfect_diamond_donatable_0.png",
+    "Location": "images/items/spr_ui_item_perfect_diamond_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_perfect_diamond_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3732,8 +3732,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_perfect_emerald_donatable": {
-    "Location": "images/spr_ui_item_perfect_emerald_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_perfect_emerald_donatable_0.png",
+    "Location": "images/items/spr_ui_item_perfect_emerald_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_perfect_emerald_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3744,8 +3744,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_perfect_gold_ore_donatable": {
-    "Location": "images/spr_ui_item_perfect_gold_ore_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_perfect_gold_ore_donatable_0.png",
+    "Location": "images/items/spr_ui_item_perfect_gold_ore_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_perfect_gold_ore_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3756,8 +3756,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_perfect_iron_ore_donatable": {
-    "Location": "images/spr_ui_item_perfect_iron_ore_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_perfect_iron_ore_donatable_0.png",
+    "Location": "images/items/spr_ui_item_perfect_iron_ore_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_perfect_iron_ore_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3768,8 +3768,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_perfect_mistril_ore_donatable": {
-    "Location": "images/spr_ui_item_perfect_mistril_ore_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_perfect_mistril_ore_donatable_0.png",
+    "Location": "images/items/spr_ui_item_perfect_mistril_ore_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_perfect_mistril_ore_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3780,8 +3780,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_perfect_pink_diamond_donatable": {
-    "Location": "images/spr_ui_item_perfect_pink_diamond_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_perfect_pink_diamond_donatable_0.png",
+    "Location": "images/items/spr_ui_item_perfect_pink_diamond_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_perfect_pink_diamond_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3792,8 +3792,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_perfect_ruby_donatable": {
-    "Location": "images/spr_ui_item_perfect_ruby_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_perfect_ruby_donatable_0.png",
+    "Location": "images/items/spr_ui_item_perfect_ruby_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_perfect_ruby_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3804,8 +3804,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_perfect_sapphire_donatable": {
-    "Location": "images/spr_ui_item_perfect_sapphire_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_perfect_sapphire_donatable_0.png",
+    "Location": "images/items/spr_ui_item_perfect_sapphire_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_perfect_sapphire_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3816,8 +3816,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_perfect_silver_ore_donatable": {
-    "Location": "images/spr_ui_item_perfect_silver_ore_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_perfect_silver_ore_donatable_0.png",
+    "Location": "images/items/spr_ui_item_perfect_silver_ore_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_perfect_silver_ore_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3828,8 +3828,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_petrified_wood_donatable": {
-    "Location": "images/spr_ui_item_petrified_wood_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_petrified_wood_donatable_0.png",
+    "Location": "images/items/spr_ui_item_petrified_wood_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_petrified_wood_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3840,8 +3840,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_pineshroom_donatable": {
-    "Location": "images/spr_ui_item_pineshroom_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_pineshroom_donatable_0.png",
+    "Location": "images/items/spr_ui_item_pineshroom_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_pineshroom_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3852,8 +3852,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_poinsettia_donatable": {
-    "Location": "images/spr_ui_item_poinsettia_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_poinsettia_donatable_0.png",
+    "Location": "images/items/spr_ui_item_poinsettia_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_poinsettia_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3864,8 +3864,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_pomegranate_donatable": {
-    "Location": "images/spr_ui_item_pomegranate_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_pomegranate_donatable_0.png",
+    "Location": "images/items/spr_ui_item_pomegranate_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_pomegranate_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3876,8 +3876,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_porcelain_figurine_donatable": {
-    "Location": "images/spr_ui_item_porcelain_figurine_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_porcelain_figurine_donatable_0.png",
+    "Location": "images/items/spr_ui_item_porcelain_figurine_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_porcelain_figurine_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3888,8 +3888,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_potato_donatable": {
-    "Location": "images/spr_ui_item_potato_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_potato_donatable_0.png",
+    "Location": "images/items/spr_ui_item_potato_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_potato_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3900,8 +3900,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_pumpkin_donatable": {
-    "Location": "images/spr_ui_item_pumpkin_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_pumpkin_donatable_0.png",
+    "Location": "images/items/spr_ui_item_pumpkin_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_pumpkin_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3912,8 +3912,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_rainbow_geode_donatable": {
-    "Location": "images/spr_ui_item_rainbow_geode_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_rainbow_geode_donatable_0.png",
+    "Location": "images/items/spr_ui_item_rainbow_geode_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_rainbow_geode_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3924,8 +3924,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_rainbow_seaweed_donatable": {
-    "Location": "images/spr_ui_item_rainbow_seaweed_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_rainbow_seaweed_donatable_0.png",
+    "Location": "images/items/spr_ui_item_rainbow_seaweed_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_rainbow_seaweed_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3936,8 +3936,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_really_round_rock_donatable": {
-    "Location": "images/spr_ui_item_really_round_rock_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_really_round_rock_donatable_0.png",
+    "Location": "images/items/spr_ui_item_really_round_rock_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_really_round_rock_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3948,8 +3948,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_redtoadstool_donatable": {
-    "Location": "images/spr_ui_item_redtoadstool_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_redtoadstool_donatable_0.png",
+    "Location": "images/items/spr_ui_item_redtoadstool_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_redtoadstool_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3960,8 +3960,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_red_obsidian_donatable": {
-    "Location": "images/spr_ui_item_red_obsidian_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_red_obsidian_donatable_0.png",
+    "Location": "images/items/spr_ui_item_red_obsidian_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_red_obsidian_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3972,8 +3972,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_ritual_beads_donatable": {
-    "Location": "images/spr_ui_item_ritual_beads_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_ritual_beads_donatable_0.png",
+    "Location": "images/items/spr_ui_item_ritual_beads_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_ritual_beads_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3984,8 +3984,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_ritual_chalice_donatable": {
-    "Location": "images/spr_ui_item_ritual_chalice_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_ritual_chalice_donatable_0.png",
+    "Location": "images/items/spr_ui_item_ritual_chalice_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_ritual_chalice_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -3996,8 +3996,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_ritual_incense_burner_donatable": {
-    "Location": "images/spr_ui_item_ritual_incense_burner_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_ritual_incense_burner_donatable_0.png",
+    "Location": "images/items/spr_ui_item_ritual_incense_burner_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_ritual_incense_burner_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4008,8 +4008,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_ritual_scepter_donatable": {
-    "Location": "images/spr_ui_item_ritual_scepter_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_ritual_scepter_donatable_0.png",
+    "Location": "images/items/spr_ui_item_ritual_scepter_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_ritual_scepter_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4020,8 +4020,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_ritual_tablet_donatable": {
-    "Location": "images/spr_ui_item_ritual_tablet_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_ritual_tablet_donatable_0.png",
+    "Location": "images/items/spr_ui_item_ritual_tablet_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_ritual_tablet_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4032,8 +4032,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_rockroot_donatable": {
-    "Location": "images/spr_ui_item_rockroot_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_rockroot_donatable_0.png",
+    "Location": "images/items/spr_ui_item_rockroot_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_rockroot_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4044,8 +4044,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_rock_statue_donatable": {
-    "Location": "images/spr_ui_item_rock_statue_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_rock_statue_donatable_0.png",
+    "Location": "images/items/spr_ui_item_rock_statue_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_rock_statue_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4056,8 +4056,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_rock_with_a_hole_donatable": {
-    "Location": "images/spr_ui_item_rock_with_a_hole_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_rock_with_a_hole_donatable_0.png",
+    "Location": "images/items/spr_ui_item_rock_with_a_hole_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_rock_with_a_hole_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4068,8 +4068,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_rosemary_donatable": {
-    "Location": "images/spr_ui_item_rosemary_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_rosemary_donatable_0.png",
+    "Location": "images/items/spr_ui_item_rosemary_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_rosemary_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4080,8 +4080,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_rubber_fish_donatable": {
-    "Location": "images/spr_ui_item_rubber_fish_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_rubber_fish_donatable_0.png",
+    "Location": "images/items/spr_ui_item_rubber_fish_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_rubber_fish_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4092,8 +4092,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_rusted_shield_donatable": {
-    "Location": "images/spr_ui_item_rusted_shield_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_rusted_shield_donatable_0.png",
+    "Location": "images/items/spr_ui_item_rusted_shield_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_rusted_shield_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4104,8 +4104,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_rusted_treasure_chest_donatable": {
-    "Location": "images/spr_ui_item_rusted_treasure_chest_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_rusted_treasure_chest_donatable_0.png",
+    "Location": "images/items/spr_ui_item_rusted_treasure_chest_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_rusted_treasure_chest_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4116,8 +4116,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_sage_donatable": {
-    "Location": "images/spr_ui_item_sage_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_sage_donatable_0.png",
+    "Location": "images/items/spr_ui_item_sage_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_sage_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4128,8 +4128,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_sea_glass_donatable": {
-    "Location": "images/spr_ui_item_sea_glass_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_sea_glass_donatable_0.png",
+    "Location": "images/items/spr_ui_item_sea_glass_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_sea_glass_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4140,8 +4140,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_sea_grapes_donatable": {
-    "Location": "images/spr_ui_item_sea_grapes_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_sea_grapes_donatable_0.png",
+    "Location": "images/items/spr_ui_item_sea_grapes_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_sea_grapes_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4152,8 +4152,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_seriously_square_rock_donatable": {
-    "Location": "images/spr_ui_item_seriously_square_rock_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_seriously_square_rock_donatable_0.png",
+    "Location": "images/items/spr_ui_item_seriously_square_rock_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_seriously_square_rock_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4164,8 +4164,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_shadow_flower_donatable": {
-    "Location": "images/spr_ui_item_shadow_flower_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_shadow_flower_donatable_0.png",
+    "Location": "images/items/spr_ui_item_shadow_flower_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_shadow_flower_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4176,8 +4176,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_shale_grass_donatable": {
-    "Location": "images/spr_ui_item_shale_grass_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_shale_grass_donatable_0.png",
+    "Location": "images/items/spr_ui_item_shale_grass_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_shale_grass_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4188,8 +4188,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_shards_donatable": {
-    "Location": "images/spr_ui_item_shards_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_shards_donatable_0.png",
+    "Location": "images/items/spr_ui_item_shards_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_shards_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4200,8 +4200,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_shard_mass_donatable": {
-    "Location": "images/spr_ui_item_shard_mass_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_shard_mass_donatable_0.png",
+    "Location": "images/items/spr_ui_item_shard_mass_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_shard_mass_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4212,8 +4212,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_shortcut_scroll_donatable": {
-    "Location": "images/spr_ui_item_shortcut_scroll_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_shortcut_scroll_donatable_0.png",
+    "Location": "images/items/spr_ui_item_shortcut_scroll_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_shortcut_scroll_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4224,8 +4224,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_snapdragon_donatable": {
-    "Location": "images/spr_ui_item_snapdragon_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_snapdragon_donatable_0.png",
+    "Location": "images/items/spr_ui_item_snapdragon_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_snapdragon_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4236,8 +4236,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_snowdrop_anemone_donatable": {
-    "Location": "images/spr_ui_item_snowdrop_anemone_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_snowdrop_anemone_donatable_0.png",
+    "Location": "images/items/spr_ui_item_snowdrop_anemone_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_snowdrop_anemone_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4248,8 +4248,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_snow_peas_donatable": {
-    "Location": "images/spr_ui_item_snow_peas_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_snow_peas_donatable_0.png",
+    "Location": "images/items/spr_ui_item_snow_peas_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_snow_peas_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4260,8 +4260,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_sod_donatable": {
-    "Location": "images/spr_ui_item_sod_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_sod_donatable_0.png",
+    "Location": "images/items/spr_ui_item_sod_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_sod_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4272,8 +4272,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_spell_fruit_donatable": {
-    "Location": "images/spr_ui_item_spell_fruit_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_spell_fruit_donatable_0.png",
+    "Location": "images/items/spr_ui_item_spell_fruit_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_spell_fruit_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4284,8 +4284,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_spirit_mushroom_donatable": {
-    "Location": "images/spr_ui_item_spirit_mushroom_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_spirit_mushroom_donatable_0.png",
+    "Location": "images/items/spr_ui_item_spirit_mushroom_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_spirit_mushroom_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4296,8 +4296,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_springonion_donatable": {
-    "Location": "images/spr_ui_item_springonion_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_springonion_donatable_0.png",
+    "Location": "images/items/spr_ui_item_springonion_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_springonion_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4308,8 +4308,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_starlight_coral_donatable": {
-    "Location": "images/spr_ui_item_starlight_coral_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_starlight_coral_donatable_0.png",
+    "Location": "images/items/spr_ui_item_starlight_coral_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_starlight_coral_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4320,8 +4320,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_statuette_of_caldarus_donatable": {
-    "Location": "images/spr_ui_item_statuette_of_caldarus_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_statuette_of_caldarus_donatable_0.png",
+    "Location": "images/items/spr_ui_item_statuette_of_caldarus_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_statuette_of_caldarus_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4332,8 +4332,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_stone_horse_donatable": {
-    "Location": "images/spr_ui_item_stone_horse_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_stone_horse_donatable_0.png",
+    "Location": "images/items/spr_ui_item_stone_horse_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_stone_horse_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4344,8 +4344,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_stone_shell_donatable": {
-    "Location": "images/spr_ui_item_stone_shell_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_stone_shell_donatable_0.png",
+    "Location": "images/items/spr_ui_item_stone_shell_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_stone_shell_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4356,8 +4356,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_strawberry_donatable": {
-    "Location": "images/spr_ui_item_strawberry_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_strawberry_donatable_0.png",
+    "Location": "images/items/spr_ui_item_strawberry_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_strawberry_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4368,8 +4368,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_sweetroot_donatable": {
-    "Location": "images/spr_ui_item_sweetroot_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_sweetroot_donatable_0.png",
+    "Location": "images/items/spr_ui_item_sweetroot_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_sweetroot_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4380,8 +4380,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_sweet_potato_donatable": {
-    "Location": "images/spr_ui_item_sweet_potato_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_sweet_potato_donatable_0.png",
+    "Location": "images/items/spr_ui_item_sweet_potato_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_sweet_potato_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4392,8 +4392,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_temple_flower_donatable": {
-    "Location": "images/spr_ui_item_temple_flower_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_temple_flower_donatable_0.png",
+    "Location": "images/items/spr_ui_item_temple_flower_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_temple_flower_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4404,8 +4404,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_thorn_vine_donatable": {
-    "Location": "images/spr_ui_item_thorn_vine_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_thorn_vine_donatable_0.png",
+    "Location": "images/items/spr_ui_item_thorn_vine_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_thorn_vine_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4416,8 +4416,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_thyme_donatable": {
-    "Location": "images/spr_ui_item_thyme_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_thyme_donatable_0.png",
+    "Location": "images/items/spr_ui_item_thyme_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_thyme_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4428,8 +4428,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_tidestone_donatable": {
-    "Location": "images/spr_ui_item_tidestone_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_tidestone_donatable_0.png",
+    "Location": "images/items/spr_ui_item_tidestone_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_tidestone_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4440,8 +4440,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_tide_lettuce_donatable": {
-    "Location": "images/spr_ui_item_tide_lettuce_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_tide_lettuce_donatable_0.png",
+    "Location": "images/items/spr_ui_item_tide_lettuce_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_tide_lettuce_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4452,8 +4452,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_tiny_dinosaur_skeleton_donatable": {
-    "Location": "images/spr_ui_item_tiny_dinosaur_skeleton_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_tiny_dinosaur_skeleton_donatable_0.png",
+    "Location": "images/items/spr_ui_item_tiny_dinosaur_skeleton_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_tiny_dinosaur_skeleton_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4464,8 +4464,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_tiny_volcano_donatable": {
-    "Location": "images/spr_ui_item_tiny_volcano_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_tiny_volcano_donatable_0.png",
+    "Location": "images/items/spr_ui_item_tiny_volcano_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_tiny_volcano_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4476,8 +4476,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_tin_lunchbox_donatable": {
-    "Location": "images/spr_ui_item_tin_lunchbox_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_tin_lunchbox_donatable_0.png",
+    "Location": "images/items/spr_ui_item_tin_lunchbox_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_tin_lunchbox_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4488,8 +4488,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_tomato_donatable": {
-    "Location": "images/spr_ui_item_tomato_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_tomato_donatable_0.png",
+    "Location": "images/items/spr_ui_item_tomato_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_tomato_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4500,8 +4500,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_trilobite_fossil_donatable": {
-    "Location": "images/spr_ui_item_trilobite_fossil_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_trilobite_fossil_donatable_0.png",
+    "Location": "images/items/spr_ui_item_trilobite_fossil_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_trilobite_fossil_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4512,8 +4512,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_tulip_donatable": {
-    "Location": "images/spr_ui_item_tulip_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_tulip_donatable_0.png",
+    "Location": "images/items/spr_ui_item_tulip_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_tulip_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4524,8 +4524,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_turnip_donatable": {
-    "Location": "images/spr_ui_item_turnip_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_turnip_donatable_0.png",
+    "Location": "images/items/spr_ui_item_turnip_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_turnip_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4536,8 +4536,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_underseaweed_donatable": {
-    "Location": "images/spr_ui_item_underseaweed_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_underseaweed_donatable_0.png",
+    "Location": "images/items/spr_ui_item_underseaweed_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_underseaweed_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4548,8 +4548,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_unknown_dragon_statuette_donatable": {
-    "Location": "images/spr_ui_item_unknown_dragon_statuette_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_unknown_dragon_statuette_donatable_0.png",
+    "Location": "images/items/spr_ui_item_unknown_dragon_statuette_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_unknown_dragon_statuette_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4560,8 +4560,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_upper_mines_mushroom_donatable": {
-    "Location": "images/spr_ui_item_upper_mines_mushroom_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_upper_mines_mushroom_donatable_0.png",
+    "Location": "images/items/spr_ui_item_upper_mines_mushroom_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_upper_mines_mushroom_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4572,8 +4572,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_vintage_bell_donatable": {
-    "Location": "images/spr_ui_item_vintage_bell_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_vintage_bell_donatable_0.png",
+    "Location": "images/items/spr_ui_item_vintage_bell_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_vintage_bell_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4584,8 +4584,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_vintage_brush_donatable": {
-    "Location": "images/spr_ui_item_vintage_brush_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_vintage_brush_donatable_0.png",
+    "Location": "images/items/spr_ui_item_vintage_brush_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_vintage_brush_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4596,8 +4596,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_vintage_hammer_donatable": {
-    "Location": "images/spr_ui_item_vintage_hammer_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_vintage_hammer_donatable_0.png",
+    "Location": "images/items/spr_ui_item_vintage_hammer_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_vintage_hammer_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4608,8 +4608,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_vintage_sickle_donatable": {
-    "Location": "images/spr_ui_item_vintage_sickle_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_vintage_sickle_donatable_0.png",
+    "Location": "images/items/spr_ui_item_vintage_sickle_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_vintage_sickle_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4620,8 +4620,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_vintage_watering_can_donatable": {
-    "Location": "images/spr_ui_item_vintage_watering_can_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_vintage_watering_can_donatable_0.png",
+    "Location": "images/items/spr_ui_item_vintage_watering_can_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_vintage_watering_can_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4632,8 +4632,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_viola_donatable": {
-    "Location": "images/spr_ui_item_viola_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_viola_donatable_0.png",
+    "Location": "images/items/spr_ui_item_viola_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_viola_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4644,8 +4644,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_voidite_donatable": {
-    "Location": "images/spr_ui_item_voidite_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_voidite_donatable_0.png",
+    "Location": "images/items/spr_ui_item_voidite_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_voidite_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4656,8 +4656,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_void_herb_donatable": {
-    "Location": "images/spr_ui_item_void_herb_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_void_herb_donatable_0.png",
+    "Location": "images/items/spr_ui_item_void_herb_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_void_herb_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4668,8 +4668,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_void_pearl_donatable": {
-    "Location": "images/spr_ui_item_void_pearl_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_void_pearl_donatable_0.png",
+    "Location": "images/items/spr_ui_item_void_pearl_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_void_pearl_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4680,8 +4680,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_void_powder_donatable": {
-    "Location": "images/spr_ui_item_void_powder_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_void_powder_donatable_0.png",
+    "Location": "images/items/spr_ui_item_void_powder_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_void_powder_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4692,8 +4692,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_void_stone_donatable": {
-    "Location": "images/spr_ui_item_void_stone_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_void_stone_donatable_0.png",
+    "Location": "images/items/spr_ui_item_void_stone_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_void_stone_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4704,8 +4704,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_walnut_donatable": {
-    "Location": "images/spr_ui_item_walnut_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_walnut_donatable_0.png",
+    "Location": "images/items/spr_ui_item_walnut_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_walnut_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4716,8 +4716,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_warm_rock_donatable": {
-    "Location": "images/spr_ui_item_warm_rock_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_warm_rock_donatable_0.png",
+    "Location": "images/items/spr_ui_item_warm_rock_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_warm_rock_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4728,8 +4728,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_watermelon_donatable": {
-    "Location": "images/spr_ui_item_watermelon_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_watermelon_donatable_0.png",
+    "Location": "images/items/spr_ui_item_watermelon_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_watermelon_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4740,8 +4740,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_water_sphere_donatable": {
-    "Location": "images/spr_ui_item_water_sphere_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_water_sphere_donatable_0.png",
+    "Location": "images/items/spr_ui_item_water_sphere_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_water_sphere_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4752,8 +4752,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_weightless_stone_donatable": {
-    "Location": "images/spr_ui_item_weightless_stone_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_weightless_stone_donatable_0.png",
+    "Location": "images/items/spr_ui_item_weightless_stone_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_weightless_stone_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4764,8 +4764,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_worn_pendant_donatable": {
-    "Location": "images/spr_ui_item_worn_pendant_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_worn_pendant_donatable_0.png",
+    "Location": "images/items/spr_ui_item_worn_pendant_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_worn_pendant_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -4776,8 +4776,8 @@
     "IsUiItem": true
   },
   "spr_ui_item_written_root_donatable": {
-    "Location": "images/spr_ui_item_written_root_donatable_0.png",
-    "OutlineLocation": "images/spr_ui_item_written_root_donatable_0.png",
+    "Location": "images/items/spr_ui_item_written_root_donatable_0.png",
+    "OutlineLocation": "images/items/spr_ui_item_written_root_donatable_0.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
