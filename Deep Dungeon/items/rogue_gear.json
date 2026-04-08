@@ -19,11 +19,11 @@
                 "minutes": 0
             },
             {
-                "count": 250,
+                "count": 125,
                 "item": "glow_stone_small"
             },
             {
-                "count": 50,
+                "count": 25,
                 "item": "beast_coin_small"
             },
             {
@@ -60,11 +60,11 @@
                 "minutes": 0
             },
             {
-                "count": 250,
+                "count": 125,
                 "item": "glow_stone_tiny"
             },
             {
-                "count": 50,
+                "count": 25,
                 "item": "beast_coin_tiny"
             },
             {
@@ -101,11 +101,11 @@
                 "minutes": 0
             },
             {
-                "count": 250,
+                "count": 125,
                 "item": "glow_stone_large"
             },
             {
-                "count": 50,
+                "count": 25,
                 "item": "beast_coin_large"
             },
             {
@@ -142,11 +142,11 @@
                 "minutes": 0
             },
             {
-                "count": 250,
+                "count": 125,
                 "item": "glow_stone_giant"
             },
             {
-                "count": 50,
+                "count": 25,
                 "item": "beast_coin_giant"
             },
             {
@@ -183,11 +183,11 @@
                 "minutes": 0
             },
             {
-                "count": 250,
+                "count": 125,
                 "item": "glow_stone_medium"
             },
             {
-                "count": 50,
+                "count": 25,
                 "item": "beast_coin_medium"
             },
             {

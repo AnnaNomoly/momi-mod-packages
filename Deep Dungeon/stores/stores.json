@@ -21,6 +21,16 @@
       "category": "spr_illegal_16"
     },
     {
+      "item": "adventurers_rucksack_worn",
+      "store": "blacksmith",
+      "category": "spr_ui_store_category_icon_sword"
+    },
+    {
+      "item": "adventurers_rucksack_new",
+      "store": "blacksmith",
+      "category": "spr_ui_store_category_icon_sword"
+    },
+    {
       "item": "pick_axe_worn",
       "store": "blacksmith",
       "category": "spr_ui_store_category_icon_sword"

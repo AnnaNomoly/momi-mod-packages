@@ -1,43 +1,639 @@
 {
-    "tide_caverns_key": {
+    "upper_mines_key_f5": {
         "overwrites_other_mod": false,
-        "description": "Items/Mods/Deep Dungeon/Keys/tide_caverns_key/description",
-        "name": "Items/Mods/Deep Dungeon/Keys/tide_caverns_key/name",
+        "description": "Items/Mods/Deep Dungeon/Keys/upper_mines_key/F5/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/upper_mines_key/F5/name",
+        "icon_sprite": "spr_ui_item_upper_mines_key",
+        "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 10,
+            "item": "glow_stone_tiny"
+        },
+        {
+            "count": 2,
+            "item": "beast_coin_tiny"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "upper_mines_key_f10": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/upper_mines_key/F10/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/upper_mines_key/F10/name",
+        "icon_sprite": "spr_ui_item_upper_mines_key",
+        "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 15,
+            "item": "glow_stone_tiny"
+        },
+        {
+            "count": 3,
+            "item": "beast_coin_tiny"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "upper_mines_key_f15": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/upper_mines_key/F15/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/upper_mines_key/F15/name",
+        "icon_sprite": "spr_ui_item_upper_mines_key",
+        "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 20,
+            "item": "glow_stone_tiny"
+        },
+        {
+            "count": 4,
+            "item": "beast_coin_tiny"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "tide_caverns_key_f20": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/tide_caverns_key/F20/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/tide_caverns_key/F20/name",
         "icon_sprite": "spr_ui_item_tide_caverns_key",
         "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 5,
+            "item": "glow_stone_small"
+        },
+        {
+            "count": 1,
+            "item": "beast_coin_small"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
         "value": {
             "bin": 0,
             "store": 1
         }
     },
-    "deep_earth_key": {
+    "tide_caverns_key_f25": {
         "overwrites_other_mod": false,
-        "description": "Items/Mods/Deep Dungeon/Keys/deep_earth_key/description",
-        "name": "Items/Mods/Deep Dungeon/Keys/deep_earth_key/name",
+        "description": "Items/Mods/Deep Dungeon/Keys/tide_caverns_key/F25/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/tide_caverns_key/F25/name",
+        "icon_sprite": "spr_ui_item_tide_caverns_key",
+        "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 10,
+            "item": "glow_stone_small"
+        },
+        {
+            "count": 2,
+            "item": "beast_coin_small"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "tide_caverns_key_f30": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/tide_caverns_key/F30/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/tide_caverns_key/F30/name",
+        "icon_sprite": "spr_ui_item_tide_caverns_key",
+        "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 15,
+            "item": "glow_stone_small"
+        },
+        {
+            "count": 3,
+            "item": "beast_coin_small"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "tide_caverns_key_f35": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/tide_caverns_key/F35/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/tide_caverns_key/F35/name",
+        "icon_sprite": "spr_ui_item_tide_caverns_key",
+        "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 20,
+            "item": "glow_stone_small"
+        },
+        {
+            "count": 4,
+            "item": "beast_coin_small"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "deep_earth_key_f40": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/deep_earth_key/F40/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/deep_earth_key/F40/name",
         "icon_sprite": "spr_ui_item_deep_earth_key",
         "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 5,
+            "item": "glow_stone_medium"
+        },
+        {
+            "count": 1,
+            "item": "beast_coin_medium"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
         "value": {
             "bin": 0,
             "store": 1
         }
     },
-    "lava_caves_key": {
+    "deep_earth_key_f45": {
         "overwrites_other_mod": false,
-        "description": "Items/Mods/Deep Dungeon/Keys/lava_caves_key/description",
-        "name": "Items/Mods/Deep Dungeon/Keys/lava_caves_key/name",
+        "description": "Items/Mods/Deep Dungeon/Keys/deep_earth_key/F45/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/deep_earth_key/F45/name",
+        "icon_sprite": "spr_ui_item_deep_earth_key",
+        "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 10,
+            "item": "glow_stone_medium"
+        },
+        {
+            "count": 2,
+            "item": "beast_coin_medium"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "deep_earth_key_f50": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/deep_earth_key/F50/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/deep_earth_key/F50/name",
+        "icon_sprite": "spr_ui_item_deep_earth_key",
+        "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 15,
+            "item": "glow_stone_medium"
+        },
+        {
+            "count": 3,
+            "item": "beast_coin_medium"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "deep_earth_key_f55": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/deep_earth_key/F55/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/deep_earth_key/F55/name",
+        "icon_sprite": "spr_ui_item_deep_earth_key",
+        "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 20,
+            "item": "glow_stone_medium"
+        },
+        {
+            "count": 4,
+            "item": "beast_coin_medium"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "lava_caves_key_f60": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/lava_caves_key/F60/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/lava_caves_key/F60/name",
         "icon_sprite": "spr_ui_item_lava_caves_key",
         "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 5,
+            "item": "glow_stone_large"
+        },
+        {
+            "count": 1,
+            "item": "beast_coin_large"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
         "value": {
             "bin": 0,
             "store": 1
         }
     },
-    "ruins_key": {
+    "lava_caves_key_f65": {
         "overwrites_other_mod": false,
-        "description": "Items/Mods/Deep Dungeon/Keys/ruins_key/description",
-        "name": "Items/Mods/Deep Dungeon/Keys/ruins_key/name",
+        "description": "Items/Mods/Deep Dungeon/Keys/lava_caves_key/F65/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/lava_caves_key/F65/name",
+        "icon_sprite": "spr_ui_item_lava_caves_key",
+        "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 10,
+            "item": "glow_stone_large"
+        },
+        {
+            "count": 2,
+            "item": "beast_coin_large"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "lava_caves_key_f70": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/lava_caves_key/F70/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/lava_caves_key/F70/name",
+        "icon_sprite": "spr_ui_item_lava_caves_key",
+        "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 15,
+            "item": "glow_stone_large"
+        },
+        {
+            "count": 3,
+            "item": "beast_coin_large"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "lava_caves_key_f75": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/lava_caves_key/F75/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/lava_caves_key/F75/name",
+        "icon_sprite": "spr_ui_item_lava_caves_key",
+        "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 20,
+            "item": "glow_stone_large"
+        },
+        {
+            "count": 4,
+            "item": "beast_coin_large"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "ruins_key_f80": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/ruins_key/F80/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/ruins_key/F80/name",
         "icon_sprite": "spr_ui_item_ruins_key",
         "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 5,
+            "item": "glow_stone_giant"
+        },
+        {
+            "count": 1,
+            "item": "beast_coin_giant"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "ruins_key_f85": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/ruins_key/F85/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/ruins_key/F85/name",
+        "icon_sprite": "spr_ui_item_ruins_key",
+        "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 10,
+            "item": "glow_stone_giant"
+        },
+        {
+            "count": 2,
+            "item": "beast_coin_giant"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "ruins_key_f90": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/ruins_key/F90/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/ruins_key/F90/name",
+        "icon_sprite": "spr_ui_item_ruins_key",
+        "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 15,
+            "item": "glow_stone_giant"
+        },
+        {
+            "count": 3,
+            "item": "beast_coin_giant"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "ruins_key_f95": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/ruins_key/F95/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/ruins_key/F95/name",
+        "icon_sprite": "spr_ui_item_ruins_key",
+        "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 20,
+            "item": "glow_stone_giant"
+        },
+        {
+            "count": 4,
+            "item": "beast_coin_giant"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "ruins_key_f100": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Keys/ruins_key/F100/description",
+        "name": "Items/Mods/Deep Dungeon/Keys/ruins_key/F100/name",
+        "icon_sprite": "spr_ui_item_ruins_key",
+        "edible": true,
+        "recipe_is_default": false,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 25,
+            "item": "glow_stone_giant"
+        },
+        {
+            "count": 5,
+            "item": "beast_coin_giant"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
         "value": {
             "bin": 0,
             "store": 1

@@ -1,0 +1,24 @@
+{
+    "adventurers_rucksack_worn": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Upgrades/adventurers_rucksack_worn/description",
+        "name": "Items/Mods/Deep Dungeon/Upgrades/adventurers_rucksack_worn/name",
+        "icon_sprite": "spr_ui_item_adventurers_rucksack_worn",
+        "new_inventory_size": 20,
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "adventurers_rucksack_new": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Upgrades/adventurers_rucksack_new/description",
+        "name": "Items/Mods/Deep Dungeon/Upgrades/adventurers_rucksack_new/name",
+        "icon_sprite": "spr_ui_item_adventurers_rucksack_new",
+        "new_inventory_size": 30,
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    }
+}

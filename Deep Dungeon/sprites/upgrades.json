@@ -1,0 +1,26 @@
+{
+  "spr_ui_item_adventurers_rucksack_worn": {
+    "Location": "images/upgrades/bag/spr_ui_item_adventurers_rucksack_worn.png",
+    "OutlineLocation": "images/upgrades/bag/spr_ui_item_adventurers_rucksack_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_adventurers_rucksack_new": {
+    "Location": "images/upgrades/bag/spr_ui_item_adventurers_rucksack_new.png",
+    "OutlineLocation": "images/upgrades/bag/spr_ui_item_adventurers_rucksack_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+}

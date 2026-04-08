@@ -286,5 +286,51 @@
     "MarginTop": 0,
     "IsAnimated": false,
     "IsUiItem": true
+  },
+  "spr_ui_item_sigil_of_sight": {
+    "Location": "images/sigils/sight/spr_ui_item_sigil_of_sight.png",
+    "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_sigil_of_sight_disabled": {
+    "Location": "images/sigils/sight/spr_ui_item_sigil_of_sight_disabled.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_sigil_of_intuition": {
+    "Location": "images/sigils/intuition/spr_ui_item_sigil_of_intuition.png",
+    "OutlineLocation": "images/sigils/spr_ui_item_sigil_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_sigil_of_intuition_disabled": {
+    "Location": "images/sigils/intuition/spr_ui_item_sigil_of_intuition_disabled.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
   }
 }

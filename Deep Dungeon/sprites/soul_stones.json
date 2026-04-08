@@ -58,5 +58,17 @@
     "MarginTop": 0,
     "IsAnimated": false,
     "IsUiItem": true
+  },
+  "spr_ui_item_soul_stone_oracle": {
+    "Location": "images/materials/soul_stone/oracle/spr_ui_item_soul_stone_oracle.png",
+    "OutlineLocation": "images/materials/soul_stone/oracle/spr_ui_item_soul_stone_oracle_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
   }
 }

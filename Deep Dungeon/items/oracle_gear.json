@@ -1,0 +1,208 @@
+{
+    "oracle_helmet": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/oracle/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/oracle_helmet/name",
+        "icon_sprite": "spr_ui_item_equipment_oracle_helmet",
+        "defense": 0,
+        "recipe_is_default": true,
+        "tags": [
+            "head",
+            "armor",
+            "blacksmithing",
+            "class_armor"
+        ],
+        "crafting_level_requirement": 1,
+        "recipe": [
+            {
+                "hours": 6,
+                "minutes": 0
+            },
+            {
+                "count": 125,
+                "item": "glow_stone_small"
+            },
+            {
+                "count": 25,
+                "item": "beast_coin_small"
+            },
+            {
+                "count": 1,
+                "item": "cursed_helmet"
+            },
+            {
+                "count": 1,
+                "item": "soul_stone_oracle"
+            }
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "oracle_chestpiece": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/oracle/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/oracle_chestpiece/name",
+        "icon_sprite": "spr_ui_item_equipment_oracle_chestpiece",
+        "defense": 0,
+        "recipe_is_default": true,
+        "tags": [
+            "chest",
+            "armor",
+            "blacksmithing",
+            "class_armor"
+        ],
+        "crafting_level_requirement": 1,
+        "recipe": [
+            {
+                "hours": 6,
+                "minutes": 0
+            },
+            {
+                "count": 125,
+                "item": "glow_stone_tiny"
+            },
+            {
+                "count": 25,
+                "item": "beast_coin_tiny"
+            },
+            {
+                "count": 1,
+                "item": "cursed_chestpiece"
+            },
+            {
+                "count": 1,
+                "item": "soul_stone_oracle"
+            }
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "oracle_pants": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/oracle/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/oracle_pants/name",
+        "icon_sprite": "spr_ui_item_equipment_oracle_pants",
+        "defense": 0,
+        "recipe_is_default": true,
+        "tags": [
+            "legs",
+            "armor",
+            "blacksmithing",
+            "class_armor"
+        ],
+        "crafting_level_requirement": 1,
+        "recipe": [
+            {
+                "hours": 6,
+                "minutes": 0
+            },
+            {
+                "count": 125,
+                "item": "glow_stone_large"
+            },
+            {
+                "count": 25,
+                "item": "beast_coin_large"
+            },
+            {
+                "count": 1,
+                "item": "cursed_pants"
+            },
+            {
+                "count": 1,
+                "item": "soul_stone_oracle"
+            }
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "oracle_boots": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/oracle/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/oracle_boots/name",
+        "icon_sprite": "spr_ui_item_equipment_oracle_boots",
+        "defense": 0,
+        "recipe_is_default": true,
+        "tags": [
+            "boots",
+            "armor",
+            "blacksmithing",
+            "class_armor"
+        ],
+        "crafting_level_requirement": 1,
+        "recipe": [
+            {
+                "hours": 6,
+                "minutes": 0
+            },
+            {
+                "count": 125,
+                "item": "glow_stone_giant"
+            },
+            {
+                "count": 25,
+                "item": "beast_coin_giant"
+            },
+            {
+                "count": 1,
+                "item": "cursed_boots"
+            },
+            {
+                "count": 1,
+                "item": "soul_stone_oracle"
+            }
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "oracle_gloves": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Armor/oracle/description",
+        "name": "Items/Mods/Deep Dungeon/Armor/oracle_gloves/name",
+        "icon_sprite": "spr_ui_item_equipment_oracle_gloves",
+        "defense": 0,
+        "recipe_is_default": true,
+        "tags": [
+            "armor",
+            "accessory",
+            "blacksmithing",
+            "class_armor"
+        ],
+        "crafting_level_requirement": 1,
+        "recipe": [
+            {
+                "hours": 6,
+                "minutes": 0
+            },
+            {
+                "count": 125,
+                "item": "glow_stone_medium"
+            },
+            {
+                "count": 25,
+                "item": "beast_coin_medium"
+            },
+            {
+                "count": 1,
+                "item": "cursed_gloves"
+            },
+            {
+                "count": 1,
+                "item": "soul_stone_oracle"
+            }
+        ],
+        "value": {
+
+            "bin": 0,
+            "store": 1
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "greater_sigil_of_benediction": {
+        "overwrites_other_mod": false,
+        "name": "Items/Mods/Deep Dungeon/Greater Sigils/benediction/name",
+        "description": "Items/Mods/Deep Dungeon/Greater Sigils/benediction/description",
+        "icon_sprite": "spr_ui_item_greater_sigil_of_benediction",
+        "edible": true,
+        "value": {
+            "bin": 0
+        }
+    },
+    "greater_sigil_of_astral_flow": {
+        "overwrites_other_mod": false,
+        "name": "Items/Mods/Deep Dungeon/Greater Sigils/astral_flow/name",
+        "description": "Items/Mods/Deep Dungeon/Greater Sigils/astral_flow/description",
+        "icon_sprite": "spr_ui_item_greater_sigil_of_astral_flow",
+        "edible": true,
+        "value": {
+            "bin": 0
+        }
+    },
+    "greater_sigil_of_chain_spell": {
+        "overwrites_other_mod": false,
+        "name": "Items/Mods/Deep Dungeon/Greater Sigils/chain_spell/name",
+        "description": "Items/Mods/Deep Dungeon/Greater Sigils/chain_spell/description",
+        "icon_sprite": "spr_ui_item_greater_sigil_of_chain_spell",
+        "edible": true,
+        "value": {
+            "bin": 0
+        }
+    },
+    "greater_sigil_of_spirit_surge": {
+        "overwrites_other_mod": false,
+        "name": "Items/Mods/Deep Dungeon/Greater Sigils/spirit_surge/name",
+        "description": "Items/Mods/Deep Dungeon/Greater Sigils/spirit_surge/description",
+        "icon_sprite": "spr_ui_item_greater_sigil_of_spirit_surge",
+        "edible": true,
+        "value": {
+            "bin": 0
+        }
+    },
+    "greater_sigil_of_meikyo_shisui": {
+        "overwrites_other_mod": false,
+        "name": "Items/Mods/Deep Dungeon/Greater Sigils/meikyo_shisui/name",
+        "description": "Items/Mods/Deep Dungeon/Greater Sigils/meikyo_shisui/description",
+        "icon_sprite": "spr_ui_item_greater_sigil_of_meikyo_shisui",
+        "edible": true,
+        "value": {
+            "bin": 0
+        }
+    }
+}

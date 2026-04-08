@@ -1,4 +1,16 @@
 {
+  "spr_ui_item_upper_mines_key": {
+    "Location": "images/keys/upper_mines/spr_ui_item_upper_mines_key.png",
+    "OutlineLocation": "images/keys/upper_mines/spr_ui_item_upper_mines_key_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
   "spr_ui_item_tide_caverns_key": {
     "Location": "images/keys/tide_caverns/spr_ui_item_tide_caverns_key.png",
     "OutlineLocation": "images/keys/tide_caverns/spr_ui_item_tide_caverns_key_outline.png",

@@ -1,6 +1,12 @@
 {
     "Conversations/Mods/Deep Dungeon/placeholders/floor_enchantments/init": "",
     "Conversations/Mods/Deep Dungeon/placeholders/offerings/result": "",
+    "Conversations/Mods/Deep Dungeon/placeholders/condemn/result": "",
     "Conversations/Mods/Deep Dungeon/placeholders/sigil_parchment_exchange/cursed_armor/result": "",
-    "Conversations/Mods/Deep Dungeon/placeholders/sigil_parchment_exchange/soul_stone/result": ""
+    "Conversations/Mods/Deep Dungeon/placeholders/sigil_parchment_exchange/soul_stone/result": "",
+    "Conversations/Mods/Deep Dungeon/teleport_to_mines/1": "",
+    "Conversations/Mods/Deep Dungeon/teleport_to_mines/2": "",
+    "Conversations/Mods/Deep Dungeon/teleport_to_mines_or_deep_woods/1": "",
+    "Conversations/Mods/Deep Dungeon/teleport_to_mines_or_deep_woods/2": "",
+    "Conversations/Mods/Deep Dungeon/teleport_to_mines_or_deep_woods/3": ""
 }

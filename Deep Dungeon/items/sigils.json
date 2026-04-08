@@ -334,5 +334,59 @@
         "value": {
             "bin": 0
         }
+    },
+    "sigil_of_sight": {
+        "overwrites_other_mod": false,
+        "name": "Items/Mods/Deep Dungeon/Sigils/sight/name",
+        "description": "Items/Mods/Deep Dungeon/Sigils/sight/description",
+        "icon_sprite": "spr_ui_item_sigil_of_sight",
+        "edible": true,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "sigil_parchment"
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0
+        }
+    },
+    "sigil_of_intuition": {
+        "overwrites_other_mod": false,
+        "name": "Items/Mods/Deep Dungeon/Sigils/intuition/name",
+        "description": "Items/Mods/Deep Dungeon/Sigils/intuition/description",
+        "icon_sprite": "spr_ui_item_sigil_of_intuition",
+        "edible": true,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe_is_default": true,
+        "recipe": [
+            {
+                "count": 1,
+                "item": "sigil_parchment"
+            },
+            {
+                "hours": 0,
+                "minutes": 10
+            }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0
+        }
     }
 }
