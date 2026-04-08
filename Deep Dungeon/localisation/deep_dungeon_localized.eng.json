@@ -340,7 +340,7 @@
 
     "Notifications/Mods/Deep Dungeon/saving_disabled": "You are unable to save in the Deep Dungeon!",
     "Notifications/Mods/Deep Dungeon/sigil_limit": "That sigil is already active!",
-    "Notifications/Mods/Deep Dungeon/greater_sigil_limit": "A greater sigil has already been used!",
+    "Notifications/Mods/Deep Dungeon/greater_sigil_limit": "A lost scroll has already been used!",
     "Notifications/Mods/Deep Dungeon/salve_limit": "You have already used too many of that salve on the current floor!",
     "Notifications/Mods/Deep Dungeon/item_penalty": "You are unable to use that item due to the Item Penalty floor enchantment!",
     "Notifications/Mods/Deep Dungeon/item_prohibited": "That item is prohibited in the Deep Dungeon!",
@@ -350,7 +350,7 @@
     "Notifications/Mods/Deep Dungeon/lift_key_restricted": "You are only allowed to use a lift key at the mines entrance!",
     "Notifications/Mods/Deep Dungeon/orb_restricted": "You are only allowed to use boss battle orbs at the mines entrance!",
     "Notifications/Mods/Deep Dungeon/sigil_restricted": "You are unable to use sigils during a boss battle!",
-    "Notifications/Mods/Deep Dungeon/greater_sigil_restricted": "You are unable to use greater sigils during a boss battle!",
+    "Notifications/Mods/Deep Dungeon/greater_sigil_restricted": "You are unable to use lost scrolls during a boss battle!",
     "Notifications/Mods/Deep Dungeon/amnesia": "You are unable to cast spells due to the Amnesia floor enchantment!",
     "Notifications/Mods/Deep Dungeon/boss_spell_restriction": "You are unable to cast spells during boss battles!",
     "Notifications/Mods/Deep Dungeon/predict": "You have altered the enchantments on the next floor...",
