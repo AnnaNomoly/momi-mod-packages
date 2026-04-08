@@ -53,14 +53,14 @@
     "IsUiItem": false
   },
   "spr_revealed_floor_trap": {
-    "Location": "images/effects/floor_trap.png",
-    "OriginX": 50,
-    "OriginY": 50,
+    "Location": "images/effects/floor_trap",
+    "OriginX": 17,
+    "OriginY": 17,
     "MarginLeft": 0,
     "MarginRight": 0,
     "MarginBottom": 0,
     "MarginTop": 0,
-    "IsAnimated": false,
+    "IsAnimated": true,
     "IsUiItem": false
   },
   "spr_treasure_spot": {
