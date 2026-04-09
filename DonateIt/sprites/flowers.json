@@ -1,0 +1,82 @@
+{
+  "spr_flower_catmint_stage4_donatable": {
+    "Location": "images/flowers/spr_flower_catmint_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 25,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_flower_cosmos_stage4_donatable": {
+    "Location": "images/flowers/spr_flower_cosmos_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 25,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_flower_daffodil_stage4_donatable": {
+    "Location": "images/flowers/spr_flower_daffodil_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 25,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_flower_frost_lily_stage4_donatable": {
+    "Location": "images/flowers/spr_flower_frost_lily_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 32,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 40,
+    "MarginTop": 16,
+    "IsAnimated": false
+  },
+  "spr_flower_marigolds_stage4_donatable": {
+    "Location": "images/flowers/spr_flower_marigolds_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 25,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_flower_poinsettia_stage4_donatable": {
+    "Location": "images/flowers/spr_flower_poinsettia_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 32,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 40,
+    "MarginTop": 16,
+    "IsAnimated": false
+  },
+  "spr_flower_sunflower_stage4_donatable": {
+    "Location": "images/flowers/spr_flower_sunflower_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 32,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 40,
+    "MarginTop": 16,
+    "IsAnimated": false
+  },
+  "spr_flower_tulip_stage4_donatable": {
+    "Location": "images/flowers/spr_flower_tulip_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 25,
+    "MarginLeft": 0,
+    "MarginRight": 32,
+    "MarginBottom": 40,
+    "MarginTop": 0,
+    "IsAnimated": false
+  }
+}
