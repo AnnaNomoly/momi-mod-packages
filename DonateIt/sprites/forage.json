@@ -1,0 +1,592 @@
+{
+  "spr_forage_ash_mushroom_stage1_donatable": {
+    "Location": "images/forage/spr_forage_ash_mushroom_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_basil_stage4_donatable": {
+    "Location": "images/forage/spr_forage_basil_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_breath_of_flame_stage1_donatable": {
+    "Location": "images/forage/spr_forage_breath_of_flame_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_burdock_root_stage4_donatable": {
+    "Location": "images/forage/spr_forage_burdock_root_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_cave_kelp_stage1_donatable": {
+    "Location": "images/forage/spr_forage_cave_kelp_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_chestnut_stage1_donatable": {
+    "Location": "images/forage/spr_forage_chestnut_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_chirping_fern_stage1_donatable": {
+    "Location": "images/forage/spr_forage_chirping_fern_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_crocus_stage1_donatable": {
+    "Location": "images/forage/spr_forage_crocus_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_crystal_berries_stage1_donatable": {
+    "Location": "images/forage/spr_forage_crystal_berries_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_crystal_rose_stage1_donatable": {
+    "Location": "images/forage/spr_forage_crystal_rose_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_daisy_stage4_donatable": {
+    "Location": "images/forage/spr_forage_daisy_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_dandelion_stage1_donatable": {
+    "Location": "images/forage/spr_forage_dandelion_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_dill_stage4": {
+    "Location": "images/forage/spr_forage_dill_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_earthshroom_stage1_donatable": {
+    "Location": "images/forage/spr_forage_earthshroom_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_essence_blossom_stage1_donatable": {
+    "Location": "images/forage/spr_forage_essence_blossom_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_ethereal_grass_stage1_donatable": {
+    "Location": "images/forage/spr_forage_ethereal_grass_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_fennel_stage1_donatable": {
+    "Location": "images/forage/spr_forage_fennel_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_fiddleheads_stage1_donatable": {
+    "Location": "images/forage/spr_forage_fiddleheads_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_flame_pepper_stage1_donatable": {
+    "Location": "images/forage/spr_forage_flame_pepper_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_fogorchid_stage1_donatable": {
+    "Location": "images/forage/spr_forage_fogorchid_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_garlic_stage4_donatable": {
+    "Location": "images/forage/spr_forage_garlic_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_heather_stage4_donatable": {
+    "Location": "images/forage/spr_forage_heather_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_holly_stage1_donatable": {
+    "Location": "images/forage/spr_forage_holly_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_horseradish_stage1_donatable": {
+    "Location": "images/forage/spr_forage_horseradish_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_hot_potato_stage1_donatable": {
+    "Location": "images/forage/spr_forage_hot_potato_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_iris_stage4_donatable": {
+    "Location": "images/forage/spr_forage_iris_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_jasmine_stage4_donatable": {
+    "Location": "images/forage/spr_forage_jasmine_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_lava_chestnut_stage1_donatable": {
+    "Location": "images/forage/spr_forage_lava_chestnut_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_lilac_stage4_donatable": {
+    "Location": "images/forage/spr_forage_lilac_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_mines_mussels_stage1_donatable": {
+    "Location": "images/forage/spr_forage_mines_mussels_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_moon_fruit_stage4_donatable": {
+    "Location": "images/forage/spr_forage_moon_fruit_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_morelmushroom_stage1_donatable": {
+    "Location": "images/forage/spr_forage_morelmushroom_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_narrows_moss_stage1_donatable": {
+    "Location": "images/forage/spr_forage_narrows_moss_stage1_0.png",
+    "OriginX": 8,
+    "OriginY": 16,
+    "MarginLeft": 0,
+    "MarginRight": 16,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_nettle_stage1_donatable": {
+    "Location": "images/forage/spr_forage_nettle_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_oregano_stage4_donatable": {
+    "Location": "images/forage/spr_forage_oregano_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_oyster_mushroom_stage1_donatable": {
+    "Location": "images/forage/spr_forage_oyster_mushroom_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_pineshroom_stage1_donatable": {
+    "Location": "images/forage/spr_forage_pineshroom_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_rockroot_stage1_donatable": {
+    "Location": "images/forage/spr_forage_rockroot_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_rosemary_stage4_donatable": {
+    "Location": "images/forage/spr_forage_rosemary_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_sage_stage4_donatable": {
+    "Location": "images/forage/spr_forage_sage_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_sea_grapes_stage1_donatable": {
+    "Location": "images/forage/spr_forage_sea_grapes_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_shadow_flower_stage1_donatable": {
+    "Location": "images/forage/spr_forage_shadow_flower_stage1_0.png",
+    "OriginX": 8,
+    "OriginY": 16,
+    "MarginLeft": 0,
+    "MarginRight": 16,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_shale_grass_stage1_donatable": {
+    "Location": "images/forage/spr_forage_shale_grass_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_snapdragon_stage4_donatable": {
+    "Location": "images/forage/spr_forage_snapdragon_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_snowdrop_anemone_stage4_donatable": {
+    "Location": "images/forage/spr_forage_snowdrop_anemone_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 32,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 40,
+    "MarginTop": 16,
+    "IsAnimated": false
+  },
+  "spr_forage_spell_fruit_stage1_donatable": {
+    "Location": "images/forage/spr_forage_spell_fruit_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_spirit_mushroom_stage1_donatable": {
+    "Location": "images/forage/spr_forage_spirit_mushroom_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_springonion_stage1_donatable": {
+    "Location": "images/forage/spr_forage_springonion_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_sweetroot_stage1_donatable": {
+    "Location": "images/forage/spr_forage_sweetroot_stage1_0.png",
+    "OriginX": 8,
+    "OriginY": 16,
+    "MarginLeft": 0,
+    "MarginRight": 16,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_temple_flower_stage4_donatable": {
+    "Location": "images/forage/spr_forage_temple_flower_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_thorn_vine_stage1_donatable": {
+    "Location": "images/forage/spr_forage_thorn_vine_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_thyme_stage4_donatable": {
+    "Location": "images/forage/spr_forage_thyme_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 16,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_tide_lettuce_stage1_donatable": {
+    "Location": "images/forage/spr_forage_tide_lettuce_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_underseaweed_spring_stage_2_donatable": {
+    "Location": "images/forage/spr_forage_underseaweed_spring_stage_2",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 0,
+    "MarginRight": 32,
+    "MarginBottom": 40,
+    "MarginTop": 0,
+    "IsAnimated": true
+  },
+  "spr_forage_upper_mines_mushroom_stage1_donatable": {
+    "Location": "images/forage/spr_forage_upper_mines_mushroom_stage1_0.png",
+    "OriginX": 8,
+    "OriginY": 16,
+    "MarginLeft": 0,
+    "MarginRight": 16,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false
+  },
+  "spr_forage_viola_stage4_donatable": {
+    "Location": "images/forage/spr_forage_viola_stage4_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_void_herb_stage1_donatable": {
+    "Location": "images/forage/spr_forage_void_herb_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_walnut_stage1_donatable": {
+    "Location": "images/forage/spr_forage_walnut_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  },
+  "spr_forage_written_root_stage1_donatable": {
+    "Location": "images/forage/spr_forage_written_root_stage1_0.png",
+    "OriginX": 16,
+    "OriginY": 24,
+    "MarginLeft": 8,
+    "MarginRight": 24,
+    "MarginBottom": 32,
+    "MarginTop": 8,
+    "IsAnimated": false
+  }
+}
