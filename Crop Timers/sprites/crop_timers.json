@@ -1,4 +1,13 @@
 {
+    "spr_crop_beet_seed_timer_0_red": {
+        "Location": "images/spr_crop_beet_seed/spr_crop_beet_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_beet_seed_timer_0": {
         "Location": "images/spr_crop_beet_seed/spr_crop_beet_seed_0_timer_0.png",
         "OriginX": 16,
@@ -82,6 +91,15 @@
     },
     "spr_crop_beet_seed_timer_9": {
         "Location": "images/spr_crop_beet_seed/spr_crop_beet_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_beet_stage1_timer_0_red": {
+        "Location": "images/spr_crop_beet_stage1/spr_crop_beet_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -179,6 +197,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_beet_stage2_timer_0_red": {
+        "Location": "images/spr_crop_beet_stage2/spr_crop_beet_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_beet_stage2_timer_0": {
         "Location": "images/spr_crop_beet_stage2/spr_crop_beet_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -262,6 +289,15 @@
     },
     "spr_crop_beet_stage2_timer_9": {
         "Location": "images/spr_crop_beet_stage2/spr_crop_beet_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_beet_stage3_timer_0_red": {
+        "Location": "images/spr_crop_beet_stage3/spr_crop_beet_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -359,6 +395,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_beet_stage4_timer_0_red": {
+        "Location": "images/spr_crop_beet_stage4/spr_crop_beet_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_beet_stage4_timer_0": {
         "Location": "images/spr_crop_beet_stage4/spr_crop_beet_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -442,6 +487,15 @@
     },
     "spr_crop_beet_stage4_timer_9": {
         "Location": "images/spr_crop_beet_stage4/spr_crop_beet_stage4_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_broccoli_seed_timer_0_red": {
+        "Location": "images/spr_crop_broccoli_seed/spr_crop_broccoli_seed_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -539,6 +593,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_broccoli_stage1_timer_0_red": {
+        "Location": "images/spr_crop_broccoli_stage1/spr_crop_broccoli_stage1_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_broccoli_stage1_timer_0": {
         "Location": "images/spr_crop_broccoli_stage1/spr_crop_broccoli_stage1_0_timer_0.png",
         "OriginX": 16,
@@ -622,6 +685,15 @@
     },
     "spr_crop_broccoli_stage1_timer_9": {
         "Location": "images/spr_crop_broccoli_stage1/spr_crop_broccoli_stage1_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_broccoli_stage2_timer_0_red": {
+        "Location": "images/spr_crop_broccoli_stage2/spr_crop_broccoli_stage2_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -719,6 +791,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_broccoli_stage3_timer_0_red": {
+        "Location": "images/spr_crop_broccoli_stage3/spr_crop_broccoli_stage3_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_broccoli_stage3_timer_0": {
         "Location": "images/spr_crop_broccoli_stage3/spr_crop_broccoli_stage3_0_timer_0.png",
         "OriginX": 16,
@@ -802,6 +883,15 @@
     },
     "spr_crop_broccoli_stage3_timer_9": {
         "Location": "images/spr_crop_broccoli_stage3/spr_crop_broccoli_stage3_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_broccoli_stage4_timer_0_red": {
+        "Location": "images/spr_crop_broccoli_stage4/spr_crop_broccoli_stage4_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -899,6 +989,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_cabbage_seed_timer_0_red": {
+        "Location": "images/spr_crop_cabbage_seed/spr_crop_cabbage_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_cabbage_seed_timer_0": {
         "Location": "images/spr_crop_cabbage_seed/spr_crop_cabbage_seed_0_timer_0.png",
         "OriginX": 16,
@@ -982,6 +1081,15 @@
     },
     "spr_crop_cabbage_seed_timer_9": {
         "Location": "images/spr_crop_cabbage_seed/spr_crop_cabbage_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_cabbage_stage1_timer_0_red": {
+        "Location": "images/spr_crop_cabbage_stage1/spr_crop_cabbage_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -1079,6 +1187,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_cabbage_stage2_timer_0_red": {
+        "Location": "images/spr_crop_cabbage_stage2/spr_crop_cabbage_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_cabbage_stage2_timer_0": {
         "Location": "images/spr_crop_cabbage_stage2/spr_crop_cabbage_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -1162,6 +1279,15 @@
     },
     "spr_crop_cabbage_stage2_timer_9": {
         "Location": "images/spr_crop_cabbage_stage2/spr_crop_cabbage_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_cabbage_stage3_timer_0_red": {
+        "Location": "images/spr_crop_cabbage_stage3/spr_crop_cabbage_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -1259,6 +1385,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_cabbage_stage4_timer_0_red": {
+        "Location": "images/spr_crop_cabbage_stage4/spr_crop_cabbage_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_cabbage_stage4_timer_0": {
         "Location": "images/spr_crop_cabbage_stage4/spr_crop_cabbage_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -1342,6 +1477,15 @@
     },
     "spr_crop_cabbage_stage4_timer_9": {
         "Location": "images/spr_crop_cabbage_stage4/spr_crop_cabbage_stage4_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_carrot_seed_timer_0_red": {
+        "Location": "images/spr_crop_carrot_seed/spr_crop_carrot_seed_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -1439,6 +1583,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_carrot_stage1_timer_0_red": {
+        "Location": "images/spr_crop_carrot_stage1/spr_crop_carrot_stage1_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_carrot_stage1_timer_0": {
         "Location": "images/spr_crop_carrot_stage1/spr_crop_carrot_stage1_0_timer_0.png",
         "OriginX": 16,
@@ -1522,6 +1675,15 @@
     },
     "spr_crop_carrot_stage1_timer_9": {
         "Location": "images/spr_crop_carrot_stage1/spr_crop_carrot_stage1_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_carrot_stage2_timer_0_red": {
+        "Location": "images/spr_crop_carrot_stage2/spr_crop_carrot_stage2_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -1619,6 +1781,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_carrot_stage3_timer_0_red": {
+        "Location": "images/spr_crop_carrot_stage3/spr_crop_carrot_stage3_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_carrot_stage3_timer_0": {
         "Location": "images/spr_crop_carrot_stage3/spr_crop_carrot_stage3_0_timer_0.png",
         "OriginX": 16,
@@ -1702,6 +1873,15 @@
     },
     "spr_crop_carrot_stage3_timer_9": {
         "Location": "images/spr_crop_carrot_stage3/spr_crop_carrot_stage3_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_carrot_stage4_timer_0_red": {
+        "Location": "images/spr_crop_carrot_stage4/spr_crop_carrot_stage4_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -1799,6 +1979,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_cauliflower_seed_timer_0_red": {
+        "Location": "images/spr_crop_cauliflower_seed/spr_crop_cauliflower_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_cauliflower_seed_timer_0": {
         "Location": "images/spr_crop_cauliflower_seed/spr_crop_cauliflower_seed_0_timer_0.png",
         "OriginX": 16,
@@ -1882,6 +2071,15 @@
     },
     "spr_crop_cauliflower_seed_timer_9": {
         "Location": "images/spr_crop_cauliflower_seed/spr_crop_cauliflower_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_cauliflower_stage1_timer_0_red": {
+        "Location": "images/spr_crop_cauliflower_stage1/spr_crop_cauliflower_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -1979,6 +2177,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_cauliflower_stage2_timer_0_red": {
+        "Location": "images/spr_crop_cauliflower_stage2/spr_crop_cauliflower_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_cauliflower_stage2_timer_0": {
         "Location": "images/spr_crop_cauliflower_stage2/spr_crop_cauliflower_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -2062,6 +2269,15 @@
     },
     "spr_crop_cauliflower_stage2_timer_9": {
         "Location": "images/spr_crop_cauliflower_stage2/spr_crop_cauliflower_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_cauliflower_stage3_timer_0_red": {
+        "Location": "images/spr_crop_cauliflower_stage3/spr_crop_cauliflower_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -2159,6 +2375,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_cauliflower_stage4_timer_0_red": {
+        "Location": "images/spr_crop_cauliflower_stage4/spr_crop_cauliflower_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_cauliflower_stage4_timer_0": {
         "Location": "images/spr_crop_cauliflower_stage4/spr_crop_cauliflower_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -2249,6 +2474,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_celosia_seed_timer_0_red": {
+        "Location": "images/spr_crop_celosia_seed/spr_crop_celosia_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 33,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_celosia_seed_timer_0": {
         "Location": "images/spr_crop_celosia_seed/spr_crop_celosia_seed_0_timer_0.png",
         "OriginX": 16,
@@ -2332,6 +2566,15 @@
     },
     "spr_crop_celosia_seed_timer_9": {
         "Location": "images/spr_crop_celosia_seed/spr_crop_celosia_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 33,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_celosia_stage1_timer_0_red": {
+        "Location": "images/spr_crop_celosia_stage1/spr_crop_celosia_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 33,
         "MarginLeft": 8,
@@ -2429,6 +2672,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_celosia_stage2_timer_0_red": {
+        "Location": "images/spr_crop_celosia_stage2/spr_crop_celosia_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 33,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_celosia_stage2_timer_0": {
         "Location": "images/spr_crop_celosia_stage2/spr_crop_celosia_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -2512,6 +2764,15 @@
     },
     "spr_crop_celosia_stage2_timer_9": {
         "Location": "images/spr_crop_celosia_stage2/spr_crop_celosia_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 33,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_celosia_stage3_timer_0_red": {
+        "Location": "images/spr_crop_celosia_stage3/spr_crop_celosia_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 33,
         "MarginLeft": 8,
@@ -2609,6 +2870,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_celosia_stage4_timer_0_red": {
+        "Location": "images/spr_crop_celosia_stage4/spr_crop_celosia_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 33,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_celosia_stage4_timer_0": {
         "Location": "images/spr_crop_celosia_stage4/spr_crop_celosia_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -2699,6 +2969,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_chili_pepper_seed_timer_0_red": {
+        "Location": "images/spr_crop_chili_pepper_seed/spr_crop_chili_pepper_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_chili_pepper_seed_timer_0": {
         "Location": "images/spr_crop_chili_pepper_seed/spr_crop_chili_pepper_seed_0_timer_0.png",
         "OriginX": 16,
@@ -2782,6 +3061,15 @@
     },
     "spr_crop_chili_pepper_seed_timer_9": {
         "Location": "images/spr_crop_chili_pepper_seed/spr_crop_chili_pepper_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_chili_pepper_stage1_timer_0_red": {
+        "Location": "images/spr_crop_chili_pepper_stage1/spr_crop_chili_pepper_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -2879,6 +3167,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_chili_pepper_stage2_timer_0_red": {
+        "Location": "images/spr_crop_chili_pepper_stage2/spr_crop_chili_pepper_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_chili_pepper_stage2_timer_0": {
         "Location": "images/spr_crop_chili_pepper_stage2/spr_crop_chili_pepper_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -2962,6 +3259,15 @@
     },
     "spr_crop_chili_pepper_stage2_timer_9": {
         "Location": "images/spr_crop_chili_pepper_stage2/spr_crop_chili_pepper_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_chili_pepper_stage3_timer_0_red": {
+        "Location": "images/spr_crop_chili_pepper_stage3/spr_crop_chili_pepper_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -3059,6 +3365,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_chili_pepper_stage4_timer_0_red": {
+        "Location": "images/spr_crop_chili_pepper_stage4/spr_crop_chili_pepper_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_chili_pepper_stage4_timer_0": {
         "Location": "images/spr_crop_chili_pepper_stage4/spr_crop_chili_pepper_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -3149,6 +3464,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_chrysanthemum_seed_timer_0_red": {
+        "Location": "images/spr_crop_chrysanthemum_seed/spr_crop_chrysanthemum_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 33,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_chrysanthemum_seed_timer_0": {
         "Location": "images/spr_crop_chrysanthemum_seed/spr_crop_chrysanthemum_seed_0_timer_0.png",
         "OriginX": 16,
@@ -3232,6 +3556,15 @@
     },
     "spr_crop_chrysanthemum_seed_timer_9": {
         "Location": "images/spr_crop_chrysanthemum_seed/spr_crop_chrysanthemum_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 33,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_chrysanthemum_stage1_timer_0_red": {
+        "Location": "images/spr_crop_chrysanthemum_stage1/spr_crop_chrysanthemum_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 33,
         "MarginLeft": 8,
@@ -3329,6 +3662,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_chrysanthemum_stage2_timer_0_red": {
+        "Location": "images/spr_crop_chrysanthemum_stage2/spr_crop_chrysanthemum_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 33,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_chrysanthemum_stage2_timer_0": {
         "Location": "images/spr_crop_chrysanthemum_stage2/spr_crop_chrysanthemum_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -3412,6 +3754,15 @@
     },
     "spr_crop_chrysanthemum_stage2_timer_9": {
         "Location": "images/spr_crop_chrysanthemum_stage2/spr_crop_chrysanthemum_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 33,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_chrysanthemum_stage3_timer_0_red": {
+        "Location": "images/spr_crop_chrysanthemum_stage3/spr_crop_chrysanthemum_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 33,
         "MarginLeft": 8,
@@ -3509,6 +3860,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_chrysanthemum_stage4_timer_0_red": {
+        "Location": "images/spr_crop_chrysanthemum_stage4/spr_crop_chrysanthemum_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 33,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_chrysanthemum_stage4_timer_0": {
         "Location": "images/spr_crop_chrysanthemum_stage4/spr_crop_chrysanthemum_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -3599,6 +3959,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_corn_seed_timer_0_red": {
+        "Location": "images/spr_crop_corn_seed/spr_crop_corn_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_corn_seed_timer_0": {
         "Location": "images/spr_crop_corn_seed/spr_crop_corn_seed_0_timer_0.png",
         "OriginX": 16,
@@ -3682,6 +4051,15 @@
     },
     "spr_crop_corn_seed_timer_9": {
         "Location": "images/spr_crop_corn_seed/spr_crop_corn_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_corn_stage1_timer_0_red": {
+        "Location": "images/spr_crop_corn_stage1/spr_crop_corn_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -3779,6 +4157,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_corn_stage2_timer_0_red": {
+        "Location": "images/spr_crop_corn_stage2/spr_crop_corn_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_corn_stage2_timer_0": {
         "Location": "images/spr_crop_corn_stage2/spr_crop_corn_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -3862,6 +4249,15 @@
     },
     "spr_crop_corn_stage2_timer_9": {
         "Location": "images/spr_crop_corn_stage2/spr_crop_corn_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_corn_stage3_timer_0_red": {
+        "Location": "images/spr_crop_corn_stage3/spr_crop_corn_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -3959,6 +4355,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_corn_stage4_timer_0_red": {
+        "Location": "images/spr_crop_corn_stage4/spr_crop_corn_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_corn_stage4_timer_0": {
         "Location": "images/spr_crop_corn_stage4/spr_crop_corn_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -4042,6 +4447,15 @@
     },
     "spr_crop_corn_stage4_timer_9": {
         "Location": "images/spr_crop_corn_stage4/spr_crop_corn_stage4_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_cranberry_seed_timer_0_red": {
+        "Location": "images/spr_crop_cranberry_seed/spr_crop_cranberry_seed_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -4139,6 +4553,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_cranberry_stage1_timer_0_red": {
+        "Location": "images/spr_crop_cranberry_stage1/spr_crop_cranberry_stage1_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_cranberry_stage1_timer_0": {
         "Location": "images/spr_crop_cranberry_stage1/spr_crop_cranberry_stage1_0_timer_0.png",
         "OriginX": 16,
@@ -4222,6 +4645,15 @@
     },
     "spr_crop_cranberry_stage1_timer_9": {
         "Location": "images/spr_crop_cranberry_stage1/spr_crop_cranberry_stage1_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_cranberry_stage2_timer_0_red": {
+        "Location": "images/spr_crop_cranberry_stage2/spr_crop_cranberry_stage2_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -4319,6 +4751,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_cranberry_stage3_timer_0_red": {
+        "Location": "images/spr_crop_cranberry_stage3/spr_crop_cranberry_stage3_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_cranberry_stage3_timer_0": {
         "Location": "images/spr_crop_cranberry_stage3/spr_crop_cranberry_stage3_0_timer_0.png",
         "OriginX": 16,
@@ -4402,6 +4843,15 @@
     },
     "spr_crop_cranberry_stage3_timer_9": {
         "Location": "images/spr_crop_cranberry_stage3/spr_crop_cranberry_stage3_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_cranberry_stage4_timer_0_red": {
+        "Location": "images/spr_crop_cranberry_stage4/spr_crop_cranberry_stage4_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -4499,6 +4949,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_cucumber_seed_timer_0_red": {
+        "Location": "images/spr_crop_cucumber_seed/spr_crop_cucumber_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_cucumber_seed_timer_0": {
         "Location": "images/spr_crop_cucumber_seed/spr_crop_cucumber_seed_0_timer_0.png",
         "OriginX": 16,
@@ -4582,6 +5041,15 @@
     },
     "spr_crop_cucumber_seed_timer_9": {
         "Location": "images/spr_crop_cucumber_seed/spr_crop_cucumber_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_cucumber_stage1_timer_0_red": {
+        "Location": "images/spr_crop_cucumber_stage1/spr_crop_cucumber_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -4679,6 +5147,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_cucumber_stage2_timer_0_red": {
+        "Location": "images/spr_crop_cucumber_stage2/spr_crop_cucumber_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_cucumber_stage2_timer_0": {
         "Location": "images/spr_crop_cucumber_stage2/spr_crop_cucumber_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -4762,6 +5239,15 @@
     },
     "spr_crop_cucumber_stage2_timer_9": {
         "Location": "images/spr_crop_cucumber_stage2/spr_crop_cucumber_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_cucumber_stage3_timer_0_red": {
+        "Location": "images/spr_crop_cucumber_stage3/spr_crop_cucumber_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -4859,6 +5345,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_cucumber_stage4_timer_0_red": {
+        "Location": "images/spr_crop_cucumber_stage4/spr_crop_cucumber_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_cucumber_stage4_timer_0": {
         "Location": "images/spr_crop_cucumber_stage4/spr_crop_cucumber_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -4949,6 +5444,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_mystery_bag_seed_timer_0_red": {
+        "Location": "images/spr_crop_mystery_bag_seed/spr_crop_mystery_bag_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
     "spr_crop_mystery_bag_seed_timer_0": {
         "Location": "images/spr_crop_mystery_bag_seed/spr_crop_mystery_bag_seed_0_timer_0.png",
         "OriginX": 16,
@@ -5032,6 +5536,15 @@
     },
     "spr_crop_mystery_bag_seed_timer_9": {
         "Location": "images/spr_crop_mystery_bag_seed/spr_crop_mystery_bag_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
+    "spr_crop_mystery_bag_stage1_timer_0_red": {
+        "Location": "images/spr_crop_mystery_bag_stage1/spr_crop_mystery_bag_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 24,
         "MarginLeft": 8,
@@ -5129,6 +5642,15 @@
         "MarginBottom": 32,
         "MarginTop": 8
     },
+    "spr_crop_mystery_bag_stage2_timer_0_red": {
+        "Location": "images/spr_crop_mystery_bag_stage2/spr_crop_mystery_bag_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
     "spr_crop_mystery_bag_stage2_timer_0": {
         "Location": "images/spr_crop_mystery_bag_stage2/spr_crop_mystery_bag_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -5212,6 +5734,15 @@
     },
     "spr_crop_mystery_bag_stage2_timer_9": {
         "Location": "images/spr_crop_mystery_bag_stage2/spr_crop_mystery_bag_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
+    "spr_crop_mystery_bag_stage3_timer_0_red": {
+        "Location": "images/spr_crop_mystery_bag_stage3/spr_crop_mystery_bag_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 24,
         "MarginLeft": 8,
@@ -5309,6 +5840,15 @@
         "MarginBottom": 32,
         "MarginTop": 8
     },
+    "spr_crop_mystery_bag_stage4_stage4_timer_0_red": {
+        "Location": "images/spr_crop_mystery_bag_stage4_stage4/spr_crop_mystery_bag_stage4_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
     "spr_crop_mystery_bag_stage4_stage4_timer_0": {
         "Location": "images/spr_crop_mystery_bag_stage4_stage4/spr_crop_mystery_bag_stage4_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -5392,6 +5932,15 @@
     },
     "spr_crop_mystery_bag_stage4_stage4_timer_9": {
         "Location": "images/spr_crop_mystery_bag_stage4_stage4/spr_crop_mystery_bag_stage4_stage4_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
+    "spr_crop_onion_seed_timer_0_red": {
+        "Location": "images/spr_crop_onion_seed/spr_crop_onion_seed_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 24,
         "MarginLeft": 8,
@@ -5489,6 +6038,15 @@
         "MarginBottom": 32,
         "MarginTop": 8
     },
+    "spr_crop_onion_stage1_timer_0_red": {
+        "Location": "images/spr_crop_onion_stage1/spr_crop_onion_stage1_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
     "spr_crop_onion_stage1_timer_0": {
         "Location": "images/spr_crop_onion_stage1/spr_crop_onion_stage1_0_timer_0.png",
         "OriginX": 16,
@@ -5572,6 +6130,15 @@
     },
     "spr_crop_onion_stage1_timer_9": {
         "Location": "images/spr_crop_onion_stage1/spr_crop_onion_stage1_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
+    "spr_crop_onion_stage2_timer_0_red": {
+        "Location": "images/spr_crop_onion_stage2/spr_crop_onion_stage2_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 24,
         "MarginLeft": 8,
@@ -5669,6 +6236,15 @@
         "MarginBottom": 32,
         "MarginTop": 8
     },
+    "spr_crop_onion_stage3_timer_0_red": {
+        "Location": "images/spr_crop_onion_stage3/spr_crop_onion_stage3_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
     "spr_crop_onion_stage3_timer_0": {
         "Location": "images/spr_crop_onion_stage3/spr_crop_onion_stage3_0_timer_0.png",
         "OriginX": 16,
@@ -5752,6 +6328,15 @@
     },
     "spr_crop_onion_stage3_timer_9": {
         "Location": "images/spr_crop_onion_stage3/spr_crop_onion_stage3_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
+    "spr_crop_onion_stage4_timer_0_red": {
+        "Location": "images/spr_crop_onion_stage4/spr_crop_onion_stage4_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 24,
         "MarginLeft": 8,
@@ -5849,6 +6434,15 @@
         "MarginBottom": 32,
         "MarginTop": 8
     },
+    "spr_crop_peas_seed_timer_0_red": {
+        "Location": "images/spr_crop_peas_seed/spr_crop_peas_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_peas_seed_timer_0": {
         "Location": "images/spr_crop_peas_seed/spr_crop_peas_seed_0_timer_0.png",
         "OriginX": 16,
@@ -5932,6 +6526,15 @@
     },
     "spr_crop_peas_seed_timer_9": {
         "Location": "images/spr_crop_peas_seed/spr_crop_peas_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_peas_stage1_timer_0_red": {
+        "Location": "images/spr_crop_peas_stage1/spr_crop_peas_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -6029,6 +6632,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_peas_stage2_timer_0_red": {
+        "Location": "images/spr_crop_peas_stage2/spr_crop_peas_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_peas_stage2_timer_0": {
         "Location": "images/spr_crop_peas_stage2/spr_crop_peas_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -6112,6 +6724,15 @@
     },
     "spr_crop_peas_stage2_timer_9": {
         "Location": "images/spr_crop_peas_stage2/spr_crop_peas_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_peas_stage3_timer_0_red": {
+        "Location": "images/spr_crop_peas_stage3/spr_crop_peas_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -6209,6 +6830,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_peas_stage4_timer_0_red": {
+        "Location": "images/spr_crop_peas_stage4/spr_crop_peas_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_peas_stage4_timer_0": {
         "Location": "images/spr_crop_peas_stage4/spr_crop_peas_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -6292,6 +6922,15 @@
     },
     "spr_crop_peas_stage4_timer_9": {
         "Location": "images/spr_crop_peas_stage4/spr_crop_peas_stage4_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_potato_seed_timer_0_red": {
+        "Location": "images/spr_crop_potato_seed/spr_crop_potato_seed_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -6389,6 +7028,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_potato_stage1_timer_0_red": {
+        "Location": "images/spr_crop_potato_stage1/spr_crop_potato_stage1_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_potato_stage1_timer_0": {
         "Location": "images/spr_crop_potato_stage1/spr_crop_potato_stage1_0_timer_0.png",
         "OriginX": 16,
@@ -6472,6 +7120,15 @@
     },
     "spr_crop_potato_stage1_timer_9": {
         "Location": "images/spr_crop_potato_stage1/spr_crop_potato_stage1_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_potato_stage2_timer_0_red": {
+        "Location": "images/spr_crop_potato_stage2/spr_crop_potato_stage2_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -6569,6 +7226,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_potato_stage3_timer_0_red": {
+        "Location": "images/spr_crop_potato_stage3/spr_crop_potato_stage3_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_potato_stage3_timer_0": {
         "Location": "images/spr_crop_potato_stage3/spr_crop_potato_stage3_0_timer_0.png",
         "OriginX": 16,
@@ -6652,6 +7318,15 @@
     },
     "spr_crop_potato_stage3_timer_9": {
         "Location": "images/spr_crop_potato_stage3/spr_crop_potato_stage3_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_potato_stage4_timer_0_red": {
+        "Location": "images/spr_crop_potato_stage4/spr_crop_potato_stage4_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -6749,6 +7424,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_pumpkin_seed_timer_0_red": {
+        "Location": "images/spr_crop_pumpkin_seed/spr_crop_pumpkin_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_pumpkin_seed_timer_0": {
         "Location": "images/spr_crop_pumpkin_seed/spr_crop_pumpkin_seed_0_timer_0.png",
         "OriginX": 16,
@@ -6832,6 +7516,15 @@
     },
     "spr_crop_pumpkin_seed_timer_9": {
         "Location": "images/spr_crop_pumpkin_seed/spr_crop_pumpkin_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_pumpkin_stage1_timer_0_red": {
+        "Location": "images/spr_crop_pumpkin_stage1/spr_crop_pumpkin_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -6929,6 +7622,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_pumpkin_stage2_timer_0_red": {
+        "Location": "images/spr_crop_pumpkin_stage2/spr_crop_pumpkin_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_pumpkin_stage2_timer_0": {
         "Location": "images/spr_crop_pumpkin_stage2/spr_crop_pumpkin_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -7012,6 +7714,15 @@
     },
     "spr_crop_pumpkin_stage2_timer_9": {
         "Location": "images/spr_crop_pumpkin_stage2/spr_crop_pumpkin_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_pumpkin_stage3_timer_0_red": {
+        "Location": "images/spr_crop_pumpkin_stage3/spr_crop_pumpkin_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -7109,6 +7820,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_pumpkin_stage4_timer_0_red": {
+        "Location": "images/spr_crop_pumpkin_stage4/spr_crop_pumpkin_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_pumpkin_stage4_timer_0": {
         "Location": "images/spr_crop_pumpkin_stage4/spr_crop_pumpkin_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -7199,6 +7919,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_rice_seed_timer_0_red": {
+        "Location": "images/spr_crop_rice_seed/spr_crop_rice_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
     "spr_crop_rice_seed_timer_0": {
         "Location": "images/spr_crop_rice_seed/spr_crop_rice_seed_0_timer_0.png",
         "OriginX": 16,
@@ -7282,6 +8011,15 @@
     },
     "spr_crop_rice_seed_timer_9": {
         "Location": "images/spr_crop_rice_seed/spr_crop_rice_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
+    "spr_crop_rice_stage1_timer_0_red": {
+        "Location": "images/spr_crop_rice_stage1/spr_crop_rice_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 24,
         "MarginLeft": 8,
@@ -7379,6 +8117,15 @@
         "MarginBottom": 32,
         "MarginTop": 8
     },
+    "spr_crop_rice_stage2_timer_0_red": {
+        "Location": "images/spr_crop_rice_stage2/spr_crop_rice_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
     "spr_crop_rice_stage2_timer_0": {
         "Location": "images/spr_crop_rice_stage2/spr_crop_rice_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -7462,6 +8209,15 @@
     },
     "spr_crop_rice_stage2_timer_9": {
         "Location": "images/spr_crop_rice_stage2/spr_crop_rice_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
+    "spr_crop_rice_stage3_timer_0_red": {
+        "Location": "images/spr_crop_rice_stage3/spr_crop_rice_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 24,
         "MarginLeft": 8,
@@ -7559,6 +8315,15 @@
         "MarginBottom": 32,
         "MarginTop": 8
     },
+    "spr_crop_rice_stage4_timer_0_red": {
+        "Location": "images/spr_crop_rice_stage4/spr_crop_rice_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
     "spr_crop_rice_stage4_timer_0": {
         "Location": "images/spr_crop_rice_stage4/spr_crop_rice_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -7642,6 +8407,15 @@
     },
     "spr_crop_rice_stage4_timer_9": {
         "Location": "images/spr_crop_rice_stage4/spr_crop_rice_stage4_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
+    "spr_crop_snow_peas_seed_timer_0_red": {
+        "Location": "images/spr_crop_snow_peas_seed/spr_crop_snow_peas_seed_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 24,
         "MarginLeft": 8,
@@ -7739,6 +8513,15 @@
         "MarginBottom": 32,
         "MarginTop": 8
     },
+    "spr_crop_snow_peas_stage1_timer_0_red": {
+        "Location": "images/spr_crop_snow_peas_stage1/spr_crop_snow_peas_stage1_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
     "spr_crop_snow_peas_stage1_timer_0": {
         "Location": "images/spr_crop_snow_peas_stage1/spr_crop_snow_peas_stage1_0_timer_0.png",
         "OriginX": 16,
@@ -7822,6 +8605,15 @@
     },
     "spr_crop_snow_peas_stage1_timer_9": {
         "Location": "images/spr_crop_snow_peas_stage1/spr_crop_snow_peas_stage1_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
+    "spr_crop_snow_peas_stage2_timer_0_red": {
+        "Location": "images/spr_crop_snow_peas_stage2/spr_crop_snow_peas_stage2_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 24,
         "MarginLeft": 8,
@@ -7919,6 +8711,15 @@
         "MarginBottom": 32,
         "MarginTop": 8
     },
+    "spr_crop_snow_peas_stage3_timer_0_red": {
+        "Location": "images/spr_crop_snow_peas_stage3/spr_crop_snow_peas_stage3_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
     "spr_crop_snow_peas_stage3_timer_0": {
         "Location": "images/spr_crop_snow_peas_stage3/spr_crop_snow_peas_stage3_0_timer_0.png",
         "OriginX": 16,
@@ -8002,6 +8803,15 @@
     },
     "spr_crop_snow_peas_stage3_timer_9": {
         "Location": "images/spr_crop_snow_peas_stage3/spr_crop_snow_peas_stage3_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
+    "spr_crop_snow_peas_stage4_timer_0_red": {
+        "Location": "images/spr_crop_snow_peas_stage4/spr_crop_snow_peas_stage4_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 24,
         "MarginLeft": 8,
@@ -8099,6 +8909,15 @@
         "MarginBottom": 32,
         "MarginTop": 8
     },
+    "spr_crop_strawberry_seed_timer_0_red": {
+        "Location": "images/spr_crop_strawberry_seed/spr_crop_strawberry_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_strawberry_seed_timer_0": {
         "Location": "images/spr_crop_strawberry_seed/spr_crop_strawberry_seed_0_timer_0.png",
         "OriginX": 16,
@@ -8182,6 +9001,15 @@
     },
     "spr_crop_strawberry_seed_timer_9": {
         "Location": "images/spr_crop_strawberry_seed/spr_crop_strawberry_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_strawberry_stage1_timer_0_red": {
+        "Location": "images/spr_crop_strawberry_stage1/spr_crop_strawberry_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -8279,6 +9107,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_strawberry_stage2_timer_0_red": {
+        "Location": "images/spr_crop_strawberry_stage2/spr_crop_strawberry_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_strawberry_stage2_timer_0": {
         "Location": "images/spr_crop_strawberry_stage2/spr_crop_strawberry_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -8362,6 +9199,15 @@
     },
     "spr_crop_strawberry_stage2_timer_9": {
         "Location": "images/spr_crop_strawberry_stage2/spr_crop_strawberry_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_strawberry_stage3_timer_0_red": {
+        "Location": "images/spr_crop_strawberry_stage3/spr_crop_strawberry_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -8459,6 +9305,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_strawberry_stage4_timer_0_red": {
+        "Location": "images/spr_crop_strawberry_stage4/spr_crop_strawberry_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_strawberry_stage4_timer_0": {
         "Location": "images/spr_crop_strawberry_stage4/spr_crop_strawberry_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -8542,6 +9397,15 @@
     },
     "spr_crop_strawberry_stage4_timer_9": {
         "Location": "images/spr_crop_strawberry_stage4/spr_crop_strawberry_stage4_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_sugar_cane_seed_timer_0_red": {
+        "Location": "images/spr_crop_sugar_cane_seed/spr_crop_sugar_cane_seed_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -8639,6 +9503,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_sugar_cane_stage1_timer_0_red": {
+        "Location": "images/spr_crop_sugar_cane_stage1/spr_crop_sugar_cane_stage1_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_sugar_cane_stage1_timer_0": {
         "Location": "images/spr_crop_sugar_cane_stage1/spr_crop_sugar_cane_stage1_0_timer_0.png",
         "OriginX": 16,
@@ -8722,6 +9595,15 @@
     },
     "spr_crop_sugar_cane_stage1_timer_9": {
         "Location": "images/spr_crop_sugar_cane_stage1/spr_crop_sugar_cane_stage1_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_sugar_cane_stage2_timer_0_red": {
+        "Location": "images/spr_crop_sugar_cane_stage2/spr_crop_sugar_cane_stage2_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -8819,6 +9701,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_sugar_cane_stage3_timer_0_red": {
+        "Location": "images/spr_crop_sugar_cane_stage3/spr_crop_sugar_cane_stage3_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_sugar_cane_stage3_timer_0": {
         "Location": "images/spr_crop_sugar_cane_stage3/spr_crop_sugar_cane_stage3_0_timer_0.png",
         "OriginX": 16,
@@ -8902,6 +9793,15 @@
     },
     "spr_crop_sugar_cane_stage3_timer_9": {
         "Location": "images/spr_crop_sugar_cane_stage3/spr_crop_sugar_cane_stage3_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_sugar_cane_stage4_timer_0_red": {
+        "Location": "images/spr_crop_sugar_cane_stage4/spr_crop_sugar_cane_stage4_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -8999,6 +9899,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_sweet_potato_seed_timer_0_red": {
+        "Location": "images/spr_crop_sweet_potato_seed/spr_crop_sweet_potato_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_sweet_potato_seed_timer_0": {
         "Location": "images/spr_crop_sweet_potato_seed/spr_crop_sweet_potato_seed_0_timer_0.png",
         "OriginX": 16,
@@ -9082,6 +9991,15 @@
     },
     "spr_crop_sweet_potato_seed_timer_9": {
         "Location": "images/spr_crop_sweet_potato_seed/spr_crop_sweet_potato_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_sweet_potato_stage1_timer_0_red": {
+        "Location": "images/spr_crop_sweet_potato_stage1/spr_crop_sweet_potato_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -9179,6 +10097,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_sweet_potato_stage2_timer_0_red": {
+        "Location": "images/spr_crop_sweet_potato_stage2/spr_crop_sweet_potato_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_sweet_potato_stage2_timer_0": {
         "Location": "images/spr_crop_sweet_potato_stage2/spr_crop_sweet_potato_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -9262,6 +10189,15 @@
     },
     "spr_crop_sweet_potato_stage2_timer_9": {
         "Location": "images/spr_crop_sweet_potato_stage2/spr_crop_sweet_potato_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_sweet_potato_stage3_timer_0_red": {
+        "Location": "images/spr_crop_sweet_potato_stage3/spr_crop_sweet_potato_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -9359,6 +10295,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_sweet_potato_stage4_timer_0_red": {
+        "Location": "images/spr_crop_sweet_potato_stage4/spr_crop_sweet_potato_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_sweet_potato_stage4_timer_0": {
         "Location": "images/spr_crop_sweet_potato_stage4/spr_crop_sweet_potato_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -9449,6 +10394,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_tea_seed_timer_0_red": {
+        "Location": "images/spr_crop_tea_seed/spr_crop_tea_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
     "spr_crop_tea_seed_timer_0": {
         "Location": "images/spr_crop_tea_seed/spr_crop_tea_seed_0_timer_0.png",
         "OriginX": 16,
@@ -9532,6 +10486,15 @@
     },
     "spr_crop_tea_seed_timer_9": {
         "Location": "images/spr_crop_tea_seed/spr_crop_tea_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
+    "spr_crop_tea_stage1_timer_0_red": {
+        "Location": "images/spr_crop_tea_stage1/spr_crop_tea_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 24,
         "MarginLeft": 8,
@@ -9629,6 +10592,15 @@
         "MarginBottom": 32,
         "MarginTop": 8
     },
+    "spr_crop_tea_stage2_timer_0_red": {
+        "Location": "images/spr_crop_tea_stage2/spr_crop_tea_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
     "spr_crop_tea_stage2_timer_0": {
         "Location": "images/spr_crop_tea_stage2/spr_crop_tea_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -9712,6 +10684,15 @@
     },
     "spr_crop_tea_stage2_timer_9": {
         "Location": "images/spr_crop_tea_stage2/spr_crop_tea_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
+    "spr_crop_tea_stage3_timer_0_red": {
+        "Location": "images/spr_crop_tea_stage3/spr_crop_tea_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 24,
         "MarginLeft": 8,
@@ -9809,6 +10790,15 @@
         "MarginBottom": 32,
         "MarginTop": 8
     },
+    "spr_crop_tea_stage4_timer_0_red": {
+        "Location": "images/spr_crop_tea_stage4/spr_crop_tea_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 24,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 32,
+        "MarginTop": 8
+    },
     "spr_crop_tea_stage4_timer_0": {
         "Location": "images/spr_crop_tea_stage4/spr_crop_tea_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -9899,6 +10889,15 @@
         "MarginBottom": 32,
         "MarginTop": 8
     },
+    "spr_crop_tomato_seed_timer_0_red": {
+        "Location": "images/spr_crop_tomato_seed/spr_crop_tomato_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_tomato_seed_timer_0": {
         "Location": "images/spr_crop_tomato_seed/spr_crop_tomato_seed_0_timer_0.png",
         "OriginX": 16,
@@ -9982,6 +10981,15 @@
     },
     "spr_crop_tomato_seed_timer_9": {
         "Location": "images/spr_crop_tomato_seed/spr_crop_tomato_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_tomato_stage1_timer_0_red": {
+        "Location": "images/spr_crop_tomato_stage1/spr_crop_tomato_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -10079,6 +11087,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_tomato_stage2_timer_0_red": {
+        "Location": "images/spr_crop_tomato_stage2/spr_crop_tomato_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_tomato_stage2_timer_0": {
         "Location": "images/spr_crop_tomato_stage2/spr_crop_tomato_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -10162,6 +11179,15 @@
     },
     "spr_crop_tomato_stage2_timer_9": {
         "Location": "images/spr_crop_tomato_stage2/spr_crop_tomato_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_tomato_stage3_timer_0_red": {
+        "Location": "images/spr_crop_tomato_stage3/spr_crop_tomato_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -10259,6 +11285,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_tomato_stage4_timer_0_red": {
+        "Location": "images/spr_crop_tomato_stage4/spr_crop_tomato_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_tomato_stage4_timer_0": {
         "Location": "images/spr_crop_tomato_stage4/spr_crop_tomato_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -10342,6 +11377,15 @@
     },
     "spr_crop_tomato_stage4_timer_9": {
         "Location": "images/spr_crop_tomato_stage4/spr_crop_tomato_stage4_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_turnip_seed_timer_0_red": {
+        "Location": "images/spr_crop_turnip_seed/spr_crop_turnip_seed_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -10439,6 +11483,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_turnip_stage1_timer_0_red": {
+        "Location": "images/spr_crop_turnip_stage1/spr_crop_turnip_stage1_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_turnip_stage1_timer_0": {
         "Location": "images/spr_crop_turnip_stage1/spr_crop_turnip_stage1_0_timer_0.png",
         "OriginX": 16,
@@ -10522,6 +11575,15 @@
     },
     "spr_crop_turnip_stage1_timer_9": {
         "Location": "images/spr_crop_turnip_stage1/spr_crop_turnip_stage1_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_turnip_stage2_timer_0_red": {
+        "Location": "images/spr_crop_turnip_stage2/spr_crop_turnip_stage2_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -10619,6 +11681,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_turnip_stage3_timer_0_red": {
+        "Location": "images/spr_crop_turnip_stage3/spr_crop_turnip_stage3_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_turnip_stage3_timer_0": {
         "Location": "images/spr_crop_turnip_stage3/spr_crop_turnip_stage3_0_timer_0.png",
         "OriginX": 16,
@@ -10702,6 +11773,15 @@
     },
     "spr_crop_turnip_stage3_timer_9": {
         "Location": "images/spr_crop_turnip_stage3/spr_crop_turnip_stage3_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_turnip_stage4_timer_0_red": {
+        "Location": "images/spr_crop_turnip_stage4/spr_crop_turnip_stage4_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -10799,6 +11879,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_watermelon_seed_timer_0_red": {
+        "Location": "images/spr_crop_watermelon_seed/spr_crop_watermelon_seed_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_watermelon_seed_timer_0": {
         "Location": "images/spr_crop_watermelon_seed/spr_crop_watermelon_seed_0_timer_0.png",
         "OriginX": 16,
@@ -10882,6 +11971,15 @@
     },
     "spr_crop_watermelon_seed_timer_9": {
         "Location": "images/spr_crop_watermelon_seed/spr_crop_watermelon_seed_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_watermelon_stage1_timer_0_red": {
+        "Location": "images/spr_crop_watermelon_stage1/spr_crop_watermelon_stage1_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -10979,6 +12077,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_watermelon_stage2_timer_0_red": {
+        "Location": "images/spr_crop_watermelon_stage2/spr_crop_watermelon_stage2_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_watermelon_stage2_timer_0": {
         "Location": "images/spr_crop_watermelon_stage2/spr_crop_watermelon_stage2_0_timer_0.png",
         "OriginX": 16,
@@ -11062,6 +12169,15 @@
     },
     "spr_crop_watermelon_stage2_timer_9": {
         "Location": "images/spr_crop_watermelon_stage2/spr_crop_watermelon_stage2_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_watermelon_stage3_timer_0_red": {
+        "Location": "images/spr_crop_watermelon_stage3/spr_crop_watermelon_stage3_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -11159,6 +12275,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_watermelon_stage4_timer_0_red": {
+        "Location": "images/spr_crop_watermelon_stage4/spr_crop_watermelon_stage4_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_watermelon_stage4_timer_0": {
         "Location": "images/spr_crop_watermelon_stage4/spr_crop_watermelon_stage4_0_timer_0.png",
         "OriginX": 16,
@@ -11242,6 +12367,15 @@
     },
     "spr_crop_watermelon_stage4_timer_9": {
         "Location": "images/spr_crop_watermelon_stage4/spr_crop_watermelon_stage4_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_wheat_seed_timer_0_red": {
+        "Location": "images/spr_crop_wheat_seed/spr_crop_wheat_seed_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -11339,6 +12473,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_wheat_stage1_timer_0_red": {
+        "Location": "images/spr_crop_wheat_stage1/spr_crop_wheat_stage1_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_wheat_stage1_timer_0": {
         "Location": "images/spr_crop_wheat_stage1/spr_crop_wheat_stage1_0_timer_0.png",
         "OriginX": 16,
@@ -11422,6 +12565,15 @@
     },
     "spr_crop_wheat_stage1_timer_9": {
         "Location": "images/spr_crop_wheat_stage1/spr_crop_wheat_stage1_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_wheat_stage2_timer_0_red": {
+        "Location": "images/spr_crop_wheat_stage2/spr_crop_wheat_stage2_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
@@ -11519,6 +12671,15 @@
         "MarginBottom": 40,
         "MarginTop": 16
     },
+    "spr_crop_wheat_stage3_timer_0_red": {
+        "Location": "images/spr_crop_wheat_stage3/spr_crop_wheat_stage3_0_timer_0_red.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
     "spr_crop_wheat_stage3_timer_0": {
         "Location": "images/spr_crop_wheat_stage3/spr_crop_wheat_stage3_0_timer_0.png",
         "OriginX": 16,
@@ -11602,6 +12763,15 @@
     },
     "spr_crop_wheat_stage3_timer_9": {
         "Location": "images/spr_crop_wheat_stage3/spr_crop_wheat_stage3_0_timer_9.png",
+        "OriginX": 16,
+        "OriginY": 32,
+        "MarginLeft": 8,
+        "MarginRight": 24,
+        "MarginBottom": 40,
+        "MarginTop": 16
+    },
+    "spr_crop_wheat_stage4_timer_0_red": {
+        "Location": "images/spr_crop_wheat_stage4/spr_crop_wheat_stage4_0_timer_0_red.png",
         "OriginX": 16,
         "OriginY": 32,
         "MarginLeft": 8,
