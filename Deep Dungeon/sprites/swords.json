@@ -1,0 +1,134 @@
+{
+    "spr_ui_item_tool_copper_sword_disabled": {
+        "Location": "images/swords/spr_ui_item_tool_copper_sword_disabled.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_tool_corrupted_mistril_sword_disabled": {
+        "Location": "images/swords/spr_ui_item_tool_corrupted_mistril_sword_disabled.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_tool_crystal_sword_disabled": {
+        "Location": "images/swords/spr_ui_item_tool_crystal_sword_disabled.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_tool_dragon_forged_sword_disabled": {
+        "Location": "images/swords/spr_ui_item_tool_dragon_forged_sword_disabled.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_tool_gold_sword_disabled": {
+        "Location": "images/swords/spr_ui_item_tool_gold_sword_disabled.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_tool_iron_sword_disabled": {
+        "Location": "images/swords/spr_ui_item_tool_iron_sword_disabled.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_tool_mistril_sword_disabled": {
+        "Location": "images/swords/spr_ui_item_tool_mistril_sword_disabled.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_tool_rusty_sword_disabled": {
+        "Location": "images/swords/spr_ui_item_tool_rusty_sword_disabled.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_tool_scrap_metal_sword_disabled": {
+        "Location": "images/swords/spr_ui_item_tool_scrap_metal_sword_disabled.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_tool_silver_sword_disabled": {
+        "Location": "images/swords/spr_ui_item_tool_silver_sword_disabled.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_tool_tarnished_gold_sword_disabled": {
+        "Location": "images/swords/spr_ui_item_tool_tarnished_gold_sword_disabled.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    },
+    "spr_ui_item_tool_verdigris_sword_disabled": {
+        "Location": "images/swords/spr_ui_item_tool_verdigris_sword_disabled.png",
+        "OriginX": 9,
+        "OriginY": 9,
+        "MarginLeft": 0,
+        "MarginRight": 18,
+        "MarginBottom": 18,
+        "MarginTop": 0,
+        "IsAnimated": false,
+        "IsUiItem": true
+    }
+}
