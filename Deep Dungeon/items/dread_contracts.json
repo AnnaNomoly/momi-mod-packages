@@ -1,0 +1,162 @@
+{
+    "upper_mines_dread_contract": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Dread Contracts/upper_mines/description",
+        "name": "Items/Mods/Deep Dungeon/Dread Contracts/upper_mines/name",
+        "icon_sprite": "spr_ui_item_upper_mines_dread_contract",
+        "edible": true,
+        "recipe_is_default": true,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 13,
+            "item": "glow_stone_tiny"
+        },
+        {
+            "count": 3,
+            "item": "beast_coin_tiny"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "tide_caverns_dread_contract": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Dread Contracts/tide_caverns/description",
+        "name": "Items/Mods/Deep Dungeon/Dread Contracts/tide_caverns/name",
+        "icon_sprite": "spr_ui_item_tide_caverns_dread_contract",
+        "edible": true,
+        "recipe_is_default": true,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 13,
+            "item": "glow_stone_small"
+        },
+        {
+            "count": 3,
+            "item": "beast_coin_small"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "deep_earth_dread_contract": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Dread Contracts/deep_earth/description",
+        "name": "Items/Mods/Deep Dungeon/Dread Contracts/deep_earth/name",
+        "icon_sprite": "spr_ui_item_deep_earth_dread_contract",
+        "edible": true,
+        "recipe_is_default": true,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 13,
+            "item": "glow_stone_medium"
+        },
+        {
+            "count": 3,
+            "item": "beast_coin_medium"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "lava_caves_dread_contract": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Dread Contracts/lava_caves/description",
+        "name": "Items/Mods/Deep Dungeon/Dread Contracts/lava_caves/name",
+        "icon_sprite": "spr_ui_item_lava_caves_dread_contract",
+        "edible": true,
+        "recipe_is_default": true,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 13,
+            "item": "glow_stone_large"
+        },
+        {
+            "count": 3,
+            "item": "beast_coin_large"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    },
+    "ruins_dread_contract": {
+        "overwrites_other_mod": false,
+        "description": "Items/Mods/Deep Dungeon/Dread Contracts/ruins/description",
+        "name": "Items/Mods/Deep Dungeon/Dread Contracts/ruins/name",
+        "icon_sprite": "spr_ui_item_ruins_dread_contract",
+        "edible": true,
+        "recipe_is_default": true,
+        "crafting_level_requirement": 1,
+        "kitchen_tier_requirement": 1,
+        "recipe": [
+        {
+            "count": 13,
+            "item": "glow_stone_giant"
+        },
+        {
+            "count": 3,
+            "item": "beast_coin_giant"
+        },
+        {
+            "hours": 0,
+            "minutes": 10
+        }
+        ],
+        "tags": [
+            "food",
+            "misc_pantry"
+        ],
+        "value": {
+            "bin": 0,
+            "store": 1
+        }
+    }
+}
