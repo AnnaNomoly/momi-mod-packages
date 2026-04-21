@@ -1,7 +1,18 @@
 {
   "spr_ui_item_upper_mines_dread_contract": {
-    "Location": "images/keys/upper_mines/spr_ui_item_upper_mines_dread_contract.png",
-    "OutlineLocation": "images/keys/upper_mines/spr_ui_item_upper_mines_dread_contract_outline.png",
+    "Location": "images/dread_contracts/upper_mines/spr_ui_item_upper_mines_dread_contract.png",
+    "OutlineLocation": "images/dread_contracts/upper_mines/spr_ui_item_upper_mines_dread_contract_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_upper_mines_dread_contract_disabled": {
+    "Location": "images/dread_contracts/upper_mines/spr_ui_item_upper_mines_dread_contract_disabled.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -12,8 +23,19 @@
     "IsUiItem": true
   },
   "spr_ui_item_tide_caverns_dread_contract": {
-    "Location": "images/keys/tide_caverns/spr_ui_item_tide_caverns_dread_contract.png",
-    "OutlineLocation": "images/keys/tide_caverns/spr_ui_item_tide_caverns_dread_contract_outline.png",
+    "Location": "images/dread_contracts/tide_caverns/spr_ui_item_tide_caverns_dread_contract.png",
+    "OutlineLocation": "images/dread_contracts/tide_caverns/spr_ui_item_tide_caverns_dread_contract_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_tide_caverns_dread_contract_disabled": {
+    "Location": "images/dread_contracts/tide_caverns/spr_ui_item_tide_caverns_dread_contract_disabled.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -24,8 +46,19 @@
     "IsUiItem": true
   },
   "spr_ui_item_deep_earth_dread_contract": {
-    "Location": "images/keys/deep_earth/spr_ui_item_deep_earth_dread_contract.png",
-    "OutlineLocation": "images/keys/deep_earth/spr_ui_item_deep_earth_dread_contract_outline.png",
+    "Location": "images/dread_contracts/deep_earth/spr_ui_item_deep_earth_dread_contract.png",
+    "OutlineLocation": "images/dread_contracts/deep_earth/spr_ui_item_deep_earth_dread_contract_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_deep_earth_dread_contract_disabled": {
+    "Location": "images/dread_contracts/deep_earth/spr_ui_item_deep_earth_dread_contract_disabled.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -36,8 +69,19 @@
     "IsUiItem": true
   },
   "spr_ui_item_lava_caves_dread_contract": {
-    "Location": "images/keys/lava_caves/spr_ui_item_lava_caves_dread_contract.png",
-    "OutlineLocation": "images/keys/lava_caves/spr_ui_item_lava_caves_dread_contract_outline.png",
+    "Location": "images/dread_contracts/lava_caves/spr_ui_item_lava_caves_dread_contract.png",
+    "OutlineLocation": "images/dread_contracts/lava_caves/spr_ui_item_lava_caves_dread_contract_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_lava_caves_dread_contract_disabled": {
+    "Location": "images/dread_contracts/lava_caves/spr_ui_item_lava_caves_dread_contract_disabled.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,
@@ -48,8 +92,19 @@
     "IsUiItem": true
   },
   "spr_ui_item_ruins_dread_contract": {
-    "Location": "images/keys/ruins/spr_ui_item_ruins_dread_contract.png",
-    "OutlineLocation": "images/keys/ruins/spr_ui_item_ruins_dread_contract_outline.png",
+    "Location": "images/dread_contracts/ruins/spr_ui_item_ruins_dread_contract.png",
+    "OutlineLocation": "images/dread_contracts/ruins/spr_ui_item_ruins_dread_contract_outline.png",
+    "OriginX": 9,
+    "OriginY": 9,
+    "MarginLeft": 0,
+    "MarginRight": 18,
+    "MarginBottom": 18,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": true
+  },
+  "spr_ui_item_ruins_dread_contract_disabled": {
+    "Location": "images/dread_contracts/ruins/spr_ui_item_ruins_dread_contract_disabled.png",
     "OriginX": 9,
     "OriginY": 9,
     "MarginLeft": 0,

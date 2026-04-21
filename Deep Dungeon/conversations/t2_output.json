@@ -1013,5 +1013,219 @@
         ],
         "can_talk_after": true,
         "priority": "Basement"
-    }
+    },
+    "Conversations/Mods/Deep Dungeon/challenge_mode": {
+        "kind": "GameplayTriggered",
+        "requires": [],
+        "writes": [],
+        "actions": [],
+        "lines": {
+            "init": {
+                "local": "Conversations/Mods/Deep Dungeon/challenge_mode/init",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "next_lines",
+                    "content": [
+                        {
+                            "line_id": "1",
+                            "requirements": []
+                        }
+                    ]
+                }
+            },
+            "1": {
+                "local": "Conversations/Mods/Deep Dungeon/challenge_mode/init/1",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "next_lines",
+                    "content": [
+                        {
+                            "line_id": "2",
+                            "requirements": []
+                        }
+                    ]
+                }
+            },
+            "2": {
+                "local": "Conversations/Mods/Deep Dungeon/challenge_mode/init/2",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "next_lines",
+                    "content": [
+                        {
+                            "line_id": "3",
+                            "requirements": []
+                        }
+                    ]
+                }
+            },
+            "3": {
+                "local": "Conversations/Mods/Deep Dungeon/challenge_mode/init/3",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "next_lines",
+                    "content": [
+                        {
+                            "line_id": "4",
+                            "requirements": []
+                        }
+                    ]
+                }
+            },
+            "4": {
+                "local": "Conversations/Mods/Deep Dungeon/challenge_mode/init/4",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "next_lines",
+                    "content": [
+                        {
+                            "line_id": "5",
+                            "requirements": []
+                        }
+                    ]
+                }
+            },
+            "5": {
+                "local": "Conversations/Mods/Deep Dungeon/challenge_mode/init/5",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "next_lines",
+                    "content": [
+                        {
+                            "line_id": "6",
+                            "requirements": []
+                        }
+                    ]
+                }
+            },
+            "6": {
+                "local": "Conversations/Mods/Deep Dungeon/challenge_mode/init/6",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "next_lines",
+                    "content": [
+                        {
+                            "line_id": "7",
+                            "requirements": []
+                        }
+                    ]
+                }
+            },
+            "7": {
+                "local": "Conversations/Mods/Deep Dungeon/challenge_mode/init/7",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "next_lines",
+                    "content": [
+                        {
+                            "line_id": "8",
+                            "requirements": []
+                        }
+                    ]
+                }
+            },
+            "8": {
+                "local": "Conversations/Mods/Deep Dungeon/challenge_mode/init/8",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "prompts",
+                    "content": [
+                        {
+                            "local": "Conversations/Mods/Deep Dungeon/challenge_mode/init/prompts/0",
+                            "next_lines": [
+                                {
+                                    "line_id": "start",
+                                    "requirements": []
+                                }
+                            ]
+                        },
+                        {
+                            "local": "Conversations/Mods/Deep Dungeon/challenge_mode/init/prompts/1",
+                            "next_lines": [
+                                {
+                                    "line_id": "cancel",
+                                    "requirements": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "start": {
+                "local": "Conversations/Mods/Deep Dungeon/challenge_mode/start",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+            "cancel": {
+                "local": "Conversations/Mods/Deep Dungeon/challenge_mode/cancel",
+                "writes": [],
+                "actions": [
+                    {
+                        "type": "no_speaker"
+                    }
+                ],
+                "next_line_behavior": {
+                    "type": "finish"
+                }
+            },
+        },
+        "multiple_speakers_in_conversation": false,
+        "speakers_in_conversation": [
+            "seridia"
+        ],
+        "can_talk_after": true,
+        "priority": "Basement"
+    },
 }

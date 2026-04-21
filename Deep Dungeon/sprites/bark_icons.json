@@ -20,5 +20,27 @@
     "MarginTop": 0,
     "IsAnimated": false,
     "IsUiItem": false
+  },
+  "spr_ui_bark_icon_fishing_copy": {
+    "Location": "images/bark_icons/spr_ui_bark_icon_fishing.png",
+    "OriginX": 12,
+    "OriginY": 12,
+    "MarginLeft": 0,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": false
+  },
+  "spr_ui_bark_icon_luring_trap": {
+    "Location": "images/bark_icons/spr_ui_bark_icon_luring_trap.png",
+    "OriginX": 12,
+    "OriginY": 12,
+    "MarginLeft": 0,
+    "MarginRight": 24,
+    "MarginBottom": 24,
+    "MarginTop": 0,
+    "IsAnimated": false,
+    "IsUiItem": false
   }
 }
