@@ -119,7 +119,7 @@
     "MarginTop": 0,
     "IsAnimated": false
   },
-  "spr_forage_dill_stage4": {
+  "spr_forage_dill_stage4_donatable": {
     "Location": "images/forage/spr_forage_dill_stage4_0.png",
     "OriginX": 16,
     "OriginY": 16,
